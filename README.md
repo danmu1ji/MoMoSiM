@@ -17,6 +17,42 @@ DanmuTalk is a local-first character chat player. Load a world package, choose a
 - **English and Korean interface** — Switch the app UI language without changing the world package.
 - **Local-first storage** — Chat history and credentials stay on the user's device.
 
+## Screenshots
+
+These screenshots use the fictional **Echo World** demo and its placeholder artwork. Chat replies were produced by a local mock provider; the images contain no Blue Archive artwork or recordings. The voice image shows the optional TTS controls, not a generated voice sample.
+
+**Character roster**
+
+![Fictional character roster with placeholder portraits](docs/images/01-roster.png)
+
+**Model selection**
+
+![Searching and selecting a chat model](docs/images/02-model-search.png)
+
+**Conversation and voice settings**
+
+![Provider, system instruction, and voice settings](docs/images/02-settings-provider.png)
+
+**Local TTS options**
+
+![VoxCPM2 voice model details and controls](docs/images/03-voice-settings.png)
+
+**Timeline selection**
+
+![Choosing a fictional story timeline before chatting](docs/images/04-timeline-selection.png)
+
+**Group setup**
+
+![Selecting fictional characters for a group conversation](docs/images/07-group-setup.png)
+
+**Direct conversation**
+
+![Fictional character replying in a direct chat](docs/images/06-direct-chat.png)
+
+**Group conversation**
+
+![Two fictional characters replying in a group chat](docs/images/08-group-chat.png)
+
 ## Run from source
 
 Requirements: Node.js 22 or newer and pnpm 9.
