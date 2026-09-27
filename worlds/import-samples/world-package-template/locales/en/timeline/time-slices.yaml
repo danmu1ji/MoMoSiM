@@ -1,0 +1,4 @@
+timeSlices:
+- id: time:sample
+  label: Sample timeline point
+  position: 0

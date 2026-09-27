@@ -1,0 +1,35 @@
+{
+  "name": "world-player",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "tsc -b",
+    "test": "vitest run",
+    "dev": "vite --host 0.0.0.0",
+    "validate": "tsx tools/validator.ts worlds/examples/echo-world",
+    "typecheck": "tsc -b --pretty false",
+    "check:package": "tsx tools/checks/package-check.ts",
+    "check:story": "tsx tools/checks/story-coverage.ts worlds/examples/echo-world",
+    "check:placeholder": "tsx tools/checks/placeholder-leak.ts",
+    "serve": "node tools/serve.mjs",
+    "serve:build": "pnpm build && pnpm --filter @world-player/desktop build && node tools/serve.mjs"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2",
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "latest",
+    "fflate": "^0.8.2",
+    "js-yaml": "^4.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tsx": "latest",
+    "typescript": "^5.7.0",
+    "vite": "latest",
+    "vitest": "latest",
+    "yaml": "^2.7.0"
+  }
+}

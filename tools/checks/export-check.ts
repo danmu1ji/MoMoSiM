@@ -1,0 +1,13 @@
+import { createWorldDraft, setDocument, setKnowledgeRule, upsertEntity, exportWorldPackage, validateWorld } from '../../packages/engine/src/index.ts';
+import { unzipSync, strFromU8 } from 'fflate';
+const data = createWorldDraft('편집된 세계관','요약');
+upsertEntity(data,{id:'location:harbor',type:'location',name:'항구',tags:[],relations:[]},'항구는 [[character:guide]] 가 지킨다.');
+setDocument(data,'characters/guide/character.md','# 안내자\n\n바다를 안다.');
+setKnowledgeRule(data,'character:guide',{target:'location:harbor',access:'public',condition:{timeSlice:'beginning'}});
+const files = unzipSync(exportWorldPackage(data));
+console.log('entries:', Object.keys(files).sort());
+console.log('entry-file-is-manifest-entry:', 'world.yaml' in files, data.manifest.entry);
+console.log('edited-markdown:', strFromU8(files['characters/guide/character.md']).replace(/\n/g,'\\n'));
+console.log('harbor-doc:', strFromU8(files['entities/location-harbor.md']));
+console.log('entities-yaml-has-fog:', strFromU8(files['index/entities.yaml']).includes('location:harbor'));
+console.log('validation-errors:', validateWorld(data).filter(i=>i.level==='error').length);

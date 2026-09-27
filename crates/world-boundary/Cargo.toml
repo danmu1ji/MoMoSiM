@@ -1,0 +1,9 @@
+[package]
+name = "world-boundary"
+version = "0.1.0"
+edition = "2021"
+description = "Fog/Time-Slice permissioned search boundary for World Player (no Tauri dependency, unit-testable)"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+rusqlite = { version = "0.32", features = ["bundled"] }

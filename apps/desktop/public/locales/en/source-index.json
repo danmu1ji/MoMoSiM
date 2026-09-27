@@ -1,0 +1,3505 @@
+{
+  "language": "en",
+  "entities": {
+    "character:airi": {
+      "name": "Airi",
+      "summary": "Enrolled at Trinity Integrated Academy, Airi is a member of the After School Sweets Club. She has an easygoing personality and treasures spending time talking with her friends while eating sweets more than enything else. She loves ice cream and has recently developed a taste for mint chocolate.",
+      "school": "Trinity",
+      "club": "After-School Sweets Club",
+      "source": "https://bluearchive.wiki/wiki/Airi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kurimura_Airi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "155368"
+      }
+    },
+    "character:akane": {
+      "name": "Akane",
+      "summary": "An agent of Millennium's secret society \"C&C\". Having a callsign of Zero-three, she is an essential member of C&C specializing in \"cleaning up\". Akane has earned her nickname of \"Master Cleaner\" for her ability to infiltrate enemy lines with a deceivingly tender impression and gracefully yet explosively \"clean out\" the enemy.",
+      "school": "Millennium",
+      "club": "Cleaning & Clearing",
+      "source": "https://bluearchive.wiki/wiki/Akane",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Murokasa_Akane",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "161780"
+      }
+    },
+    "character:akari": {
+      "name": "Akari",
+      "summary": "Enrolled in Gehenna Academy, Akari is a member of the Gourmet Research Society. People may think she is just a quiet young girl, but she is actually the long-reigning champion food fighter of the Kivotos Eating Tournament. While fundamentally a calm and good-natured girl, like a true Gehenna student she is occasionally willing to cause great trouble for others.",
+      "school": "Gehenna",
+      "club": "Gourmet Research Society",
+      "source": "https://bluearchive.wiki/wiki/Akari",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Wanibuchi_Akari",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "161741"
+      }
+    },
+    "character:akira": {
+      "name": "Akira",
+      "summary": "One of the Seven Prisoners, Akira is known as Benevolent Thief for stealing anything and everything her heart desires.",
+      "school": "Wildhunt",
+      "club": "Seven Prisoners",
+      "source": "https://bluearchive.wiki/wiki/Akira",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kiyosumi_Akira",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "157282"
+      }
+    },
+    "character:ako": {
+      "name": "Ako",
+      "summary": "A student of Gehenna Academy, Ako is the executive officer of the Disciplinary Committee, and a sort-of secretary to its president Hina. At first glance she may appear kind and good-natured, but Ako has zero tolerance for students who break the rules. She is constantly at Hina's side, assisting in her duties as president of the Disciplinary Committee. This has prompted other students to call her \"Hina's Pet\" amongst other things, but Ako doesn't particulary care.",
+      "school": "Gehenna",
+      "club": "Prefect Team",
+      "source": "https://bluearchive.wiki/wiki/Ako",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Amau_Ako",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165896"
+      }
+    },
+    "character:ami": {
+      "name": "Ami",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Island.",
+      "school": "Odyssey",
+      "club": "Island",
+      "source": "https://bluearchive.wiki/wiki/Ami",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Tomoshita_Ami",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "source-section-empty",
+        "accessDate": "2026-09-26",
+        "revision": "165228"
+      }
+    },
+    "character:aoba": {
+      "name": "Aoba",
+      "summary": "An engineer in the Freight Logistics Department at Highlander Railway Academy. Although she is shy and easily scared, Aoba also has a side to her that casually makes piercing sarcastic remarks. Perhaps because she speaks in a hushed voice, it can be a little difficult to tell whether the words she speaks are insulting or not. She is always busy with hard work and often feels unfairly treated, and harbors a strong dissatisfaction with the world.",
+      "school": "Highlander",
+      "club": "Freight Logistics Department",
+      "source": "https://bluearchive.wiki/wiki/Aoba",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Utsumi_Aoba",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165815"
+      }
+    },
+    "character:arisu": {
+      "name": "Arisu",
+      "summary": "Student of Millennium and member of the Game development club. She was found sleeping inside some ruins. Everything about her is unknown, including her age. Currently, she enjoys playing videogames with Momoi, Midori and Yuzu and has become a serious game maniac. Because she picks up lines from retro games, her speech tends to be hesitant and unnatural.",
+      "school": "Millennium",
+      "club": "Game Development Club",
+      "source": "https://bluearchive.wiki/wiki/Arisu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Tendou_Alice",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165142"
+      }
+    },
+    "character:aru": {
+      "name": "Aru",
+      "summary": "Gehenna Academy's self-appointed president of Problem Solver 68, conducts all sorts of illegal business as she pleases. While Aru considers herself to be a cool outlaw, she often falls out of character and thus any appearance disparities are easily revealed.",
+      "school": "Gehenna",
+      "club": "Problem Solver 68",
+      "source": "https://bluearchive.wiki/wiki/Aru",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Rikuhachima_Aru",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165401"
+      }
+    },
+    "character:asuna": {
+      "name": "Asuna",
+      "summary": "An agent of Millennium's secret agency \"C&C\". With a callsign of Zero-one, Asuna is a veteran who has frequently overcome many difficulties with brute intuition. On missions, she's very openly trusting of people and breaks any sense of doubt or uncertainty. Her actions are hard to understand but never fail to produce results in the end.",
+      "school": "Millennium",
+      "club": "Cleaning & Clearing",
+      "source": "https://bluearchive.wiki/wiki/Asuna",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Ichinose_Asuna",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165175"
+      }
+    },
+    "character:atsuko": {
+      "name": "Atsuko",
+      "summary": "A mysterious Arius Squad girl who belongs to the Arius Branch School and always wears a gas mask. While Atsuko doesn't use the gas mask expressly for the purpose of hiding her face, she lives mostly wearing the mask, except when eating or sleeping. She is called \"princess\" by the squad leader Saori, but her background is a mystery as Atsuko doesn't share much about herself.",
+      "school": "Arius",
+      "club": "Arius Squad",
+      "source": "https://bluearchive.wiki/wiki/Atsuko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hakari_Atsuko",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "162674"
+      }
+    },
+    "character:ayame": {
+      "name": "Ayame",
+      "summary": "Listed in the official English wiki as a student of Hyakkiyako affiliated with Hyakkaryouran.",
+      "school": "Hyakkiyako",
+      "club": "Hyakkaryouran",
+      "source": "https://bluearchive.wiki/wiki/Ayame",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Nanakado_Ayame",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "155703"
+      }
+    },
+    "character:ayane": {
+      "name": "Ayane",
+      "summary": "The diligent secretary of the Abydos Foreclosure Task Force. A hard-working stickler for rules and regulations, she does her best to contribute to the revitalization of Abydos High School.",
+      "school": "Abydos",
+      "club": "Foreclosure Task Force",
+      "source": "https://bluearchive.wiki/wiki/Ayane",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Okusora_Ayane",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "166161"
+      }
+    },
+    "character:azami": {
+      "name": "Azami",
+      "summary": "Listed in the official English wiki as a student of Hyakkiyako affiliated with Nature's Beauty.",
+      "school": "Hyakkiyako",
+      "club": "Nature's Beauty",
+      "source": "https://bluearchive.wiki/wiki/Azami",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Habu_Azami",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165188"
+      }
+    },
+    "character:azusa": {
+      "name": "Azusa",
+      "summary": "The ice witch of Trinity's Supplemental Lessons Club. For various reasons, she had dropped out of school and re-enrolled at Trinity. One to mainly keep to herself, she tends to voluntarily distance herself from others so as to not be a bother. This has led to others in the Supplemental Lessons club worrying for her.",
+      "school": "Trinity",
+      "club": "Make-Up Work Club",
+      "source": "https://bluearchive.wiki/wiki/Azusa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Shirasu_Azusa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "161609"
+      }
+    },
+    "character:cherino": {
+      "name": "Cherino",
+      "summary": "Cherino is the tyrannical and childlike student council president of Red Winter. She has an extremely strong desire for power - despite being overthrown in a revolution almost every week, Cherino somehow keeps returning to the seat of student council president. According to Cherino, her fake moustache is a \"symbol of influence\" that \"radiates authority\".",
+      "school": "Red Winter",
+      "club": "Red Winter Secretariat",
+      "source": "https://bluearchive.wiki/wiki/Cherino",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Renkawa_Cherino",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "158744"
+      }
+    },
+    "character:chiaki": {
+      "name": "Chiaki",
+      "summary": "Chiaki is a member of Gehenna Academy's \"Pandemonium Society\" council and its secretary. A girl with a bright and cheerful personality. She publishes the \"Pandemonium Society Weekly\" newspaper as a hobby. Chiaki constantly writes articles in an effort spread the word about Ibuki's cuteness to as many students as possible.",
+      "school": "Gehenna",
+      "club": "Pandemonium Society",
+      "source": "https://bluearchive.wiki/wiki/Chiaki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Motomiya_Chiaki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165785"
+      }
+    },
+    "character:chihiro": {
+      "name": "Chihiro",
+      "summary": "The deputy director of the hacker group Veritas; member of the Millennium Science School. Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the moral compass of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about \"proper hacker ethics\" to the club members, she is also willing to put in greyhat work when necessary.",
+      "school": "Millennium",
+      "club": "Veritas",
+      "source": "https://bluearchive.wiki/wiki/Chihiro",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kagami_Chihiro",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165152"
+      }
+    },
+    "character:chinatsu": {
+      "name": "Chinatsu",
+      "summary": "Enrolled at Gehenna Academy, Chinatsu is in charge of first aid at the Public Morals Committee. Committed to observing the rules and the proper procedures, Chinatsu is one of the few sensible members of the Public Morals Committee, and it falls on her to keep Ako and Iori in check when they get out of control. Her formal way of speaking tends to give the impression of being cold and distant, \"typical of a member of the Public Morals Committee\". However, she's really a kind girl who completely softens up when in front of cute animals.",
+      "school": "Gehenna",
+      "club": "Prefect Team",
+      "source": "https://bluearchive.wiki/wiki/Chinatsu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hinomiya_Chinatsu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165860"
+      }
+    },
+    "character:chise": {
+      "name": "Chise",
+      "summary": "Chise is a naturally-airheaded girl belonging to the Yin-Yang club of Hyakkiyako. She joined the Yin-Yang club due to her interest in traditional cultural elements such as haiku. Exuding a mysterious atmosphere from her appearance and gestures, she is the envy of other Hyakkiyako students. However, she is not aware of this fact herself.",
+      "school": "Hyakkiyako",
+      "club": "Yin-Yang Club",
+      "source": "https://bluearchive.wiki/wiki/Chise",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Waraku_Chise",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "163387"
+      }
+    },
+    "character:eimi": {
+      "name": "Eimi",
+      "summary": "Enrolled at Millennium Science School, Eimi is a member of the Supernatural Phenomenon Task Force. She's a quiet girl who gives a denpa-like impression. It's hard to know what she's thinking. She can often be seen standing around vacantly for no reason. However, when entrusted with a mission, she is able to execute her objective by moving more efficiently than anyone.",
+      "school": "Millennium",
+      "club": "Super Phenomenon Task Force",
+      "source": "https://bluearchive.wiki/wiki/Eimi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Izumimoto_Eimi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "163677"
+      }
+    },
+    "character:eri": {
+      "name": "Eri",
+      "summary": "A member of the Wildhunt Art Academy and the president of the Occult Research Society, which explores the occult that resides in art. Eri wears a large hat and talks of everything in magical terms. She strongly believes that the power of the occult can improve her grades and artistic ability.",
+      "school": "Wildhunt",
+      "club": "Occult Investigation Society",
+      "source": "https://bluearchive.wiki/wiki/Eri",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Shirao_Eri",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165927"
+      }
+    },
+    "character:erika": {
+      "name": "Erika",
+      "summary": "A kind-hearted high school student attending Gehenna Academy. Although she projects an intellectual and cool image, she is actually sociable and friendly, able to get along with anyone. She often goes around looking for fun things to do with her best friend, Kirara.",
+      "school": "Gehenna",
+      "club": "Twinkle Twinkle Club",
+      "source": "https://bluearchive.wiki/wiki/Erika",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hatami_Erika",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165430"
+      }
+    },
+    "character:fubuki": {
+      "name": "Fubuki",
+      "summary": "A lazy student of the Community Safety Bureau of Valkyrie Police Academy. She enrolled in the Valkyrie Police Academy pursuing the carefree life of a civil servant. Treats any incoming complaints with utter indifference, and enjoys the life of a window-gazer who's not motivated by money nor honor. Her favorite thing to do is to listen to the radio while eating a doughnut.",
+      "school": "Valkyrie",
+      "club": "Public Safety Bureau",
+      "source": "https://bluearchive.wiki/wiki/Fubuki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "148421"
+      }
+    },
+    "character:fuuka": {
+      "name": "Fuuka",
+      "summary": "Belonging to Gehenna Academy's School Lunch Club, Fuuka is in charge of managing the school's cafeteria. Working hard every morning to make a huge number of meals for everyone in the school, her kindness and diligence make her a rarity amongst Gehenna students. While her meals are certainly good, due to the school cafeteria being understaffed, her true culinary skills tend to go undervalued. Nevertheless, she puts in effort day by day to provide tastier meals to everyone.",
+      "school": "Gehenna",
+      "club": "School Lunch Club",
+      "source": "https://bluearchive.wiki/wiki/Fuuka",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Aikiyo_Fuuka",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165174"
+      }
+    },
+    "character:fuyu": {
+      "name": "Fuyu",
+      "summary": "A member of the Wildhunt Art Academy, Fuyu is the sales and technical specialist for unofficial smuggling group, Free Trade Cartel. She serves as the liaison for the Free Trade Cartel, handling requests and negotiating directly with clients. Fuyu seems confident and composed, but facing unexpected situations can leave her shaken and unsure of herself.",
+      "school": "Wildhunt",
+      "club": "Free Trade Cartel",
+      "source": "https://bluearchive.wiki/wiki/Fuyu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Wakasa_Fuyu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "165433"
+      }
+    },
+    "character:hanae": {
+      "name": "Hanae",
+      "summary": "Newly enrolled at Trinity Integrated Academy, Hanae is a lively and cheerful girl who belongs to the Rescue Knights. She has a positive attitude towards everything and is full of energy, but has a tendency to become overexcited when she finds a patient, usually making the situation worse. Despite being quite an eccentric character, strangely enough, patients who have received her care have all recovered right away no matter their illness.",
+      "school": "Trinity",
+      "club": "Rescue Knights",
+      "source": "https://bluearchive.wiki/wiki/Hanae",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hanako": {
+      "name": "Hanako",
+      "summary": "Trinity's Supplemental Lessons Club's paragon of sensitivity. At first glance, Hanako appears graceful and ladylike... Or so one may think. In reality she can be quite the problem child who can't stop speaking of sex. Her club members, aware of this, are often at a sense of unease every time she speaks.",
+      "school": "Trinity",
+      "club": "Make-Up Work Club",
+      "source": "https://bluearchive.wiki/wiki/Hanako",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hare": {
+      "name": "Hare",
+      "summary": "A member of hacker group Veritas of Millennium. Among the many geniuses of Millenium, she is one of the most prominent. Most of the advanced cutting-edge devices in Millennium were created by her. However, despite her ability and achievements, she isn't one to brag. She is kind, friendly with other students and a good listener.",
+      "school": "Millennium",
+      "club": "Veritas",
+      "source": "https://bluearchive.wiki/wiki/Hare",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:haruka": {
+      "name": "Haruka",
+      "summary": "Rank-and-file member of Gehenna Academy's Problem Solver 68. Due to her gloomy personality, she has always been teased, but was able to escape that fate thanks to Aru. Afterwards she has operated in Problem Solver 68 as a role akin to the youngest child in a family. Despite her shyness and little self-esteem, it wouldn't be incorrect in saying she's the scariest among the erratic Problem Solver 68.",
+      "school": "Gehenna",
+      "club": "Problem Solver 68",
+      "source": "https://bluearchive.wiki/wiki/Haruka",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:haruna": {
+      "name": "Haruna",
+      "summary": "Enrolled at Gehenna Academy, Haruna is the club president of the Gourmet Research Society. Upon first look at her, one might think she is a rich princess-like and aloof elegance, but get her involved in talks of food and all sense of distinction is lost in this zealous gourmet. In contrast to such gluttony, she is actually not one with much of an appetite. Favorite foods are greasy, full of hormones, and stew-centric.",
+      "school": "Gehenna",
+      "club": "Gourmet Research Society",
+      "source": "https://bluearchive.wiki/wiki/Haruna",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hasumi": {
+      "name": "Hasumi",
+      "summary": "Enrolled at Trinity Integrated Academy, Hasumi is the Justice Actualization Committee's No. 2. In place of its president, Tsurugi, who embodies wildness, Hasumi also acts as the Justice Actualization Committee's tactical commander. At a glance she appears composed and intellectual, like the archetypal Trinity student. However, Hasumi too is a fully-fledged member of the Justice Actualization Committee, and will sometimes act recklessly while retaining her composed nature.",
+      "school": "Trinity",
+      "club": "Justice Task Force",
+      "source": "https://bluearchive.wiki/wiki/Hasumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hibiki": {
+      "name": "Hibiki",
+      "summary": "Hibiki belongs to the Engineering Club of Millennium Science School. Despite being unsociable and unsophisticated in speech, she exhibits a prominent natural ability in engineering and has invented many marvellous objects. Her inventions are practically without flaws and while it wouldn't be too much to call them masterpieces, they always include at least one bizarre feature that leaves their users bewildered.",
+      "school": "Millennium",
+      "club": "Engineering Department",
+      "source": "https://bluearchive.wiki/wiki/Hibiki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hifumi": {
+      "name": "Hifumi",
+      "summary": "A sensitive girl, Hifumi is a student of Trinity Integrated Academy and a member of the Supplementary Classes Club. Despite her average grades and appearance, Hifumi's gentle and kind personality has gained her popularity. While she will gladly lend an ear to those with problems, she has a tendency to be swept up in the moment and unintentionally cause trouble.",
+      "school": "Trinity",
+      "club": "Make-Up Work Club",
+      "source": "https://bluearchive.wiki/wiki/Hifumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hikari": {
+      "name": "Hikari",
+      "summary": "A student at the Highlander Railway Academy and an officer of the CCC (Central Control Center). She has outstanding talent for driving trains, and was chosen as an officer along with her younger twin sister Nozomi. However, Hikari is terrible at paperwork and administrative tasks. She follows her whims and does things at her own pace without worrying about what others think, which causes all kinds of incidents.",
+      "school": "Highlander",
+      "club": "CCC",
+      "source": "https://bluearchive.wiki/wiki/Hikari",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:himari": {
+      "name": "Himari",
+      "summary": "Enrolled at Millennium Science School, the former director of the hacker group \"Veritas\" and the current director of the Supernatural Phenomenon Task Force. A self-proclaimed super genius and sickly beautiful girl hacker, who is said to be an owner of the \"Omniscience\" degree, something only three people in the history of Millennium could claim. ...it's not entirely clear if that is true or whether such degree even exists. According to Himari, a girl with many secrets is alluring... She is also a leading genius hacker, and at the same time, has a penchant for all things occult.",
+      "school": "Millennium",
+      "club": "Super Phenomenon Task Force",
+      "source": "https://bluearchive.wiki/wiki/Himari",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hina": {
+      "name": "Hina",
+      "summary": "Head prefect of the Gehenna Prefect Team. Somewhat aloof and considers almost everything a bother and chore, but is still every bit the head prefect of the Prefect Team when it comes to rules and regulations. Her general response to most things is \"Ugh, so annoying,\" but she's ruthless and decisive when it comes to matters on the battlefield. Feared and respected by the enemies of Gehenna.",
+      "school": "Gehenna",
+      "club": "Prefect Team",
+      "source": "https://bluearchive.wiki/wiki/Hina",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hinata": {
+      "name": "Hinata",
+      "summary": "Hinata is a serious and earnest Sisterhood member from the Trinity Integrated Academy. She is responsible for the \"management of the cathedral and other items\", a job she performs faithfully every day. However, she is a bit of a dilettante, and often loses confidence after making a series of mistakes. She carries with surprising ease a large suitcase with various items in it, including a grenade launcher.",
+      "school": "Trinity",
+      "club": "The Sisterhood",
+      "source": "https://bluearchive.wiki/wiki/Hinata",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hiyori": {
+      "name": "Hiyori",
+      "summary": "Hiyori is a petulant and melancholic member of the Arius Squad. She has low self-esteem, usually sees things in a negative light and is often self-deprecating when it comes to herself. She is occasionally seen carrying a heavy luggage on her back and following slightly behind everyone else.",
+      "school": "Arius",
+      "club": "Arius Squad",
+      "source": "https://bluearchive.wiki/wiki/Hiyori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:hoshino": {
+      "name": "Hoshino",
+      "summary": "A young, lazy girl from Abydos High School. She's currently the vice president of the Abydos Student Council, and is also the president of the Countermeasure Council. Speaking like an old man, she enjoys playing around more than work. Because of this, she's often the subject of anger from the rest of the council, but once the mission starts she protects the other members by fighting valiantly on the front lines.",
+      "school": "Abydos",
+      "club": "Foreclosure Task Force",
+      "source": "https://bluearchive.wiki/wiki/Hoshino",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:ibuki": {
+      "name": "Ibuki",
+      "summary": "A student from Gehenna Academy, member of the Pandemonium Society, and a mascot-like girl. She was originally a student of Gehenna Academy's elementary school, but Ibuki's ability was recognized and she joined Gehenna's \"Pandemonium Society\", which only the best students can enter. Being the youngest member of the Pandemonium Society, she is loved by everyone for her earnest cuteness. She is a well-behaved girl who works diligently so as not to cause trouble for her seniors.",
+      "school": "Gehenna",
+      "club": "Pandemonium Society",
+      "source": "https://bluearchive.wiki/wiki/Ibuki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:ichika": {
+      "name": "Ichika",
+      "summary": "A member of the Justice Actualization Committee of Trinity Academy, Ichika always has a calm expression on her face. As a member of the Justice Actualization Committee, she is primarily in charge of mediation between students. Ichika maintains coirdial relationships with other schools as well. Her amiable personality should not be mistaken for something innate, it is a conscious result of continuous work.",
+      "school": "Trinity",
+      "club": "Justice Task Force",
+      "source": "https://bluearchive.wiki/wiki/Ichika",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:iori": {
+      "name": "Iori",
+      "summary": "Enrolled in Gehenna Academy, Iori is a ruthless specialist of the Public Morals Committee. As the leader of its assault corps, she punishes students that she finds breaking the rules with overwhelming force. While she may be quick-thinking, good at her job and possessing a decent sense of combat, Iori is also prone to losing sight of her surroundings once she spots an enemy. This recklessness can lead to her falling into even the simplest of traps.",
+      "school": "Gehenna",
+      "club": "Prefect Team",
+      "source": "https://bluearchive.wiki/wiki/Iori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:iroha": {
+      "name": "Iroha",
+      "summary": "One of the members of \"Pandemonium Society\" within Gehenna Academy. She's easily irritable and tries to slack from her duties. Those attempts are repeatedly blocked by fellow Pandemonium members (specifically, Makoto). Pandemonium officer's days are always busy with problems to solve and tasks that have to be done, even if one finds them annoying. Ibuki, Pandemonium Society's mascot, always helps to keep Iroha's spirit up, and so, with a sigh, she continues to carry out her daily duties.",
+      "school": "Gehenna",
+      "club": "Pandemonium Society",
+      "source": "https://bluearchive.wiki/wiki/Iroha",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:izumi": {
+      "name": "Izumi",
+      "summary": "A member of Gehenna Academy's Gourmet Research Society, Izumi is a glutton who will eat anything. As a result of her overwhelming love of food, she has come to enjoy bizarre foods that other would not touch.",
+      "school": "Gehenna",
+      "club": "Gourmet Research Society",
+      "source": "https://bluearchive.wiki/wiki/Izumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:izuna": {
+      "name": "Izuna",
+      "summary": "A member of Ninjutsu Research Club of Hyakkiyako. Her dream is \"to become the greatest Ninja of Kivotos\". Because of pursuing a dream not many people can reason with, Izuna is often seen alone despite her bright and cheerful personality. In her pursuit to become a proper ninja, she continues to refer to Sensei as \"Lord\" while \"escorting\" him (simply tailing Sensei around Kivotos) and devoting herself to various other activities.",
+      "school": "Hyakkiyako",
+      "club": "Ninjutsu Research Department",
+      "source": "https://bluearchive.wiki/wiki/Izuna",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:junko": {
+      "name": "Junko",
+      "summary": "A prim yet gluttonous member of Gehenna Academy's Cuisine Research Society. Differing from her other club members who often overeat everyday food, Junko is one to take part in a certain extent of enjoying reasonable quality cuisine. However she is known to lose her sense of reason when delicious foods are placed in front of her.",
+      "school": "Gehenna",
+      "club": "Gourmet Research Society",
+      "source": "https://bluearchive.wiki/wiki/Junko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:juri": {
+      "name": "Juri",
+      "summary": "A student of Gehenna Academy and member of the School Lunch Club that manages the academy cafeteria. While working alongside Fuuka to prepare meals for fellow students, because her cooking talent is said to exceed catastrophically bad levels, it's hard to say her food provisions are of particular use. However because of encouragement and direction from Fuuka, Juri works hard everyday to make better meals.",
+      "school": "Gehenna",
+      "club": "School Lunch Club",
+      "source": "https://bluearchive.wiki/wiki/Juri",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kaede": {
+      "name": "Kaede",
+      "summary": "A student of Hyakkiyako Alliance Academy, an energetic member of the discipline club. Originally, she was a mischievous child from a rural Hyakkiyako countryside, but the moment she met Tsubaki and Mimori, Kaede decided to join the discipline club saying \"I want to be such a wonderful lady!\". She is studying every day to get closer to her ideals, but most of the training leads to trouble for some reason.",
+      "school": "Hyakkiyako",
+      "club": "Inner Discipline Club",
+      "source": "https://bluearchive.wiki/wiki/Kaede",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kaguya": {
+      "name": "Kaguya",
+      "summary": "Listed in the official English wiki as a student of Shanhaijing affiliated with Peking Opera Club.",
+      "school": "Shanhaijing",
+      "club": "Peking Opera Club",
+      "source": "https://bluearchive.wiki/wiki/Kaguya",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:kaho": {
+      "name": "Kaho",
+      "summary": "Hyakkiyako Alliance Academy Deputy Director of the Yin-Yang club and Lead Strategist of the Cultural Tourism Industry Public Relations Support Department. Kaho loves Hyakkiyako culture more than anyone else and cares deeply about the students who contribute to it. Because of her appearance, some Hyakkiyako students have been known to refer to her as \"Kaho-san, who is more of a department head than that actual department head\". Incidentally, she is also a valued straight man of the Yin-Yang club.",
+      "school": "Hyakkiyako",
+      "club": "Yin-Yang Club",
+      "source": "https://bluearchive.wiki/wiki/Kaho",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kai": {
+      "name": "Kai",
+      "summary": "The former president of the Eastern Alchemy Society, Kai got herself banned from Shanhaijing for spreading illegal drugs and elixirs. She is now one of the Seven Prisoners, known as Monkey of the Senses.",
+      "school": "Shanhaijing",
+      "club": "Seven Prisoners",
+      "source": "https://bluearchive.wiki/wiki/Kai",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kanae": {
+      "name": "Kanae",
+      "summary": "Listed in the official English wiki as a student of Shanhaijing affiliated with Genryumon.",
+      "school": "Shanhaijing",
+      "club": "Genryumon",
+      "source": "https://bluearchive.wiki/wiki/Kanae",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:kanoe": {
+      "name": "Kanoe",
+      "summary": "A member of the Occult Research Society at Wildhunt Art Academy, Kanoe explores the occult that resides in art. Despite being the only third-year student in the Occult Research Society, she is not the president, opting instead to back other members. Rumors circulate that she herself may be an occult being due to her suspicious appearance and behavior.",
+      "school": "Wildhunt",
+      "club": "Occult Investigation Society",
+      "source": "https://bluearchive.wiki/wiki/Kanoe",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:karen": {
+      "name": "Karen",
+      "summary": "Listed in the official English wiki as a student of Gehenna affiliated with Gehenna Revival Force.",
+      "school": "Gehenna",
+      "club": "Gehenna Revival Force",
+      "source": "https://bluearchive.wiki/wiki/Karen",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:karin": {
+      "name": "Karin",
+      "summary": "Agent of the Millennium Science School secret organization \"C&C\". With a call sign of \"Zero-Two\", she provides powerful fire support from the back line. Despite her rough appearance, she is actually the most prudent member of the group, and is constantly struggling to hold back the battle-frenzied Asuna and Akane.",
+      "school": "Millennium",
+      "club": "Cleaning & Clearing",
+      "source": "https://bluearchive.wiki/wiki/Karin",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kasumi": {
+      "name": "Kasumi",
+      "summary": "A student of Gehenna Academy, and manager of its Hot Springs Development Department. Kasumi insists that any land with a natural spring must be developed into a hot spring, and once a suitable location has been found she will do whatever it takes to blast through the ground with complete disregard for the surroundings. Although she enjoys full support from fellow club members, her language and actions are those of a wanted criminal.",
+      "school": "Gehenna",
+      "club": "Hot Springs Department",
+      "source": "https://bluearchive.wiki/wiki/Kasumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kayoko": {
+      "name": "Kayoko",
+      "summary": "Section Chief of Problem Solver 68 and student of Gehenna Academy. Unlike the rest of the group, Kayoko is not one with ill intentions however she's often misunderstood due to her natural facial expression. Normally keeping silent against these misunderstandings, this likely leads to furthering her scary image.",
+      "school": "Gehenna",
+      "club": "Problem Solver 68",
+      "source": "https://bluearchive.wiki/wiki/Kayoko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kazusa": {
+      "name": "Kazusa",
+      "summary": "A member of Trinity Integrated Academy's After School Sweets Club with a laid-back and quiet personality. Preferring to avoid the spotlight, she usually follows along with the other club members. Kazusa is always having a hard time getting caught up in the eccentricities of those around her, but she also cherishes those moments.",
+      "school": "Trinity",
+      "club": "After-School Sweets Club",
+      "source": "https://bluearchive.wiki/wiki/Kazusa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kei": {
+      "name": "Kei",
+      "summary": "Kei has a new body. She doesn't realize it, but she is a little more excited than usual.",
+      "school": "Millennium",
+      "club": "Super Phenomenon Task Force",
+      "source": "https://bluearchive.wiki/wiki/Kei",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kikyou": {
+      "name": "Kikyou",
+      "summary": "Kikyou is a member of the Hyakkiyako Academy and the operational staff member of the Hyakkaryouran Dispute Mediation Committee. She deeply values common sense, logic, and reason. As a staff strategist, she pursues victory, but what she values even more is the safety of her allies. Despite the ruthless impression, she is a kind and caring person.",
+      "school": "Hyakkiyako",
+      "club": "Hyakkaryouran",
+      "source": "https://bluearchive.wiki/wiki/Kikyou",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kirara": {
+      "name": "Kirara",
+      "summary": "Kirara is a high school girl with a bright personality from the Gehenna Academy. She is always on lookout for novelty and excitement. Kirara is extremely sociable and can easily chat up people she'd just met for the first time.",
+      "school": "Gehenna",
+      "club": "Twinkle Twinkle Club",
+      "source": "https://bluearchive.wiki/wiki/Kirara",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kirino": {
+      "name": "Kirino",
+      "summary": "An enthusiastic student belonging to the Community Safety Bureau of Valkyrie Police Academy. Looking up to the police officers who maintain law and order in the city, Kirino enrolled in the Valkyrie Police Academy, but was placed in the Community Safety Bureau due to her fatally poor shooting skills. Nevertheless, she doesn't give up on her dream, and strives everyday to become a police officer who can skilfully suppress criminals.",
+      "school": "Valkyrie",
+      "club": "Public Safety Bureau",
+      "source": "https://bluearchive.wiki/wiki/Kirino",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kisaki": {
+      "name": "Kisaki",
+      "summary": "The president of Genryumon, the student council that oversees everything that happens in Shanhaijing Academy. She gives off an atmosphere that makes her difficult to approach with her elegant yet intimidating style of talking mixed in with her mysterious impression. However, it seems that she actually utilizes that impression of her to help with her duties. Her \"disguised undercover travel,\" which rarely gets noticed by most people, can be quite a scene for those who are aware.",
+      "school": "Shanhaijing",
+      "club": "Genryumon",
+      "source": "https://bluearchive.wiki/wiki/Kisaki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:koharu": {
+      "name": "Koharu",
+      "summary": "Koharu is a member of the Supplemental Lessons Club of Trinity General School. Originally a member of the Justice Actualization Committee, she received failing grades and was in danger of repeating a year, so she was forcefully transferred to the Supplemental Lessons Club. While she may consider herself elite, she is actually rather stupid, so much so in fact that she is completely unable to keep up with her lessons. She has a secret hobby(?) of collecting lewd magazines, and often begins to fantasize about the most trivial things in everyday life, often to her own embarrassment.",
+      "school": "Trinity",
+      "club": "Make-Up Work Club",
+      "source": "https://bluearchive.wiki/wiki/Koharu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kokona": {
+      "name": "Kokona",
+      "summary": "A first-year student of Shanhaijing Senior High School, Kokona works as an instructor in the \"Meihua Yuan\" disciplinary support department. Although young enough to still be attending elementary school, she has been recognized for her excellent learning ability and has been given the authority of an instructor. The students affectionately call her \"Kokona-chan\", but Kokona isn't very happy about that.",
+      "school": "Shanhaijing",
+      "club": "Plum Blossom Garden",
+      "source": "https://bluearchive.wiki/wiki/Kokona",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kokoro": {
+      "name": "Kokoro",
+      "summary": "A student of Odyssey Maritime School and captain of the Diving Club. True to her title, Kokoro is highly skilled at diving. Whenever trouble arises underwater, such as recovering dropped items or repairing cables, the students of Odyssey invariably turn to her for help. However, she is extremely anxious and will not jump into water until she has made absolutely sure all of her equipment is in order.",
+      "school": "Odyssey",
+      "club": "Diving Club",
+      "source": "https://bluearchive.wiki/wiki/Kokoro",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:konoka": {
+      "name": "Konoka",
+      "summary": "A student from Valkyrie Police Academy and the Deputy Director of the Public Peace Bureau. ​Though her appearance sometimes leads people to mistake her for a suspect, she is a highly capable officer. She can trace the psychology and behavior of criminals better than anyone else in the Bureau, though she doesn't seem to be doing it consciously. ​Rumor has it that she is the student who has been promoted the most—and demoted the most—in the history of the Public Peace Bureau.",
+      "school": "Valkyrie",
+      "club": "Public Peace Bureau",
+      "source": "https://bluearchive.wiki/wiki/Konoka",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kotama": {
+      "name": "Kotama",
+      "summary": "A hacker from the hacker group Veritas of Millennium Science School. Her specialty is eavesdropping. She is a strange girl who likes to eavesdrop on people's secret conversations. She's not good at talking to people, to such a degree that she even uses honorifics with younger first graders. In real life she's a shy girl of few words, but on the internet she's quite the talker.",
+      "school": "Millennium",
+      "club": "Veritas",
+      "source": "https://bluearchive.wiki/wiki/Kotama",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kotone": {
+      "name": "Kotone",
+      "summary": "Vice-captain of the Diving Club at Odyssey Maritime School. Kotone has poor eyesight and usually wears strong prescription glasses. While her vision is subpar, her hearing and intuition are exceptional. When visibility is poor underwater, she relies on sounds to lead the club members. Kotone picked up a hobby of communicating via ham radio, which led to her developing connections with students on the land.",
+      "school": "Odyssey",
+      "club": "Diving Club",
+      "source": "https://bluearchive.wiki/wiki/Kotone",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kotori": {
+      "name": "Kotori",
+      "summary": "Enrolled at Millennium Science School, Kotori is a member of the Engineering Club. She loves to talk, and will not stop when telling people about physics and the mechanisms of machinery. Whenever there's machine trouble at Millennium, she'll be the first on the scene to explain the situation.",
+      "school": "Millennium",
+      "club": "Engineering Department",
+      "source": "https://bluearchive.wiki/wiki/Kotori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:koyuki": {
+      "name": "Koyuki",
+      "summary": "Genius girl from the Millennium Science School, Koyuki is a troublemaker member of the \"Seminar\" student council. Koyuki is a prodigy when it comes to analyzing probabilities, although she herself is completely unaware of it. Koyuki likes games of chance, and constantly tries her luck in various ways. Even when she is in trouble, she never gives up.",
+      "school": "Millennium",
+      "club": "Seminar",
+      "source": "https://bluearchive.wiki/wiki/Koyuki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:kurumi": {
+      "name": "Kurumi",
+      "summary": "The pointwoman for the SRT Special Academy's FOX Squad, callsign \"FOX3\". Kurumi possesses excellent physical ability and strong on-site adaptability, specializing in combat as the squad's pointwoman. She has intense emotional swings and a straightforward personality, but those traits have turned to her advantage in countless operations. Though she rarely speaks of it, she harbors a complex about her physique.",
+      "school": "SRT",
+      "club": "FOX Squad",
+      "source": "https://bluearchive.wiki/wiki/Kurumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:maia": {
+      "name": "Maia",
+      "summary": "Listed in the official English wiki as a student of Arius affiliated with Nicomedia Troop.",
+      "school": "Arius",
+      "club": "Nicomedia Troop",
+      "source": "https://bluearchive.wiki/wiki/Maia",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:maki": {
+      "name": "Maki",
+      "summary": "A member of Veritas, a hacker group at Millennium Science School. A mischievous student who enjoys drawing graffiti and designed Veritas' emblem. She has a flighty personality and doesn't take anything seriously, which often sparks conflict with other clubs.",
+      "school": "Millennium",
+      "club": "Veritas",
+      "source": "https://bluearchive.wiki/wiki/Maki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:makoto": {
+      "name": "Makoto",
+      "summary": "Chairman of the Gehenna Academy's Pandemonium Society. Makoto is an ambitious schemer who is willing to follow her desires and do anything to get what she wants. Although her attitude often causes Makoto to suffer and fail, she is a strong-willed girl who quickly recovers. She loves Ibuki like a younger sister, and also treats Iroha like one as well.",
+      "school": "Gehenna",
+      "club": "Pandemonium Society",
+      "source": "https://bluearchive.wiki/wiki/Makoto",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mari": {
+      "name": "Mari",
+      "summary": "A pious and sincere girl, Mari is a member of the Sisterhood of Trinity Integrated Academy. More than just appearing cute at a glance, her calm aura and soft, everlasting smile have charmed the countless students who have called on her for advice. Mari is aware of her own inexperience, and her wish to soon become a fine Sister like her seniors is always on her mind.",
+      "school": "Trinity",
+      "club": "The Sisterhood",
+      "source": "https://bluearchive.wiki/wiki/Mari",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:marina": {
+      "name": "Marina",
+      "summary": "Marina is the chairman of the security committee in charge of maintaining public order at Red Winter Federal Academy. She has a reputation for punishing violators of the school rules without question or mercy. Marina is fond of the word \"charge\" and will repeatedly charge at anything. Always the first to jump into the fray whenever there is a problem in Red Winter, she is certainly faithful to her duties, but she often gets lost as a result of her charges.",
+      "school": "Red Winter",
+      "club": "Red Winter Secretariat",
+      "source": "https://bluearchive.wiki/wiki/Marina",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mashiro": {
+      "name": "Mashiro",
+      "summary": "A student of Trinity General School, and member of the Justice Actualization Committee. Carrying an unwieldly large rifle, Mashiro speechlessly carries out her responsibilities in providing fire support. Normally one of few words and rarely interacting with other people, once talks of justice pick up she becomes quite the conversational partner.",
+      "school": "Trinity",
+      "club": "Justice Task Force",
+      "source": "https://bluearchive.wiki/wiki/Mashiro",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mayumi": {
+      "name": "Mayumi",
+      "summary": "Listed in the official English wiki as a student of Gehenna affiliated with Gehenna Revival Force.",
+      "school": "Gehenna",
+      "club": "Gehenna Revival Force",
+      "source": "https://bluearchive.wiki/wiki/Mayumi",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:megu": {
+      "name": "Megu",
+      "summary": "A student of Gehenna Academy, Megu is at the heart of the Hot Springs Development Department, and a work team leader at the development site. She believes from the bottom of her heart that \"demolition\" is an answer to any problem. Megu is trusted by fellow members of the Hot Springs Development Department for her lively personality and outstanding demolition skills.",
+      "school": "Gehenna",
+      "club": "Hot Springs Department",
+      "source": "https://bluearchive.wiki/wiki/Megu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:meru": {
+      "name": "Meru",
+      "summary": "A student of the Red Winter Federal Academy, and a member of the \"Knowledge Liberation Front\" Library Committee. Unlike Momiji, a fellow Knowledge Liberation Front member, Meru not only enjoys consuming literary works, but also creates them herself. Her pen name is \"Meruri\". Meru's namamono doujins are often inspired by the relationships between students who either seem to be on good terms or especially at odds with with each other. Her works are particularly known outside the school for featuring rivalries between Trinity and Gehenna students.",
+      "school": "Red Winter",
+      "club": "Knowledge Liberation Front",
+      "source": "https://bluearchive.wiki/wiki/Meru",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:michiru": {
+      "name": "Michiru",
+      "summary": "A student of Hyakkiyako Alliance Academy and director of the Ninjutsu Research Department, Michiru is always full of unfounded self-confidence. She is an otaku who loves ninja movies, anime, and goods. Michiru is running around with the members of the Ninjutsu Research Department today to let everyone throughout Kivotos know of the greatness of ninjas.",
+      "school": "Hyakkiyako",
+      "club": "Ninjutsu Research Department",
+      "source": "https://bluearchive.wiki/wiki/Michiru",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:midori": {
+      "name": "Midori",
+      "summary": "Student of Millennium Science School, and the illustrator for the Game Development Club. As per the title, Midori works along with her twin sister Momoi in game development. Midori being the shy one with her sister oppositely cheerful, they don't have much chemistry, but they have unrivaled passion in working together when it comes to games. As of now they've managed to become very close.",
+      "school": "Millennium",
+      "club": "Game Development Club",
+      "source": "https://bluearchive.wiki/wiki/Midori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mika": {
+      "name": "Mika",
+      "summary": "Student of Trinity Integrated Academy and the former leader of \"Pater\", one of the student unions that make up Trinity. Mika is a former member of the Tea Party and is also a childhood friend of its leader, Nagisa. However, because of their opposing political positions, they make a clear distinction between their public and private lives. Mika always presents a happy smile and innocent appearance, but she seems to be troubled by something she's unable to confide in others.",
+      "school": "Trinity",
+      "club": "Tea Party",
+      "source": "https://bluearchive.wiki/wiki/Mika",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mimori": {
+      "name": "Mimori",
+      "summary": "Member of the Hyakkiyako Alliance Academy, and a kind vice-president of the discipline club. Mimori always has a cheerful smile and a gentle demeanor, and she is very popular with everyone. Having been shojo manga fan since young age, she pursues a dream of embodying the \"Yamato Nadeshiko\" character, to which end she joined the discipline club. Together with her childhood friend and club director Tsubaki she is working hard every day to practice cooking and cleaning.",
+      "school": "Hyakkiyako",
+      "club": "Inner Discipline Club",
+      "source": "https://bluearchive.wiki/wiki/Mimori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mina": {
+      "name": "Mina",
+      "summary": "Executive Officer of Genryumon, Shanhaijing's student council, and the Student Council President's personal bodyguard. Despite her calm and collected demeanor, she's a hardcore classic noir movie buff. She likes to quote scenes and lines from movies, although often incorrectly. She gets into trouble trying to be cool at inappropriate times, but Genryumon members do their best to mitigate the damage.",
+      "school": "Shanhaijing",
+      "club": "Genryumon",
+      "source": "https://bluearchive.wiki/wiki/Mina",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:minato": {
+      "name": "Minato",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Island.",
+      "school": "Odyssey",
+      "club": "Island",
+      "source": "https://bluearchive.wiki/wiki/Minato",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:mine": {
+      "name": "Mine",
+      "summary": "Member of Trinity Integrated Academy, Captain of the Rescue Knights. Mine is a white-clad warrior with strong will and bold personality, although she also has a radical side. Common wisdom about Rescue Knights across Trinity is \"Mine breaks it and the Knights heal\". Despite this, Mine is known to spend her free time diligently maintaining her own equipment and inviting acquaintances to tea parties. Her deep appreciation and knowledge of teas is on par with Hasumi from the Justice Actualization Committee.",
+      "school": "Trinity",
+      "club": "Rescue Knights",
+      "source": "https://bluearchive.wiki/wiki/Mine",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:minori": {
+      "name": "Minori",
+      "summary": "Student of the Red Winter Federal Academy, and head of the Labor Party. Minori will send workers to any place where manpower is needed, such as large-scale civil engineering and construction projects, and direct them on-site. Although good at her job, Minori seems to be infamous with her employers for going on strikes and demonstrations over trivial matters...",
+      "school": "Red Winter",
+      "club": "Labor Party",
+      "source": "https://bluearchive.wiki/wiki/Minori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mirai": {
+      "name": "Mirai",
+      "summary": "Listed in the official English wiki as a student of Millennium affiliated with Pseudoscience Club.",
+      "school": "Millennium",
+      "club": "Pseudoscience Club",
+      "source": "https://bluearchive.wiki/wiki/Mirai",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:misaki": {
+      "name": "Misaki",
+      "summary": "Misaki belongs to Arius Branch School. She is an Arius Squad girl of few words and strikes others as unsociable. Misaki has little interest in others or herself, and sometimes acts out of desperation. Her wrists and neck are covered with thick bandages as if to hide something.",
+      "school": "Arius",
+      "club": "Arius Squad",
+      "source": "https://bluearchive.wiki/wiki/Misaki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:misuzu": {
+      "name": "Misuzu",
+      "summary": "Listed in the official English wiki as a student of Valkyrie affiliated with Corrections Bureau.",
+      "school": "Valkyrie",
+      "club": "Corrections Bureau",
+      "source": "https://bluearchive.wiki/wiki/Misuzu",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:mitsuki": {
+      "name": "Mitsuki",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Cruise Operations Club.",
+      "school": "Odyssey",
+      "club": "Cruise Operations Club",
+      "source": "https://bluearchive.wiki/wiki/Mitsuki",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:miyako": {
+      "name": "Miyako",
+      "summary": "Miyako is the leader of RABBIT platoon belonging to SRT Special Academy. She enrolled in the SRT Special Academy admiring the success of her seniors, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Her facial expressions do not change much and she rarely shows her emotions, so people around Miyako tend to think that she is unsociable. However, deep down inside, she is always concerned about the members of her platoon and has a kind heart. Her callsign is \"RABBIT1\".",
+      "school": "SRT",
+      "club": "RABBIT Platoon",
+      "source": "https://bluearchive.wiki/wiki/Miyako",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:miyo": {
+      "name": "Miyo",
+      "summary": "Miyo is a member of the Wildhunt Art Academy and the head of its unofficial smuggling group, Free Trade Cartel. Her goal is to see the club disbanded. However, being timid and unable to rein in the other members, she ends up getting dragged along for their activities. It seems her goal won't be reached anytime soon.",
+      "school": "Wildhunt",
+      "club": "Free Trade Cartel",
+      "source": "https://bluearchive.wiki/wiki/Miyo",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:miyu": {
+      "name": "Miyu",
+      "summary": "A sniper of the RABBIT platoon belonging to SRT Special Academy. She enrolled SRT Special Academy because of her talent as a sniper, only to find her school suddenly closed. She is now living in the park with fellow platoon members. Miyu has a weak presence, which in itself is useful for sniper missions, but she is often forgotten not only by the enemies but also by her allies. Her callsign is \"RABBIT 4\".",
+      "school": "SRT",
+      "club": "RABBIT Platoon",
+      "source": "https://bluearchive.wiki/wiki/Miyu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:moe": {
+      "name": "Moe",
+      "summary": "An operator of the RABBIT platoon belonging to SRT Special Academy. Her callsign is \"RABBIT3\". Moe enlisted in the SRT Special Academy because of its focus on firepower, but the academy was suddenly shut down and now she is sleeping outdoors with the other platoon members in the park. She's got a weird taste for blowing things up and ruining things, but she's a solid operator. Moe also has a serious sweet tooth and is rarely seen without a candy bar in her mouth.",
+      "school": "SRT",
+      "club": "RABBIT Platoon",
+      "source": "https://bluearchive.wiki/wiki/Moe",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:momiji": {
+      "name": "Momiji",
+      "summary": "Momiji is the bookworm girl from Red Winter Federal Academy, and a member of the \"Knowledge Liberation Front\". Unlike other Red Winter students who fight for bread and snacks, her struggle lies in adding more books to the library. Momiji's quite the otaku, so the book purchase requests she regularly files are clearly driven by personal interests. As a result, most of her requests so far have been rejected, but Momiji continues to submit them without giving up.",
+      "school": "Red Winter",
+      "club": "Knowledge Liberation Front",
+      "source": "https://bluearchive.wiki/wiki/Momiji",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:momoi": {
+      "name": "Momoi",
+      "summary": "Student of Millennium Science School, and the scenario writer for the Game Development Club. As per the title, Momoi works along with her twin sister Midori in game development. Momoi being the cheerful one with her sister oppositely shy, they don't have much chemistry, but they have unrivalled passion in working together when it comes to games. As of now they've managed to become very close.",
+      "school": "Millennium",
+      "club": "Game Development Club",
+      "source": "https://bluearchive.wiki/wiki/Momoi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:mutsuki": {
+      "name": "Mutsuki",
+      "summary": "A student of Gehenna Academy, Mutsuki is the go-getter of Problem Solver 68. Contrary to her guilt-ridden childhood friend Aru, Mutsuki is the kind who loves causing crime and trouble without a worry. No one can read Aru better than Mutsuki, even if she doesn't give any particular thought to the matter.",
+      "school": "Gehenna",
+      "club": "Problem Solver 68",
+      "source": "https://bluearchive.wiki/wiki/Mutsuki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en"
+    },
+    "character:nagisa": {
+      "name": "Nagisa",
+      "summary": "Affiliated with Trinity General Academy, she is the leader of \"Filius\", one of the student union bodies that make up Trinity, and the host of the \"Tea Party\" student council. Nagisa is refined and soft-spoken, but rarely reveals her true feelings, making her a complicated and mysterious character. Her hobby is preparing tea leaves and sweets for tea parties. She dreams of a day when many Trinity students would be invited to a tea party of hers.",
+      "school": "Trinity",
+      "club": "Tea Party",
+      "source": "https://bluearchive.wiki/wiki/Nagisa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kirifuji_Nagisa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:nagusa": {
+      "name": "Nagusa",
+      "summary": "A student of the Hyakkiyako Academy and a member of the Hyakkaryouran Conflict Resolution Council. Originally the vice president of Hyakkaryouran, Nagusa inherited the leadership position after the previous president, Ayame, disappeared. Nagusa is timid, has low self-esteem, and is indecisive, but she has shown the strength of character to overcome fears and move forward for the sake of those she cares about.",
+      "school": "Hyakkiyako",
+      "club": "Hyakkaryouran",
+      "source": "https://bluearchive.wiki/wiki/Nagusa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Goryou_Nagusa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:nanami": {
+      "name": "Nanami",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Seven Prisoners.",
+      "school": "Odyssey",
+      "club": "Seven Prisoners",
+      "source": "https://bluearchive.wiki/wiki/Nanami",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:natsu": {
+      "name": "Natsu",
+      "summary": "A member of the Trinity After-School Sweets Club, head troublemaker, and a self-proclaimed romantic. Has a habit of being strangely philosophical and comparing everything to desserts, making everyone around her feel awkward. She claims she simply wants to share her romanticism with everyone. However, it's impossible to deny that Natsu may just be messing with everyone since her definition of \"romance\" is always changing.",
+      "school": "Trinity",
+      "club": "After-School Sweets Club",
+      "source": "https://bluearchive.wiki/wiki/Natsu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Yutori_Natsu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:natsuki": {
+      "name": "Natsuki",
+      "summary": "Listed in the official English wiki as a student of Hyakkiyako.",
+      "school": "Hyakkiyako",
+      "club": "",
+      "source": "https://bluearchive.wiki/wiki/Natsuki",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:neru": {
+      "name": "Neru",
+      "summary": "The leader of Millennium's secret agency \"C&C\". Looking indisputably like a delinquent with her attire, she's actually prideful of being the strongest agent, boasting a 100% mission success rate. Because of this, she's earned the callsign \"Double O\" which is seen as a guarantee of certain victory.",
+      "school": "Millennium",
+      "club": "Cleaning & Clearing",
+      "source": "https://bluearchive.wiki/wiki/Neru",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Mikamo_Neru",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:niko": {
+      "name": "Niko",
+      "summary": "Deputy leader of the FOX Squad from SRT Special Academy, callsign \"FOX2\". Niko has a kind and gentle personality and easily gets along with anyone. Because of this, many juniors at SRT Academy rely on her, even beyond her own squad. She is skilled at infiltration and camouflage and also manages the squad's operations. Niko's specialty is making inarizushi. She often prepares it as lunch for her squadmates, and the excellent taste has earned it a strong reputation throughout SRT Academy.",
+      "school": "SRT",
+      "club": "FOX Squad",
+      "source": "https://bluearchive.wiki/wiki/Niko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Yoshino_Niko",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:niya": {
+      "name": "Niya",
+      "summary": "President of Yin-Yang Club at the Hyakkiyako Academy. Outsiders may know Niya as the Student Council President, but she is better known as the Non-Working President as due to the structure of Hyakkiyako Academy she is usually tied in much more complicated matters… or so she claims; the dislike of work is her second nature. Niya always seems to casually cause havoc, but behind it all, there may be an ulterior motive that she does not reveal to others.",
+      "school": "Hyakkiyako",
+      "club": "Yin-Yang Club",
+      "source": "https://bluearchive.wiki/wiki/Niya",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Amachi_Niya",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:noa": {
+      "name": "Noa",
+      "summary": "Member of the Millennium Science School, secretary of the \"Seminar\" student council. Noa mainly records seminar decisions and meeting minutes, and is also in charge of the patent attorney's duties of identifying and registering patents for products developed by Millennium students. She has a very good memory and can almost perfectly memorize whatever she sees and hears once.",
+      "school": "Millennium",
+      "club": "Seminar",
+      "source": "https://bluearchive.wiki/wiki/Noa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Ushio_Noa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:nodoka": {
+      "name": "Nodoka",
+      "summary": "Nodoka is a student of Red Winter. However, she is currently suspended from school, instead being confined to Class No. 227 in the old school building. The reason for her suspension is \"using a telescope to engage in stalking\". Nodoka has a desire to observe all of the beautiful things in the world with her own eyes (including Sensei). The long hardship she has endured as part of Class No. 227 has given her a deep-running sense of frugality.",
+      "school": "Red Winter",
+      "club": "Class No. 227",
+      "source": "https://bluearchive.wiki/wiki/Nodoka",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Amami_Nodoka",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:nonomi": {
+      "name": "Nonomi",
+      "summary": "A member of the Countermeasure Council of Abydos. She has an emotional and gentle personality, and plays a role as a mental support bringing together the members of the Countermeasure Council, which has many extreme personalities. Though she doesn't say it herself, she is the daughter of a very rich family. In fact, she pays for almost all of the Countermeasure Council's snacks from her own allowance.",
+      "school": "Abydos",
+      "club": "Foreclosure Task Force",
+      "source": "https://bluearchive.wiki/wiki/Nonomi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Izayoi_Nonomi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:nozomi": {
+      "name": "Nozomi",
+      "summary": "A student at the Highlander Railway Academy and an officer of the CCC (Central Control Center). She has a cheerful and lively personality and doesn't worry about small details. Perhaps because of this, Nozomi often gets into trouble with her older twin sister Hikari. Although she's the type to jump right into anything that looks interesting, she is very diligent when it comes to her responsibility for train operations.",
+      "school": "Highlander",
+      "club": "CCC",
+      "source": "https://bluearchive.wiki/wiki/Nozomi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Tachibana_Nozomi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:otogi": {
+      "name": "Otogi",
+      "summary": "The sniper of SRT Special Academy's FOX Squad, callsign \"FOX4\". Among snipers, who are often lone wolves, Otogi is a rare type who can quickly get along even with people she has just met. Within the squad, she plays the role of a mood-maker, and on the battlefield, she serves to put pressure on the enemy morale. Otogi is skilled at handling electronic equipment, and can even handle repairs for most mechanical equipment malfunctions.",
+      "school": "SRT",
+      "club": "FOX Squad",
+      "source": "https://bluearchive.wiki/wiki/Otogi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Tenjinyama_Otogi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:pina": {
+      "name": "Pina",
+      "summary": "A student at Hyakkiyako Alliance Academy, Pina is a strong admirer of chivalry and heroism. Always cheerful and happy to help out other people, she learned of her yearning of said chivalry entirely through movies. All oddities aside... She is a straight-forward girl with nothing but the chivalry she yearns for on her path.",
+      "school": "Hyakkiyako",
+      "club": "Festival Organization Committee",
+      "source": "https://bluearchive.wiki/wiki/Pina",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Asahina_Pina",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:rabu": {
+      "name": "Rabu",
+      "summary": "The captain of the Splash Helmet Gang. She is trusted by her subordinates and has a big sister personality. However, she doesn't seem to have much luck.",
+      "school": "Trinity",
+      "club": "no club",
+      "source": "https://bluearchive.wiki/wiki/Rabu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Komakaze_Rabu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:rei": {
+      "name": "Rei",
+      "summary": "Rei is a member of the Millennium Science School and is the No. 4 batter who loves baseball. She is determined to reform the Millennium Baseball Club, which is currently resigned to studying physics and ball dynamics. She seems to get along well with the fitness nut Sumire... except when it comes to actual competition.",
+      "school": "Millennium",
+      "club": "Athletics Training Club",
+      "source": "https://bluearchive.wiki/wiki/Rei",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Nomasa_Rei",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:reijo": {
+      "name": "Reijo",
+      "summary": "A member of Shanhaijing Senior High School, Reijo is the manager of the main branch of the Genbu Trading Company, Rumi's assistant, and a security guard. She is quite a kung fu fanatic, and often tries to imitate phrases and actions of a certain famous martial artist. Contrary to her cool and detached appearance, she sometimes shows a fiery passion.",
+      "school": "Shanhaijing",
+      "club": "Black Tortoise Promenade",
+      "source": "https://bluearchive.wiki/wiki/Reijo",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kayama_Reijo",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:reisa": {
+      "name": "Reisa",
+      "summary": "A member of Trinity Integrated Academy's Vigilante Corps, who patrols all over Trinity and works to maintain public order. People at times take her to be a mischievous child because Reisa says things that don't make sense, but she's more serious about the vigilante activities than anyone else around. She has a habit of referring to herself by different names.",
+      "school": "Trinity",
+      "club": "Trinity's Vigilante Crew",
+      "source": "https://bluearchive.wiki/wiki/Reisa",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Uzawa_Reisa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:rena": {
+      "name": "Rena",
+      "summary": "A member of the Occult Investigation Society at Wildhunt Art Academy, which studies the paranormal aspects of art. She was assigned to room 404 in building 4, which led to her involvement in the Occult Investigation Society's activities. While she claims anything paranormal is a sham, it seems she herself is unknowingly becoming immersed in the occult world.",
+      "school": "Wildhunt",
+      "club": "Occult Investigation Society",
+      "source": "https://bluearchive.wiki/wiki/Rena",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kinui_Rena",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:renge": {
+      "name": "Renge",
+      "summary": "Renge is a member of the Hyakkiyako Academy and the captain of the Hyakkaryouran Dispute Mediation Committee's Assault Squad. She has a strong sense of justice and is very compassionate. While Renge cares deeply for her juniors, she is also known by them to be a very strict and uncompromising instructor. She has no regrets about joining Hyakkaryouran, but Renge is concerned that she is missing out on enjoying her youth to its fullest. Perhaps as a reaction to this, she is pursuing the kind of adolescence that is depicted in manga and novels, pushing forward with her training, filled with excitement at the prospect of meeting her destiny.",
+      "school": "Hyakkiyako",
+      "club": "Hyakkaryouran",
+      "source": "https://bluearchive.wiki/wiki/Renge",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Fuwa_Renge",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:rio": {
+      "name": "Rio",
+      "summary": "President of the \"Seminar\" student council at the Millennium Science School. Rio is a rationalist, she will do anything to ensure the safety of the Millennium and the world. As a result, she is known as the \"Big Sister\". She has a peculiar sense of style, as can be seen in \"Avant-Guard-kun\".",
+      "school": "Millennium",
+      "club": "Seminar",
+      "source": "https://bluearchive.wiki/wiki/Rio",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Tsukatsuki_Rio",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:ritsu": {
+      "name": "Ritsu",
+      "summary": "A member of the Wildhunt Art Academy, she is the muscle at the unofficial smuggling group, Free Trade Cartel. Ritsu founded the current Free Trade Cartel, and makes use of her superhuman strength to do the heavy lifting for the club. Optimistic and pure-hearted, she genuinely enjoys the club's activities.",
+      "school": "Wildhunt",
+      "club": "Free Trade Cartel",
+      "source": "https://bluearchive.wiki/wiki/Ritsu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Usuba_Ritsu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:rumi": {
+      "name": "Rumi",
+      "summary": "Rumi is a member of Shanhaijing Senior High School and the chairman of the gourmet Black Tortoise Promenade. Under her extraordinary management, Black Tortoise Promenade grew from a mediocre shopping street into one of the best gourmet districts in Kivotos. Although she is at odds with the Shanhaijing student council, who are wary of her growing influence, Rumi herself seems to have no interest in anything other than developing the enterprise.",
+      "school": "Shanhaijing",
+      "club": "Black Tortoise Promenade",
+      "source": "https://bluearchive.wiki/wiki/Rumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Akeshiro_Rumi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:saki": {
+      "name": "Saki",
+      "summary": "Saki is the point man of the RABBIT platoon, belonging to SRT Special Academy. She entered the SRT Special Academy in search of a life based on strict rules and regulations, but the academy was suddenly shut down. Saki now lives in a park with other members of the same platoon, always carrying around an SRT tactics manual, and is basically the type of person who always focuses on following the principles of the school. She enjoys foraging for wild vegetables and other scavenged items, which seems to be of great use in the current scarcity of resources in the park. Her callsign is \"RABBIT2\".",
+      "school": "SRT",
+      "club": "RABBIT Platoon",
+      "source": "https://bluearchive.wiki/wiki/Saki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Sorai_Saki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:sakurako": {
+      "name": "Sakurako",
+      "summary": "A devout student of the Sisterhood belonging to Trinity Integrated Academy. Sakurako is widely trusted by other students for her serious attitude. However, being too serious, she sometimes deviates from trends and common sense.",
+      "school": "Trinity",
+      "club": "The Sisterhood",
+      "source": "https://bluearchive.wiki/wiki/Sakurako",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Utazumi_Sakurako",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:sanae": {
+      "name": "Sanae",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Sick Bay.",
+      "school": "Odyssey",
+      "club": "Sick Bay",
+      "source": "https://bluearchive.wiki/wiki/Sanae",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:saori": {
+      "name": "Saori",
+      "summary": "Member of the Arius Branch School, and the leader of the Arius Squad, an elite special force unit within the school. Saori is typically cool-headed and does not hesitate to use any means necessary to achieve her goals, though a passionate personality that sometimes reveals itself. An unrivaled expert in guerrilla tactics, the daily life sometimes shows a somewhat naive side of hers. The combat prowess of the Arius Squad is the result of her watchful oversight of their training.",
+      "school": "Arius",
+      "club": "Arius Squad",
+      "source": "https://bluearchive.wiki/wiki/Saori",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Joumae_Saori",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:satsuki": {
+      "name": "Satsuki",
+      "summary": "Satsuki is a council member of Gehenna Academy's \"Pandemonium Society\", and the head of its intelligence department. Although she has mastered various hypnotism techniques, there have only been precious few cases where Satsuki managed to succefully apply them. She is a tough girl who doesn't get discouraged even after repeated failures. She has a laid-back personality and does things at her own pace. Hates bugs and scary things.",
+      "school": "Gehenna",
+      "club": "Pandemonium Society",
+      "source": "https://bluearchive.wiki/wiki/Satsuki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kyougoku_Satsuki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:saya": {
+      "name": "Saya",
+      "summary": "A genius inventor from Shanhaijng. Having already acquired 6 degrees by the time she was in Elementary school, the nicknamed genius is known for bullying and causing trouble for a lot of people. Saya brings along with her a rat assistant that she's been with since childhood, they're so close that she considers it to be like family.",
+      "school": "Shanhaijing",
+      "club": "Chinese alchemy study group",
+      "source": "https://bluearchive.wiki/wiki/Saya",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Yakushi_Saya",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:seia": {
+      "name": "Seia",
+      "summary": "A member of Trinity Integrated Academy, Seia is the leader of the \"Sanctus\" student union, one of the Trinity factions. She is pedantic and difficult to please. Being a bookworm, Seia is often found in the Great Library. After recovering from her injuries, she sometimes shows her more childish side.",
+      "school": "Trinity",
+      "club": "Tea Party",
+      "source": "https://bluearchive.wiki/wiki/Seia",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Yurizono_Seia",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:sena": {
+      "name": "Sena",
+      "summary": "Head of the Emergency Medicine Department within Gehenna Academy. Although she has saved countless people in the course of her career, Sena's habit of calling injured people \"corpses\" and the rough way she treats patients has made some students shy away from her.",
+      "school": "Gehenna",
+      "club": "Emergency Medicine Department",
+      "source": "https://bluearchive.wiki/wiki/Sena",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Himuro_Sena",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:serika": {
+      "name": "Serika",
+      "summary": "A student of Abydos High School, and the grouchy secretary of the Abydos Countermeasure Committee. One with many complaints, Serika is the type hesitant to show her emotions. Despite her daily habit of saying \"It's fine if this school goes bankrupt\", she has a deep love for her school and works tirelessly behind the backs of her clubmates to pay off her school's debt.",
+      "school": "Abydos",
+      "club": "Foreclosure Task Force",
+      "source": "https://bluearchive.wiki/wiki/Serika",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kuromi_Serika",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:serina": {
+      "name": "Serina",
+      "summary": "A kind-hearted girl affiliated with the Trinity Remedial Knights. A virtuous person who enjoys charity work, her concern for the health of those around her has earned her a reputation as a sort of mother hen. Despite having a somewhat timid personality and avoiding quarrels and conflict, she is always ready to stand up against enemies who threaten the peace.",
+      "school": "Trinity",
+      "club": "Rescue Knights",
+      "source": "https://bluearchive.wiki/wiki/Serina",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Sumi_Serina",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shigure": {
+      "name": "Shigure",
+      "summary": "A student of the Red Winter Federation Academy, she is presently assigned to the Special Class No. 227 in the old school building after being suspended. The reason for the suspension was an act of secretly mixing alcohol into kompot ration. She is a childhood friend of Nodoka, who is also in the Special Class No. 227, and rumor has it that Shigure deliberately caused the accident after Nodoka was sent to special class as a result of disciplinary action. Regardless of the truth of the matter, she loves her homemade kompot, and always carries it in her pocket flask.",
+      "school": "Red Winter",
+      "club": "Class No. 227",
+      "source": "https://bluearchive.wiki/wiki/Shigure",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Mayoi_Shigure",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shimiko": {
+      "name": "Shimiko",
+      "summary": "Shimiko is the librarian of Trinity Integrated Academy's Library Committee. An absolute bookworm, she is one of the few students who has read the huge book collection in Trinity Library. She also loves to recommend books to others as much as she loves reading them, such that the first thing that comes to her mind when meeting someone new is \"What book would suit this person's taste?\"",
+      "school": "Trinity",
+      "club": "Library Committee",
+      "source": "https://bluearchive.wiki/wiki/Shimiko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Endo_Shimiko",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shiroko": {
+      "name": "Shiroko",
+      "summary": "Enrolled in Abydos High School, Shiroko is the sports-loving field captain of the Countermeasure Council. Generally a girl of few words and few emotions, she gives off an aloof aura but holds the interest of Abydos above all else. In order to revitalize the school, she is willing to do anything, and occasionally comes up with ridiculous plans.",
+      "school": "Abydos",
+      "club": "Foreclosure Task Force",
+      "source": "https://bluearchive.wiki/wiki/Shiroko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Sunaookami_Shiroko",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shizuko": {
+      "name": "Shizuko",
+      "summary": "A student of Hyakkiyako, Shizuko is the president of the festival management committee and the owner and attraction of the classic-style cafe Momoyo Hall. Usually the clutz while on the job, she's never one to overdo the attraction role. In reality, she's the professional-minded kind to do whatever necessary to see the success of her efforts for the festival and Momoyo Hall. This isn't to say she isn't one to show her true emotions when she lets her guard down; both to her close friends, and to Sensei as well.",
+      "school": "Hyakkiyako",
+      "club": "Festival Organization Committee",
+      "source": "https://bluearchive.wiki/wiki/Shizuko",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kawawa_Shizuko",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shouko": {
+      "name": "Shouko",
+      "summary": "Listed in the official English wiki as a student of Gehenna affiliated with Gehenna Revival Force.",
+      "school": "Gehenna",
+      "club": "Gehenna Revival Force",
+      "source": "https://bluearchive.wiki/wiki/Shouko",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:shun": {
+      "name": "Shun",
+      "summary": "Belonging to Shanhaijing Senior High School, Shun is an instructor of the disciplinary support department known as \"Meihua Yuan\" (Plum Blossom Garden). The club also shares its name with an actual garden. Shun's kind and tolerant nature has earned her the trust of not only the children of Meihua Yuan, but also other students of Shanhaijing. Having been an instructor for a long time, she rarely gets angry at the children's mischief, but she is sensitive when one of them brings up her age.",
+      "school": "Shanhaijing",
+      "club": "Plum Blossom Garden",
+      "source": "https://bluearchive.wiki/wiki/Shun",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Sunohara_Shun",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:shuro": {
+      "name": "Shuro",
+      "summary": "Listed in the official English wiki as a student of Hyakkiyako affiliated with Nature's Beauty.",
+      "school": "Hyakkiyako",
+      "club": "Nature's Beauty",
+      "source": "https://bluearchive.wiki/wiki/Shuro",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Yabuki_Shuro",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:subaru": {
+      "name": "Subaru",
+      "summary": "A student from Arius Branch School, who leads the remaining Arius students. She is gentle, kind to everyone, and easy to get along with. She is also trusted by her juniors. For the sake of her juniors, she is always prepared to pull the trigger without hesitation.",
+      "school": "Arius",
+      "club": "Nicomedia's Troop",
+      "source": "https://bluearchive.wiki/wiki/Subaru",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kakehashi_Subaru",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:sumika": {
+      "name": "Sumika",
+      "summary": "Listed in the official English wiki as a student of Odyssey affiliated with Trident.",
+      "school": "Odyssey",
+      "club": "Trident",
+      "source": "https://bluearchive.wiki/wiki/Sumika",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:sumire": {
+      "name": "Sumire",
+      "summary": "Sumire is the leader of the Training Club at Millennium Science School. One who is typically working on her training, a muscle-brained girl who believes all matters in the world can be solved with muscles and exercise.",
+      "school": "Millennium",
+      "club": "Athletics Training Club",
+      "source": "https://bluearchive.wiki/wiki/Sumire",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Otohana_Sumire",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:suou": {
+      "name": "Suou",
+      "summary": "Listed in the official English wiki as a student of Highlander affiliated with Highlander Supervisory Office.",
+      "school": "Highlander",
+      "club": "Highlander Supervisory Office",
+      "source": "https://bluearchive.wiki/wiki/Suou",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Asagiri_Suou",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:suzumi": {
+      "name": "Suzumi",
+      "summary": "A member of Trinity Integrated Academy's Vigilante Corps. Because of Trinity students frequently being targeted by other schools, the Vigilante Corps began patrolling around town to defend against this. Due to her flaring sense of justice, Suzumi is often misunderstood to have a cold personality. In reality she really is a gentle girl.",
+      "school": "Trinity",
+      "club": "Trinity's Vigilante Crew",
+      "source": "https://bluearchive.wiki/wiki/Suzumi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Morizuki_Suzumi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:takane": {
+      "name": "Takane",
+      "summary": "A member of the Publishing Department at Red Winter Federal Academy. A refined, elegant young lady who values good manners. She is skilled as a critic, but her strong personal opinions often lead to conflicts. She appears to be locked in a rivalry with the Knowledge Liberation Front.",
+      "school": "Red Winter",
+      "club": "Publishing Department",
+      "source": "https://bluearchive.wiki/wiki/Takane",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Miyoshi_Takane",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:toki": {
+      "name": "Toki",
+      "summary": "A member of the Millennium Science School, the fifth agent of its secret \"C&C\" agency. Although she belongs to C&C, Toki has been working as Rio's exclusive maid and bodyguard until now, so few people are familiar with her. A superior agent who fights based with high-tech weaponry. Until now, Toki has mainly acted alone, but she actually has a lonely side.",
+      "school": "Millennium",
+      "club": "Cleaning & Clearing",
+      "source": "https://bluearchive.wiki/wiki/Toki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Asuma_Toki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:tomoe": {
+      "name": "Tomoe",
+      "summary": "Tomoe is a student of Red Winter Federal Academy, the secretary general of the Red Winter Secretariat, and the first member of Cherino's inner circle. She is a master storyteller who can make anything sound plausible, and she regularly infuses her loyalty to Chairman Cherino into various speeches. Cherino herself believes that Tomoe is inspired by her charisma and has a sense of loyalty to her, but in reality Tomoe is just blindly adoring Cherino.",
+      "school": "Red Winter",
+      "club": "Red Winter Secretariat",
+      "source": "https://bluearchive.wiki/wiki/Tomoe",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Sashiro_Tomoe",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:tsubaki": {
+      "name": "Tsubaki",
+      "summary": "Enrolled at Hyakkiyako Academy, Tsubaki is president of the discipline club. Notorious as a serial sleepyhead, Tsubaki is always taking naps during the day, so her responsibilities as club president are effectively entirely handled by her friend Mimori. Contrary to her lazy daytime habits, at night Tsubaki is engaged secretly defending Hyakkihakou Academy.",
+      "school": "Hyakkiyako",
+      "club": "Inner Discipline Club",
+      "source": "https://bluearchive.wiki/wiki/Tsubaki",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kasuga_Tsubaki",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:tsubasa": {
+      "name": "Tsubasa",
+      "summary": "Listed in the official English wiki as a student of Millennium affiliated with Pseudoscience Club.",
+      "school": "Millennium",
+      "club": "Pseudoscience Club",
+      "source": "https://bluearchive.wiki/wiki/Tsubasa",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hanemoto_Tsubasa",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:tsukuyo": {
+      "name": "Tsukuyo",
+      "summary": "A member of the Ninjutsu Research Club of Hyakkiyako Academy. Tsukuyo grew up tall in an early age, and she was often teased for her physique, and as a result, her current reclusive personality was formed. Tsukuyo is a timid person and isn't good at communicating to others, but she also has the strength to jump into any situation once she sets her mind to it. Although she is not very familiar with the ways of ninja yet, she seems to be enjoying her time in the Ninjutsu Research Club with her senior Michiru, and Izuna.",
+      "school": "Hyakkiyako",
+      "club": "Ninjutsu Research Department",
+      "source": "https://bluearchive.wiki/wiki/Tsukuyo",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Oono_Tsukuyo",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:tsumugi": {
+      "name": "Tsumugi",
+      "summary": "Listed in the official English wiki as a student of Wildhunt affiliated with Occult Investigation Society.",
+      "school": "Wildhunt",
+      "club": "Occult Investigation Society",
+      "source": "https://bluearchive.wiki/wiki/Tsumugi",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en"
+    },
+    "character:tsurugi": {
+      "name": "Tsurugi",
+      "summary": "While enrolled as a Student of Trinity Joint Academy, and president of the Justice Actualization Committee, Tsurugi is also Trinity's strategic weapon. She is of a violent and trigger-happy disposition, and possesses a destroy-first think-later attitude towards whatever she finds disagreeable. It is due to the efforts of its vice-president, Hasumi, that the Justice Actualization Committee is (just about) kept under control. Despite Tsurugi's uncontrollable and ferocious nature, she can't help but reveal her feminine side when face to face with Sensei and unable to hide her shyness.",
+      "school": "Trinity",
+      "club": "Justice Task Force",
+      "source": "https://bluearchive.wiki/wiki/Tsurugi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:ui": {
+      "name": "Ui",
+      "summary": "Ui belongs to Trinity Integrated Academy and is the chairman of the library committee. She loves books and is also a bit of a misanthrope, although it is unclear which of the two comes first. She is particularly fond of old books, and spends her days in seclusion, deciphering and managing old tomes at a place called the \"Antiquarian Bookstore\". Her intellectual curiosity and her knowledge of antique books are first-rate, and she is even called the \"Sorceress of the Antiquarian Bookstore\" by those around her.",
+      "school": "Trinity",
+      "club": "Library Committee",
+      "source": "https://bluearchive.wiki/wiki/Ui",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kozeki_Ui",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:umika": {
+      "name": "Umika",
+      "summary": "A first-year member of the festival management committee of Hyakkiyako Alliance Academy. Being from the countryside, Umika was always fascinated by the festivals held in cities. She has exhaustive knowledge of all the festivals held throughout Kivotos. Once Umika starts talking, she tends to gush about obscure festival topics; others often note that she's very attractive when silent.",
+      "school": "Hyakkiyako",
+      "club": "Festival Organization Committee",
+      "source": "https://bluearchive.wiki/wiki/Umika",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Satohama_Umika",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:utaha": {
+      "name": "Utaha",
+      "summary": "The club leader of the Engineering Club at Millennium Science School. Without straying from that title, Utaha continues to develop all sorts of various robots. One she always brings along, Rai-chan, is known for having capabilities that can rival several hundred PMC Automata.",
+      "school": "Millennium",
+      "club": "Engineering Department",
+      "source": "https://bluearchive.wiki/wiki/Utaha",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Shiraishi_Utaha",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:wakamo": {
+      "name": "Wakamo",
+      "summary": "Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the \"Seven Prisoners\" that escaped from Corrections Bureau after being suspended from school. Known as the Fox of Calamity for her indiscriminate and large-scale destruction, she is widely feared. Her motives and purpose are shrouded in mystery. Her true face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly as the devil.",
+      "school": "Hyakkiyako",
+      "club": "no club",
+      "source": "https://bluearchive.wiki/wiki/Wakamo",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kosaka_Wakamo",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yakumo": {
+      "name": "Yakumo",
+      "summary": "Head of the Publishing Department at Red Winter Federal Academy, Yakumo also serves as the editor-in-chief of \"Red Bear.\" She has a stubborn side, and never backs down once she makes up her mind. She will use any means necessary to benefit the Publishing Department, demonstrating her unrivaled drive. However, it seems that she has a pure-hearted side as well...",
+      "school": "Red Winter",
+      "club": "Publishing Department",
+      "source": "https://bluearchive.wiki/wiki/Yakumo",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Aramaki_Yakumo",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yoshimi": {
+      "name": "Yoshimi",
+      "summary": "A member of the Trinity After-School Sweets Club. A girl with a height complex that gives off the impression of a small, angry animal. Constantly fixated on appearing more mature, her tendency to wear her heart on her sleeve gets her into trouble. She can't help but smile widely when visiting dessert cafes to sample the latest limited-edition treats.",
+      "school": "Trinity",
+      "club": "After-School Sweets Club",
+      "source": "https://bluearchive.wiki/wiki/Yoshimi",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Ibaragi_Yoshimi",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yukari": {
+      "name": "Yukari",
+      "summary": "A first-year member of the Hyakkiyako Alliance Academy and the Hyakkaryouran Dispute Mediation Committee. Yukari is the heiress of the venerable Kadenokouji family. However, rather than inheriting the family business, she decided to pursue her dream of joining Hyakkaryoran. She takes pride in being a member of Hyakkaryouran and has a lot of energy. Although she sometimes falters, she has the strength of character to recover quickly. She respects her seniors, and especially admires Nagusa among them.",
+      "school": "Hyakkiyako",
+      "club": "Hyakkaryouran",
+      "source": "https://bluearchive.wiki/wiki/Yukari",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kadenokouji_Yukari",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yukino": {
+      "name": "Yukino",
+      "summary": "Listed in the official English wiki as a student of SRT affiliated with FOX Squad.",
+      "school": "SRT",
+      "club": "FOX Squad",
+      "source": "https://bluearchive.wiki/wiki/Yukino",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Shichido_Yukino",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yume": {
+      "name": "Yume",
+      "summary": "Listed in the official English wiki as a student of Abydos affiliated with Abydos Student Council.",
+      "school": "Abydos",
+      "club": "Abydos Student Council",
+      "source": "https://bluearchive.wiki/wiki/Yume",
+      "status": "metadata-derived-unreviewed",
+      "descriptionKind": "official-English-wiki-metadata",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Kuchinashi_Yume",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yuuka": {
+      "name": "Yuuka",
+      "summary": "Enrolled in the Millennium Science School, Yuuka is the treasurer of the student council known as \"Seminar\". A prominent mathematical genius even amongst Millennium's STEM-rich student base, she supervises the management of the school's budget. Yuuka's specialty is the abacus, and she has a habit of counting on one in order to compose herself when faced with complex and troubling matters.",
+      "school": "Millennium",
+      "club": "Seminar",
+      "source": "https://bluearchive.wiki/wiki/Yuuka",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hayase_Yuuka",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    },
+    "character:yuzu": {
+      "name": "Yuzu",
+      "summary": "Yuzu is the club president of the Game Development Club of Millennium Science School. She is very bad at speaking to people, and for that reason she almost never goes outside, instead spending the majority of her time inside a locker in the Game Development Club's club room. A lover of both playing and making games, her passion for them is no ordinary thing.",
+      "school": "Millennium",
+      "club": "Game Development Club",
+      "source": "https://bluearchive.wiki/wiki/Yuzu",
+      "status": "source-extracted-unreviewed",
+      "descriptionKind": "official-English-wiki-bio",
+      "sourceLanguage": "en",
+      "appearanceSource": {
+        "url": "https://bluearchive.fandom.com/wiki/Hanaoka_Yuzu",
+        "title": "Blue Archive Wiki (Fandom), Appearance",
+        "sourceLanguage": "en",
+        "license": "CC BY-SA 3.0 (wiki text; page-specific terms take precedence)",
+        "status": "paraphrase-from-source",
+        "accessDate": "2026-09-26",
+        "revision": "unavailable"
+      }
+    }
+  },
+  "sources": {
+    "https://bluearchive.wiki/wiki/Airi": {
+      "title": "Airi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Akane": {
+      "title": "Akane",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Akari": {
+      "title": "Akari",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Akira": {
+      "title": "Akira",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ako": {
+      "title": "Ako",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ami": {
+      "title": "Ami",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Aoba": {
+      "title": "Aoba",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Arisu": {
+      "title": "Arisu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Aru": {
+      "title": "Aru",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Asuna": {
+      "title": "Asuna",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Atsuko": {
+      "title": "Atsuko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ayame": {
+      "title": "Ayame",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Ayane": {
+      "title": "Ayane",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Azami": {
+      "title": "Azami",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Azusa": {
+      "title": "Azusa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Cherino": {
+      "title": "Cherino",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Chiaki": {
+      "title": "Chiaki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Chihiro": {
+      "title": "Chihiro",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Chinatsu": {
+      "title": "Chinatsu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Chise": {
+      "title": "Chise",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Eimi": {
+      "title": "Eimi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Eri": {
+      "title": "Eri",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Erika": {
+      "title": "Erika",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Fubuki": {
+      "title": "Fubuki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Fuuka": {
+      "title": "Fuuka",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Fuyu": {
+      "title": "Fuyu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hanae": {
+      "title": "Hanae",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hanako": {
+      "title": "Hanako",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hare": {
+      "title": "Hare",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Haruka": {
+      "title": "Haruka",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Haruna": {
+      "title": "Haruna",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hasumi": {
+      "title": "Hasumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hibiki": {
+      "title": "Hibiki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hifumi": {
+      "title": "Hifumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hikari": {
+      "title": "Hikari",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Himari": {
+      "title": "Himari",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hina": {
+      "title": "Hina",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hinata": {
+      "title": "Hinata",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hiyori": {
+      "title": "Hiyori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Hoshino": {
+      "title": "Hoshino",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ibuki": {
+      "title": "Ibuki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ichika": {
+      "title": "Ichika",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Iori": {
+      "title": "Iori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Iroha": {
+      "title": "Iroha",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Izumi": {
+      "title": "Izumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Izuna": {
+      "title": "Izuna",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Junko": {
+      "title": "Junko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Juri": {
+      "title": "Juri",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kaede": {
+      "title": "Kaede",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kaguya": {
+      "title": "Kaguya",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Kaho": {
+      "title": "Kaho",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kai": {
+      "title": "Kai",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kanae": {
+      "title": "Kanae",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Kanoe": {
+      "title": "Kanoe",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Karen": {
+      "title": "Karen",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Karin": {
+      "title": "Karin",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kasumi": {
+      "title": "Kasumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kayoko": {
+      "title": "Kayoko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kazusa": {
+      "title": "Kazusa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kei": {
+      "title": "Kei",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kikyou": {
+      "title": "Kikyou",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kirara": {
+      "title": "Kirara",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kirino": {
+      "title": "Kirino",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kisaki": {
+      "title": "Kisaki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Koharu": {
+      "title": "Koharu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kokona": {
+      "title": "Kokona",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kokoro": {
+      "title": "Kokoro",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Konoka": {
+      "title": "Konoka",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kotama": {
+      "title": "Kotama",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kotone": {
+      "title": "Kotone",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kotori": {
+      "title": "Kotori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Koyuki": {
+      "title": "Koyuki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Kurumi": {
+      "title": "Kurumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Maia": {
+      "title": "Maia",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Maki": {
+      "title": "Maki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Makoto": {
+      "title": "Makoto",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mari": {
+      "title": "Mari",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Marina": {
+      "title": "Marina",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mashiro": {
+      "title": "Mashiro",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mayumi": {
+      "title": "Mayumi",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Megu": {
+      "title": "Megu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Meru": {
+      "title": "Meru",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Michiru": {
+      "title": "Michiru",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Midori": {
+      "title": "Midori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mika": {
+      "title": "Mika",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mimori": {
+      "title": "Mimori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mina": {
+      "title": "Mina",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Minato": {
+      "title": "Minato",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Mine": {
+      "title": "Mine",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Minori": {
+      "title": "Minori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mirai": {
+      "title": "Mirai",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Misaki": {
+      "title": "Misaki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Misuzu": {
+      "title": "Misuzu",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Mitsuki": {
+      "title": "Mitsuki",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Miyako": {
+      "title": "Miyako",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Miyo": {
+      "title": "Miyo",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Miyu": {
+      "title": "Miyu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Moe": {
+      "title": "Moe",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Momiji": {
+      "title": "Momiji",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Momoi": {
+      "title": "Momoi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Mutsuki": {
+      "title": "Mutsuki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nagisa": {
+      "title": "Nagisa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nagusa": {
+      "title": "Nagusa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nanami": {
+      "title": "Nanami",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Natsu": {
+      "title": "Natsu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Natsuki": {
+      "title": "Natsuki",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Neru": {
+      "title": "Neru",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Niko": {
+      "title": "Niko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Niya": {
+      "title": "Niya",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Noa": {
+      "title": "Noa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nodoka": {
+      "title": "Nodoka",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nonomi": {
+      "title": "Nonomi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Nozomi": {
+      "title": "Nozomi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Otogi": {
+      "title": "Otogi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Pina": {
+      "title": "Pina",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Rabu": {
+      "title": "Rabu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Rei": {
+      "title": "Rei",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Reijo": {
+      "title": "Reijo",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Reisa": {
+      "title": "Reisa",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Rena": {
+      "title": "Rena",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Renge": {
+      "title": "Renge",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Rio": {
+      "title": "Rio",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ritsu": {
+      "title": "Ritsu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Rumi": {
+      "title": "Rumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Saki": {
+      "title": "Saki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Sakurako": {
+      "title": "Sakurako",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Sanae": {
+      "title": "Sanae",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Saori": {
+      "title": "Saori",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Satsuki": {
+      "title": "Satsuki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Saya": {
+      "title": "Saya",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Seia": {
+      "title": "Seia",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Sena": {
+      "title": "Sena",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Serika": {
+      "title": "Serika",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Serina": {
+      "title": "Serina",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shigure": {
+      "title": "Shigure",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shimiko": {
+      "title": "Shimiko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shiroko": {
+      "title": "Shiroko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shizuko": {
+      "title": "Shizuko",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shouko": {
+      "title": "Shouko",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Shun": {
+      "title": "Shun",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Shuro": {
+      "title": "Shuro",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Subaru": {
+      "title": "Subaru",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Sumika": {
+      "title": "Sumika",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Sumire": {
+      "title": "Sumire",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Suou": {
+      "title": "Suou",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Suzumi": {
+      "title": "Suzumi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Takane": {
+      "title": "Takane",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Toki": {
+      "title": "Toki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Tomoe": {
+      "title": "Tomoe",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Tsubaki": {
+      "title": "Tsubaki",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Tsubasa": {
+      "title": "Tsubasa",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Tsukuyo": {
+      "title": "Tsukuyo",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Tsumugi": {
+      "title": "Tsumugi",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Tsurugi": {
+      "title": "Tsurugi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Ui": {
+      "title": "Ui",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Umika": {
+      "title": "Umika",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Utaha": {
+      "title": "Utaha",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Wakamo": {
+      "title": "Wakamo",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Yakumo": {
+      "title": "Yakumo",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Yoshimi": {
+      "title": "Yoshimi",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Yukari": {
+      "title": "Yukari",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Yukino": {
+      "title": "Yukino",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Yume": {
+      "title": "Yume",
+      "status": "metadata-derived-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-metadata"
+    },
+    "https://bluearchive.wiki/wiki/Yuuka": {
+      "title": "Yuuka",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://bluearchive.wiki/wiki/Yuzu": {
+      "title": "Yuzu",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-wiki-page",
+      "descriptionKind": "official-English-wiki-bio"
+    },
+    "https://forum.nexon.com/bluearchive-en/board_view?thread=3477804": {
+      "title": "Blue Archive official English release title",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-release-title",
+      "sourceLanguage": "en"
+    },
+    "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=2842954": {
+      "title": "Blue Archive official English release title",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-release-title",
+      "sourceLanguage": "en"
+    },
+    "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3443143": {
+      "title": "Blue Archive official English release title",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-release-title",
+      "sourceLanguage": "en"
+    },
+    "https://apps.apple.com/us/app/blue-archive/id1571873795?l=en": {
+      "title": "Blue Archive official English release title",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-release-title",
+      "sourceLanguage": "en"
+    },
+    "https://x.com/EN_BlueArchive/status/2098290442165211292": {
+      "title": "Blue Archive official English release title",
+      "status": "source-extracted-unreviewed",
+      "kind": "official-English-release-title",
+      "sourceLanguage": "en"
+    }
+  },
+  "coverage": {
+    "officialEnglishStudentProfileCount": 142,
+    "sourceBackedEnglishSummaryCount": 165,
+    "metadataOnlySummaryCount": 23,
+    "totalStudentCount": 165,
+    "missingEnglishProfiles": [
+      "character:ami",
+      "character:ayame",
+      "character:azami",
+      "character:kaguya",
+      "character:kanae",
+      "character:karen",
+      "character:maia",
+      "character:mayumi",
+      "character:minato",
+      "character:mirai",
+      "character:misuzu",
+      "character:mitsuki",
+      "character:nanami",
+      "character:natsuki",
+      "character:sanae",
+      "character:shouko",
+      "character:shuro",
+      "character:sumika",
+      "character:suou",
+      "character:tsubasa",
+      "character:tsumugi",
+      "character:yukino",
+      "character:yume"
+    ],
+    "missingEnglishSummaries": [],
+    "englishMomoTalkSourceCount": 138,
+    "englishRelationshipStoryPagesExtracted": 647,
+    "englishDossierWhitespaceTokenTarget": 2681,
+    "englishDossierMeanWhitespaceTokens": 2613,
+    "englishDossiersMeetingTokenTarget": 132,
+    "englishDossiersWithNarrativeSources": 138,
+    "reviewStatus": "unreviewed; original English source excerpts and metadata-derived summaries"
+  },
+  "notes": "No Korean prose is machine-translated or reused as English. Source dialogue is embedded in student dossiers only from original English MomoTalk and relationship-story source files. Metadata-only summaries state only school and affiliation facts; source-extracted entries require editorial review.",
+  "timeSliceLabels": {
+    "ex-데카그라마톤-편-1장-지혜의-뱀": {
+      "label": "Volume EX: Decagrammaton — Chapter 1: Snake of Wisdom",
+      "source": "https://forum.nexon.com/bluearchive-en/board_view?thread=3477804",
+      "status": "official-English-title"
+    },
+    "ex-데카그라마톤-편-2장-불타는-검": {
+      "label": "Volume EX: Decagrammaton — Chapter 2: Flaming Sword",
+      "source": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=2842954",
+      "status": "official-English-title"
+    },
+    "ex-데카그라마톤-편-3장-합일의-하늘": {
+      "label": "Volume EX: Decagrammaton — Chapter 3: The Sky of Unity",
+      "source": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3443143",
+      "status": "official-English-title"
+    },
+    "vol-0-총학생회-편-1장-살구꽃이-피는-어느-봄날에": {
+      "label": "Vol. 0: General Student Council — Chapter 1: A Spring Day Full of Apricot Blossoms",
+      "source": "https://apps.apple.com/us/app/blue-archive/id1571873795?l=en",
+      "status": "official-English-title"
+    },
+    "ex-로어추적-편-1장-정오의-아지랑이": {
+      "label": "Volume EX: Lore Pursuit — Chapter 1: High Noon Haze",
+      "source": "https://apps.apple.com/us/app/blue-archive/id1571873795?l=en",
+      "status": "official-English-title"
+    },
+    "ex-로어추적-편-2장-드럼통-속에-있는-것": {
+      "label": "Volume EX: Lore Pursuit — Chapter 2: What's Inside the Drum Barrel",
+      "source": "https://x.com/EN_BlueArchive/status/2098290442165211292",
+      "status": "official-English-title"
+    }
+  }
+}

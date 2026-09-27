@@ -1,0 +1,95 @@
+timeSlices:
+- id: 프롤로그-1-2
+  label: Prologue
+  position: 10
+- id: vol-1-대책위원회-편-1장-대책위원회의-기묘한-하루
+  label: 'Vol. 1: Foreclosure Task Force — Chapter 1: Strange Days for the Task Force'
+  position: 20
+- id: vol-2-태엽감는-꽃의-파반느-편-1장-레트로의-로망
+  label: 'Vol. 2: Clockwork Flower Pavane — Chapter 1: Retromania'
+  position: 140
+- id: vol-3-에덴조약-편-1장-보충수업-시작합니다
+  label: 'Vol. 3: Eden Treaty — Chapter 1: Make-up Work Club, Here We Go!'
+  position: 280
+- id: vol-3-에덴조약-편-2장-paradise-paradox
+  label: 'Vol. 3: Eden Treaty — Chapter 2: Paradise Paradox'
+  position: 282
+- id: vol-3-에덴조약-편-3장-우리들의-이야기를
+  label: 'Vol. 3: Eden Treaty — Chapter 3: Our Stories'
+  position: 310
+- id: vol-3-에덴조약-편-4장-잊혀진-신들을-위한-키리에
+  label: 'Vol. 3: Eden Treaty — Chapter 4: Kyrie of the Forgotten Gods'
+  position: 330
+- id: vol-4-카르바노그의-토끼-편-1장-rabbit-소대-작전-개시
+  label: 'Vol. 4: Rabbit of Caerbannog — Chapter 1: RABBIT Squad, Begin Operation!'
+  position: 360
+- id: ex-데카그라마톤-편-1장-지혜의-뱀
+  label: 'Volume EX: Decagrammaton — Chapter 1: Snake of Wisdom'
+  position: 460
+- id: vol-2-태엽감는-꽃의-파반느-편-2장-우정과-용기와-빛의-로망
+  label: 'Vol. 2: Clockwork Flower Pavane — Chapter 2: The Romance of Friendship,
+    Courage, and Light'
+  position: 470
+- id: final-그리고-모든-기적이-시작되는-곳-편-1장-샬레-탈환작전
+  label: 'Volume F: Where All Miracles Begin — Chapter 1: Operation Recapture Schale'
+  position: 510
+- id: final-그리고-모든-기적이-시작되는-곳-편-2장-거짓된-성소-공략전
+  label: 'Volume F: Where All Miracles Begin — Chapter 2: Operational Plan: Nisir''s
+    Summit'
+  position: 530
+- id: final-그리고-모든-기적이-시작되는-곳-편-3장-아트라하시스의-방주-점령전
+  label: 'Volume F: Where All Miracles Begin — Chapter 3: The Ark of Atrahasis Conquest'
+  position: 550
+- id: final-그리고-모든-기적이-시작되는-곳-편-4장-프레나파테스-결전
+  label: 'Volume F: Where All Miracles Begin — Chapter 4: Phrenapates Showdown'
+  position: 570
+- id: vol-4-카르바노그의-토끼-편-2장-we-were-rabbits
+  label: 'Vol. 4: Rabbit of Caerbannog — Chapter 2: We Were RABBITs!'
+  position: 620
+- id: vol-5-백화요란-편-1장-피어나길-바라는-꽃망울처럼
+  label: 'Vol. 5: Hyakkaryouran — Chapter 1: Like the Flower That Wishes to Bloom'
+  position: 700
+- id: vol-1-대책위원회-편-3장-그-꿈이-남기고-간-흔적들
+  label: 'Vol. 1: Foreclosure Task Force — Chapter 3: Traces of a Dream'
+  position: 750
+- id: ex-데카그라마톤-편-2장-불타는-검
+  label: 'Volume EX: Decagrammaton — Chapter 2: Flaming Sword'
+  position: 880
+- id: vol-5-백화요란-편-2장-홀로-꽃을-피우려는-너에게
+  label: 'Vol. 5: Hyakkaryouran — Chapter 2: To You, Who’s Trying to Bloom Alone'
+  position: 1000
+- id: vol-6-흘러간-시간들의-오라토리오-편-1장-경계-너머의-풍경
+  label: 'Vol. 6: Oratorio of Days Gone By — Chapter 1: Sights Beyond the Boundary'
+  position: 1060
+- id: vol-6-흘러간-시간들의-오라토리오-편-2장-saying-goodbye-to-yesterday
+  label: 'Vol. 6: Oratorio of Days Gone By — Chapter 2: Saying Goodbye to Yesterday'
+  position: 1062
+- id: vol-6-흘러간-시간들의-오라토리오-편-3장-ecclesia-for-the-future-left-behin
+  label: 'Vol. 6: Oratorio of Days Gone By — Chapter 3: Ecclesia for the Future Left
+    Behind'
+  position: 1063
+- id: ex-데카그라마톤-편-3장-합일의-하늘
+  label: 'Volume EX: Decagrammaton — Chapter 3: The Sky of Unity'
+  position: 1120
+- id: 프롤로그-1-4
+  label: 'Chapter 1: Prologue'
+  position: 1200
+- id: vol-0-총학생회-편-1장-살구꽃이-피는-어느-봄날에
+  label: 'Vol. 0: General Student Council — Chapter 1: A Spring Day Full of Apricot Blossoms'
+  position: 1210
+- id: ex-로어추적-편-1장-정오의-아지랑이
+  label: 'Volume EX: Lore Pursuit — Chapter 1: High Noon Haze'
+  position: 1220
+- id: ex-로어추적-편-2장-드럼통-속에-있는-것
+  label: 'Volume EX: Lore Pursuit — Chapter 2: What''s Inside the Drum Barrel'
+  position: 1240
+- id: vol-1-불꽃과-그림자-편-1장-게헨나를-다시-위대하게
+  label: 'Vol. 1: Foreclosure Task Force — Chapter 1: Strange Days for the Task Force'
+  position: 1290
+- id: vol-1-불꽃과-그림자-편-2장-우리는-불꽃이-되어
+  label: 'Vol. 1: Foreclosure Task Force — Chapter 2: Things Lost and Others Held
+    On To'
+  position: 1300
+- id: vol-2-오디세이아-편-1장-눈동자에-비친-수평선
+  label: 'Vol. 2: Clockwork Flower Pavane — Chapter 1: Retromania'
+  position: 1320

@@ -1,0 +1,1 @@
+{"extends":"../../tsconfig.base.json","compilerOptions":{"outDir":"dist","rootDir":"src","jsx":"react-jsx","noEmit":true},"references":[{"path":"../../packages/schema"},{"path":"../../packages/markdown"},{"path":"../../packages/engine"},{"path":"../../packages/provider"},{"path":"../../packages/chat"}],"include":["src"]}

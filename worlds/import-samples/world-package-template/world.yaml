@@ -1,0 +1,20 @@
+id: sample-world
+name: Sample World
+version: 1.0.0
+summary: A minimal fictional world package template.
+banner: sample-banner
+entrypoints:
+- index/entities.yaml
+tags:
+- template
+theme:
+  mode: light
+  colors:
+    primary: '#F28AA4'
+    secondary: '#FFF4F6'
+    accent: '#D85D7A'
+knowledge:
+- target: character:sample-student
+  access: always
+  condition:
+    fromPosition: 0

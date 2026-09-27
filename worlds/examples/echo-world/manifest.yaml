@@ -1,0 +1,5 @@
+schemaVersion: "1.0"
+id: echo-world
+name: "Echo World"
+version: "1.0.0"
+entry: world.yaml

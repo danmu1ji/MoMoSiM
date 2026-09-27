@@ -1,0 +1,24 @@
+{
+  "productName": "MoMoSiM",
+  "version": "0.1.0",
+  "identifier": "ai.worldplayer.desktop",
+  "build": {
+    "frontendDist": "../apps/desktop/dist",
+    "beforeBuildCommand": "pnpm --filter @world-player/desktop build"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "MoMoSiM",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; media-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https: http://localhost:* http://127.0.0.1:* ws://localhost:* ws://127.0.0.1:* ipc: http://ipc.localhost; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+    }
+  },
+  "bundle": {
+    "active": false
+  }
+}

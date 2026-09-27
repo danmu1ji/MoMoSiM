@@ -1,0 +1,54 @@
+entities:
+- id: category:sample-school
+  type: category
+  name: Sample Academy
+  summary: A fictional category.
+  markdown: lore/sample-school.md
+  tags:
+  - Sample placeholder
+  relations: []
+  banner: sample-banner
+- id: character:sample-student
+  type: character
+  name: Sample Student
+  summary: A fictional character.
+  markdown: characters/sample-student/character.md
+  banner: sample-banner
+  chatImage: sample-portrait
+  voice: sample-voice
+  personality:
+    markdown: '## Personality
+
+
+      Add original content.'
+  speech:
+    markdown: '## Speech style
+
+
+      Add original content.'
+  prompt:
+    markdown: '## Roleplay guidance
+
+
+      Add original content.'
+  categories:
+  - category:sample-school
+  tags:
+  - sample
+  relations:
+  - label: example relationship
+    target: character:sample-student
+    type: example
+  knowledge:
+  - access: always
+    target: event:sample-event
+  nameEn: Sample Student
+  summaryEn: A fictional character for package examples.
+- id: event:sample-event
+  type: event
+  name: Sample Event
+  summary: A fictional event.
+  markdown: events/sample-event.md
+  tags:
+  - Sample placeholder
+  relations: []

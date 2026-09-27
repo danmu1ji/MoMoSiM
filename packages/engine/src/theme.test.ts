@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { createMemorySource, loadWorld } from './core';
+describe('world theme',()=>{it('loads custom theme colors',async()=>{const d=await loadWorld(createMemorySource({'manifest.yaml':'schemaVersion: 1\nid: w\nentry: world.yaml','world.yaml':'id: w\nname: W\nversion: 1\ntheme:\n  colors: {primary: "#111111", secondary: "#222222", accent: "#333333"}','index/entities.yaml':'entities: []','timeline/time-slices.yaml':'timeSlices: []','timeline/states.yaml':'states: []','assets/media.yaml':'media: []'})); expect(d.world.theme?.colors?.accent).toBe('#333333');});});

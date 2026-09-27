@@ -1,0 +1,1131 @@
+entities:
+- id: character:airi
+  nameEn: Airi
+  summaryEn: Enrolled at Trinity Integrated Academy, Airi is a member of the After
+    School Sweets Club. She has an easygoing personality and treasures spending time
+    talking with her friends while eating sweets more than enything else. She loves
+    ice cream and has recently developed a taste for mint chocolate.
+- id: character:akane
+  nameEn: Akane
+  summaryEn: An agent of Millennium's secret society "C&C". Having a callsign of Zero-three,
+    she is an essential member of C&C specializing in "cleaning up". Akane has earned
+    her nickname of "Master Cleaner" for her ability to infiltrate enemy lines with
+    a deceivingly tender impression and gracefully yet explosively "clean out" the
+    enemy.
+- id: character:akari
+  nameEn: Akari
+  summaryEn: Enrolled in Gehenna Academy, Akari is a member of the Gourmet Research
+    Society. People may think she is just a quiet young girl, but she is actually
+    the long-reigning champion food fighter of the Kivotos Eating Tournament. While
+    fundamentally a calm and good-natured girl, like a true Gehenna student she is
+    occasionally willing to cause great trouble for others.
+- id: character:akira
+  nameEn: Akira
+  summaryEn: One of the Seven Prisoners, Akira is known as Benevolent Thief for stealing
+    anything and everything her heart desires.
+- id: character:ako
+  nameEn: Ako
+  summaryEn: A student of Gehenna Academy, Ako is the executive officer of the Disciplinary
+    Committee, and a sort-of secretary to its president Hina. At first glance she
+    may appear kind and good-natured, but Ako has zero tolerance for students who
+    break the rules. She is constantly at Hina's side, assisting in her duties as
+    president of the Disciplinary Committee. This has prompted other students to call
+    her "Hina's Pet" amongst other things, but Ako doesn't particulary care.
+- id: character:aoba
+  nameEn: Aoba
+  summaryEn: An engineer in the Freight Logistics Department at Highlander Railway
+    Academy. Although she is shy and easily scared, Aoba also has a side to her that
+    casually makes piercing sarcastic remarks. Perhaps because she speaks in a hushed
+    voice, it can be a little difficult to tell whether the words she speaks are insulting
+    or not. She is always busy with hard work and often feels unfairly treated, and
+    harbors a strong dissatisfaction with the world.
+- id: character:arisu
+  nameEn: Arisu
+  summaryEn: Student of Millennium and member of the Game development club. She was
+    found sleeping inside some ruins. Everything about her is unknown, including her
+    age. Currently, she enjoys playing videogames with Momoi, Midori and Yuzu and
+    has become a serious game maniac. Because she picks up lines from retro games,
+    her speech tends to be hesitant and unnatural.
+- id: character:aru
+  nameEn: Aru
+  summaryEn: Gehenna Academy's self-appointed president of Problem Solver 68, conducts
+    all sorts of illegal business as she pleases. While Aru considers herself to be
+    a cool outlaw, she often falls out of character and thus any appearance disparities
+    are easily revealed.
+- id: character:asuna
+  nameEn: Asuna
+  summaryEn: An agent of Millennium's secret agency "C&C". With a callsign of Zero-one,
+    Asuna is a veteran who has frequently overcome many difficulties with brute intuition.
+    On missions, she's very openly trusting of people and breaks any sense of doubt
+    or uncertainty. Her actions are hard to understand but never fail to produce results
+    in the end.
+- id: character:atsuko
+  nameEn: Atsuko
+  summaryEn: A mysterious Arius Squad girl who belongs to the Arius Branch School
+    and always wears a gas mask. While Atsuko doesn't use the gas mask expressly for
+    the purpose of hiding her face, she lives mostly wearing the mask, except when
+    eating or sleeping. She is called "princess" by the squad leader Saori, but her
+    background is a mystery as Atsuko doesn't share much about herself.
+- id: character:ayane
+  nameEn: Ayane
+  summaryEn: The diligent secretary of the Abydos Foreclosure Task Force. A hard-working
+    stickler for rules and regulations, she does her best to contribute to the revitalization
+    of Abydos High School.
+- id: character:azusa
+  nameEn: Azusa
+  summaryEn: The ice witch of Trinity's Supplemental Lessons Club. For various reasons,
+    she had dropped out of school and re-enrolled at Trinity. One to mainly keep to
+    herself, she tends to voluntarily distance herself from others so as to not be
+    a bother. This has led to others in the Supplemental Lessons club worrying for
+    her.
+- id: character:cherino
+  nameEn: Cherino
+  summaryEn: Cherino is the tyrannical and childlike student council president of
+    Red Winter. She has an extremely strong desire for power - despite being overthrown
+    in a revolution almost every week, Cherino somehow keeps returning to the seat
+    of student council president. According to Cherino, her fake moustache is a "symbol
+    of influence" that "radiates authority".
+- id: character:chiaki
+  nameEn: Chiaki
+  summaryEn: Chiaki is a member of Gehenna Academy's "Pandemonium Society" council
+    and its secretary. A girl with a bright and cheerful personality. She publishes
+    the "Pandemonium Society Weekly" newspaper as a hobby. Chiaki constantly writes
+    articles in an effort spread the word about Ibuki's cuteness to as many students
+    as possible.
+- id: character:chihiro
+  nameEn: Chihiro
+  summaryEn: The deputy director of the hacker group Veritas; member of the Millennium
+    Science School. Chihiro is a hacker with outstanding programming skills who tries
+    to avoid abusing her abilities. She is the moral compass of Veritas group, which
+    is full of mischievous children, and although Chihiro always gives passionate
+    speeches about "proper hacker ethics" to the club members, she is also willing
+    to put in greyhat work when necessary.
+- id: character:chinatsu
+  nameEn: Chinatsu
+  summaryEn: Enrolled at Gehenna Academy, Chinatsu is in charge of first aid at the
+    Public Morals Committee. Committed to observing the rules and the proper procedures,
+    Chinatsu is one of the few sensible members of the Public Morals Committee, and
+    it falls on her to keep Ako and Iori in check when they get out of control. Her
+    formal way of speaking tends to give the impression of being cold and distant,
+    "typical of a member of the Public Morals Committee". However, she's really a
+    kind girl who completely softens up when in front of cute animals.
+- id: character:chise
+  nameEn: Chise
+  summaryEn: Chise is a naturally-airheaded girl belonging to the Yin-Yang club of
+    Hyakkiyako. She joined the Yin-Yang club due to her interest in traditional cultural
+    elements such as haiku. Exuding a mysterious atmosphere from her appearance and
+    gestures, she is the envy of other Hyakkiyako students. However, she is not aware
+    of this fact herself.
+- id: character:eimi
+  nameEn: Eimi
+  summaryEn: Enrolled at Millennium Science School, Eimi is a member of the Supernatural
+    Phenomenon Task Force. She's a quiet girl who gives a denpa-like impression. It's
+    hard to know what she's thinking. She can often be seen standing around vacantly
+    for no reason. However, when entrusted with a mission, she is able to execute
+    her objective by moving more efficiently than anyone.
+- id: character:eri
+  nameEn: Eri
+  summaryEn: A member of the Wildhunt Art Academy and the president of the Occult
+    Research Society, which explores the occult that resides in art. Eri wears a large
+    hat and talks of everything in magical terms. She strongly believes that the power
+    of the occult can improve her grades and artistic ability.
+- id: character:erika
+  nameEn: Erika
+  summaryEn: A kind-hearted high school student attending Gehenna Academy. Although
+    she projects an intellectual and cool image, she is actually sociable and friendly,
+    able to get along with anyone. She often goes around looking for fun things to
+    do with her best friend, Kirara.
+- id: character:fubuki
+  nameEn: Fubuki
+  summaryEn: A lazy student of the Community Safety Bureau of Valkyrie Police Academy.
+    She enrolled in the Valkyrie Police Academy pursuing the carefree life of a civil
+    servant. Treats any incoming complaints with utter indifference, and enjoys the
+    life of a window-gazer who's not motivated by money nor honor. Her favorite thing
+    to do is to listen to the radio while eating a doughnut.
+- id: character:fuuka
+  nameEn: Fuuka
+  summaryEn: Belonging to Gehenna Academy's School Lunch Club, Fuuka is in charge
+    of managing the school's cafeteria. Working hard every morning to make a huge
+    number of meals for everyone in the school, her kindness and diligence make her
+    a rarity amongst Gehenna students. While her meals are certainly good, due to
+    the school cafeteria being understaffed, her true culinary skills tend to go undervalued.
+    Nevertheless, she puts in effort day by day to provide tastier meals to everyone.
+- id: character:fuyu
+  nameEn: Fuyu
+  summaryEn: A member of the Wildhunt Art Academy, Fuyu is the sales and technical
+    specialist for unofficial smuggling group, Free Trade Cartel. She serves as the
+    liaison for the Free Trade Cartel, handling requests and negotiating directly
+    with clients. Fuyu seems confident and composed, but facing unexpected situations
+    can leave her shaken and unsure of herself.
+- id: character:hanae
+  nameEn: Hanae
+  summaryEn: Newly enrolled at Trinity Integrated Academy, Hanae is a lively and cheerful
+    girl who belongs to the Rescue Knights. She has a positive attitude towards everything
+    and is full of energy, but has a tendency to become overexcited when she finds
+    a patient, usually making the situation worse. Despite being quite an eccentric
+    character, strangely enough, patients who have received her care have all recovered
+    right away no matter their illness.
+- id: character:hanako
+  nameEn: Hanako
+  summaryEn: Trinity's Supplemental Lessons Club's paragon of sensitivity. At first
+    glance, Hanako appears graceful and ladylike... Or so one may think. In reality
+    she can be quite the problem child who can't stop speaking of sex. Her club members,
+    aware of this, are often at a sense of unease every time she speaks.
+- id: character:hare
+  nameEn: Hare
+  summaryEn: A member of hacker group Veritas of Millennium. Among the many geniuses
+    of Millenium, she is one of the most prominent. Most of the advanced cutting-edge
+    devices in Millennium were created by her. However, despite her ability and achievements,
+    she isn't one to brag. She is kind, friendly with other students and a good listener.
+- id: character:haruka
+  nameEn: Haruka
+  summaryEn: Rank-and-file member of Gehenna Academy's Problem Solver 68. Due to her
+    gloomy personality, she has always been teased, but was able to escape that fate
+    thanks to Aru. Afterwards she has operated in Problem Solver 68 as a role akin
+    to the youngest child in a family. Despite her shyness and little self-esteem,
+    it wouldn't be incorrect in saying she's the scariest among the erratic Problem
+    Solver 68.
+- id: character:haruna
+  nameEn: Haruna
+  summaryEn: Enrolled at Gehenna Academy, Haruna is the club president of the Gourmet
+    Research Society. Upon first look at her, one might think she is a rich princess-like
+    and aloof elegance, but get her involved in talks of food and all sense of distinction
+    is lost in this zealous gourmet. In contrast to such gluttony, she is actually
+    not one with much of an appetite. Favorite foods are greasy, full of hormones,
+    and stew-centric.
+- id: character:hasumi
+  nameEn: Hasumi
+  summaryEn: Enrolled at Trinity Integrated Academy, Hasumi is the Justice Actualization
+    Committee's No. 2. In place of its president, Tsurugi, who embodies wildness,
+    Hasumi also acts as the Justice Actualization Committee's tactical commander.
+    At a glance she appears composed and intellectual, like the archetypal Trinity
+    student. However, Hasumi too is a fully-fledged member of the Justice Actualization
+    Committee, and will sometimes act recklessly while retaining her composed nature.
+- id: character:hibiki
+  nameEn: Hibiki
+  summaryEn: Hibiki belongs to the Engineering Club of Millennium Science School.
+    Despite being unsociable and unsophisticated in speech, she exhibits a prominent
+    natural ability in engineering and has invented many marvellous objects. Her inventions
+    are practically without flaws and while it wouldn't be too much to call them masterpieces,
+    they always include at least one bizarre feature that leaves their users bewildered.
+- id: character:hifumi
+  nameEn: Hifumi
+  summaryEn: A sensitive girl, Hifumi is a student of Trinity Integrated Academy and
+    a member of the Supplementary Classes Club. Despite her average grades and appearance,
+    Hifumi's gentle and kind personality has gained her popularity. While she will
+    gladly lend an ear to those with problems, she has a tendency to be swept up in
+    the moment and unintentionally cause trouble.
+- id: character:hikari
+  nameEn: Hikari
+  summaryEn: A student at the Highlander Railway Academy and an officer of the CCC
+    (Central Control Center). She has outstanding talent for driving trains, and was
+    chosen as an officer along with her younger twin sister Nozomi. However, Hikari
+    is terrible at paperwork and administrative tasks. She follows her whims and does
+    things at her own pace without worrying about what others think, which causes
+    all kinds of incidents.
+- id: character:himari
+  nameEn: Himari
+  summaryEn: Enrolled at Millennium Science School, the former director of the hacker
+    group "Veritas" and the current director of the Supernatural Phenomenon Task Force.
+    A self-proclaimed super genius and sickly beautiful girl hacker, who is said to
+    be an owner of the "Omniscience" degree, something only three people in the history
+    of Millennium could claim. ...it's not entirely clear if that is true or whether
+    such degree even exists. According to Himari, a girl with many secrets is alluring...
+    She is also a leading genius hacker, and at the same time, has a penchant for
+    all things occult.
+- id: character:hina
+  nameEn: Hina
+  summaryEn: Head prefect of the Gehenna Prefect Team. Somewhat aloof and considers
+    almost everything a bother and chore, but is still every bit the head prefect
+    of the Prefect Team when it comes to rules and regulations. Her general response
+    to most things is "Ugh, so annoying," but she's ruthless and decisive when it
+    comes to matters on the battlefield. Feared and respected by the enemies of Gehenna.
+- id: character:hinata
+  nameEn: Hinata
+  summaryEn: Hinata is a serious and earnest Sisterhood member from the Trinity Integrated
+    Academy. She is responsible for the "management of the cathedral and other items",
+    a job she performs faithfully every day. However, she is a bit of a dilettante,
+    and often loses confidence after making a series of mistakes. She carries with
+    surprising ease a large suitcase with various items in it, including a grenade
+    launcher.
+- id: character:hiyori
+  nameEn: Hiyori
+  summaryEn: Hiyori is a petulant and melancholic member of the Arius Squad. She has
+    low self-esteem, usually sees things in a negative light and is often self-deprecating
+    when it comes to herself. She is occasionally seen carrying a heavy luggage on
+    her back and following slightly behind everyone else.
+- id: character:hoshino
+  nameEn: Hoshino
+  summaryEn: A young, lazy girl from Abydos High School. She's currently the vice
+    president of the Abydos Student Council, and is also the president of the Countermeasure
+    Council. Speaking like an old man, she enjoys playing around more than work. Because
+    of this, she's often the subject of anger from the rest of the council, but once
+    the mission starts she protects the other members by fighting valiantly on the
+    front lines.
+- id: character:ibuki
+  nameEn: Ibuki
+  summaryEn: A student from Gehenna Academy, member of the Pandemonium Society, and
+    a mascot-like girl. She was originally a student of Gehenna Academy's elementary
+    school, but Ibuki's ability was recognized and she joined Gehenna's "Pandemonium
+    Society", which only the best students can enter. Being the youngest member of
+    the Pandemonium Society, she is loved by everyone for her earnest cuteness. She
+    is a well-behaved girl who works diligently so as not to cause trouble for her
+    seniors.
+- id: character:ichika
+  nameEn: Ichika
+  summaryEn: A member of the Justice Actualization Committee of Trinity Academy, Ichika
+    always has a calm expression on her face. As a member of the Justice Actualization
+    Committee, she is primarily in charge of mediation between students. Ichika maintains
+    coirdial relationships with other schools as well. Her amiable personality should
+    not be mistaken for something innate, it is a conscious result of continuous work.
+- id: character:iori
+  nameEn: Iori
+  summaryEn: Enrolled in Gehenna Academy, Iori is a ruthless specialist of the Public
+    Morals Committee. As the leader of its assault corps, she punishes students that
+    she finds breaking the rules with overwhelming force. While she may be quick-thinking,
+    good at her job and possessing a decent sense of combat, Iori is also prone to
+    losing sight of her surroundings once she spots an enemy. This recklessness can
+    lead to her falling into even the simplest of traps.
+- id: character:iroha
+  nameEn: Iroha
+  summaryEn: One of the members of "Pandemonium Society" within Gehenna Academy. She's
+    easily irritable and tries to slack from her duties. Those attempts are repeatedly
+    blocked by fellow Pandemonium members (specifically, Makoto). Pandemonium officer's
+    days are always busy with problems to solve and tasks that have to be done, even
+    if one finds them annoying. Ibuki, Pandemonium Society's mascot, always helps
+    to keep Iroha's spirit up, and so, with a sigh, she continues to carry out her
+    daily duties.
+- id: character:izumi
+  nameEn: Izumi
+  summaryEn: A member of Gehenna Academy's Gourmet Research Society, Izumi is a glutton
+    who will eat anything. As a result of her overwhelming love of food, she has come
+    to enjoy bizarre foods that other would not touch.
+- id: character:izuna
+  nameEn: Izuna
+  summaryEn: A member of Ninjutsu Research Club of Hyakkiyako. Her dream is "to become
+    the greatest Ninja of Kivotos". Because of pursuing a dream not many people can
+    reason with, Izuna is often seen alone despite her bright and cheerful personality.
+    In her pursuit to become a proper ninja, she continues to refer to Sensei as "Lord"
+    while "escorting" him (simply tailing Sensei around Kivotos) and devoting herself
+    to various other activities.
+- id: character:junko
+  nameEn: Junko
+  summaryEn: A prim yet gluttonous member of Gehenna Academy's Cuisine Research Society.
+    Differing from her other club members who often overeat everyday food, Junko is
+    one to take part in a certain extent of enjoying reasonable quality cuisine. However
+    she is known to lose her sense of reason when delicious foods are placed in front
+    of her.
+- id: character:juri
+  nameEn: Juri
+  summaryEn: A student of Gehenna Academy and member of the School Lunch Club that
+    manages the academy cafeteria. While working alongside Fuuka to prepare meals
+    for fellow students, because her cooking talent is said to exceed catastrophically
+    bad levels, it's hard to say her food provisions are of particular use. However
+    because of encouragement and direction from Fuuka, Juri works hard everyday to
+    make better meals.
+- id: character:kaede
+  nameEn: Kaede
+  summaryEn: A student of Hyakkiyako Alliance Academy, an energetic member of the
+    discipline club. Originally, she was a mischievous child from a rural Hyakkiyako
+    countryside, but the moment she met Tsubaki and Mimori, Kaede decided to join
+    the discipline club saying "I want to be such a wonderful lady!". She is studying
+    every day to get closer to her ideals, but most of the training leads to trouble
+    for some reason.
+- id: character:kaho
+  nameEn: Kaho
+  summaryEn: Hyakkiyako Alliance Academy Deputy Director of the Yin-Yang club and
+    Lead Strategist of the Cultural Tourism Industry Public Relations Support Department.
+    Kaho loves Hyakkiyako culture more than anyone else and cares deeply about the
+    students who contribute to it. Because of her appearance, some Hyakkiyako students
+    have been known to refer to her as "Kaho-san, who is more of a department head
+    than that actual department head". Incidentally, she is also a valued straight
+    man of the Yin-Yang club.
+- id: character:kai
+  nameEn: Kai
+  summaryEn: The former president of the Eastern Alchemy Society, Kai got herself
+    banned from Shanhaijing for spreading illegal drugs and elixirs. She is now one
+    of the Seven Prisoners, known as Monkey of the Senses.
+- id: character:kanoe
+  nameEn: Kanoe
+  summaryEn: A member of the Occult Research Society at Wildhunt Art Academy, Kanoe
+    explores the occult that resides in art. Despite being the only third-year student
+    in the Occult Research Society, she is not the president, opting instead to back
+    other members. Rumors circulate that she herself may be an occult being due to
+    her suspicious appearance and behavior.
+- id: character:karin
+  nameEn: Karin
+  summaryEn: Agent of the Millennium Science School secret organization "C&C". With
+    a call sign of "Zero-Two", she provides powerful fire support from the back line.
+    Despite her rough appearance, she is actually the most prudent member of the group,
+    and is constantly struggling to hold back the battle-frenzied Asuna and Akane.
+- id: character:kasumi
+  nameEn: Kasumi
+  summaryEn: A student of Gehenna Academy, and manager of its Hot Springs Development
+    Department. Kasumi insists that any land with a natural spring must be developed
+    into a hot spring, and once a suitable location has been found she will do whatever
+    it takes to blast through the ground with complete disregard for the surroundings.
+    Although she enjoys full support from fellow club members, her language and actions
+    are those of a wanted criminal.
+- id: character:kayoko
+  nameEn: Kayoko
+  summaryEn: Section Chief of Problem Solver 68 and student of Gehenna Academy. Unlike
+    the rest of the group, Kayoko is not one with ill intentions however she's often
+    misunderstood due to her natural facial expression. Normally keeping silent against
+    these misunderstandings, this likely leads to furthering her scary image.
+- id: character:kazusa
+  nameEn: Kazusa
+  summaryEn: A member of Trinity Integrated Academy's After School Sweets Club with
+    a laid-back and quiet personality. Preferring to avoid the spotlight, she usually
+    follows along with the other club members. Kazusa is always having a hard time
+    getting caught up in the eccentricities of those around her, but she also cherishes
+    those moments.
+- id: character:kei
+  nameEn: Kei
+  summaryEn: Kei has a new body. She doesn't realize it, but she is a little more
+    excited than usual.
+- id: character:kikyou
+  nameEn: Kikyou
+  summaryEn: Kikyou is a member of the Hyakkiyako Academy and the operational staff
+    member of the Hyakkaryouran Dispute Mediation Committee. She deeply values common
+    sense, logic, and reason. As a staff strategist, she pursues victory, but what
+    she values even more is the safety of her allies. Despite the ruthless impression,
+    she is a kind and caring person.
+- id: character:kirara
+  nameEn: Kirara
+  summaryEn: Kirara is a high school girl with a bright personality from the Gehenna
+    Academy. She is always on lookout for novelty and excitement. Kirara is extremely
+    sociable and can easily chat up people she'd just met for the first time.
+- id: character:kirino
+  nameEn: Kirino
+  summaryEn: An enthusiastic student belonging to the Community Safety Bureau of Valkyrie
+    Police Academy. Looking up to the police officers who maintain law and order in
+    the city, Kirino enrolled in the Valkyrie Police Academy, but was placed in the
+    Community Safety Bureau due to her fatally poor shooting skills. Nevertheless,
+    she doesn't give up on her dream, and strives everyday to become a police officer
+    who can skilfully suppress criminals.
+- id: character:kisaki
+  nameEn: Kisaki
+  summaryEn: The president of Genryumon, the student council that oversees everything
+    that happens in Shanhaijing Academy. She gives off an atmosphere that makes her
+    difficult to approach with her elegant yet intimidating style of talking mixed
+    in with her mysterious impression. However, it seems that she actually utilizes
+    that impression of her to help with her duties. Her "disguised undercover travel,"
+    which rarely gets noticed by most people, can be quite a scene for those who are
+    aware.
+- id: character:koharu
+  nameEn: Koharu
+  summaryEn: Koharu is a member of the Supplemental Lessons Club of Trinity General
+    School. Originally a member of the Justice Actualization Committee, she received
+    failing grades and was in danger of repeating a year, so she was forcefully transferred
+    to the Supplemental Lessons Club. While she may consider herself elite, she is
+    actually rather stupid, so much so in fact that she is completely unable to keep
+    up with her lessons. She has a secret hobby(?) of collecting lewd magazines, and
+    often begins to fantasize about the most trivial things in everyday life, often
+    to her own embarrassment.
+- id: character:kokona
+  nameEn: Kokona
+  summaryEn: A first-year student of Shanhaijing Senior High School, Kokona works
+    as an instructor in the "Meihua Yuan" disciplinary support department. Although
+    young enough to still be attending elementary school, she has been recognized
+    for her excellent learning ability and has been given the authority of an instructor.
+    The students affectionately call her "Kokona-chan", but Kokona isn't very happy
+    about that.
+- id: character:kokoro
+  nameEn: Kokoro
+  summaryEn: A student of Odyssey Maritime School and captain of the Diving Club.
+    True to her title, Kokoro is highly skilled at diving. Whenever trouble arises
+    underwater, such as recovering dropped items or repairing cables, the students
+    of Odyssey invariably turn to her for help. However, she is extremely anxious
+    and will not jump into water until she has made absolutely sure all of her equipment
+    is in order.
+- id: character:konoka
+  nameEn: Konoka
+  summaryEn: A student from Valkyrie Police Academy and the Deputy Director of the
+    Public Peace Bureau. ​Though her appearance sometimes leads people to mistake
+    her for a suspect, she is a highly capable officer. She can trace the psychology
+    and behavior of criminals better than anyone else in the Bureau, though she doesn't
+    seem to be doing it consciously. ​Rumor has it that she is the student who has
+    been promoted the most—and demoted the most—in the history of the Public Peace
+    Bureau.
+- id: character:kotama
+  nameEn: Kotama
+  summaryEn: A hacker from the hacker group Veritas of Millennium Science School.
+    Her specialty is eavesdropping. She is a strange girl who likes to eavesdrop on
+    people's secret conversations. She's not good at talking to people, to such a
+    degree that she even uses honorifics with younger first graders. In real life
+    she's a shy girl of few words, but on the internet she's quite the talker.
+- id: character:kotone
+  nameEn: Kotone
+  summaryEn: Vice-captain of the Diving Club at Odyssey Maritime School. Kotone has
+    poor eyesight and usually wears strong prescription glasses. While her vision
+    is subpar, her hearing and intuition are exceptional. When visibility is poor
+    underwater, she relies on sounds to lead the club members. Kotone picked up a
+    hobby of communicating via ham radio, which led to her developing connections
+    with students on the land.
+- id: character:kotori
+  nameEn: Kotori
+  summaryEn: Enrolled at Millennium Science School, Kotori is a member of the Engineering
+    Club. She loves to talk, and will not stop when telling people about physics and
+    the mechanisms of machinery. Whenever there's machine trouble at Millennium, she'll
+    be the first on the scene to explain the situation.
+- id: character:koyuki
+  nameEn: Koyuki
+  summaryEn: Genius girl from the Millennium Science School, Koyuki is a troublemaker
+    member of the "Seminar" student council. Koyuki is a prodigy when it comes to
+    analyzing probabilities, although she herself is completely unaware of it. Koyuki
+    likes games of chance, and constantly tries her luck in various ways. Even when
+    she is in trouble, she never gives up.
+- id: character:kurumi
+  nameEn: Kurumi
+  summaryEn: The pointwoman for the SRT Special Academy's FOX Squad, callsign "FOX3".
+    Kurumi possesses excellent physical ability and strong on-site adaptability, specializing
+    in combat as the squad's pointwoman. She has intense emotional swings and a straightforward
+    personality, but those traits have turned to her advantage in countless operations.
+    Though she rarely speaks of it, she harbors a complex about her physique.
+- id: character:maki
+  nameEn: Maki
+  summaryEn: A member of Veritas, a hacker group at Millennium Science School. A mischievous
+    student who enjoys drawing graffiti and designed Veritas' emblem. She has a flighty
+    personality and doesn't take anything seriously, which often sparks conflict with
+    other clubs.
+- id: character:makoto
+  nameEn: Makoto
+  summaryEn: Chairman of the Gehenna Academy's Pandemonium Society. Makoto is an ambitious
+    schemer who is willing to follow her desires and do anything to get what she wants.
+    Although her attitude often causes Makoto to suffer and fail, she is a strong-willed
+    girl who quickly recovers. She loves Ibuki like a younger sister, and also treats
+    Iroha like one as well.
+- id: character:mari
+  nameEn: Mari
+  summaryEn: A pious and sincere girl, Mari is a member of the Sisterhood of Trinity
+    Integrated Academy. More than just appearing cute at a glance, her calm aura and
+    soft, everlasting smile have charmed the countless students who have called on
+    her for advice. Mari is aware of her own inexperience, and her wish to soon become
+    a fine Sister like her seniors is always on her mind.
+- id: character:marina
+  nameEn: Marina
+  summaryEn: Marina is the chairman of the security committee in charge of maintaining
+    public order at Red Winter Federal Academy. She has a reputation for punishing
+    violators of the school rules without question or mercy. Marina is fond of the
+    word "charge" and will repeatedly charge at anything. Always the first to jump
+    into the fray whenever there is a problem in Red Winter, she is certainly faithful
+    to her duties, but she often gets lost as a result of her charges.
+- id: character:mashiro
+  nameEn: Mashiro
+  summaryEn: A student of Trinity General School, and member of the Justice Actualization
+    Committee. Carrying an unwieldly large rifle, Mashiro speechlessly carries out
+    her responsibilities in providing fire support. Normally one of few words and
+    rarely interacting with other people, once talks of justice pick up she becomes
+    quite the conversational partner.
+- id: character:megu
+  nameEn: Megu
+  summaryEn: A student of Gehenna Academy, Megu is at the heart of the Hot Springs
+    Development Department, and a work team leader at the development site. She believes
+    from the bottom of her heart that "demolition" is an answer to any problem. Megu
+    is trusted by fellow members of the Hot Springs Development Department for her
+    lively personality and outstanding demolition skills.
+- id: character:meru
+  nameEn: Meru
+  summaryEn: A student of the Red Winter Federal Academy, and a member of the "Knowledge
+    Liberation Front" Library Committee. Unlike Momiji, a fellow Knowledge Liberation
+    Front member, Meru not only enjoys consuming literary works, but also creates
+    them herself. Her pen name is "Meruri". Meru's namamono doujins are often inspired
+    by the relationships between students who either seem to be on good terms or especially
+    at odds with with each other. Her works are particularly known outside the school
+    for featuring rivalries between Trinity and Gehenna students.
+- id: character:michiru
+  nameEn: Michiru
+  summaryEn: A student of Hyakkiyako Alliance Academy and director of the Ninjutsu
+    Research Department, Michiru is always full of unfounded self-confidence. She
+    is an otaku who loves ninja movies, anime, and goods. Michiru is running around
+    with the members of the Ninjutsu Research Department today to let everyone throughout
+    Kivotos know of the greatness of ninjas.
+- id: character:midori
+  nameEn: Midori
+  summaryEn: Student of Millennium Science School, and the illustrator for the Game
+    Development Club. As per the title, Midori works along with her twin sister Momoi
+    in game development. Midori being the shy one with her sister oppositely cheerful,
+    they don't have much chemistry, but they have unrivaled passion in working together
+    when it comes to games. As of now they've managed to become very close.
+- id: character:mika
+  nameEn: Mika
+  summaryEn: Student of Trinity Integrated Academy and the former leader of "Pater",
+    one of the student unions that make up Trinity. Mika is a former member of the
+    Tea Party and is also a childhood friend of its leader, Nagisa. However, because
+    of their opposing political positions, they make a clear distinction between their
+    public and private lives. Mika always presents a happy smile and innocent appearance,
+    but she seems to be troubled by something she's unable to confide in others.
+- id: character:mimori
+  nameEn: Mimori
+  summaryEn: Member of the Hyakkiyako Alliance Academy, and a kind vice-president
+    of the discipline club. Mimori always has a cheerful smile and a gentle demeanor,
+    and she is very popular with everyone. Having been shojo manga fan since young
+    age, she pursues a dream of embodying the "Yamato Nadeshiko" character, to which
+    end she joined the discipline club. Together with her childhood friend and club
+    director Tsubaki she is working hard every day to practice cooking and cleaning.
+- id: character:mina
+  nameEn: Mina
+  summaryEn: Executive Officer of Genryumon, Shanhaijing's student council, and the
+    Student Council President's personal bodyguard. Despite her calm and collected
+    demeanor, she's a hardcore classic noir movie buff. She likes to quote scenes
+    and lines from movies, although often incorrectly. She gets into trouble trying
+    to be cool at inappropriate times, but Genryumon members do their best to mitigate
+    the damage.
+- id: character:mine
+  nameEn: Mine
+  summaryEn: Member of Trinity Integrated Academy, Captain of the Rescue Knights.
+    Mine is a white-clad warrior with strong will and bold personality, although she
+    also has a radical side. Common wisdom about Rescue Knights across Trinity is
+    "Mine breaks it and the Knights heal". Despite this, Mine is known to spend her
+    free time diligently maintaining her own equipment and inviting acquaintances
+    to tea parties. Her deep appreciation and knowledge of teas is on par with Hasumi
+    from the Justice Actualization Committee.
+- id: character:minori
+  nameEn: Minori
+  summaryEn: Student of the Red Winter Federal Academy, and head of the Labor Party.
+    Minori will send workers to any place where manpower is needed, such as large-scale
+    civil engineering and construction projects, and direct them on-site. Although
+    good at her job, Minori seems to be infamous with her employers for going on strikes
+    and demonstrations over trivial matters...
+- id: character:misaki
+  nameEn: Misaki
+  summaryEn: Misaki belongs to Arius Branch School. She is an Arius Squad girl of
+    few words and strikes others as unsociable. Misaki has little interest in others
+    or herself, and sometimes acts out of desperation. Her wrists and neck are covered
+    with thick bandages as if to hide something.
+- id: character:miyako
+  nameEn: Miyako
+  summaryEn: Miyako is the leader of RABBIT platoon belonging to SRT Special Academy.
+    She enrolled in the SRT Special Academy admiring the success of her seniors, only
+    to find her school suddenly closed. She is now living in the park with fellow
+    platoon members. Her facial expressions do not change much and she rarely shows
+    her emotions, so people around Miyako tend to think that she is unsociable. However,
+    deep down inside, she is always concerned about the members of her platoon and
+    has a kind heart. Her callsign is "RABBIT1".
+- id: character:miyo
+  nameEn: Miyo
+  summaryEn: Miyo is a member of the Wildhunt Art Academy and the head of its unofficial
+    smuggling group, Free Trade Cartel. Her goal is to see the club disbanded. However,
+    being timid and unable to rein in the other members, she ends up getting dragged
+    along for their activities. It seems her goal won't be reached anytime soon.
+- id: character:miyu
+  nameEn: Miyu
+  summaryEn: A sniper of the RABBIT platoon belonging to SRT Special Academy. She
+    enrolled SRT Special Academy because of her talent as a sniper, only to find her
+    school suddenly closed. She is now living in the park with fellow platoon members.
+    Miyu has a weak presence, which in itself is useful for sniper missions, but she
+    is often forgotten not only by the enemies but also by her allies. Her callsign
+    is "RABBIT 4".
+- id: character:moe
+  nameEn: Moe
+  summaryEn: An operator of the RABBIT platoon belonging to SRT Special Academy. Her
+    callsign is "RABBIT3". Moe enlisted in the SRT Special Academy because of its
+    focus on firepower, but the academy was suddenly shut down and now she is sleeping
+    outdoors with the other platoon members in the park. She's got a weird taste for
+    blowing things up and ruining things, but she's a solid operator. Moe also has
+    a serious sweet tooth and is rarely seen without a candy bar in her mouth.
+- id: character:momiji
+  nameEn: Momiji
+  summaryEn: Momiji is the bookworm girl from Red Winter Federal Academy, and a member
+    of the "Knowledge Liberation Front". Unlike other Red Winter students who fight
+    for bread and snacks, her struggle lies in adding more books to the library. Momiji's
+    quite the otaku, so the book purchase requests she regularly files are clearly
+    driven by personal interests. As a result, most of her requests so far have been
+    rejected, but Momiji continues to submit them without giving up.
+- id: character:momoi
+  nameEn: Momoi
+  summaryEn: Student of Millennium Science School, and the scenario writer for the
+    Game Development Club. As per the title, Momoi works along with her twin sister
+    Midori in game development. Momoi being the cheerful one with her sister oppositely
+    shy, they don't have much chemistry, but they have unrivalled passion in working
+    together when it comes to games. As of now they've managed to become very close.
+- id: character:mutsuki
+  nameEn: Mutsuki
+  summaryEn: A student of Gehenna Academy, Mutsuki is the go-getter of Problem Solver
+    68. Contrary to her guilt-ridden childhood friend Aru, Mutsuki is the kind who
+    loves causing crime and trouble without a worry. No one can read Aru better than
+    Mutsuki, even if she doesn't give any particular thought to the matter.
+- id: character:nagisa
+  nameEn: Nagisa
+  summaryEn: Affiliated with Trinity General Academy, she is the leader of "Filius",
+    one of the student union bodies that make up Trinity, and the host of the "Tea
+    Party" student council. Nagisa is refined and soft-spoken, but rarely reveals
+    her true feelings, making her a complicated and mysterious character. Her hobby
+    is preparing tea leaves and sweets for tea parties. She dreams of a day when many
+    Trinity students would be invited to a tea party of hers.
+- id: character:nagusa
+  nameEn: Nagusa
+  summaryEn: A student of the Hyakkiyako Academy and a member of the Hyakkaryouran
+    Conflict Resolution Council. Originally the vice president of Hyakkaryouran, Nagusa
+    inherited the leadership position after the previous president, Ayame, disappeared.
+    Nagusa is timid, has low self-esteem, and is indecisive, but she has shown the
+    strength of character to overcome fears and move forward for the sake of those
+    she cares about.
+- id: character:natsu
+  nameEn: Natsu
+  summaryEn: A member of the Trinity After-School Sweets Club, head troublemaker,
+    and a self-proclaimed romantic. Has a habit of being strangely philosophical and
+    comparing everything to desserts, making everyone around her feel awkward. She
+    claims she simply wants to share her romanticism with everyone. However, it's
+    impossible to deny that Natsu may just be messing with everyone since her definition
+    of "romance" is always changing.
+- id: character:neru
+  nameEn: Neru
+  summaryEn: The leader of Millennium's secret agency "C&C". Looking indisputably
+    like a delinquent with her attire, she's actually prideful of being the strongest
+    agent, boasting a 100% mission success rate. Because of this, she's earned the
+    callsign "Double O" which is seen as a guarantee of certain victory.
+- id: character:niko
+  nameEn: Niko
+  summaryEn: Deputy leader of the FOX Squad from SRT Special Academy, callsign "FOX2".
+    Niko has a kind and gentle personality and easily gets along with anyone. Because
+    of this, many juniors at SRT Academy rely on her, even beyond her own squad. She
+    is skilled at infiltration and camouflage and also manages the squad's operations.
+    Niko's specialty is making inarizushi. She often prepares it as lunch for her
+    squadmates, and the excellent taste has earned it a strong reputation throughout
+    SRT Academy.
+- id: character:niya
+  nameEn: Niya
+  summaryEn: President of Yin-Yang Club at the Hyakkiyako Academy. Outsiders may know
+    Niya as the Student Council President, but she is better known as the Non-Working
+    President as due to the structure of Hyakkiyako Academy she is usually tied in
+    much more complicated matters… or so she claims; the dislike of work is her second
+    nature. Niya always seems to casually cause havoc, but behind it all, there may
+    be an ulterior motive that she does not reveal to others.
+- id: character:noa
+  nameEn: Noa
+  summaryEn: Member of the Millennium Science School, secretary of the "Seminar" student
+    council. Noa mainly records seminar decisions and meeting minutes, and is also
+    in charge of the patent attorney's duties of identifying and registering patents
+    for products developed by Millennium students. She has a very good memory and
+    can almost perfectly memorize whatever she sees and hears once.
+- id: character:nodoka
+  nameEn: Nodoka
+  summaryEn: Nodoka is a student of Red Winter. However, she is currently suspended
+    from school, instead being confined to Class No. 227 in the old school building.
+    The reason for her suspension is "using a telescope to engage in stalking". Nodoka
+    has a desire to observe all of the beautiful things in the world with her own
+    eyes (including Sensei). The long hardship she has endured as part of Class No.
+    227 has given her a deep-running sense of frugality.
+- id: character:nonomi
+  nameEn: Nonomi
+  summaryEn: A member of the Countermeasure Council of Abydos. She has an emotional
+    and gentle personality, and plays a role as a mental support bringing together
+    the members of the Countermeasure Council, which has many extreme personalities.
+    Though she doesn't say it herself, she is the daughter of a very rich family.
+    In fact, she pays for almost all of the Countermeasure Council's snacks from her
+    own allowance.
+- id: character:nozomi
+  nameEn: Nozomi
+  summaryEn: A student at the Highlander Railway Academy and an officer of the CCC
+    (Central Control Center). She has a cheerful and lively personality and doesn't
+    worry about small details. Perhaps because of this, Nozomi often gets into trouble
+    with her older twin sister Hikari. Although she's the type to jump right into
+    anything that looks interesting, she is very diligent when it comes to her responsibility
+    for train operations.
+- id: character:otogi
+  nameEn: Otogi
+  summaryEn: The sniper of SRT Special Academy's FOX Squad, callsign "FOX4". Among
+    snipers, who are often lone wolves, Otogi is a rare type who can quickly get along
+    even with people she has just met. Within the squad, she plays the role of a mood-maker,
+    and on the battlefield, she serves to put pressure on the enemy morale. Otogi
+    is skilled at handling electronic equipment, and can even handle repairs for most
+    mechanical equipment malfunctions.
+- id: character:pina
+  nameEn: Pina
+  summaryEn: A student at Hyakkiyako Alliance Academy, Pina is a strong admirer of
+    chivalry and heroism. Always cheerful and happy to help out other people, she
+    learned of her yearning of said chivalry entirely through movies. All oddities
+    aside... She is a straight-forward girl with nothing but the chivalry she yearns
+    for on her path.
+- id: character:rabu
+  nameEn: Rabu
+  summaryEn: The captain of the Splash Helmet Gang. She is trusted by her subordinates
+    and has a big sister personality. However, she doesn't seem to have much luck.
+- id: character:rei
+  nameEn: Rei
+  summaryEn: Rei is a member of the Millennium Science School and is the No. 4 batter
+    who loves baseball. She is determined to reform the Millennium Baseball Club,
+    which is currently resigned to studying physics and ball dynamics. She seems to
+    get along well with the fitness nut Sumire... except when it comes to actual competition.
+- id: character:reijo
+  nameEn: Reijo
+  summaryEn: A member of Shanhaijing Senior High School, Reijo is the manager of the
+    main branch of the Genbu Trading Company, Rumi's assistant, and a security guard.
+    She is quite a kung fu fanatic, and often tries to imitate phrases and actions
+    of a certain famous martial artist. Contrary to her cool and detached appearance,
+    she sometimes shows a fiery passion.
+- id: character:reisa
+  nameEn: Reisa
+  summaryEn: A member of Trinity Integrated Academy's Vigilante Corps, who patrols
+    all over Trinity and works to maintain public order. People at times take her
+    to be a mischievous child because Reisa says things that don't make sense, but
+    she's more serious about the vigilante activities than anyone else around. She
+    has a habit of referring to herself by different names.
+- id: character:rena
+  nameEn: Rena
+  summaryEn: A member of the Occult Investigation Society at Wildhunt Art Academy,
+    which studies the paranormal aspects of art. She was assigned to room 404 in building
+    4, which led to her involvement in the Occult Investigation Society's activities.
+    While she claims anything paranormal is a sham, it seems she herself is unknowingly
+    becoming immersed in the occult world.
+- id: character:renge
+  nameEn: Renge
+  summaryEn: Renge is a member of the Hyakkiyako Academy and the captain of the Hyakkaryouran
+    Dispute Mediation Committee's Assault Squad. She has a strong sense of justice
+    and is very compassionate. While Renge cares deeply for her juniors, she is also
+    known by them to be a very strict and uncompromising instructor. She has no regrets
+    about joining Hyakkaryouran, but Renge is concerned that she is missing out on
+    enjoying her youth to its fullest. Perhaps as a reaction to this, she is pursuing
+    the kind of adolescence that is depicted in manga and novels, pushing forward
+    with her training, filled with excitement at the prospect of meeting her destiny.
+- id: character:rio
+  nameEn: Rio
+  summaryEn: President of the "Seminar" student council at the Millennium Science
+    School. Rio is a rationalist, she will do anything to ensure the safety of the
+    Millennium and the world. As a result, she is known as the "Big Sister". She has
+    a peculiar sense of style, as can be seen in "Avant-Guard-kun".
+- id: character:ritsu
+  nameEn: Ritsu
+  summaryEn: A member of the Wildhunt Art Academy, she is the muscle at the unofficial
+    smuggling group, Free Trade Cartel. Ritsu founded the current Free Trade Cartel,
+    and makes use of her superhuman strength to do the heavy lifting for the club.
+    Optimistic and pure-hearted, she genuinely enjoys the club's activities.
+- id: character:rumi
+  nameEn: Rumi
+  summaryEn: Rumi is a member of Shanhaijing Senior High School and the chairman of
+    the gourmet Black Tortoise Promenade. Under her extraordinary management, Black
+    Tortoise Promenade grew from a mediocre shopping street into one of the best gourmet
+    districts in Kivotos. Although she is at odds with the Shanhaijing student council,
+    who are wary of her growing influence, Rumi herself seems to have no interest
+    in anything other than developing the enterprise.
+- id: character:saki
+  nameEn: Saki
+  summaryEn: Saki is the point man of the RABBIT platoon, belonging to SRT Special
+    Academy. She entered the SRT Special Academy in search of a life based on strict
+    rules and regulations, but the academy was suddenly shut down. Saki now lives
+    in a park with other members of the same platoon, always carrying around an SRT
+    tactics manual, and is basically the type of person who always focuses on following
+    the principles of the school. She enjoys foraging for wild vegetables and other
+    scavenged items, which seems to be of great use in the current scarcity of resources
+    in the park. Her callsign is "RABBIT2".
+- id: character:sakurako
+  nameEn: Sakurako
+  summaryEn: A devout student of the Sisterhood belonging to Trinity Integrated Academy.
+    Sakurako is widely trusted by other students for her serious attitude. However,
+    being too serious, she sometimes deviates from trends and common sense.
+- id: character:saori
+  nameEn: Saori
+  summaryEn: Member of the Arius Branch School, and the leader of the Arius Squad,
+    an elite special force unit within the school. Saori is typically cool-headed
+    and does not hesitate to use any means necessary to achieve her goals, though
+    a passionate personality that sometimes reveals itself. An unrivaled expert in
+    guerrilla tactics, the daily life sometimes shows a somewhat naive side of hers.
+    The combat prowess of the Arius Squad is the result of her watchful oversight
+    of their training.
+- id: character:satsuki
+  nameEn: Satsuki
+  summaryEn: Satsuki is a council member of Gehenna Academy's "Pandemonium Society",
+    and the head of its intelligence department. Although she has mastered various
+    hypnotism techniques, there have only been precious few cases where Satsuki managed
+    to succefully apply them. She is a tough girl who doesn't get discouraged even
+    after repeated failures. She has a laid-back personality and does things at her
+    own pace. Hates bugs and scary things.
+- id: character:saya
+  nameEn: Saya
+  summaryEn: A genius inventor from Shanhaijng. Having already acquired 6 degrees
+    by the time she was in Elementary school, the nicknamed genius is known for bullying
+    and causing trouble for a lot of people. Saya brings along with her a rat assistant
+    that she's been with since childhood, they're so close that she considers it to
+    be like family.
+- id: character:seia
+  nameEn: Seia
+  summaryEn: A member of Trinity Integrated Academy, Seia is the leader of the "Sanctus"
+    student union, one of the Trinity factions. She is pedantic and difficult to please.
+    Being a bookworm, Seia is often found in the Great Library. After recovering from
+    her injuries, she sometimes shows her more childish side.
+- id: character:sena
+  nameEn: Sena
+  summaryEn: Head of the Emergency Medicine Department within Gehenna Academy. Although
+    she has saved countless people in the course of her career, Sena's habit of calling
+    injured people "corpses" and the rough way she treats patients has made some students
+    shy away from her.
+- id: character:serika
+  nameEn: Serika
+  summaryEn: A student of Abydos High School, and the grouchy secretary of the Abydos
+    Countermeasure Committee. One with many complaints, Serika is the type hesitant
+    to show her emotions. Despite her daily habit of saying "It's fine if this school
+    goes bankrupt", she has a deep love for her school and works tirelessly behind
+    the backs of her clubmates to pay off her school's debt.
+- id: character:serina
+  nameEn: Serina
+  summaryEn: A kind-hearted girl affiliated with the Trinity Remedial Knights. A virtuous
+    person who enjoys charity work, her concern for the health of those around her
+    has earned her a reputation as a sort of mother hen. Despite having a somewhat
+    timid personality and avoiding quarrels and conflict, she is always ready to stand
+    up against enemies who threaten the peace.
+- id: character:shigure
+  nameEn: Shigure
+  summaryEn: A student of the Red Winter Federation Academy, she is presently assigned
+    to the Special Class No. 227 in the old school building after being suspended.
+    The reason for the suspension was an act of secretly mixing alcohol into kompot
+    ration. She is a childhood friend of Nodoka, who is also in the Special Class
+    No. 227, and rumor has it that Shigure deliberately caused the accident after
+    Nodoka was sent to special class as a result of disciplinary action. Regardless
+    of the truth of the matter, she loves her homemade kompot, and always carries
+    it in her pocket flask.
+- id: character:shimiko
+  nameEn: Shimiko
+  summaryEn: Shimiko is the librarian of Trinity Integrated Academy's Library Committee.
+    An absolute bookworm, she is one of the few students who has read the huge book
+    collection in Trinity Library. She also loves to recommend books to others as
+    much as she loves reading them, such that the first thing that comes to her mind
+    when meeting someone new is "What book would suit this person's taste?"
+- id: character:shiroko
+  nameEn: Shiroko
+  summaryEn: Enrolled in Abydos High School, Shiroko is the sports-loving field captain
+    of the Countermeasure Council. Generally a girl of few words and few emotions,
+    she gives off an aloof aura but holds the interest of Abydos above all else. In
+    order to revitalize the school, she is willing to do anything, and occasionally
+    comes up with ridiculous plans.
+- id: character:shizuko
+  nameEn: Shizuko
+  summaryEn: A student of Hyakkiyako, Shizuko is the president of the festival management
+    committee and the owner and attraction of the classic-style cafe Momoyo Hall.
+    Usually the clutz while on the job, she's never one to overdo the attraction role.
+    In reality, she's the professional-minded kind to do whatever necessary to see
+    the success of her efforts for the festival and Momoyo Hall. This isn't to say
+    she isn't one to show her true emotions when she lets her guard down; both to
+    her close friends, and to Sensei as well.
+- id: character:shun
+  nameEn: Shun
+  summaryEn: Belonging to Shanhaijing Senior High School, Shun is an instructor of
+    the disciplinary support department known as "Meihua Yuan" (Plum Blossom Garden).
+    The club also shares its name with an actual garden. Shun's kind and tolerant
+    nature has earned her the trust of not only the children of Meihua Yuan, but also
+    other students of Shanhaijing. Having been an instructor for a long time, she
+    rarely gets angry at the children's mischief, but she is sensitive when one of
+    them brings up her age.
+- id: character:subaru
+  nameEn: Subaru
+  summaryEn: A student from Arius Branch School, who leads the remaining Arius students.
+    She is gentle, kind to everyone, and easy to get along with. She is also trusted
+    by her juniors. For the sake of her juniors, she is always prepared to pull the
+    trigger without hesitation.
+- id: character:sumire
+  nameEn: Sumire
+  summaryEn: Sumire is the leader of the Training Club at Millennium Science School.
+    One who is typically working on her training, a muscle-brained girl who believes
+    all matters in the world can be solved with muscles and exercise.
+- id: character:suzumi
+  nameEn: Suzumi
+  summaryEn: A member of Trinity Integrated Academy's Vigilante Corps. Because of
+    Trinity students frequently being targeted by other schools, the Vigilante Corps
+    began patrolling around town to defend against this. Due to her flaring sense
+    of justice, Suzumi is often misunderstood to have a cold personality. In reality
+    she really is a gentle girl.
+- id: character:takane
+  nameEn: Takane
+  summaryEn: A member of the Publishing Department at Red Winter Federal Academy.
+    A refined, elegant young lady who values good manners. She is skilled as a critic,
+    but her strong personal opinions often lead to conflicts. She appears to be locked
+    in a rivalry with the Knowledge Liberation Front.
+- id: character:toki
+  nameEn: Toki
+  summaryEn: A member of the Millennium Science School, the fifth agent of its secret
+    "C&C" agency. Although she belongs to C&C, Toki has been working as Rio's exclusive
+    maid and bodyguard until now, so few people are familiar with her. A superior
+    agent who fights based with high-tech weaponry. Until now, Toki has mainly acted
+    alone, but she actually has a lonely side.
+- id: character:tomoe
+  nameEn: Tomoe
+  summaryEn: Tomoe is a student of Red Winter Federal Academy, the secretary general
+    of the Red Winter Secretariat, and the first member of Cherino's inner circle.
+    She is a master storyteller who can make anything sound plausible, and she regularly
+    infuses her loyalty to Chairman Cherino into various speeches. Cherino herself
+    believes that Tomoe is inspired by her charisma and has a sense of loyalty to
+    her, but in reality Tomoe is just blindly adoring Cherino.
+- id: character:tsubaki
+  nameEn: Tsubaki
+  summaryEn: Enrolled at Hyakkiyako Academy, Tsubaki is president of the discipline
+    club. Notorious as a serial sleepyhead, Tsubaki is always taking naps during the
+    day, so her responsibilities as club president are effectively entirely handled
+    by her friend Mimori. Contrary to her lazy daytime habits, at night Tsubaki is
+    engaged secretly defending Hyakkihakou Academy.
+- id: character:tsukuyo
+  nameEn: Tsukuyo
+  summaryEn: A member of the Ninjutsu Research Club of Hyakkiyako Academy. Tsukuyo
+    grew up tall in an early age, and she was often teased for her physique, and as
+    a result, her current reclusive personality was formed. Tsukuyo is a timid person
+    and isn't good at communicating to others, but she also has the strength to jump
+    into any situation once she sets her mind to it. Although she is not very familiar
+    with the ways of ninja yet, she seems to be enjoying her time in the Ninjutsu
+    Research Club with her senior Michiru, and Izuna.
+- id: character:tsurugi
+  nameEn: Tsurugi
+  summaryEn: While enrolled as a Student of Trinity Joint Academy, and president of
+    the Justice Actualization Committee, Tsurugi is also Trinity's strategic weapon.
+    She is of a violent and trigger-happy disposition, and possesses a destroy-first
+    think-later attitude towards whatever she finds disagreeable. It is due to the
+    efforts of its vice-president, Hasumi, that the Justice Actualization Committee
+    is (just about) kept under control. Despite Tsurugi's uncontrollable and ferocious
+    nature, she can't help but reveal her feminine side when face to face with Sensei
+    and unable to hide her shyness.
+- id: character:ui
+  nameEn: Ui
+  summaryEn: Ui belongs to Trinity Integrated Academy and is the chairman of the library
+    committee. She loves books and is also a bit of a misanthrope, although it is
+    unclear which of the two comes first. She is particularly fond of old books, and
+    spends her days in seclusion, deciphering and managing old tomes at a place called
+    the "Antiquarian Bookstore". Her intellectual curiosity and her knowledge of antique
+    books are first-rate, and she is even called the "Sorceress of the Antiquarian
+    Bookstore" by those around her.
+- id: character:umika
+  nameEn: Umika
+  summaryEn: A first-year member of the festival management committee of Hyakkiyako
+    Alliance Academy. Being from the countryside, Umika was always fascinated by the
+    festivals held in cities. She has exhaustive knowledge of all the festivals held
+    throughout Kivotos. Once Umika starts talking, she tends to gush about obscure
+    festival topics; others often note that she's very attractive when silent.
+- id: character:utaha
+  nameEn: Utaha
+  summaryEn: The club leader of the Engineering Club at Millennium Science School.
+    Without straying from that title, Utaha continues to develop all sorts of various
+    robots. One she always brings along, Rai-chan, is known for having capabilities
+    that can rival several hundred PMC Automata.
+- id: character:wakamo
+  nameEn: Wakamo
+  summaryEn: Formerly from Hyakkiyako Alliance Academy, Wakamo is one of the "Seven
+    Prisoners" that escaped from Corrections Bureau after being suspended from school.
+    Known as the Fox of Calamity for her indiscriminate and large-scale destruction,
+    she is widely feared. Her motives and purpose are shrouded in mystery. Her true
+    face, hidden beneath the mask, is rumored to be as scary as a demon or as ugly
+    as the devil.
+- id: character:yakumo
+  nameEn: Yakumo
+  summaryEn: Head of the Publishing Department at Red Winter Federal Academy, Yakumo
+    also serves as the editor-in-chief of "Red Bear." She has a stubborn side, and
+    never backs down once she makes up her mind. She will use any means necessary
+    to benefit the Publishing Department, demonstrating her unrivaled drive. However,
+    it seems that she has a pure-hearted side as well...
+- id: character:yoshimi
+  nameEn: Yoshimi
+  summaryEn: A member of the Trinity After-School Sweets Club. A girl with a height
+    complex that gives off the impression of a small, angry animal. Constantly fixated
+    on appearing more mature, her tendency to wear her heart on her sleeve gets her
+    into trouble. She can't help but smile widely when visiting dessert cafes to sample
+    the latest limited-edition treats.
+- id: character:yukari
+  nameEn: Yukari
+  summaryEn: A first-year member of the Hyakkiyako Alliance Academy and the Hyakkaryouran
+    Dispute Mediation Committee. Yukari is the heiress of the venerable Kadenokouji
+    family. However, rather than inheriting the family business, she decided to pursue
+    her dream of joining Hyakkaryoran. She takes pride in being a member of Hyakkaryouran
+    and has a lot of energy. Although she sometimes falters, she has the strength
+    of character to recover quickly. She respects her seniors, and especially admires
+    Nagusa among them.
+- id: character:yuuka
+  nameEn: Yuuka
+  summaryEn: Enrolled in the Millennium Science School, Yuuka is the treasurer of
+    the student council known as "Seminar". A prominent mathematical genius even amongst
+    Millennium's STEM-rich student base, she supervises the management of the school's
+    budget. Yuuka's specialty is the abacus, and she has a habit of counting on one
+    in order to compose herself when faced with complex and troubling matters.
+- id: character:yuzu
+  nameEn: Yuzu
+  summaryEn: Yuzu is the club president of the Game Development Club of Millennium
+    Science School. She is very bad at speaking to people, and for that reason she
+    almost never goes outside, instead spending the majority of her time inside a
+    locker in the Game Development Club's club room. A lover of both playing and making
+    games, her passion for them is no ordinary thing.
+- id: character:ami
+  nameEn: Ami
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Island.
+- id: character:ayame
+  nameEn: Ayame
+  summaryEn: Listed in the official English wiki as a student of Hyakkiyako affiliated
+    with Hyakkaryouran.
+- id: character:azami
+  nameEn: Azami
+  summaryEn: Listed in the official English wiki as a student of Hyakkiyako affiliated
+    with Nature's Beauty.
+- id: character:kaguya
+  nameEn: Kaguya
+  summaryEn: Listed in the official English wiki as a student of Shanhaijing affiliated
+    with Peking Opera Club.
+- id: character:kanae
+  nameEn: Kanae
+  summaryEn: Listed in the official English wiki as a student of Shanhaijing affiliated
+    with Genryumon.
+- id: character:karen
+  nameEn: Karen
+  summaryEn: Listed in the official English wiki as a student of Gehenna affiliated
+    with Gehenna Revival Force.
+- id: character:maia
+  nameEn: Maia
+  summaryEn: Listed in the official English wiki as a student of Arius affiliated
+    with Nicomedia Troop.
+- id: character:mayumi
+  nameEn: Mayumi
+  summaryEn: Listed in the official English wiki as a student of Gehenna affiliated
+    with Gehenna Revival Force.
+- id: character:minato
+  nameEn: Minato
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Island.
+- id: character:mirai
+  nameEn: Mirai
+  summaryEn: Listed in the official English wiki as a student of Millennium affiliated
+    with Pseudoscience Club.
+- id: character:misuzu
+  nameEn: Misuzu
+  summaryEn: Listed in the official English wiki as a student of Valkyrie affiliated
+    with Corrections Bureau.
+- id: character:mitsuki
+  nameEn: Mitsuki
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Cruise Operations Club.
+- id: character:nanami
+  nameEn: Nanami
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Seven Prisoners.
+- id: character:natsuki
+  nameEn: Natsuki
+  summaryEn: Listed in the official English wiki as a student of Hyakkiyako.
+- id: character:sanae
+  nameEn: Sanae
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Sick Bay.
+- id: character:shouko
+  nameEn: Shouko
+  summaryEn: Listed in the official English wiki as a student of Gehenna affiliated
+    with Gehenna Revival Force.
+- id: character:shuro
+  nameEn: Shuro
+  summaryEn: Listed in the official English wiki as a student of Hyakkiyako affiliated
+    with Nature's Beauty.
+- id: character:sumika
+  nameEn: Sumika
+  summaryEn: Listed in the official English wiki as a student of Odyssey affiliated
+    with Trident.
+- id: character:suou
+  nameEn: Suou
+  summaryEn: Listed in the official English wiki as a student of Highlander affiliated
+    with Highlander Supervisory Office.
+- id: character:tsubasa
+  nameEn: Tsubasa
+  summaryEn: Listed in the official English wiki as a student of Millennium affiliated
+    with Pseudoscience Club.
+- id: character:tsumugi
+  nameEn: Tsumugi
+  summaryEn: Listed in the official English wiki as a student of Wildhunt affiliated
+    with Occult Investigation Society.
+- id: character:yukino
+  nameEn: Yukino
+  summaryEn: Listed in the official English wiki as a student of SRT affiliated with
+    FOX Squad.
+- id: character:yume
+  nameEn: Yume
+  summaryEn: Listed in the official English wiki as a student of Abydos affiliated
+    with Abydos Student Council.

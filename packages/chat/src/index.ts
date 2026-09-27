@@ -1,0 +1,2 @@
+import type { Character, Conversation } from '@world-player/schema';
+export function resolveSpeakers(conversation: Conversation, characters: Character[], input: string): Character[] { const mentioned = characters.filter(c => input.toLocaleLowerCase().includes(c.name.toLocaleLowerCase()) || input.toLocaleLowerCase().includes(c.id.toLocaleLowerCase())); if (mentioned.length) return mentioned; return characters.filter(c => conversation.participants.includes(`character:${c.id}`)).slice(0, 1); }

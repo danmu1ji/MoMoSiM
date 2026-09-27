@@ -1,0 +1,7 @@
+timeSlices:
+  - id: opening
+    label: "첫 항해 전"
+    position: 0
+  - id: after-storm
+    label: "폭풍 이후"
+    position: 100

@@ -1,0 +1,1 @@
+{"name":"@world-player/engine","version":"0.1.0","type":"module","exports":{".":"./dist/index.js","./core":"./dist/core.js","./desktop":"./dist/desktop-adapter.js"},"types":"./dist/index.d.ts","dependencies":{"@world-player/schema":"workspace:*","@world-player/markdown":"workspace:*","yaml":"^2.7.0","fflate":"^0.8.2"}}

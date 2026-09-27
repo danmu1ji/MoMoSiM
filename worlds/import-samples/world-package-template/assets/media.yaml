@@ -1,0 +1,31 @@
+media:
+- id: sample-voice
+  file: assets/audio/sample-voice.wav
+  kind: audio
+  description: Silent placeholder voice.
+  tags:
+  - placeholder
+- id: sample-background
+  file: assets/images/sample-placeholder.svg
+  kind: background
+  description: Placeholder background.
+  tags:
+  - placeholder
+- id: sample-illustration
+  file: assets/images/sample-placeholder.svg
+  kind: illustration
+  description: Placeholder illustration.
+  tags:
+  - placeholder
+- id: sample-portrait
+  file: assets/images/sample-placeholder.svg
+  kind: portrait
+  description: Placeholder portrait.
+  tags:
+  - placeholder
+- id: sample-banner
+  file: assets/images/sample-placeholder.svg
+  kind: profile
+  description: Placeholder profile or banner.
+  tags:
+  - placeholder

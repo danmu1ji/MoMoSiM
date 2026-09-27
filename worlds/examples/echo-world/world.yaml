@@ -1,0 +1,12 @@
+id: echo-world
+name: "Echo World"
+version: "1.0.0"
+summary: "작은 항구 도시에서 기억을 기록하는 사람들의 이야기."
+banner: world-banner
+entrypoints:
+  - category:harbor
+  - character:aria
+tags: [demo, harbor]
+theme:
+  mode: custom
+  colors: { primary: '#1d3557', secondary: '#457b9d', accent: '#e63946' }

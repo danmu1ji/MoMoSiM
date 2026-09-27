@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { WorldSearchIndex } from './sqlite-index';
+describe('FTS5 adapter',()=>{it('creates, rebuilds, and searches through supplied database',()=>{const calls:string[]=[]; const db={exec:(sql:string)=>calls.push(sql),prepare:(sql:string)=>({run:()=>undefined,all:()=>[{id:'a',name:'Harbor',summary:'open',tags:'port'}]}),close:()=>undefined}; const index=new WorldSearchIndex(db); index.rebuild([{id:'a',type:'location',name:'Harbor',summary:'open',tags:['port'],relations:[]}]); expect(index.search('Harbor')[0].name).toBe('Harbor'); expect(calls[0]).toContain('VIRTUAL TABLE');});});

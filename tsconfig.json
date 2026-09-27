@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/schema/tsconfig.json" },
+    { "path": "packages/markdown/tsconfig.json" },
+    { "path": "packages/engine/tsconfig.json" },
+    { "path": "packages/provider/tsconfig.json" },
+    { "path": "packages/chat/tsconfig.json" },
+    { "path": "apps/desktop/tsconfig.json" }
+  ]
+}

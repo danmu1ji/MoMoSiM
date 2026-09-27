@@ -1,0 +1,4 @@
+entities:
+- id: character:sample-student
+  nameEn: Sample Student
+  summaryEn: A fictional character for package examples.

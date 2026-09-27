@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { createPersistentSearchIndex } from './fts-runtime';
+describe('persistent FTS runtime',()=>{it('rebuilds an allowed searchable index',()=>{const db={exec:()=>undefined,prepare:()=>({run:()=>undefined,all:()=>[{id:'public',name:'Public',summary:'',tags:''}]}),close:()=>undefined}; const index=createPersistentSearchIndex(db,[{id:'public',type:'location',name:'Public',tags:[],relations:[]},{id:'hidden',type:'event',name:'Hidden',tags:[],relations:[]}],new Map()); expect(index.search('Public',10,new Set(['public']))[0].id).toBe('public');});});

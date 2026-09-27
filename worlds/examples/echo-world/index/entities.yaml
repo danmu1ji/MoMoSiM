@@ -1,0 +1,42 @@
+entities:
+  - id: category:harbor
+    type: category
+    name: "항구 구역"
+    summary: "바다와 기록관이 있는 도시의 중심 구역."
+    markdown: lore/harbor.md
+    banner: harbor-banner
+    tags: [location, harbor]
+    relations: [{type: contains, target: character:aria}]
+  - id: category:records
+    type: category
+    name: "기록 보관소"
+    summary: "아리아가 항해 기록을 보관하는 하위 구역."
+    markdown: lore/records.md
+    banner: records-banner
+    parent: category:harbor
+    tags: [records]
+    relations: [{type: contains, target: character:aria}]
+  - id: character:aria
+    type: character
+    name: "아리아"
+    summary: "기억을 기록하는 낙천적인 기록관."
+    markdown: characters/aria/character.md
+    banner: aria-banner
+    tags: [archivist]
+    categories: [category:records]
+    relations: [{type: works_at, target: category:harbor}]
+    personality: characters/aria/personality.md
+    speech: characters/aria/speech.md
+    knowledge: [{target: character:aria, access: full}, {target: category:harbor, access: full}, {target: character:borin, access: public}]
+  - id: character:borin
+    type: character
+    name: "보린"
+    summary: "항구를 지키는 신중한 파수꾼."
+    markdown: characters/borin/character.md
+    banner: borin-banner
+    tags: [guard]
+    categories: [category:harbor]
+    relations: [{type: patrols, target: category:harbor}]
+    personality: characters/borin/personality.md
+    speech: characters/borin/speech.md
+    knowledge: [{target: character:borin, access: full}, {target: category:harbor, access: partial}, {target: character:aria, access: public}]

@@ -1,0 +1,75 @@
+# 의존성 · 빌드 산출물
+node_modules/
+dist/
+target/
+/.tools/
+*.tsbuildinfo
+.pnpm-store/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 편집기/OS
+.DS_Store
+.vscode/
+.idea/
+/.agents/
+/.pi/
+/.pi-*/
+/.superdesign/
+/skills-lock.json
+
+# 로컬 실행 산출물
+*.log
+*.worldpkg
+*.😭
+!worlds/examples/*.😭
+!worlds/import-samples/*.😭
+
+# Local credentials, private notes, and personal test media
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+/progress.md
+/limit.txt
+/ref.mp3
+/momo.jpg
+/research/
+/experiments/
+/artifacts/
+/world-player-spec.md
+
+# Markdown is opt-in: keep the project docs and the redistributable sample
+# worlds, while leaving other working notes/content out of a normal source push.
+*.md
+!README.md
+!README.ko.md
+!NOTICE.md
+!/docs/
+!/docs/**/*.md
+/docs/research-*.md
+!/worlds/examples/
+!/worlds/examples/**/*.md
+!/worlds/import-samples/
+!/worlds/import-samples/**/*.md
+!/apps/desktop/public/fonts/FONTS.md
+
+# Blue Archive game-derived source assets are opt-in and excluded by default.
+/worlds/blue-archive/
+/worlds/blue-archive.😭
+/worlds/.parts/
+/tools/blue-archive/
+/apps/desktop/public/blue-archive-lite.worldpkg
+/apps/desktop/public/momo.jpg
+
+# SQLite 색인(FTS5) — 재생성 가능
+*.sqlite
+*.sqlite3
+*.db

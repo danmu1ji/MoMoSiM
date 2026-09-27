@@ -1,0 +1,7 @@
+states:
+  - id: aria-after-storm
+    character: character:aria
+    validFrom: after-storm
+    priority: 100
+    personality: {markdown: "states/aria-after-storm.md"}
+    conditions: {situation: storm}

@@ -1,0 +1,14 @@
+states:
+- id: state:sample-student
+  character: character:sample-student
+  validFrom: time:sample
+  priority: 0
+  personality:
+    markdown: '## State personality
+
+
+      Optional, original state-specific notes.'
+  knowledge:
+  - target: event:sample-event
+    access: always
+  validUntil: null

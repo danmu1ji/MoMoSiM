@@ -1,0 +1,4 @@
+import { describe, expect, it } from 'vitest';
+import { exportWorldPackageAsync, loadWorld } from './index';
+import { unzipSync, strFromU8 } from 'fflate';
+describe('manifest entry round trip',()=>{it('preserves non-default world entry',async()=>{const files:Record<string,string>={'manifest.yaml':'schemaVersion: 1\nid: w\nname: W\nversion: 1\nentry: custom.yaml','custom.yaml':'id: w\nname: W\nversion: 1\nsummary: demo','index/entities.yaml':'entities: []','timeline/time-slices.yaml':'timeSlices: []','timeline/states.yaml':'states: []','assets/media.yaml':'media: []','locales/en/timeline/time-slices.yaml':'timeSlices: []'}; const source={read:async(p:string)=>files[p],exists:async(p:string)=>p in files}; const data=await loadWorld(source); const archive=unzipSync((await exportWorldPackageAsync(data))); expect(strFromU8(archive['custom.yaml'])).toContain('summary'); expect(archive['world.yaml']).toBeUndefined();});});

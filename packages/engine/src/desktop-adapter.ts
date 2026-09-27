@@ -1,0 +1,22 @@
+/** Browser-safe entry point: package bytes are decoded by core; filesystem adapters stay in the Tauri/Node entry. */
+export { exportWorldPackage, exportWorldPackageAsync } from './export.js';
+export { setWorldMeta, patchEntity, upsertRelation, removeRelation, upsertState, removeState, upsertMediaAsset, removeMediaAsset, setAssetBytes, removeAssetFile, listDocuments, removeDocument, uniqueDocumentPath } from './editor.js';
+export { createLazyZipSource, createRemoteZipSource, listZipPaths } from './zip-lazy.js';
+export { bannerAssetId } from './banner.js';
+export { createMemorySource, createBinaryMemorySource, createArchiveSource, createZipSource, decodeZipSource, withLocaleOverlay, loadWorld, loadWorldDocuments, validateWorld, filterKnowledge, projectKnowledge, readDocument, searchWorld, searchProjected, buildPrompt, documentNodes, mediaDirectives, fogGrants, knowledgeLevels, resolveState, resolveNextSpeakers, resolveMedia, assetUrl, assetUrlAsync, readAssetBytes, releaseAssetUrls, mimeFor } from './core.js';
+export { buildEntityGraph, resolvableLinks, relatedEntities } from './graph.js';
+export { presentMessage, resolveChatImage, defaultVoice, lookupSpeaker } from './presentation.js';
+export type { PresentedMessage } from './presentation.js';
+export { placeholderBanner, resolveBanner, danglingBanner, hasBanner } from './banner.js';
+export type { BannerKind } from './banner.js';
+export { categoryRoots, subcategoriesOf, charactersInCategory, charactersUnder, breadcrumbFor, orderedEntities, browseState } from './navigation.js';
+export { createWorldDraft, applyWorldEdit, toEditableWorld, refreshGraph, setDocument, documentBody, upsertEntity, removeEntity, setKnowledgeRule, removeKnowledgeRule, upsertTimeSlice, removeTimeSlice } from './editor.js';
+export type { EditableWorld } from './editor.js';
+export { toStoredTurn, fromStoredTurn, fromStoredTurns } from './history.js';
+export type { StoredTurn } from './history.js';
+export type { EntityGraph } from './graph.js';
+export { runConversationTurn, runConversationCycle, chooseSpeaker, directorPrompt, directorTranscript, planSpeakers, nextRoundPlan, providerMessages, parseMentions, samplingFor, nodeText, visibleText, parseNextDirective, turnProtocol, inferMessageStyle, DEFAULT_SAMPLING } from './dialogue.js';
+export { compactContext, type ContextStrategy } from './context.js';
+export type { ProviderMessage, SamplingOptions, StreamingProvider, TurnInput, TurnResult, CycleInput, CycleResult, NextDirective, DirectorInput, DirectorChoice, MessageStyle } from './dialogue.js';
+export { runSequentialConversation } from './orchestration.js';
+export type { WorldData, WorldSource, FogContext } from './core.js';

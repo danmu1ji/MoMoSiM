@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "entities": {
+    "character:sample-student": {
+      "name": "Sample Student",
+      "summary": "Fictional example.",
+      "school": "Sample Academy",
+      "club": "Sample Club",
+      "source": "User-created content",
+      "appearanceSource": {
+        "url": "https://example.invalid/source",
+        "pageTitle": "Original appearance notes",
+        "revision": 0,
+        "accessedAt": "1970-01-01",
+        "status": "placeholder",
+        "sourceLanguage": "en"
+      },
+      "status": "placeholder",
+      "descriptionKind": "original",
+      "sourceLanguage": "en"
+    }
+  }
+}

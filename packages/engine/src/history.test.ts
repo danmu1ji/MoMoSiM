@@ -1,0 +1,10 @@
+import { describe, expect, it } from 'vitest';
+import { fromStoredTurn, fromStoredTurns, toStoredTurn } from './history';
+import type { ChatMessage } from '@world-player/schema';
+
+const message: ChatMessage = { id: 'm1', speaker: { type: 'character', id: 'character:aria' }, content: [{ type: 'text', text: '안녕' }, { type: 'lineBreak' }, { type: 'strong', text: '중요' }, { type: 'media', asset: 'aria-profile' }], timestamp: '2026-01-01T00:00:01Z' };
+
+describe('chat history persistence mapping',()=>{it('round-trips a message through the stored row shape',()=>{const row=toStoredTurn('c1',message); expect(row).toMatchObject({conversation_id:'c1',speaker_type:'character',speaker_id:'character:aria'}); expect(row.body).toBe('안녕\n**중요**[[media:aria-profile]]'); const restored=fromStoredTurn(row); expect(restored.id).toBe('m1'); expect(restored.speaker).toEqual(message.speaker); expect(restored.timestamp).toBe(message.timestamp); expect(restored.content.map(n=>n.type)).toEqual(['text','lineBreak','strong','media']); expect(restored.content[0].text).toBe('안녕'); expect(restored.content[3].asset).toBe('aria-profile');});});
+
+describe('chat history restore',()=>{it('keeps stored order and player speakers',()=>{const rows=[toStoredTurn('c1',{id:'u1',speaker:{type:'player',id:'방문자'},content:[{type:'text',text:'질문'}],timestamp:'2026-01-01T00:00:01Z'}),toStoredTurn('c1',message)]; const restored=fromStoredTurns(rows); expect(restored.map(m=>m.id)).toEqual(['u1','m1']); expect(restored[0].speaker).toEqual({type:'player',id:'방문자'}); expect(restored[1].speaker.type).toBe('character');});
+  it('round-trips image attachments through local conversation persistence',()=>{const image:ChatMessage={id:'img',speaker:{type:'player',id:'Sensei'},content:[{type:'text',text:'What is this?'},{type:'image',alt:'photo',imageDataUrl:'data:image/png;base64,AAAA'}],timestamp:'2026-01-01T00:00:00Z'};const restored=fromStoredTurn(toStoredTurn('c1',image));expect(restored.content).toHaveLength(2);expect(restored.content[1]).toMatchObject({type:'image',alt:'photo',imageDataUrl:'data:image/png;base64,AAAA'});});});
