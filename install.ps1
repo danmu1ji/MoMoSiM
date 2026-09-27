@@ -4,6 +4,32 @@ $ProgressPreference = 'SilentlyContinue'
 $Repository = if ($env:MOMOSIM_GITHUB_REPOSITORY) { $env:MOMOSIM_GITHUB_REPOSITORY } else { 'danmu1ji/danmutalk' }
 $Target = if ($env:MOMOSIM_DIR) { $env:MOMOSIM_DIR } else { Join-Path $HOME 'DanmuTalk' }
 $Marker = Join-Path $Target '.momosi-install'
+$TotalSteps = 7
+$CompletedSteps = 0
+
+function Show-InstallProgress([string]$Status, [int]$Step = -1) {
+  if ($Step -ge 0) { $script:CompletedSteps = $Step }
+  $Percent = [int](100 * $script:CompletedSteps / $script:TotalSteps)
+  $Width = 24
+  $Filled = [int]($Width * $Percent / 100)
+  $Bar = ('#' * $Filled).PadRight($Width, '-')
+  Write-Progress -Activity 'Installing DanmuTalk' -Status $Status -PercentComplete $Percent
+  Write-Host ("`r[{0}] {1,3}% {2}" -f $Bar, $Percent, $Status)
+}
+
+function Show-Branding([string]$SourcePath) {
+  $AsciiPath = Join-Path $SourcePath 'ascii.txt'
+  $BigTextPath = Join-Path $SourcePath 'bigtext.txt'
+  if (-not (Test-Path $AsciiPath) -or -not (Test-Path $BigTextPath)) { return }
+  $Artwork = (Get-Content -LiteralPath $AsciiPath -Raw -Encoding UTF8) + (Get-Content -LiteralPath $BigTextPath -Raw -Encoding UTF8)
+  $Yellow = "$([char]27)[38;2;253;240;119m"
+  $Reset = "$([char]27)[0m"
+  if ($PSVersionTable.PSVersion.Major -ge 7 -and -not $env:NO_COLOR -and -not [Console]::IsOutputRedirected) {
+    Write-Host ($Yellow + $Artwork + $Reset)
+  } else {
+    Write-Host $Artwork -ForegroundColor Yellow
+  }
+}
 if ((Test-Path $Target) -and -not (Test-Path $Marker)) {
   throw "Refusing to overwrite '$Target'. Set MOMOSIM_DIR to a new folder."
 }
@@ -13,11 +39,13 @@ New-Item -ItemType Directory -Path $Temp | Out-Null
 try {
   $SourceZip = Join-Path $Temp 'source.zip'
   $SourceUrl = "https://github.com/$Repository/archive/refs/heads/main.zip"
-  Write-Host 'Downloading DanmuTalk source from GitHub...'
+  Show-InstallProgress 'Downloading source archive' 1
   Invoke-WebRequest -Uri $SourceUrl -OutFile $SourceZip
+  Show-InstallProgress 'Extracting source files' 2
   Expand-Archive -LiteralPath $SourceZip -DestinationPath $Temp
-  $SourceRoot = Get-ChildItem -LiteralPath $Temp -Directory | Where-Object Name -Like 'momo-sim-*' | Select-Object -First 1
-  if (-not $SourceRoot) { throw 'The GitHub source archive did not contain momo-sim.' }
+  $SourceRoot = Get-ChildItem -LiteralPath $Temp -Directory | Where-Object { Test-Path (Join-Path $_.FullName 'package.json') } | Select-Object -First 1
+  if (-not $SourceRoot) { throw 'The GitHub source archive did not contain the DanmuTalk project.' }
+  Show-Branding $SourceRoot.FullName
   New-Item -ItemType Directory -Force -Path $Target | Out-Null
   & robocopy $SourceRoot.FullName $Target /E /COPY:DAT /R:1 /W:1 /NFL /NDL /NJH /NJS | Out-Null
   if ($LASTEXITCODE -ge 8) { throw "Could not copy the source files (robocopy exit $LASTEXITCODE)." }
@@ -31,6 +59,7 @@ try {
     try { $NodeMajor = [int]((& node --version).TrimStart('v').Split('.')[0]) } catch { $NodeMajor = 0 }
   }
   if ($NodeMajor -lt 22) {
+    Show-InstallProgress 'Installing verified Node.js runtime' 3
     $Arch = if ($env:PROCESSOR_ARCHITECTURE -eq 'ARM64') { 'arm64' } else { 'x64' }
     $Base = 'https://nodejs.org/download/release/latest-v22.x'
     $SumsFile = Join-Path $Temp 'SHASUMS256.txt'
@@ -52,6 +81,8 @@ try {
     if ($LASTEXITCODE -ge 8) { throw "Could not install Node.js (robocopy exit $LASTEXITCODE)." }
     $LASTEXITCODE = 0
     $env:PATH = "$NodePath;$env:PATH"
+  } else {
+    Show-InstallProgress "Using system Node.js v$NodeMajor" 3
   }
 
   $PnpmVersion = ''
@@ -59,21 +90,29 @@ try {
     try { $PnpmVersion = (& pnpm.cmd --version).Trim() } catch { $PnpmVersion = '' }
   }
   if (-not $PnpmVersion.StartsWith('9.')) {
+    Show-InstallProgress 'Installing local pnpm package manager' 4
     $PnpmHome = Join-Path $Tools 'pnpm'
     & npm.cmd install --prefix $PnpmHome pnpm@9.15.0
     if ($LASTEXITCODE -ne 0) { throw 'Could not install pnpm.' }
     $env:PATH = "$(Join-Path $PnpmHome 'node_modules\.bin');$env:PATH"
+  } else {
+    Show-InstallProgress "Using system pnpm $PnpmVersion" 4
   }
   Set-Location $Target
+  Show-InstallProgress 'Installing app dependencies' 5
   & pnpm.cmd install --frozen-lockfile
   if ($LASTEXITCODE -ne 0) { throw 'Dependency installation failed.' }
+  Show-InstallProgress 'Building DanmuTalk for immediate launch' 6
   & pnpm.cmd build
   if ($LASTEXITCODE -ne 0) { throw 'DanmuTalk build failed.' }
   & pnpm.cmd --filter @world-player/desktop build
   if ($LASTEXITCODE -ne 0) { throw 'Desktop player build failed.' }
+  Show-InstallProgress 'Installation complete' 7
+  Write-Progress -Activity 'Installing DanmuTalk' -Completed
   if ($Updating) { Write-Host "DanmuTalk updated in $Target" } else { Write-Host "DanmuTalk installed in $Target" }
-  Write-Host "Put your .😭 world package in $Target\worlds, then open it in DanmuTalk or drag it onto the app window."
-  Write-Host "Launch with: $Target\run.ps1"
+  Write-Host 'The app is built and ready. Launch it with:'
+  Write-Host "  $Target\run.ps1"
+  Write-Host "Add your .😭 world package to: $Target\worlds"
 } finally {
   Remove-Item -LiteralPath $Temp -Recurse -Force -ErrorAction SilentlyContinue
 }

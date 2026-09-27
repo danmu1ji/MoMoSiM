@@ -22,17 +22,17 @@ fi
 PORT="${PORT:-5173}"
 MODE="${1:-}"
 
-command -v pnpm >/dev/null 2>&1 || { echo "pnpm이 필요합니다: https://pnpm.io/installation"; exit 1; }
-[ -d node_modules ] || { echo "▶ 의존성 설치"; pnpm install; }
-
 if [ "$MODE" = "--dev" ]; then
+  command -v pnpm >/dev/null 2>&1 || { echo "pnpm and project dependencies are required for --dev." >&2; exit 1; }
+  [ -d node_modules ] || { echo "Dependencies are missing. Run the installer first." >&2; exit 1; }
   echo "▶ DanmuTalk dev server: http://localhost:${PORT}/"
   exec pnpm --filter @world-player/desktop exec vite --port "$PORT"
 fi
 
-echo "▶ 빌드"
-pnpm build
-pnpm --filter @world-player/desktop build
+if [ ! -f apps/desktop/dist/index.html ]; then
+  echo "Built app not found. Run install.sh to prepare DanmuTalk before launching." >&2
+  exit 1
+fi
 
 echo "▶ Starting DanmuTalk (the server will select a free port if needed)"
 exec node tools/serve.mjs --port "$PORT"
