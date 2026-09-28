@@ -1,10 +1,4 @@
 media:
-- id: sample-voice
-  file: assets/audio/sample-voice.wav
-  kind: audio
-  description: Silent placeholder voice.
-  tags:
-  - placeholder
 - id: sample-background
   file: assets/images/sample-placeholder.svg
   kind: background

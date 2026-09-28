@@ -1,0 +1,6 @@
+# Koharu — official English introduction
+
+Koharu is a member of the Supplemental Lessons Club of Trinity General School. Originally a member of the Justice Actualization Committee, she received failing grades and was in danger of repeating a year, so she was forcefully transferred to the Supplemental Lessons Club. While she may consider herself elite, she is actually rather stupid, so much so in fact that she is completely unable to keep up with her lessons. She has a secret hobby(?) of collecting lewd magazines, and often begins to fantasize about the most trivial things in everyday life, often to her own embarrassment.
+
+Source: https://bluearchive.wiki/wiki/Koharu
+Status: source-extracted-unreviewed

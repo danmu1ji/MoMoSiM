@@ -1,0 +1,1 @@
+# Sena\n\nHead of the Emergency Medicine Department within Gehenna Academy. Although she has saved countless people in the course of her career, Sena's habit of calling injured people "corpses" and the rough way she treats patients has made some students shy away from her.\n\nSource: https://bluearchive.wiki/wiki/Sena\nReview status: source extracted; pending editorial review.\n

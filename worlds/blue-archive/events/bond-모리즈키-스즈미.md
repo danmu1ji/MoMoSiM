@@ -1,0 +1,316 @@
+# 모리즈키 스즈미 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 모리즈키 스즈미, 선생(샬레)
+
+1. **「모리즈키 스즈미 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「모리즈키 스즈미 인연 스토리 2」**
+
+- **Clerk**: Three energy drinks, a pork lunch box, a black coffee... That'll be 1,130 yen.
+- **Clerk**: Thank you. Please come again!
+- **Clerk**: Another one already. Welcome! How can I...help...
+- **Clerk**: ...?!
+- **Troublemaking Student A**: Don't move! Get on the ground and hands where we can see them! This is a stick up!
+- **Troublemaking Student B**: Don't try anything funny! Stay still if you want to get out of here alive!
+- **Clerk**: Eeek! This is the Trinity district! You won't get away with th—!
+- **Troublemaking Student A**: We won't, will we? Guess again! We already are!
+- **Troublemaking Student B**: The Justice Task Force is nowhere to be found. We scouted!
+- **Troublemaking Student A**: Even they can't patrol every nook and cranny of somewhere this remote!
+- **Troublemaking Student B**: Don't get your hopes up! Open the safe and give us everything you have!
+- **Troublemaking Student A**: ...?
+- **Troublemaking Student A**: Huh? What's this?
+- **Troublemaking Student A**: Haha. Don't you know it's dangerous for someone your age to go out alone at night?
+- **Troublemaking Student A**: Bad high school girls are gonna kidnap you! Haha! You should be more careful!
+- **Troublemaking Student B**: If this is how you want to play it, then we may as well have some fun.
+- **Troublemaking Student A**: What the...? Is that...?
+- **Troublemaking Student B**: A flash grenade?
+- **Troublemaking Student B**: Ah! Ack! I can't see anything!
+- **???**: You didn't scout very thoroughly. I was on patrol just in case.
+- **Troublemaking Student A**: Th-That voice! It can't be! What's the Vigilante Crew doing here?!
+- **Troublemaking Student A**: Ugh... Arrrgh... Ack!
+- **Troublemaking Student B**: Bah...! Wh-What's happening...? Urgh!
+- **모리즈키 스즈미**: Seriously. Don't you get tired of me beating you?
+- **모리즈키 스즈미**: Huh? What are you doing here, Sensei?
+- **모리즈키 스즈미**: H-Hello. I didn't expect to see you here.
+- **모리즈키 스즈미**: I had wanted to see you again, but I didn't think it'd be like this.
+- **모리즈키 스즈미**: This is bad. Someone your age shouldn't be out this late at night.
+- **모리즈키 스즈미**: What will you do if a delinquent high school girl abducts you? Get back to the club room.
+- **모리즈키 스즈미**: You want me to escort you back? That would be...
+- **모리즈키 스즈미**: ...You're afraid a bad high school girl might abduct you?
+- **모리즈키 스즈미**: *sigh*
+- **모리즈키 스즈미**: Very well. I'll be your escort if I must.
+- **모리즈키 스즈미**: I should finish suppressing these delinquents before we leave, though.
+- **Troublemaking Student A**: Eeeeeek! Wh-What do you plan to do with us?!
+- **모리즈키 스즈미**: Stop screaming. I'll disarm you, but it won't hurt too badly.
+- **모리즈키 스즈미**: Instead, I'll tie you both to a pillar and leave you listening to "Baby" by Austin Dieber on repeat.
+- **Troublemaking Student A**: ...?!
+- **Troublemaking Student B**: Why that music?! It's not even popular anymore!
+- **Troublemaking Student A**: What are you, some kind of pop music dinosaur?!
+- **Troublemaking Students**: Ahhhhhhhhhhhh!
+- **모리즈키 스즈미**: They were trying to rob a convenience store. They deserve it.
+- **모리즈키 스즈미**: It wasn't easy, but I'm only doing what must be done.
+- **모리즈키 스즈미**: Let's go, Sensei. Your safety is ensured with me here.
+- **모리즈키 스즈미**: This way.
+- **모리즈키 스즈미**: Here we are. It's straight through this alley.
+- **모리즈키 스즈미**: It should be safe to go alone from here. You should get inside since it's late.
+- **모리즈키 스즈미**: Huh? You don't need to thank me. I was simply carrying out my Vigilante Crew duties.
+- **모리즈키 스즈미**: Even if it's not an official club...
+- **모리즈키 스즈미**: Trinity is all too prone to incidents like tonight.<br/>We have to keep working to maintain the peace.
+- **모리즈키 스즈미**: What was that? You thought tonight was fun?
+- **모리즈키 스즈미**: I...don't understand.
+- **모리즈키 스즈미**: You were almost in a hostage situation. What part of that is fun?
+- **모리즈키 스즈미**: What?
+- **모리즈키 스즈미**: The fun part was walking here?
+- **모리즈키 스즈미**: But nothing happened. What could possibly be fun about that?
+- **모리즈키 스즈미**: ...!
+- **모리즈키 스즈미**: ...!
+- **모리즈키 스즈미**: N-Nevertheless, my job here is done. Y-You should get inside!
+- **모리즈키 스즈미**: ...
+
+3. **「모리즈키 스즈미 인연 스토리 3」**
+
+- **모리즈키 스즈미**: There you are, Sensei. Over here. It's Suzumi.
+- **모리즈키 스즈미**: Please tell me your destination. I'll escort you.
+- **모리즈키 스즈미**: ...Hmm. Very well.
+- **모리즈키 스즈미**: It's a little far, but don't worry. I'll see to it you make it there safely.
+- **모리즈키 스즈미**: ...!
+- **모리즈키 스즈미**: It's dangerous, Sensei! Hide behind the car! Quickly!
+- **모리즈키 스즈미**: Deploying flash grenade!
+- **Student A**: Gyaaaaaa! Wh-What's going on?! My eyes...! I can't see!
+- **Student B**: I feel dizzy! Urgh. Everything is spinning...!
+- **Student A**: Wh-What the hell is going on?!
+- **모리즈키 스즈미**: Now's our chance. Let's get out of here! Quickly, follow me!
+- **모리즈키 스즈미**: ...Phew. We should be safe now.
+- **모리즈키 스즈미**: To think they would target you in broad daylight... How bold.
+- **모리즈키 스즈미**: What? You thought they were just regular students? Don't be naive, Sensei.
+- **모리즈키 스즈미**: You saw the way they were holding their phones, didn't you?
+- **모리즈키 스즈미**: They must have been trying to take photos of you to report to their superiors.
+- **모리즈키 스즈미**: One can never be too sure, but the probability is high.
+- **모리즈키 스즈미**: One can never be too sure, but the possibility is high.
+- **모리즈키 스즈미**: Even you need to be cognizant when on a mission.
+- **모리즈키 스즈미**: Right now, my mission is to escort you to your destination.
+- **모리즈키 스즈미**: ...! Someone suspicious is standing over there!
+- **모리즈키 스즈미**: Flash Grenade!
+- **Clerk**: Ah! What was that?!
+- **Student C**: What's going on?! I can't see anything!
+- **모리즈키 스즈미**: Crowds are too dangerous, like I thought. We need to move!
+- **모리즈키 스즈미**: Follow me! This way!
+- **모리즈키 스즈미**: *pant* *pant*
+- **모리즈키 스즈미**: Are you okay, Sensei? We should be safe for now.
+- **모리즈키 스즈미**: Still, this isn't too much for me to handle. I can monitor this many people.
+- **모리즈키 스즈미**: I can strike from here if we spot anyone too suspicious moving forward.
+- **모리즈키 스즈미**: Excuse me? You think I'm taking it too far?
+- **모리즈키 스즈미**: No, Sensei. I'm here to escort you today.
+- **모리즈키 스즈미**: If anything were to happen to you, I...wouldn't be able to forgive myself.
+- **모리즈키 스즈미**: What brought on this concern all of a sudden, Sensei?
+- **모리즈키 스즈미**: Do you think I was overstepping my bounds?
+- **모리즈키 스즈미**: Hearing you say that makes me even more nervous...
+- **모리즈키 스즈미**: Hearing you say that makes me even more nervous...
+- **모리즈키 스즈미**: ...but I shall try. If you want me to relax, I will comply.
+- **모리즈키 스즈미**: We can make excellent time if we go straight this way. Let's go, Sensei.
+- **모리즈키 스즈미**: We made it without incident, thankfully.
+- **모리즈키 스즈미**: Perhaps you were right. My guard may have been up unnecessarily.
+- **모리즈키 스즈미**: Maybe I'm not fit to be your escort. I feel like you could have gotten here faster without me...
+- **모리즈키 스즈미**: You expected things to go this way? Then why did you...?
+- **모리즈키 스즈미**: ...? You just wanted to walk with me...?
+- **모리즈키 스즈미**: S-Sensei, what has gotten into you?! What kind of services do you think the Vigilante Crew are offering?!
+- **모리즈키 스즈미**: N-Not that I don't want you to call me...!
+- **모리즈키 스즈미**: I would have considered had you simply asked from the beginning...
+- **모리즈키 스즈미**: I-I mean...this is unacceptable!
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: ...Um.
+- **모리즈키 스즈미**: Next time, you can ask me personally, Sensei.
+- **모리즈키 스즈미**: If all you want is company and not protection, I will treat things differently.
+- **모리즈키 스즈미**: That way I'll do a much better job than I did today.
+- **모리즈키 스즈미**: ...So, uh...yeah.
+- **모리즈키 스즈미**: I'm glad we both...agree, then...!
+
+4. **「모리즈키 스즈미 인연 스토리 4」**
+
+- **모리즈키 스즈미**: Over here, Sensei. It's Suzumi.
+- **모리즈키 스즈미**: It's okay. I just got here myself.
+- **모리즈키 스즈미**: Pardon me? Why would I not be okay with you calling me...?
+- **모리즈키 스즈미**: If this is about my Vigilante Crew workload, then don't concern yourself.
+- **모리즈키 스즈미**: It isn't as though you're tearing me away from a job I love.
+- **모리즈키 스즈미**: Am I forced to do it? No, that's not it. No one's making me do anything.
+- **모리즈키 스즈미**: I simply don't...particularly enjoy it. That's all.
+- **모리즈키 스즈미**: Truthfully, I hope the day comes where this region won't need a Vigilante Crew anymore...
+- **모리즈키 스즈미**: You think that makes me kind?
+- **모리즈키 스즈미**: You must be mistaken. Others would rather stay away because I seem cold.
+- **모리즈키 스즈미**: Not that I don't understand. It simply comes with the territory of this line of work.
+- **모리즈키 스즈미**: ...Thank you for saying that, though.
+- **모리즈키 스즈미**: Let's go, Sensei. I'll lead—I mean...
+- **모리즈키 스즈미**: Let's walk together.
+- **모리즈키 스즈미**: This is a cafe I enjoy. Would you care to join me?
+- **모리즈키 스즈미**: I have a preference for lattes, and this cafe's are...
+- **Clerk**: Gah! What are you doing?!
+- **모리즈키 스즈미**: ...?!
+- **Troublemaking Student A**: Ahaha! What are you, stupid? We're robbing you, obviously!
+- **Troublemaking Student B**: It's the perfect job! We scouted for weeks so we could strike while the Vigilante Crew is off duty!
+- **Troublemaking Student B**: So shut your mouth and empty the cash register. Get moving!
+- **모리즈키 스즈미**: *sigh*
+- **모리즈키 스즈미**: If only the ruffians here put this much energy into studying.
+- **모리즈키 스즈미**: (This is supposed to be my day off...and I'm with Sensei.)
+- **모리즈키 스즈미**: ...
+- **Clerk**: I-I told you! That's all the money we made this week!
+- **Troublemaking Student B**: You mean the money WE made. We promise not to spend it in one place.
+- **Troublemaking Student A**: I hope you weren't hoping to play the hero. The last thing you want is to land in the hospital after getting fired for this! Hahaha!
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: Um...
+- **모리즈키 스즈미**: Sensei...I...
+- **모리즈키 스즈미**: It's nothing. I'm sorry.
+- **모리즈키 스즈미**: ...!
+- **모리즈키 스즈미**: ...!
+- **모리즈키 스즈미**: You're right.
+- **모리즈키 스즈미**: Thank you, Sensei. I won't be long. I'll take care of this as quickly as possible.
+- **Troublemaking Student A**: Huh? Did you hear something?
+- **Troublemaking Student B**: Yeah. What was that? It sounded oddly familiar...
+- **모리즈키 스즈미**: Flash grenade incoming!
+- **모리즈키 스즈미**: I've returned, Sensei. My apologies. That took longer than I expected.
+- **모리즈키 스즈미**: I was supposed to keep you company today, yet I still had to...
+- **모리즈키 스즈미**: You...don't' mind? You had fun today?
+- **모리즈키 스즈미**: And you're curious why flash grenades are my weapon of choice?
+- **모리즈키 스즈미**: That's simple...
+- **모리즈키 스즈미**: It's because they're non-lethal and their effects wear off.
+- **모리즈키 스즈미**: Flash grenades are the quickest and safest way to neutralize the situation and subdue the enemy.
+- **모리즈키 스즈미**: They may be ruffians, but my goal isn't to harm them.
+- **모리즈키 스즈미**: My mission is only to stop them. That is the Vigilante Crew's objective.
+- **모리즈키 스즈미**: ...! Wh-What about what I said leads you to that conclusion?
+- **모리즈키 스즈미**: Anyway, we need to get going! We're going to fall behind on our schedule today at this rate.
+- **모리즈키 스즈미**: This way...!
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: I'm so ashamed, Sensei...
+- **모리즈키 스즈미**: I may as well have been on duty with how today turned out.
+- **모리즈키 스즈미**: I just couldn't help myself. I'm sorry...
+- **모리즈키 스즈미**: You can't be serious. You really still had fun?
+- **모리즈키 스즈미**: And you want to go out with me again?
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: If that's what you want. It would be my pleasure, Sensei.
+- **모리즈키 스즈미**: I'd be happy to keep you company anytime you want.
+
+5. **「모리즈키 스즈미 인연 스토리 5」**
+
+- **모리즈키 스즈미**: Ah, Sensei. I'm here.
+- **모리즈키 스즈미**: Thanks for coming. I know you're busy and it's quite late...
+- **모리즈키 스즈미**: Well... Like I said, it's not about anything important.
+- **모리즈키 스즈미**: L-Like I said, it's not about anything important.
+- **모리즈키 스즈미**: Um...
+- **모리즈키 스즈미**: The...s-stars...
+- **모리즈키 스즈미**: I wanted to show you...the stars...
+- **모리즈키 스즈미**: I-I'm sorry. I know this is out of nowhere.
+- **모리즈키 스즈미**: I-I'm sorry. I know this is out of nowhere.
+- **모리즈키 스즈미**: I don't know what I was thinking... Maybe this was silly of me...
+- **모리즈키 스즈미**: You can go... Let's pretend this didn't happen.
+- **모리즈키 스즈미**: Huh? You don't mind?
+- **모리즈키 스즈미**: So...you asked why stars all of a sudden...?
+- **모리즈키 스즈미**: There's no special reason...
+- **모리즈키 스즈미**: I just wanted to show them to you, I guess.
+- **모리즈키 스즈미**: You see..
+- **모리즈키 스즈미**: This amusement park is the last stop on my nightly patrol.
+- **모리즈키 스즈미**: It's deserted and a good place to hide at this time, so there were a lot of thugs here once.
+- **모리즈키 스즈미**: But they kept running into me and eventually went away. So now it's nice and quiet here.
+- **모리즈키 스즈미**: ...It's really peaceful.
+- **모리즈키 스즈미**: So I had time to sit on the balcony or stand around staring at the stars.
+- **모리즈키 스즈미**: And then I thought...maybe I could see more stars if I went higher.
+- **모리즈키 스즈미**: The highest vantage point here is the Ferris wheel..
+- **모리즈키 스즈미**: Well...
+- **모리즈키 스즈미**: But it's kind of weird...to get on a Ferris wheel alone... So...
+- **모리즈키 스즈미**: It sounds really childish when it's said aloud. I'm sorry.
+- **모리즈키 스즈미**: ...! You really don't mind?
+- **모리즈키 스즈미**: Th-That's...um...
+- **모리즈키 스즈미**: ...Umm, never mind.
+- **모리즈키 스즈미**: Thank you, Sensei.
+- **모리즈키 스즈미**: Then, this way...
+- **모리즈키 스즈미**: I told you before about having one day to not worry about anything.
+- **모리즈키 스즈미**: I've kind of been wishing I had a day off where I didn't have to do Vigilante Crew work or worry about anything.
+- **모리즈키 스즈미**: I realized, maybe that's kind of what this place is.
+- **모리즈키 스즈미**: That's what I was thinking about, anyway...
+- **모리즈키 스즈미**: I-I'm sorry. I'm rambling.
+- **모리즈키 스즈미**: Oh... We're here.
+- **모리즈키 스즈미**: It's gonna go up soon, so just a second.
+- **모리즈키 스즈미**: ― ...It's beautiful.
+- **모리즈키 스즈미**: ― I feel like
+- **모리즈키 스즈미**: ― I could reach the stars from here.
+- **모리즈키 스즈미**: ― I've been enjoying these
+- **모리즈키 스즈미**: ― moments of reprieve lately...
+- **모리즈키 스즈미**: ― I think it's been that way since I met you.
+- **모리즈키 스즈미**: ― ...Sensei.
+- **모리즈키 스즈미**: ― Do you think we could
+- **모리즈키 스즈미**: ― hang out here and there?
+- **모리즈키 스즈미**: ― I know
+- **모리즈키 스즈미**: ― I talk about boring stuff all the time, but...
+- **모리즈키 스즈미**: ― Maybe someday, I'll...
+- **모리즈키 스즈미**: ― ...Yes, one day...
+- **모리즈키 스즈미**: ...I'll tell you what I really want to say.
+
+6. **「모리즈키 스즈미 인연 스토리 6」**
+
+- **모리즈키 스즈미**: Sorry to keep you waiting, Sensei. I didn't expect you to get here so soon.
+- **모리즈키 스즈미**: ...Ah!
+- **모리즈키 스즈미**: ...S-Sorry, Sensei.
+- **모리즈키 스즈미**: Oh, um, it's nothing really...
+- **모리즈키 스즈미**: Just...these.
+- **모리즈키 스즈미**: They're, um...
+- **모리즈키 스즈미**: They're just the headphones I use when I patrol...
+- **모리즈키 스즈미**: I didn't mean to wear them in front of you! I was in a hurry, and I forgot to take them off. But, of course, I didn't have a song playing, I was just...
+- **모리즈키 스즈미**: Um, nevermind. I'm just rambling. Let's get going. Since you sent me our schedule, I'll lead the way.
+- **모리즈키 스즈미**: This way...
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: H-Huh?! Oh, uh, well...
+- **모리즈키 스즈미**: Er...
+- **모리즈키 스즈미**: I'm sorry. It's not important, so I didn't want to bring it up, but... I guess it's making you uncomfortable.
+- **모리즈키 스즈미**: Like I said, it's not important. It's just...my headphones...
+- **모리즈키 스즈미**: To be honest...
+- **모리즈키 스즈미**: I'm a little worried that I made a bad impression on you.
+- **모리즈키 스즈미**: Well, yes. I was clearly on patrol. Anyone could see that. And yet, wearing headphones seems...
+- **모리즈키 스즈미**: Of course, I don't listen to music all the time, and I always have the volume on low. Mostly I turn it on when I'm on break, or when I need something to occupy me...
+- **모리즈키 스즈미**: I just need a little something when I'm out on long patrols.
+- **모리즈키 스즈미**: But, even so...
+- **모리즈키 스즈미**: I think it may make me seem irresponsible, or oblivious. That's all. I guess... I didn't really realize how anxious I got about it.
+- **모리즈키 스즈미**: Huh?
+- **모리즈키 스즈미**: Oh, it didn't seem like that to you... Well, great, but—
+- **모리즈키 스즈미**: That's...
+- **모리즈키 스즈미**: ...
+- **모리즈키 스즈미**: ...Ha...
+- **모리즈키 스즈미**: I never thought about it that way, but I guess that's right.
+- **모리즈키 스즈미**: I started patrolling on my own, just to take a look around the neighborhood.
+- **모리즈키 스즈미**: Hm, this sort of thing wouldn't usually bother me. I think I only noticed because I was with you, Sensei.
+- **모리즈키 스즈미**: It's... a bit unlike me. I'll reflect on that.
+- **모리즈키 스즈미**: But, I'm relieved.
+- **모리즈키 스즈미**: Thank you, Sensei. I mean it.
+- **모리즈키 스즈미**: What?
+- **모리즈키 스즈미**: My headphones? You think I modified them specially, or even made them myself?
+- **모리즈키 스즈미**: No, nothing like that. I don't have that kind of skill. This is just a normal pair of headphones you can buy in a store.
+- **모리즈키 스즈미**: The only thing that's unique about them is how old and beaten up they are.
+- **모리즈키 스즈미**: I bought them some time ago, and I often bring them out on long patrols with me.
+- **모리즈키 스즈미**: I've even worn them during combat, occasionally. I guess I'm lucky that they haven't broken.
+- **모리즈키 스즈미**: If they ever did break...
+- **모리즈키 스즈미**: Um, I don't know. I don't really feel like buying new ones, so I guess I would try to get them repaired.
+- **모리즈키 스즈미**: You're...talking about them like they're alive.
+- **모리즈키 스즈미**: But... I think I know what you mean, anyway.
+- **모리즈키 스즈미**: ...Haha...
+- **모리즈키 스즈미**: When I was talking about this, it was a pretty boring story... How did you make it into something special, Sensei?
+- **모리즈키 스즈미**: It's a strange feeling, but...
+- **모리즈키 스즈미**: With my headphones, and my gun too... I guess I wasn't patrolling alone all this time after all.
+- **모리즈키 스즈미**: What...
+- **모리즈키 스즈미**: Ah.
+- **모리즈키 스즈미**: Well, I... Um...
+- **모리즈키 스즈미**: I-I'm sorry. I had a hard time finding words for a moment.
+- **모리즈키 스즈미**: Thank you for saying that, but it's okay.
+- **모리즈키 스즈미**: I know you're very busy, Sensei. You've got a lot of important things on your plate.
+- **모리즈키 스즈미**: Therefore...
+- **모리즈키 스즈미**: ...Mm...
+- **모리즈키 스즈미**: Actually, never mind. I'm sorry, but would you forget what I just said?
+- **모리즈키 스즈미**: Or... I'd rather say thank you than apologize right now.
+- **모리즈키 스즈미**: I really appreciate you saying that. If you really don't mind, once in a while...
+- **모리즈키 스즈미**: I'd like to—no.
+- **모리즈키 스즈미**: I'd really like to ask you to accompany me, Sensei.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/모리즈키 스즈미
+- https://bluearchive.wiki (원문 스토리 스크립트)

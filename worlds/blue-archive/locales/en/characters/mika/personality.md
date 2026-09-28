@@ -1,0 +1,6 @@
+# Mika — official English introduction
+
+Student of Trinity Integrated Academy and the former leader of "Pater", one of the student unions that make up Trinity. Mika is a former member of the Tea Party and is also a childhood friend of its leader, Nagisa. However, because of their opposing political positions, they make a clear distinction between their public and private lives. Mika always presents a happy smile and innocent appearance, but she seems to be troubled by something she's unable to confide in others.
+
+Source: https://bluearchive.wiki/wiki/Mika
+Status: source-extracted-unreviewed

@@ -15,7 +15,6 @@ entities:
   markdown: characters/sample-student/character.md
   banner: sample-banner
   chatImage: sample-portrait
-  voice: sample-voice
   personality:
     markdown: '## Personality
 

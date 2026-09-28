@@ -1,8 +1,8 @@
-import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   createRemoteZipSource, createZipSource, fromStoredTurns, loadWorld, loadWorldDocuments, resolveState, runConversationCycle, toStoredTurn, validateWorld, withLocaleOverlay,
-  inferMessageStyle, readAssetBytes, releaseAssetUrls, type MessageStyle, type SamplingOptions,
+  inferMessageStyle, releaseAssetUrls, type MessageStyle, type SamplingOptions,
 } from '@world-player/engine/desktop';
 import { OpenAICompatibleProvider, type ModelInfo } from '@world-player/provider';
 import type { Character, ChatMessage, ChatNode, PlayerProfile, TimeSlice } from '@world-player/schema';
@@ -17,32 +17,11 @@ import { clearConversation, listConversations, loadConversation, loadConversatio
 import { BrowseOverlay } from './player/browse-overlay';
 import { ChatOverlay } from './player/chat-overlay';
 import { ConfigOverlay, ProfileOverlay, TimelinePromptOverlay, type ProviderConfig } from './player/overlays';
-import { VOICE_MODELS, voiceModel, type VoiceLanguage, type VoiceModelId } from './player/tts-catalog';
 import './styles.css';
 
 type Screen = 'home' | 'chat';
 const NO_TIMELINE_SLICE: TimeSlice = { id: 'none', label: '시점 없음', labelEn: 'None', position: Number.NaN };
-
-function modelProgressText(status: { stage?: string; model?: string; percent?: number; detail?: string }, language: string) {
-  const model = status.model || (language === 'en' ? 'selected model' : '선택한 모델');
-  const percent = Math.max(0, Math.min(100, status.percent ?? 0));
-  const detail = status.detail ? ` · ${status.detail}` : '';
-  if (status.stage === 'downloading') return language === 'en' ? `Downloading ${model} · ${percent}%${detail}` : `${model} 다운로드 중 · ${percent}%${detail}`;
-  return language === 'en' ? `Loading ${model} · ${percent}%${detail}` : `${model} 불러오는 중 · ${percent}%${detail}`;
-}
-
-function sanitizeVoiceText(text: string): string {
-  return text
-    .replace(/\[\[\/?voice-(?:ja|en|ko)\]\]/gi, '')
-    .replace(/\[\[(?:bubble|next:[^\]]*)\]\]/gi, '')
-    .replace(/```[\s\S]*?```/g, block => block.replace(/```[^\n]*\n?|```/g, ''))
-    .replace(/[`*_#]/g, '')
-    .replace(/[\u2010-\u2015\u2e3a\u2e3b\ufe58\ufe63\uff0d]+/g, '、')
-    .replace(/[ \t]*\r?\n+[ \t]*/g, '、')
-    .replace(/[ \t]+/g, ' ')
-    .replace(/([、。！？])\1+/g, '$1')
-    .trim();
-}
+type AvailableWorld = { name: string; url: string };
 
 function App() {
   const [screen, setScreen] = useState<Screen>('home');
@@ -51,6 +30,7 @@ function App() {
   const [notice, setNotice] = useState<string>();
   const [worldPackageDrag, setWorldPackageDrag] = useState(false);
   const [startupLoading, setStartupLoading] = useState(true);
+  const [availableWorlds, setAvailableWorlds] = useState<AvailableWorld[]>([]);
   const [browseCategory, setBrowseCategory] = useState<string>();
   const [selectedProfileCharacter, setSelectedProfileCharacter] = useState<string>();
   const [pickerOpen, setPickerOpen] = useState(false);
@@ -60,27 +40,7 @@ function App() {
   const [conversationSummaries, setConversationSummaries] = useState<ConversationSummary[]>([]);
   const [pendingConversation, setPendingConversation] = useState<{ id: string; participants: string[] }>();
   const [threadMessages, setThreadMessages] = useState<ConversationMessage[]>([]);
-  const [generatedVoices, setGeneratedVoices] = useState<Record<string, { state: 'queued' | 'loading' | 'ready' | 'error'; stage?: string; generatedTokens?: number; textCharacters?: number; elapsedMs?: number; startedAt?: number; truncated?: boolean; url?: string; text?: string; error?: string }>>({});
-  const [ttsPreviewAudio, setTtsPreviewAudio] = useState<string>();
-  const [ttsPreviewStatus, setTtsPreviewStatus] = useState('');
-  const [ttsPreviewBusy, setTtsPreviewBusy] = useState(false);
-  const generatedVoiceUrls = useRef(new Map<string, string>());
-  const referenceBase64Cache = useRef(new WeakMap<object, Map<string, string>>());
-  const voiceGenerationControllers = useRef(new Map<string, { controller: AbortController; endpoint: string; requestId: string; phase: 'queued' | 'generating' }>());
-  const voiceGenerationQueue = useRef(Promise.resolve());
-  const clearGeneratedVoices = useCallback(() => {
-    for (const active of voiceGenerationControllers.current.values()) {
-      active.controller.abort();
-      if (active.phase === 'generating') void fetch(`${active.endpoint}/cancel`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ requestId: active.requestId }) }).catch(() => {});
-    }
-    voiceGenerationControllers.current.clear();
-    for (const url of generatedVoiceUrls.current.values()) URL.revokeObjectURL(url);
-    generatedVoiceUrls.current.clear();
-    setGeneratedVoices({});
-  }, []);
-  useEffect(() => () => clearGeneratedVoices(), [clearGeneratedVoices, currentConversationId, data]);
   useEffect(() => { if (data) return () => releaseAssetUrls(data); }, [data]);
-  useEffect(() => () => { if (ttsPreviewAudio) URL.revokeObjectURL(ttsPreviewAudio); }, [ttsPreviewAudio]);
   const [typingMessageId, setTypingMessageId] = useState<string>();
   const [pendingImages, setPendingImages] = useState<ChatNode[]>([]);
   const [theme, setTheme] = useState(() => localStorage.getItem('blue-archive.theme') ?? 'blue');
@@ -120,25 +80,11 @@ function App() {
     // 키가 아닌 설정(엔드포인트·모델·생성 값)은 로컬에 남겨둔다. 서버가 있으면 아래에서 서버 값으로 맞춘다.
     try {
       const saved = JSON.parse(localStorage.getItem('world-player.provider') ?? '{}') as Partial<ProviderConfig>;
-      const hasSupportedSavedEngine = VOICE_MODELS.some(model => model.id === saved.ttsEngine);
-      const ttsEngine = hasSupportedSavedEngine ? saved.ttsEngine! : 'voxcpm2';
-      const defaultTtsEndpoint = 'http://127.0.0.1:8177';
-      return { ...saved, endpoint: saved.endpoint ?? '', model: saved.model ?? '', systemInstructions: saved.systemInstructions ?? '', apiKey: '', models: [], temperature: saved.temperature ?? 1, maxTokens: saved.maxTokens && saved.maxTokens > 0 ? saved.maxTokens : 32768, variation: saved.variation ?? true, maxCycleSpeakers: saved.maxCycleSpeakers ?? 8, ttsEnabled: saved.ttsEnabled ?? false, ttsCloningConsent: saved.ttsCloningConsent ?? false, ttsEngine, ttsLanguage: saved.ttsLanguage ?? 'ja', ttsEndpoint: !hasSupportedSavedEngine || !saved.ttsEndpoint || ['http://127.0.0.1:8174', 'http://127.0.0.1:8175'].includes(saved.ttsEndpoint) ? defaultTtsEndpoint : saved.ttsEndpoint };
+      return { ...saved, endpoint: saved.endpoint ?? '', model: saved.model ?? '', systemInstructions: saved.systemInstructions ?? '', apiKey: '', models: [], temperature: saved.temperature ?? 1, maxTokens: saved.maxTokens && saved.maxTokens > 0 ? saved.maxTokens : 32768, variation: saved.variation ?? true, maxCycleSpeakers: saved.maxCycleSpeakers ?? 8 };
     } catch {
-      return { endpoint: '', model: '', systemInstructions: '', apiKey: '', models: [], temperature: 1, maxTokens: 32768, variation: true, maxCycleSpeakers: 8, ttsEnabled: false, ttsCloningConsent: false, ttsEngine: 'voxcpm2', ttsLanguage: 'ja', ttsEndpoint: 'http://127.0.0.1:8177' };
+      return { endpoint: '', model: '', systemInstructions: '', apiKey: '', models: [], temperature: 1, maxTokens: 32768, variation: true, maxCycleSpeakers: 8 };
     }
   });
-  const [voiceRuntime, setVoiceRuntime] = useState<{ ttsEnabled: boolean; ttsEndpoint: string; ttsEngine: VoiceModelId; ttsLanguage: VoiceLanguage; ttsStyle?: string }>();
-  const [voiceSettingsSaving, setVoiceSettingsSaving] = useState(false);
-  const voiceSettingsSavingRef = useRef(false);
-  const [vramInfo, setVramInfo] = useState<{ device?: string; totalVramMB?: number; usedVramMB?: number; availableVramMB?: number; processVramMB?: number; acceleratorBackend?: string; acceleratorAvailable?: boolean }>();
-  const refreshTtsVram = useCallback(() => {
-    const endpoint = (provider.ttsEndpoint ?? 'http://127.0.0.1:8177').replace(/\/+$/, '');
-    void fetch(`${endpoint}/health`, { cache: 'no-store', signal: AbortSignal.timeout(1200) })
-      .then(response => response.ok ? response.json() : undefined)
-      .then(health => { if (health) setVramInfo(current => ({ ...current, device: health.device ?? current?.device, totalVramMB: health.totalVramMB ?? current?.totalVramMB, usedVramMB: health.usedVramMB ?? current?.usedVramMB, availableVramMB: health.availableVramMB ?? current?.availableVramMB, processVramMB: health.processVramMB ?? 0, acceleratorBackend: health.acceleratorBackend ?? current?.acceleratorBackend, acceleratorAvailable: health.acceleratorAvailable ?? current?.acceleratorAvailable })); })
-      .catch(() => setVramInfo(undefined));
-  }, [provider.ttsEndpoint]);
   const [participantIds, setParticipantIds] = useState<string[]>([]);
   const [contextStrategy, setContextStrategy] = useState<ConversationContextMode>('full');
   const [mainCharacterId, setMainCharacterId] = useState<string>();
@@ -162,8 +108,10 @@ function App() {
   const localizedWorldCache = useRef(new WeakMap<WorldSource, Map<'ko' | 'en', Promise<WorldData>>>());
   const loadPackageForLanguage = async (source: WorldSource, requestedLanguage: 'ko' | 'en') => {
     if (requestedLanguage === 'ko') return loadWorld(source, { language: 'ko', lazyDocuments: true });
+    const manifest = await source.read('manifest.yaml');
+    if (!/^id:\s*['"]?blue-archive['"]?\s*$/m.test(manifest)) return loadWorld(source, { language: 'en', lazyDocuments: true });
     const response = await fetch(`${import.meta.env.BASE_URL}locales/en/manifest.json`);
-    if (!response.ok) throw new Error('English source overlay manifest is not installed.');
+    if (!response.ok) return loadWorld(source, { language: 'en', lazyDocuments: true });
     const paths = await response.json() as string[];
     const pathSet = new Set(paths);
     const overlay: WorldSource = {
@@ -202,47 +150,49 @@ function App() {
     setPickerOpen(false);
   };
 
-  // 개발 편의: `?world=<url>`로 패키지를 바로 열 수 있다(브라우저 파일 선택 없이 UI 확인용).
+  const openWorldUrl = async (url: string) => {
+    setStartupLoading(true);
+    setNotice(undefined);
+    try {
+      localeBaseSource.current = await createRemoteZipSource(url);
+      const loaded = await loadCachedPackageForLanguage(localeBaseSource.current, language);
+      const errors = validateWorld(loaded).filter(issue => issue.level === 'error');
+      if (errors.length) throw new Error(errors.map(issue => issue.message).join(' · '));
+      applyLoaded(loaded);
+      setScreen('home');
+    } catch (error) {
+      setNotice(`${language === 'en' ? 'Could not load world package' : '세계관 패키지를 열 수 없습니다'}: ${error instanceof Error ? error.message : 'invalid package'}`);
+    } finally {
+      setStartupLoading(false);
+    }
+  };
+
+  // Optional deep link remains useful for local preview; normal startup shows packages in worlds/.
   React.useEffect(() => {
-    const startupWorld = new URLSearchParams(window.location.search).get('world') ?? '/api/blue-archive';
+    const startupWorld = new URLSearchParams(window.location.search).get('world');
     let cancelled = false;
     void (async () => {
       try {
-        if (startupWorld === '/api/blue-archive') {
+        if (startupWorld) {
           localeBaseSource.current = await createRemoteZipSource(startupWorld);
+          const loaded = await loadCachedPackageForLanguage(localeBaseSource.current, language);
+          if (cancelled) return;
+          applyLoaded(loaded);
+          setScreen('home');
         } else {
-          const response = await fetch(startupWorld);
-          if (!response.ok) throw new Error(`패키지 요청 실패 (${response.status}). URL 설정이나 패키지 위치를 확인해 주세요.`);
-          localeBaseSource.current = createZipSource(new Uint8Array(await response.arrayBuffer()));
+          const response = await fetch('/api/worlds', { cache: 'no-store' });
+          if (!response.ok) throw new Error(`World list request failed (${response.status}).`);
+          const result = await response.json() as { worlds?: AvailableWorld[] };
+          if (!cancelled) setAvailableWorlds(Array.isArray(result.worlds) ? result.worlds : []);
         }
-        const loaded = await loadCachedPackageForLanguage(localeBaseSource.current, language);
-        if (cancelled) return;
-        applyLoaded(loaded);
-        setScreen('home');
-        const source = localeBaseSource.current;
-        if (source) window.setTimeout(() => {
-          void loadCachedPackageForLanguage(source, language === 'en' ? 'ko' : 'en').catch(() => {});
-        }, 300);
       } catch (error) {
-        if (!cancelled) setNotice(`${language === 'en' ? 'Could not load the requested language source' : '블루 아카이브 데이터를 열지 못했습니다'}: ${error instanceof Error ? error.message : 'invalid package'} — ${language === 'en' ? 'choose another package' : '패키지 열기로 직접 선택할 수 있습니다'}.`);
+        if (!cancelled) setNotice(`${language === 'en' ? 'Could not load the world package' : '세계관 패키지를 열지 못했습니다'}: ${error instanceof Error ? error.message : 'invalid package'} — ${language === 'en' ? 'choose a package below or open one from disk' : '아래에서 패키지를 선택하거나 파일을 직접 열어 주세요'}.`);
       } finally {
         if (!cancelled) setStartupLoading(false);
       }
     })();
     return () => { cancelled = true; };
   }, []);
-
-  // The local worker can outlive the UI process. Drop model references on window close so CUDA
-  // memory is released even when the worker itself was started separately from the app.
-  useEffect(() => {
-    const endpoint = (provider.ttsEndpoint ?? 'http://127.0.0.1:8177').replace(/\/+$/, '');
-    let localService = false;
-    try { localService = ['localhost', '127.0.0.1', '::1'].includes(new URL(endpoint).hostname); } catch { /* invalid until fixed in settings */ }
-    if (!localService) return undefined;
-    const unload = () => { try { navigator.sendBeacon(`${endpoint}/unload`, new Blob([], { type: 'text/plain' })); } catch { /* best effort during process shutdown */ } };
-    window.addEventListener('pagehide', unload);
-    return () => window.removeEventListener('pagehide', unload);
-  }, [provider.ttsEndpoint]);
 
   useEffect(() => {
     if (!data) return;
@@ -274,8 +224,8 @@ function App() {
     }
   };
 
-  // API 키는 로컬 서버 파일(권장) → 브라우저 저장소 → OS 키체인 순으로 저장된다(웹 서버 모드에서도 유지).
-  const providerSettingsSnapshot = (config: ProviderConfig) => ({ endpoint: config.endpoint, model: config.model, systemInstructions: config.systemInstructions ?? '', temperature: config.temperature, maxTokens: config.maxTokens, variation: config.variation, maxCycleSpeakers: config.maxCycleSpeakers, ttsEnabled: config.ttsEnabled, ttsEndpoint: config.ttsEndpoint, ttsEngine: config.ttsEngine, ttsLanguage: config.ttsLanguage, ttsStyle: config.ttsStyle, ttsCloningConsent: config.ttsCloningConsent });
+  // API keys use the configured secure store; non-secret provider settings use the settings store.
+  const providerSettingsSnapshot = (config: ProviderConfig) => ({ endpoint: config.endpoint, model: config.model, systemInstructions: config.systemInstructions ?? '', temperature: config.temperature, maxTokens: config.maxTokens, variation: config.variation, maxCycleSpeakers: config.maxCycleSpeakers });
   const saveProvider = async () => {
     const backend = await saveProviderSettings(providerSettingsSnapshot(provider));
     setProvider(current => ({ ...current, status: backend === 'none' ? (language === 'en' ? 'Could not save settings.' : '설정을 저장하지 못했습니다.') : (language === 'en' ? `Settings saved — ${backendLabel(backend)}` : `설정을 저장했습니다 — ${backendLabel(backend)}`) }));
@@ -331,107 +281,6 @@ function App() {
     } catch (error) {
       const message = error instanceof Error ? error.message : 'error';
       setProvider(current => ({ ...current, models: [], status: language === 'en' ? `Could not load models: ${message}` : `모델 목록을 불러오지 못했습니다: ${message}` }));
-    }
-  };
-
-  const saveVoiceSettings = async (requestedConfig: ProviderConfig = provider) => {
-    if (voiceSettingsSavingRef.current) return;
-    voiceSettingsSavingRef.current = true;
-    setVoiceSettingsSaving(true);
-    let modelProgressTimer: number | undefined;
-    try {
-      const ttsEngine: VoiceModelId = VOICE_MODELS.some(model => model.id === requestedConfig.ttsEngine) ? requestedConfig.ttsEngine! : 'voxcpm2';
-      const settings = { ttsEnabled: requestedConfig.ttsEnabled ?? false, ttsEngine, ttsLanguage: requestedConfig.ttsLanguage ?? 'ja', ttsStyle: requestedConfig.ttsStyle ?? '', ttsCloningConsent: requestedConfig.ttsCloningConsent ?? false, ttsEndpoint: requestedConfig.ttsEndpoint ?? 'http://127.0.0.1:8177' };
-      // Saving only TTS fields used to replace the provider settings object and erase endpoint/model.
-      await saveProviderSettings(providerSettingsSnapshot({ ...requestedConfig, ...settings }));
-      if (!settings.ttsEnabled) {
-        if (voiceRuntime?.ttsEnabled) void fetch(`${voiceRuntime.ttsEndpoint.replace(/\/+$/, '')}/unload`, { method: 'POST' }).catch(() => {});
-        setVoiceRuntime(settings);
-        setProvider(current => ({ ...current, ttsStatus: language === 'en' ? 'Voice generation is off; no local model is loaded.' : '음성 생성이 꺼져 있어 로컬 모델을 불러오지 않았습니다.' }));
-        return;
-      }
-      if (!settings.ttsCloningConsent) throw new Error(language === 'en' ? 'Confirm that you have permission to clone the included reference voices and will identify generated speech as AI-made.' : '포함된 음성 참조를 복제할 권한과 AI 음성 표시를 확인해 주세요.');
-      const endpoint = settings.ttsEndpoint.replace(/\/+$/, '');
-      let localEndpoint = false;
-      try { localEndpoint = ['localhost', '127.0.0.1', '::1'].includes(new URL(endpoint).hostname); } catch { /* invalid endpoint is reported by fetch */ }
-      const startupResponse = localEndpoint
-        ? await fetch('/api/tts/ensure', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ endpoint, engine: settings.ttsEngine }) })
-        : await fetch(`${endpoint}/health`);
-      const startup = await startupResponse.json().catch(() => ({})) as { error?: string; engine?: string };
-      if (!startupResponse.ok) throw new Error(startup.error ?? (language === 'en' ? 'Could not start or reach the local voice service.' : '로컬 음성 서비스를 시작하거나 연결하지 못했습니다.'));
-      if (startup.engine && startup.engine !== settings.ttsEngine) throw new Error(language === 'en' ? `The service at this address runs ${startup.engine}; choose its matching voice model or use its default local address.` : `이 주소의 서비스는 ${startup.engine}을 실행 중입니다. 일치하는 음성 모델을 선택하거나 기본 로컬 주소를 사용하세요.`);
-      let progressPollActive = false;
-      modelProgressTimer = window.setInterval(() => {
-        if (progressPollActive) return;
-        progressPollActive = true;
-        void fetch(`${endpoint}/health`, { cache: 'no-store' })
-          .then(response => response.ok ? response.json() : undefined)
-          .then(health => {
-            if (health?.loadStatus?.state === 'loading') setProvider(current => ({ ...current, ttsStatus: modelProgressText(health.loadStatus, language) }));
-          })
-          .catch(() => {})
-          .finally(() => { progressPollActive = false; });
-      }, 700);
-      const response = await fetch(`${endpoint}/configure`, {
-        method: 'POST', headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ ttsEnabled: true, engine: settings.ttsEngine, language: settings.ttsLanguage, cloningConsent: settings.ttsCloningConsent }),
-      });
-      const payload = await response.json().catch(() => ({})) as { error?: string; expectedVramMB?: number; usedVramMB?: number; availableVramMB?: number; totalVramMB?: number; processVramMB?: number; warning?: boolean; device?: string; acceleratorBackend?: string; acceleratorAvailable?: boolean };
-      if (!response.ok) throw new Error(payload.error ?? `Voice service returned HTTP ${response.status}.`);
-      setVoiceRuntime(settings);
-      setVramInfo(current => ({ ...current, device: payload.device ?? current?.device, totalVramMB: payload.totalVramMB ?? current?.totalVramMB, usedVramMB: payload.usedVramMB ?? current?.usedVramMB, availableVramMB: payload.availableVramMB ?? current?.availableVramMB, processVramMB: payload.processVramMB ?? 0, acceleratorBackend: payload.acceleratorBackend ?? current?.acceleratorBackend, acceleratorAvailable: payload.acceleratorAvailable ?? current?.acceleratorAvailable }));
-      const status = payload.warning
-        ? (language === 'en' ? 'Voice model loaded, but GPU memory is below the estimate plus 500 MB headroom.' : '음성 모델을 불러왔지만 GPU 메모리가 예상치와 500 MB 여유보다 적습니다.')
-        : (language === 'en' ? `Voice settings saved${payload.expectedVramMB ? ` · expected ${(payload.expectedVramMB / 1024).toFixed(1)} GB VRAM` : ''}.` : `음성 설정을 저장했습니다${payload.expectedVramMB ? ` · 예상 VRAM ${(payload.expectedVramMB / 1024).toFixed(1)} GB` : ''}.`);
-      setProvider(current => ({ ...current, ttsStatus: status }));
-    } catch (error) {
-      const rawMessage = error instanceof Error ? error.message : String(error);
-      const message = /failed to fetch|networkerror|fetch failed/i.test(rawMessage)
-        ? (language === 'en' ? 'The local voice model service could not be started automatically. Check Python and GPU runtime setup.' : '로컬 음성 모델 서비스를 자동으로 시작하지 못했습니다. Python 및 GPU 런타임 설정을 확인해 주세요.')
-        : rawMessage;
-      setProvider(current => ({ ...current, ttsStatus: message }));
-    } finally {
-      if (modelProgressTimer !== undefined) window.clearInterval(modelProgressTimer);
-      voiceSettingsSavingRef.current = false;
-      setVoiceSettingsSaving(false);
-    }
-  };
-
-  const generateTtsPreview = async () => {
-    if (!voiceRuntime?.ttsEnabled) {
-      setTtsPreviewStatus(language === 'en' ? 'Save voice settings first.' : '먼저 음성 설정을 저장해 주세요.');
-      return;
-    }
-    if (!data?.source) { setTtsPreviewStatus(language === 'en' ? 'Open a world package with voice references first.' : '음성 참조가 포함된 세계관 패키지를 먼저 열어 주세요.'); return; }
-    const sampleStatusLanguage = voiceRuntime.ttsLanguage === 'ja' ? 'Japanese' : voiceRuntime.ttsLanguage === 'ko' ? 'Korean' : 'English';
-    setTtsPreviewStatus(language === 'en' ? `Generating a ${sampleStatusLanguage} voice sample…` : `${voiceRuntime.ttsLanguage === 'ja' ? '일본어' : voiceRuntime.ttsLanguage === 'ko' ? '한국어' : '영어'} 음성 샘플 생성 중…`);
-    setTtsPreviewBusy(true);
-    setTtsPreviewAudio(undefined);
-    try {
-      const manifestPath = 'tts-references/manifest.json';
-      if (!await data.source.exists(manifestPath)) throw new Error(language === 'en' ? 'This package has no voice references.' : '이 패키지에 음성 참조 파일이 없습니다.');
-      const manifest = JSON.parse(await data.source.read(manifestPath)) as { references?: Record<string, { file: string; transcript: string }> };
-      const [studentId, reference] = Object.entries(manifest.references ?? {})[0] ?? [];
-      if (!reference) throw new Error(language === 'en' ? 'This package has no voice references.' : '이 패키지에 음성 참조 파일이 없습니다.');
-      const bytes = await readAssetBytes(data, reference.file);
-      if (!bytes) throw new Error(language === 'en' ? 'Could not read the voice reference.' : '음성 참조 파일을 읽지 못했습니다.');
-      let binary = '';
-      for (let offset = 0; offset < bytes.length; offset += 0x8000) binary += String.fromCharCode(...bytes.subarray(offset, offset + 0x8000));
-      const endpoint = (voiceRuntime.ttsEndpoint ?? 'http://127.0.0.1:8177').replace(/\/+$/, '');
-      const previewText: Record<VoiceLanguage, string> = { ja: 'こんにちは、先生。今日もよろしくお願いします。', en: 'Hello, Sensei. I hope you have a wonderful day.', ko: '안녕하세요, 선생님. 오늘도 잘 부탁드려요.' };
-      const response = await fetch(`${endpoint}/generate`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ text: previewText[voiceRuntime.ttsLanguage], referenceText: reference.transcript, referenceAudioBase64: btoa(binary), requestId: crypto.randomUUID(), engine: voiceRuntime.ttsEngine, language: voiceRuntime.ttsLanguage, style: voiceRuntime.ttsStyle }) });
-      if (!response.ok) {
-        const payload = await response.json().catch(() => ({})) as { error?: string };
-        throw new Error(payload.error ?? `Voice service returned HTTP ${response.status}`);
-      }
-      const audioUrl = URL.createObjectURL(await response.blob());
-      setTtsPreviewAudio(audioUrl);
-      const studentName = displayStudentName(characters.find(character => character.id === studentId)) || studentId;
-      setTtsPreviewStatus(language === 'en' ? `Sample generated with ${studentName}'s reference.` : `${studentName}의 음성 참조로 샘플을 생성했습니다.`);
-    } catch (error) {
-      setTtsPreviewStatus(error instanceof Error ? error.message : String(error));
-    } finally {
-      setTtsPreviewBusy(false);
     }
   };
 
@@ -543,7 +392,6 @@ function App() {
     const accepted = window.confirm(language === 'en' ? 'Delete this conversation and all of its messages?' : '이 대화와 모든 메시지를 삭제할까요?');
     if (!accepted) return;
     const id = currentConversationId;
-    clearGeneratedVoices();
     await clearConversation(id);
     setThreadMessages([]);
     turnHistory.current = [];
@@ -581,15 +429,8 @@ function App() {
       setSettingsLoaded(true);
       if (!settings) return;
       if (providerSettingsEdited.current) return;
-      const ttsEngine: VoiceModelId = VOICE_MODELS.some(model => model.id === settings.ttsEngine)
-        ? settings.ttsEngine!
-        : provider.ttsEngine ?? 'voxcpm2';
-      const loadedTtsEndpoint = settings.ttsEndpoint;
-      const defaultTtsEndpoint = 'http://127.0.0.1:8177';
-      const hasSupportedSavedEngine = VOICE_MODELS.some(model => model.id === settings.ttsEngine);
-      const loadedProvider = { ...provider, ...settings, ttsLanguage: settings.ttsLanguage ?? 'ja', ttsCloningConsent: settings.ttsCloningConsent ?? false, ttsEngine, ttsEndpoint: !hasSupportedSavedEngine || !loadedTtsEndpoint || ['http://127.0.0.1:8174', 'http://127.0.0.1:8175'].includes(loadedTtsEndpoint) ? defaultTtsEndpoint : loadedTtsEndpoint, maxTokens: settings.maxTokens && settings.maxTokens > 0 ? settings.maxTokens : 32768 };
+      const loadedProvider = { ...provider, ...settings, maxTokens: settings.maxTokens && settings.maxTokens > 0 ? settings.maxTokens : 32768 };
       setProvider(current => ({ ...current, ...loadedProvider, status: language === 'en' ? `Saved settings loaded — ${backendLabel(backend)}` : `저장된 설정을 불러왔습니다 — ${backendLabel(backend)}` }));
-      if (loadedProvider.ttsEnabled) void saveVoiceSettings(loadedProvider);
     })();
     return () => { cancelled = true; };
   }, []);
@@ -600,7 +441,7 @@ function App() {
     const settings = providerSettingsSnapshot(provider);
     const timer = setTimeout(() => { void saveProviderSettings(settings); }, 500);
     return () => clearTimeout(timer);
-  }, [settingsLoaded, provider.endpoint, provider.model, provider.systemInstructions, provider.temperature, provider.maxTokens, provider.variation, provider.maxCycleSpeakers, provider.ttsEnabled, provider.ttsEndpoint, provider.ttsEngine, provider.ttsLanguage, provider.ttsStyle, provider.ttsCloningConsent]);
+  }, [settingsLoaded, provider.endpoint, provider.model, provider.systemInstructions, provider.temperature, provider.maxTokens, provider.variation, provider.maxCycleSpeakers]);
 
   /** 진행 중인 사이클 제어(멈추기 버튼 + 요청 중단). */
   const stopRef = useRef(false);
@@ -639,121 +480,6 @@ function App() {
     return result;
   };
 
-  const generateVoice = async (speaker: Character, messageId: string, voiceText: string, parentSignal?: AbortSignal, deliveryStyle?: string) => {
-    voiceGenerationControllers.current.get(messageId)?.controller.abort();
-    const controller = new AbortController();
-    const requestId = crypto.randomUUID();
-    const endpoint = (voiceRuntime?.ttsEndpoint ?? 'http://127.0.0.1:8177').replace(/\/+$/, '');
-    const queuedAt = Date.now();
-    const activeGeneration: { controller: AbortController; endpoint: string; requestId: string; phase: 'queued' | 'generating' } = { controller, endpoint, requestId, phase: 'queued' };
-    voiceGenerationControllers.current.set(messageId, activeGeneration);
-    const abortFromParent = () => controller.abort();
-    if (parentSignal?.aborted) controller.abort();
-    else parentSignal?.addEventListener('abort', abortFromParent, { once: true });
-    setGeneratedVoices(current => ({ ...current, [messageId]: { state: 'queued', stage: 'queued', text: voiceText, textCharacters: Array.from(voiceText).length, startedAt: queuedAt, elapsedMs: 0 } }));
-    let progressTimer: number | undefined;
-    let progressRequestActive = false;
-    progressTimer = window.setInterval(() => {
-      const elapsedMs = Date.now() - queuedAt;
-      setGeneratedVoices(current => {
-        const voice = current[messageId];
-        return voice && (voice.state === 'queued' || voice.state === 'loading') ? { ...current, [messageId]: { ...voice, elapsedMs } } : current;
-      });
-      if (activeGeneration.phase !== 'generating' || progressRequestActive || controller.signal.aborted) return;
-      progressRequestActive = true;
-      void fetch(`${endpoint}/progress?requestId=${encodeURIComponent(requestId)}`, { signal: controller.signal, cache: 'no-store' })
-        .then(response => response.ok ? response.json() : undefined)
-        .then((progress: { stage?: string; generatedTokens?: number; elapsedMs?: number } | undefined) => {
-          if (!progress || controller.signal.aborted) return;
-          setGeneratedVoices(current => {
-            const voice = current[messageId];
-            return voice?.state === 'loading' ? { ...current, [messageId]: { ...voice, stage: progress.stage ?? voice.stage, generatedTokens: progress.generatedTokens ?? voice.generatedTokens, elapsedMs: Math.max(elapsedMs, progress.elapsedMs ?? 0) } } : current;
-          });
-        })
-        .catch(() => {})
-        .finally(() => { progressRequestActive = false; });
-    }, 500);
-    const previousJob = voiceGenerationQueue.current;
-    let releaseJob!: () => void;
-    const thisJob = new Promise<void>(resolve => { releaseJob = resolve; });
-    voiceGenerationQueue.current = previousJob.catch(() => {}).then(() => thisJob);
-    try {
-      await previousJob.catch(() => {});
-      if (controller.signal.aborted) return;
-      if (!voiceRuntime?.ttsEnabled) throw new Error(locale === 'en' ? 'Voice generation is not active. Save TTS settings first.' : '음성 생성이 활성화되지 않았습니다. TTS 설정을 저장해 주세요.');
-      if (!data?.source) throw new Error(locale === 'en' ? 'World package data is unavailable.' : '세계관 패키지 데이터를 읽을 수 없습니다.');
-      const manifestPath = 'tts-references/manifest.json';
-      if (!await data.source.exists(manifestPath)) throw new Error(locale === 'en' ? 'This world package was exported without voice references. Re-export it with TTS references included.' : '이 패키지에 음성 참조 파일이 없습니다. TTS 참조 파일을 포함해 다시 내보내 주세요.');
-      const manifest = JSON.parse(await data.source.read(manifestPath)) as { references?: Record<string, { file: string; transcript: string }> };
-      const reference = manifest.references?.[speaker.id];
-      if (!reference) throw new Error(locale === 'en' ? `No suitable voice reference audio for ${speaker.name}.` : `${speaker.name}의 음성 참조 파일이 없습니다.`);
-      const referenceBytes = await readAssetBytes(data, reference.file);
-      if (!referenceBytes) throw new Error(locale === 'en' ? `Could not read ${speaker.name}'s reference audio.` : `${speaker.name}의 음성 참조 파일을 읽지 못했습니다.`);
-
-      if (!voiceText) throw new Error(locale === 'en' ? 'The LLM did not return voice text in the selected language.' : 'LLM이 선택한 음성 언어의 문장을 반환하지 않았습니다.');
-      const bytesToBase64 = (bytes: Uint8Array) => {
-        let binary = '';
-        const chunkSize = 0x8000;
-        for (let offset = 0; offset < bytes.length; offset += chunkSize) binary += String.fromCharCode(...bytes.subarray(offset, offset + chunkSize));
-        return btoa(binary);
-      };
-      const sourceKey = data.source ?? data;
-      let sourceBase64 = referenceBase64Cache.current.get(sourceKey);
-      if (!sourceBase64) {
-        sourceBase64 = new Map();
-        referenceBase64Cache.current.set(sourceKey, sourceBase64);
-      }
-      let referenceAudioBase64 = sourceBase64.get(reference.file);
-      if (!referenceAudioBase64) {
-        referenceAudioBase64 = bytesToBase64(referenceBytes);
-        sourceBase64.set(reference.file, referenceAudioBase64);
-        if (sourceBase64.size > 32) sourceBase64.delete(sourceBase64.keys().next().value!);
-      }
-      activeGeneration.phase = 'generating';
-      setGeneratedVoices(current => ({ ...current, [messageId]: { state: 'loading', stage: 'preparing_reference', text: voiceText, textCharacters: Array.from(voiceText).length, startedAt: queuedAt, elapsedMs: Date.now() - queuedAt } }));
-      const response = await fetch(`${endpoint}/generate`, {
-        method: 'POST',
-        headers: { 'content-type': 'application/json' },
-        signal: controller.signal,
-        body: JSON.stringify({ text: voiceText, referenceText: reference.transcript, referenceAudioBase64, requestId, engine: voiceRuntime.ttsEngine, language: voiceRuntime.ttsLanguage, style: deliveryStyle || voiceRuntime.ttsStyle }),
-      });
-      if (!response.ok) {
-        const payload = await response.json().catch(() => ({})) as { error?: string };
-        throw new Error(payload.error || `Voice service returned HTTP ${response.status}`);
-      }
-      const audio = await response.blob();
-      if (controller.signal.aborted) return;
-      const priorUrl = generatedVoiceUrls.current.get(messageId);
-      if (priorUrl) URL.revokeObjectURL(priorUrl);
-      const audioUrl = URL.createObjectURL(audio);
-      generatedVoiceUrls.current.set(messageId, audioUrl);
-      const truncated = response.headers.get('X-World-Player-TTS-Truncated') === 'true';
-      const generatedTokens = Number(response.headers.get('X-World-Player-TTS-Tokens')) || undefined;
-      setGeneratedVoices(current => ({ ...current, [messageId]: { state: 'ready', url: audioUrl, text: voiceText, truncated, generatedTokens } }));
-    } catch (error) {
-      if (controller.signal.aborted || (error instanceof Error && error.name === 'AbortError')) {
-        setGeneratedVoices(current => { const next = { ...current }; delete next[messageId]; return next; });
-      } else {
-        setGeneratedVoices(current => ({ ...current, [messageId]: { state: 'error', error: error instanceof Error ? error.message : String(error) } }));
-      }
-    } finally {
-      if (progressTimer !== undefined) window.clearInterval(progressTimer);
-      releaseJob();
-      parentSignal?.removeEventListener('abort', abortFromParent);
-      if (voiceGenerationControllers.current.get(messageId)?.controller === controller) voiceGenerationControllers.current.delete(messageId);
-    }
-  };
-  const cancelVoiceGeneration = (messageId: string) => {
-    const active = voiceGenerationControllers.current.get(messageId);
-    active?.controller.abort();
-    voiceGenerationControllers.current.delete(messageId);
-    const audioUrl = generatedVoiceUrls.current.get(messageId);
-    if (audioUrl) URL.revokeObjectURL(audioUrl);
-    generatedVoiceUrls.current.delete(messageId);
-    setGeneratedVoices(current => { const next = { ...current }; delete next[messageId]; return next; });
-    if (active?.phase === 'generating') void fetch(`${active.endpoint}/cancel`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ requestId: active.requestId }) }).catch(() => {});
-  };
-
   /**
    * 대화 사이클을 돌린다.
    *  - `text`를 주면 플레이어 발언을 넣고 참가자(또는 이름이 불린 캐릭터)가 말을 시작한다.
@@ -779,9 +505,6 @@ function App() {
     setStreaming(true);
     let activeBubbleId: string | undefined;
     const cycleBubbleIds: string[] = [];
-    const voiceIdByTurnId = new Map<string, string>();
-    const voiceStylesByResponse = new Map<string, string[]>();
-    const voiceStartedForResponse = new Set<string>();
     try {
       const messageStyles = await loadMessageStyles(data, activeParticipants);
       const result = await runConversationCycle({
@@ -806,8 +529,6 @@ function App() {
         shouldStop: () => stopRef.current,
         maxSpeakersPerCycle: provider.maxCycleSpeakers ?? 8,
         messageStyles,
-        voiceTranslationLanguage: voiceRuntime?.ttsEnabled && voiceRuntime.ttsLanguage !== language ? voiceRuntime.ttsLanguage : undefined,
-        voiceStyleControl: Boolean(voiceRuntime?.ttsEnabled && voiceModel(voiceRuntime.ttsEngine).styleControl),
         // 말하기 시작하면 빈 말풍선을 만들고 스트리밍 조각으로 채운다(턴 넘김 신호는 화면에 나오지 않는다).
         onSpeaker: speaker => {
           activeBubbleId = `${speaker.id}-${Date.now()}`;
@@ -815,35 +536,12 @@ function App() {
           setTypingMessageId(activeBubbleId);
           setThreadMessages(current => [...current, { id: activeBubbleId!, speaker: displayStudentName(speaker), nodes: [], createdAt: new Date().toISOString(), edited: false, reactions: {} }]);
         },
-        onVoiceTranslation: (speaker, text) => {
-          const responseId = activeBubbleId;
-          if (!voiceRuntime?.ttsEnabled || !responseId) return;
-          const voiceText = sanitizeVoiceText(text);
-          voiceStartedForResponse.add(responseId);
-          const ttsCharacter = characters.find(character => character.id === speaker.id);
-          const deliveryStyle = voiceStylesByResponse.get(responseId)?.join('; ');
-          if (ttsCharacter) void generateVoice(ttsCharacter, responseId, voiceText, abortRef.current?.signal, deliveryStyle);
-        },
-        onVoiceStyles: (_speaker, styles) => { if (activeBubbleId) voiceStylesByResponse.set(activeBubbleId, styles); },
         onBubbles: async (speaker, bubbles) => {
-          const responseId = activeBubbleId;
-          const voiceStyles = responseId ? voiceStylesByResponse.get(responseId) ?? [] : [];
-          const ttsCharacter = characters.find(character => character.id === speaker.id);
-          if (voiceRuntime?.ttsEnabled && voiceRuntime.ttsLanguage === language && responseId && !voiceStartedForResponse.has(responseId) && ttsCharacter) {
-            voiceStartedForResponse.add(responseId);
-            for (const [bubbleIndex, voiceTurn] of bubbles.entries()) {
-              const directVoiceText = sanitizeVoiceText(voiceTurn.content.map(node => node.text ?? '').join(''));
-              if (directVoiceText) void generateVoice(ttsCharacter, voiceTurn.id, directVoiceText, abortRef.current?.signal, voiceStyles[bubbleIndex]);
-            }
-          }
           for (const [index, turn] of bubbles.entries()) {
-            // Commit each completed bubble independently so it can carry its own voice.
+            // Commit each completed bubble independently so the typing indicator can pause between them.
             const placeholderId = activeBubbleId;
-            const voiceId = voiceRuntime?.ttsEnabled && voiceRuntime.ttsLanguage === language ? turn.id : responseId;
-            if (voiceId) voiceIdByTurnId.set(turn.id, voiceId);
             const readyMessage = {
               id: turn.id,
-              voiceId,
               speaker: displayStudentName(speaker),
               nodes: parseChatMarkdown(turn.content.map(node => node.text ?? '').join('')),
               createdAt: turn.timestamp,
@@ -851,9 +549,6 @@ function App() {
               reactions: {},
             };
             setThreadMessages(current => [...current.filter(message => message.id !== placeholderId), readyMessage]);
-            if (index === 0 && voiceRuntime?.ttsEnabled && voiceRuntime.ttsLanguage !== language && responseId && !voiceStartedForResponse.has(responseId)) {
-              setGeneratedVoices(current => ({ ...current, [responseId]: { state: 'error', error: `The LLM did not return a complete [[voice-${voiceRuntime.ttsLanguage}]] translation block.` } }));
-            }
             activeBubbleId = undefined;
             if (index < bubbles.length - 1) {
               const visibleText = turn.content.map(node => node.text ?? '').join('').trim();
@@ -880,7 +575,6 @@ function App() {
         const existingIds = new Set(withoutPlaceholders.map(message => message.id));
         const completedMessages = result.turns.map(turn => ({
           id: turn.id,
-          voiceId: voiceIdByTurnId.get(turn.id),
           speaker: turn.speaker.type === 'player' ? (language === 'en' ? 'You' : '나') : displayStudentName(data.entities.get(turn.speaker.id) as Character | undefined) || turn.speaker.id,
           nodes: turn.content,
           createdAt: turn.timestamp,
@@ -946,12 +640,17 @@ function App() {
     <section className="dt-startup-card">
       <span className="dt-welcome-mark"><BrandMark className="dt-startup-mark" /></span>
       <span className="dt-eyebrow">DANMUTALK · LOCAL WORKSPACE</span>
-      <h1>{language === 'en' ? 'Opening DanmuTalk…' : 'DanmuTalk을 여는 중…'}</h1>
+      <h1>{startupLoading ? (language === 'en' ? 'Finding your worlds…' : '세계관을 찾는 중…') : (language === 'en' ? 'Choose a world to begin' : '세계관을 선택해 시작하세요')}</h1>
       <p>{startupLoading
         ? (language === 'en' ? 'Loading your world and student list.' : '세계와 학생 목록을 불러오고 있어요.')
         : (language === 'en' ? 'Open a world package to start messaging your students.' : '세계관 패키지를 열어 학생들과 대화를 시작해 보세요.')}</p>
       <p className="dt-world-package-help">{language === 'en' ? 'You can also drag a .😭 or .zip file onto this window.' : '.😭 또는 .zip 파일을 이 창에 끌어다 놓아도 됩니다.'}</p>
       {notice && <p className="dt-startup-error" role="alert">{notice}</p>}
+      {availableWorlds.length > 0 && <section className="dt-world-list" aria-label={language === 'en' ? 'Available worlds' : '사용 가능한 세계관'}>
+        <h2>{language === 'en' ? 'Worlds in your worlds folder' : 'worlds 폴더의 세계관'}</h2>
+        <p>{language === 'en' ? 'Choose a package to play. Add more packages to the worlds folder to share them here.' : '플레이할 패키지를 선택하세요. worlds 폴더에 패키지를 추가하면 여기에 표시됩니다.'}</p>
+        {availableWorlds.map(world => <button type="button" className="dt-world-option" key={world.name} disabled={startupLoading} onClick={() => void openWorldUrl(world.url)}><span>◈</span><strong>{world.name.replace(/\.(?:😭|zip)$/i, '')}</strong><small>{world.name.split('.').pop()?.toUpperCase()}</small></button>)}
+      </section>}
       <button className="dt-start-group" onClick={() => packageInput.current?.click()}><span>＋</span>{language === 'en' ? 'Open a world package' : '세계관 패키지 열기'}</button>
       <input ref={packageInput} type="file" hidden accept=".😭,.zip,application/zip" onChange={event => { const file = event.target.files?.[0]; event.target.value = ''; if (file) void openWorld(file); }} />
     </section>
@@ -975,12 +674,12 @@ function App() {
     }}>
     {startupScreen}
     {worldPackageDrag && <div className="world-package-drop" role="status" aria-live="polite">{language === 'en' ? 'Drop your world package to open it' : '세계관 패키지를 놓으면 열립니다'}</div>}
-    {(screen === 'home' || screen === 'chat') && data && <HomeScreen data={data} characters={localizedCharacters} conversations={conversationSummaries} language={language} onLanguage={changeLocale} notice={noticeText} activeStudentId={mainCharacterId} activeConversationId={currentConversationId} onOpenConversation={requestTimelineSelection} timeSlices={data.timeSlices} sliceId={sliceId} onSliceChange={setSliceId} onCloseChat={() => setScreen('home')} onResetChat={resetChat} activeChat={screen === 'chat' && slice ? <ConversationView key={language} data={data} characters={localizedCharacters} participants={localizedParticipants.length ? localizedParticipants : mainCharacter ? [{ ...mainCharacter, name: displayStudentName(mainCharacter), summary: language === 'en' ? mainCharacter.summaryEn : mainCharacter.summary }] : []} messages={threadMessages} input={input} streaming={streaming} typingMessageId={typingMessageId} theme={theme} locale={locale} situation={situation} directorNotes={directorNotes} pendingImages={pendingImages} onTheme={changeTheme} onLocale={changeLocale} onSituation={changeSituation} onDirectorNotes={changeDirectorNotes} sliceId={sliceId} activeStudentId={mainCharacterId} onRemovePendingImage={index => setPendingImages(current => current.filter((_, item) => item !== index))} onInput={setInput} onSend={send} onAttach={attachImage} onBack={() => setScreen('home')} onProfile={() => setProfileOpen(true)} onSettings={() => setConfigOpen(true)} onStop={stopCycle} onEdit={editVisualMessage} onReact={reactToMessage} onResetChat={resetChat} onCancelVoice={cancelVoiceGeneration} ttsEnabled={voiceRuntime?.ttsEnabled ?? false} generatedVoices={generatedVoices} /> : undefined} onOpenChat={sendToStudent} onOpenGroupChat={() => { setParticipantIds([]); setSliceId(''); setPickerOpen(true); }} onOpenSettings={() => setConfigOpen(true)} onEditProfile={() => setProfileOpen(true)} onConfig={() => setConfigOpen(true)} onLoad={() => packageInput.current?.click()} onFile={file => void openWorld(file)} packageInput={packageInput} />}
+    {(screen === 'home' || screen === 'chat') && data && <HomeScreen data={data} characters={localizedCharacters} conversations={conversationSummaries} language={language} onLanguage={changeLocale} notice={noticeText} activeStudentId={mainCharacterId} activeConversationId={currentConversationId} onOpenConversation={requestTimelineSelection} timeSlices={data.timeSlices} sliceId={sliceId} onSliceChange={setSliceId} onCloseChat={() => setScreen('home')} onResetChat={resetChat} activeChat={screen === 'chat' && slice ? <ConversationView key={language} data={data} characters={localizedCharacters} participants={localizedParticipants.length ? localizedParticipants : mainCharacter ? [{ ...mainCharacter, name: displayStudentName(mainCharacter), summary: language === 'en' ? mainCharacter.summaryEn : mainCharacter.summary }] : []} messages={threadMessages} input={input} streaming={streaming} typingMessageId={typingMessageId} theme={theme} locale={locale} situation={situation} directorNotes={directorNotes} pendingImages={pendingImages} onTheme={changeTheme} onLocale={changeLocale} onSituation={changeSituation} onDirectorNotes={changeDirectorNotes} sliceId={sliceId} activeStudentId={mainCharacterId} onRemovePendingImage={index => setPendingImages(current => current.filter((_, item) => item !== index))} onInput={setInput} onSend={send} onAttach={attachImage} onBack={() => setScreen('home')} onProfile={() => setProfileOpen(true)} onSettings={() => setConfigOpen(true)} onStop={stopCycle} onEdit={editVisualMessage} onReact={reactToMessage} onResetChat={resetChat} /> : undefined} onOpenChat={sendToStudent} onOpenGroupChat={() => { setParticipantIds([]); setSliceId(''); setPickerOpen(true); }} onOpenSettings={() => setConfigOpen(true)} onEditProfile={() => setProfileOpen(true)} onConfig={() => setConfigOpen(true)} onLoad={() => packageInput.current?.click()} onFile={file => void openWorld(file)} packageInput={packageInput} />}
     {browseCategory && data && <BrowseOverlay data={data} categoryId={browseCategory} characterId={selectedProfileCharacter} language={language} onClose={() => { setBrowseCategory(undefined); setSelectedProfileCharacter(undefined); }} />}
     {pickerOpen && data && <ChatOverlay data={data} characters={localizedCharacters} selected={participantIds} sliceId={sliceId} language={language} onOpenProfile={openCharacterProfile} onToggle={toggleParticipant} onToggleFolder={toggleFolder} onSlice={setSliceId} onStart={startChat} onClose={() => setPickerOpen(false)} />}
     {pendingConversation && data && <TimelinePromptOverlay key={pendingConversation.id} language={language} title={language === 'en' ? `Choose timeline · ${pendingConversation.participants.map(id => displayStudentName(characters.find(character => character.id === id))).join(', ')}` : `대화 시점 선택 · ${pendingConversation.participants.map(id => displayStudentName(characters.find(character => character.id === id))).join(', ')}`} value={sliceId} options={[{ value: '', label: language === 'en' ? 'Choose a timeline…' : '시점을 선택하세요…' }, { value: 'none', label: language === 'en' ? 'None' : '시점 없음' }, ...data.timeSlices.map(item => ({ value: item.id, label: language === 'en' ? item.labelEn ?? item.label : item.label }))]} onChange={setSliceId} onContinue={continueAfterTimelineSelection} onClose={() => { setPendingConversation(undefined); setSliceId(''); }} />}
     {profileOpen && <ProfileOverlay key={language} profile={profile} onChange={next => { profileCustomized.current = true; localStorage.setItem('blue-archive.profile-customized', 'true'); setProfile(next); }} language={language} onClose={() => setProfileOpen(false)} />}
-    {configOpen && <ConfigOverlay key={language} config={provider} onChange={changeProviderSettings} onLoadModels={loadModels} onSaveProvider={() => void saveProvider()} onLoadProvider={() => void loadSavedProviderSettings()} onSaveKey={() => void saveKey()} onLoadKey={loadKey} onSaveVoiceSettings={config => void saveVoiceSettings(config)} onPreviewVoice={() => void generateTtsPreview()} previewVoiceBusy={ttsPreviewBusy} previewVoiceAudio={ttsPreviewAudio} previewVoiceStatus={ttsPreviewStatus} voiceSettingsSaving={voiceSettingsSaving} vramInfo={vramInfo} onRefreshVram={refreshTtsVram} language={language} situation={situation} directorNotes={directorNotes} onSituation={changeSituation} onDirectorNotes={changeDirectorNotes} onClose={() => setConfigOpen(false)} />}
+    {configOpen && <ConfigOverlay key={language} config={provider} onChange={changeProviderSettings} onLoadModels={loadModels} onSaveProvider={() => void saveProvider()} onLoadProvider={() => void loadSavedProviderSettings()} onSaveKey={() => void saveKey()} onLoadKey={loadKey} language={language} situation={situation} directorNotes={directorNotes} onSituation={changeSituation} onDirectorNotes={changeDirectorNotes} onClose={() => setConfigOpen(false)} />}
   </div>;
 }
 

@@ -1,0 +1,291 @@
+# 무로카사 아카네 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 무로카사 아카네, 선생(샬레)
+
+1. **「무로카사 아카네 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「무로카사 아카네 인연 스토리 2」**
+
+- **Helmet Gangster A**: Stop right there!
+- **Helmet Gangster B**: You must be the Sensei they prattle on about. Heh. Your little Schale club has been a real pain in the ass lately.
+- **Helmet Gangster B**: Why don't you spend some quality time with us for a change?
+- **Helmet Gangster A**: We heard you give treats to all of the girls. Why not share with us...?
+- **???**: That's not happening.
+- **???**: Because you don't deserve it.
+- **Helmet Gangster A**: Wh-Who goes there?!
+- **???**: I am Sensei's—no...
+- **???**: I am...
+- **무로카사 아카네**: ...Master's dependable maid!
+- **Helmet Gangster A**: ...What?
+- **Helmet Gangster B**: Gaaah! She threw a bomb!
+- **Helmet Gangster B**: Urgh...
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: Heehee. ♪
+- **무로카사 아카네**: Long time no see, Master.
+- **무로카사 아카네**: Well, I am Akane: the Beautiful Maid of Mystery!
+- **무로카사 아카네**: Well, I am Akane: the Beautiful Maid of Mystery!
+- **무로카사 아카네**: I saw you while I was on a mission—I mean, a club activity—and followed you.
+- **무로카사 아카네**: I'm always happy to be of service.
+- **무로카사 아카네**: You know...
+- **무로카사 아카네**: ...this feels nostalgic somehow.
+- **무로카사 아카네**: It reminds me of when we first met, Sensei.
+- **Passing Female Student 1**: Aaaahh!
+- **Passing Female Student 2**: Wh-What was that?!
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: Are you my master?
+- **무로카사 아카네**: Hmm.
+- **무로카사 아카네**: Hmm.
+- **무로카사 아카네**: I'm glad your sense of humor is intact.
+- **무로카사 아카네**: It is a pleasure to meet you.
+- **무로카사 아카네**: Akane of C&C.
+- **무로카사 아카네**: I'm here to serve you, Sensei—pardon me. Master.
+
+3. **「무로카사 아카네 인연 스토리 3」**
+
+- **무로카사 아카네**: It is a pleasure to meet you.
+- **무로카사 아카네**: Akane of C&C.
+- **무로카사 아카네**: I'm here to serve you, Sensei—pardon me. Master.
+- **무로카사 아카네**: I was told that I would be under Schale's command for this mission.
+- **무로카사 아카네**: As you may be aware, C&C is comprised of the best agents in Millennium—no, in all of Kivotos.
+- **무로카사 아카네**: We offer a wide variety of "cleaning services"...
+- **무로카사 아카네**: Such as cleansing Millennium of problem elements or encouraging bosses who extort their workers to pay what is owed and leave town.
+- **무로카사 아카네**: It's not dissimilar to what Schale does, hence why an agent of my caliber was assigned here.
+- **무로카사 아카네**: I can only assume that you require services from every student in Kivotos, is that right?
+- **무로카사 아카네**: A wise decision. Agent Zero-Three, Murokasa Akane. I'm here to serve you, Master.
+- **무로카사 아카네**: What is the mission for today?
+- **무로카사 아카네**: Assassination? Courting? Intelligence gathering? Warfare? Corporate espionage?
+- **무로카사 아카네**: Ah, elimination of a target. Very well. Could you specify the identity?
+- **무로카사 아카네**: Ah, elimination of a target. Very well. Could you specify the identity?
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: I beg your pardon?
+- **무로카사 아카네**: You were referring to...an actual cleanup?!
+- **무로카사 아카네**: You'd like me to sweep, dust, and organize until the room is spotless?!
+- **무로카사 아카네**: I can't believe what I'm hearing. Do I look like some sort of maid to you?!
+- **무로카사 아카네**: Oh.
+- **무로카사 아카네**: *sigh* My apologies. There are times when even I forget every duty I hold.
+- **무로카사 아카네**: Very well. Say no more.
+- **무로카사 아카네**: I am a member of C&C. There is no cleanup mission I cannot execute.
+- **무로카사 아카네**: This target I'll be cleaning... It's your executive office?
+- **무로카사 아카네**: I'll have to fetch my tools.
+- **무로카사 아카네**: *rustle*
+- **무로카사 아카네**: Because nothing is more efficient at cleaning.
+- **무로카사 아카네**: Worry not, Master. There won't be a speck of dirt left in this room once I'm through.
+- **무로카사 아카네**: Heh heh.
+- **무로카사 아카네**: Only kidding.
+- **무로카사 아카네**: To be honest, I was rather excited to be summoned here.
+- **무로카사 아카네**: So I chose to have a little fun at your expense because I was embarrassed by the fuss I made.
+- **무로카사 아카네**: Cleaning and cooking are also specialties of mine. Especially cleaning.
+- **무로카사 아카네**: Let me show you what it's like to have a competent maid by your side.
+- **무로카사 아카네**: First, I shall repair the ceiling that I detonated.
+- **무로카사 아카네**: Heh. What do you think now?
+- **무로카사 아카네**: The Schale office is larger than I expected. It's worth keeping clean.
+- **무로카사 아카네**: I started by investigating...pardon, cleaning the room you claimed as yours.
+- **무로카사 아카네**: Ensuring hygiene and cleanliness isn't just for keeping up appearances.
+- **무로카사 아카네**: It is also essential to maintaining your health and dignity.
+- **무로카사 아카네**: Take a look, Master. This office is now clean enough to please even the fussiest of neat freaks.
+- **무로카사 아카네**: ...?!
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: Oh... Excuse me.
+- **무로카사 아카네**: It's been quite some time since I've heard someone thank me.
+- **무로카사 아카네**: Typically, they just scream things like, "Damn maids!" or "They got me!"
+- **무로카사 아카네**: Comparatively, you're someone worth serving, Sensei—no, Master.
+- **무로카사 아카네**: This concludes my mission for the day, but if you're ever in need...you're welcome to elicit my services.
+- **무로카사 아카네**: I will serve you to the best of my ability.
+- **무로카사 아카네**: Haha. It's a fun little memory, now that I think about it.
+- **무로카사 아카네**: Ah...
+- **무로카사 아카네**: I wanted to make a memorable first impression.
+- **무로카사 아카네**: It was the beginning of our time together after all. Heehee.
+- **무로카사 아카네**: And I'm still quite looking forward to the time ahead of us.
+
+4. **「무로카사 아카네 인연 스토리 4」**
+
+- **무로카사 아카네**: Stop right there, scum!
+- **무로카사 아카네**: Ugh... Did I lose the target?
+- **무로카사 아카네**: Could there have been a leak? They reacted so quickly.
+- **무로카사 아카네**: I managed to stop the deal, but the documents still haven't been secured. The escape route has been unpredictable...
+- **무로카사 아카네**: Huh?
+- **무로카사 아카네**: Is that you, Master?! What are you doing here?
+- **무로카사 아카네**: You came this way because you heard an explosion? I can assure you 100 million percent that it has nothing to do with me.
+- **무로카사 아카네**: You want to know what I'm doing here? Well, I just finished my mission and...
+- **무로카사 아카네**: I mean, I just wrapped up club activities and was on my way home.
+- **무로카사 아카네**: Haha. What a coincidence.
+- **무로카사 아카네**: By the way, are you busy, Master?
+- **무로카사 아카네**: It's dangerous for a lady such as myself to be out this late. I'm sorry to say that security in Kivotos is not what it used to be.
+- **무로카사 아카네**: Would you mind escorting me to Millennium?
+- **무로카사 아카네**: Master. Master!
+- **무로카사 아카네**: Pardon? You'd rather me not call you Master in front of others?
+- **무로카사 아카네**: You must be worried about how others will perceive you. How should I address you, then?
+- **무로카사 아카네**: Hmm. That would be rather difficult at this stage.
+- **무로카사 아카네**: Hmm. That would be rather difficult at this stage.
+- **무로카사 아카네**: Hmm. That would be rather difficult at this stage.
+- **무로카사 아카네**: I cannot simply change how I address the one I serve, even at my master's behest.
+- **무로카사 아카네**: I am a maid after all.
+- **무로카사 아카네**: Oh?
+- **무로카사 아카네**: I'll grant you that the Maid Club is a bit unique compared to the other clubs.
+- **무로카사 아카네**: We have members like Karin, who joined to learn the art of housekeeping and how to become an ideal wife...
+- **무로카사 아카네**: Then there's Asuna, who only joined to be with Neru.
+- **무로카사 아카네**: But I didn't join under any false pretenses or with a particular goal...
+- **무로카사 아카네**: ...nor did I become a maid after joining the Maid Club.
+- **무로카사 아카네**: I chose C&C because I was already a maid.
+- **무로카사 아카네**: I live to serve my master.
+- **무로카사 아카네**: That's how I've felt since I was born.
+- **무로카사 아카네**: Oh? Are the passersby starting to whisper about us?
+- **무로카사 아카네**: Ah. I can wipe the floor with them if it would please you.
+- **무로카사 아카네**: Haha. Please settle down.
+- **무로카사 아카네**: It was a harmless joke.
+- **무로카사 아카네**: Truthfully, I...failed my mission today.
+- **무로카사 아카네**: Even though I couldn't meet my objective, meeting you like this...
+- **무로카사 아카네**: ...makes me feel fortunate.
+- **무로카사 아카네**: I failed my mission.
+- **무로카사 아카네**: Yet for some reason, I can't stop smiling. Why?
+- **무로카사 아카네**: Is it because you are by my side?
+- **무로카사 아카네**: Thank you for making me happy, Master.
+- **무로카사 아카네**: In return, I want to make you happy as well.
+- **Helmet Gangster**: Hey, watch it! Are you blind or somethin'?!
+- **무로카사 아카네**: My apologies. I should be more...
+- **무로카사 아카네**: Hold on.
+- **Helmet Gangster**: ...?
+- **무로카사 아카네**: Well, then.
+- **Helmet Gangster**: What the...?!
+- **Helmet Gangster**: Y-You're that maid from C&C! Did you follow me all the way here?!
+- **무로카사 아카네**: Ah! Stop right there!
+- **무로카사 아카네**: Fortune always seems to shine on me when I'm with you, Master!
+- **무로카사 아카네**: That target was hired to steal private data on Millennium's students by an evil corporation!
+- **무로카사 아카네**: After them!
+
+5. **「무로카사 아카네 인연 스토리 5」**
+
+- **무로카사 아카네**: Zzz...
+- **무로카사 아카네**: *yawn*
+- **무로카사 아카네**: Zzz...
+- **무로카사 아카네**: Mmm...Karin. That's Neru's pudding. You can't eat...
+- **무로카사 아카네**: Hmm?
+- **무로카사 아카네**: ...Huh?
+- **무로카사 아카네**: Ah! M-Master?!
+- **무로카사 아카네**: How naughty, Master. Entering a sleeping maiden's room is so unbecoming.
+- **무로카사 아카네**: Though, if it's you, Master... Heehee.
+- **무로카사 아카네**: Wait a tick. Is this not a dream?
+- **무로카사 아카네**: *yawn* I feel so well-rested!
+- **무로카사 아카네**: Huh? I shouldn't be happy to have gotten some beauty sleep? I suppose you're right.
+- **무로카사 아카네**: We seem to have been tied up.
+- **무로카사 아카네**: Ah, yes. Now I remember.
+- **무로카사 아카네**: This building belongs to the client.
+- **무로카사 아카네**: The one who ordered that goon to steal documents and leak confidential information.
+- **무로카사 아카네**: The Kaiser Corporation. Facing off with a massive conglomerate will be no easy task.
+- **무로카사 아카네**: I'll attempt to infiltrate first. Wait for me to contact you, Master.
+- **무로카사 아카네**: If enough time passes without me making contact or escaping...then things are in your hands, Master.
+- **무로카사 아카네**: Hmm...
+- **무로카사 아카네**: I figured if I didn't return that you would contact C&C.
+- **무로카사 아카네**: I didn't expect you to break in to save me and get us both captured. Now we're in hot water.
+- **무로카사 아카네**: Heh. Not that I'm blaming you.
+- **무로카사 아카네**: It warms my heart that you came to rescue me.
+- **무로카사 아카네**: However...judging by the view outside the window, we've been here for quite a while, and this is a fairly tall building.
+- **무로카사 아카네**: What to do...? I suppose there's no other choice but to use a bomb.
+- **무로카사 아카네**: We might make it out alive if we're lucky.
+- **무로카사 아카네**: Then again...that strategy might be a little too risky for you, Master.
+- **무로카사 아카네**: Oh, dear. Now I'm starting to feel guilty.
+- **무로카사 아카네**: It's my fault that you've been put through so much danger.
+- **무로카사 아카네**: *sob*
+- **무로카사 아카네**: You...don't mind? Does getting kidnapped no longer faze you?!
+- **무로카사 아카네**: Hmm. It doesn't sound like you're lying to make me feel better...
+- **무로카사 아카네**: Heehee. Well, if you insist.
+- **무로카사 아카네**: To tell the truth, I'm not too worried either.
+- **무로카사 아카네**: I've been contemplating why that may be.
+- **무로카사 아카네**: I suppose it's because my master is by my side, and also...
+- **무로카사 아카네**: ...it's usually around this time that...
+- **Kaiser Corporation Employee 1**: I-It's Neru!
+- **Kaiser Corporation Employee 3**: It's the C&C—cheese it!
+- **Kaiser Corporation Employee 1**: Damn it! That maid in the glasses really was from C&C?!
+- **Kaiser Corporation Employee 2**: This is why I told you not to mess with the maids... Gaaah!
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: Something like this always happens.
+- **무로카사 아카네**: Eventually, my team will break through the door and say something like, "Heh. We couldn't just leave you hanging like this..."
+- **Kaiser Corporation Employee 1**: Argh! We're not gonna stand for this! Detonate the floor where the hostages are!
+- **무로카사 아카네**: ...?!
+- **무로카사 아카네**: N-No! Don't...!
+- **무로카사 아카네**: Master!
+- **무로카사 아카네**: Master! Master!
+- **무로카사 아카네**: Ah, Master! Are you all right?!
+- **무로카사 아카네**: Don't throw that back at me!
+- **무로카사 아카네**: Phew. Thank goodness.
+- **무로카사 아카네**: The explosion wasn't very destructive.
+- **무로카사 아카네**: The banister underneath shielded us at least somewhat.
+- **무로카사 아카네**: Not to mention...
+- **무로카사 아카네**: ...you broke my fall for me.
+- **무로카사 아카네**: Haha... I'd expect nothing less from you, Master.
+- **무로카사 아카네**: Thank you for protecting me.
+- **무로카사 아카네**: I hope I can continue to rely on you.
+
+6. **「무로카사 아카네 인연 스토리 6」**
+
+- **무로카사 아카네**: Heehee. Still sleeping like a baby, are you?
+- **무로카사 아카네**: And it looks like such a pleasant dream. Please forgive me for this.
+- **무로카사 아카네**: It's time to wake up.
+- **무로카사 아카네**: You're up.
+- **무로카사 아카네**: Good morning, Master.
+- **무로카사 아카네**: It's early? Well, naturally. I woke you up early after all.
+- **무로카사 아카네**: My motivation can...wait until later.
+- **무로카사 아카네**: Heehee. You have permission to punish me if you're upset.
+- **무로카사 아카네**: In fact, I insist!
+- **무로카사 아카네**: I would go through hell and back with a smile on my face if it meant serving you until you're healthy and happy!
+- **무로카사 아카네**: So punish me!
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: Oh. You don't see the need to?
+- **무로카사 아카네**: You're too kind for your own good, Master. Heehee.
+- **무로카사 아카네**: Ah, you can't lie down again! Wake up.
+- **무로카사 아카네**: You may as well give in and... Oh dear. What are you...? Ah!
+- **무로카사 아카네**: Huh?
+- **무로카사 아카네**: O-Oh, my.
+- **무로카사 아카네**: F-Forcing a maid into your bed... How daring.
+- **무로카사 아카네**: Pardon? Sleep together?!
+- **무로카사 아카네**: My, how scandalous. You may be my master, but still...
+- **무로카사 아카네**: Hmm?
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: My word.
+- **무로카사 아카네**: Did... Did you actually fall asleep?!
+- **무로카사 아카네**: Goodness, I don't believe this! Wake up! Wake up this instant!
+- **무로카사 아카네**: *sigh*
+- **무로카사 아카네**: Listen. The real reason I came to wake you up early today...
+- **무로카사 아카네**: ...is because I couldn't wait to see and talk with you again.
+- **무로카사 아카네**: ...
+- **무로카사 아카네**: So part of me wouldn't mind staying like this a while longer.
+- **무로카사 아카네**: Heehee. It's so warm.
+- **무로카사 아카네**: This would make for a blissful way to start the day...
+- **무로카사 아카네**: ...but I do have something else prepared.
+- **무로카사 아카네**: I think you'll see it soon enough.
+
+7. **「무로카사 아카네 인연 스토리 7」**
+
+- **무로카사 아카네**: Oh, Master. What a coincidence.
+- **무로카사 아카네**: Let's not fret over minor details.
+- **무로카사 아카네**: Let's not fret over minor details.
+- **무로카사 아카네**: But you are correct to say this is hardly a coincidence.
+- **무로카사 아카네**: It's more like destiny.
+- **무로카사 아카네**: Heehee. No need to be embarrassed.
+- **무로카사 아카네**: I...took the liberty of preparing a reward for assisting me in the last mission.
+- **무로카사 아카네**: Hmm. It's cleaner than I thought.
+- **무로카사 아카네**: This house? It's the place I prepared.
+- **무로카사 아카네**: Please wait here a moment.
+- **무로카사 아카네**: Promise me you won't come until I call for you, okay?
+- **무로카사 아카네**: Why don't you lie down while you wait? You must be tired from work.
+- **무로카사 아카네**: You're up.
+- **무로카사 아카네**: Heehee. I didn't expect you to actually fall asleep.
+- **무로카사 아카네**: Well, shall we get started, then? Ahem.
+- **무로카사 아카네**: ― Oh, you're home.
+- **무로카사 아카네**: ― How was your day?
+- **무로카사 아카네**: ― Oh, Master. We just received some of the highest quality tea leaves.
+- **무로카사 아카네**: ― Shall I pour you a cup?
+- **무로카사 아카네**: ― What's that? This isn't our home?
+- **무로카사 아카네**: ― Haha. Don't be silly. Where our home is doesn't matter...
+- **무로카사 아카네**: ― ...so long as we're together now.
+- **무로카사 아카네**: Well? Did you like that little gift I prepared for you?
+- **무로카사 아카네**: C&C's Murokasa Akane will always be here to serve you, Master.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/무로카사 아카네
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,266 @@
+# 오노 츠쿠요 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 오노 츠쿠요, 선생(샬레)
+
+1. **「오노 츠쿠요 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「오노 츠쿠요 인연 스토리 2」**
+
+- **???**: S-Sensei...
+- **???**: I-I'm here...!
+- **오노 츠쿠요**: H-Hello... I'm sorry I made you wait...
+- **오노 츠쿠요**: I-I know I asked you to see me...but I got so nervous about actually going out...I started to get really anxious.
+- **오노 츠쿠요**: I didn't think I deserved to ask for your time... I'm really tall and big, you know?
+- **오노 츠쿠요**: Y-You were so nice agreeing to meet with me...but do you really want to stand next to a big old giant?
+- **오노 츠쿠요**: These thoughts made me want to hide.
+- **오노 츠쿠요**: So I disguised myself as a tree...and hid... I-I'm sorry!
+- **오노 츠쿠요**: R-Really...?
+- **오노 츠쿠요**: W-Well! So...about that...
+- **오노 츠쿠요**: I really want to be a full-fledged ninja! I...I was hoping you could help me become one.
+- **오노 츠쿠요**: People say the Schale Sensei is amazing...
+- **오노 츠쿠요**: So I thought...maybe with your help, I could become a great ninja!
+- **오노 츠쿠요**: Oh! R-Right...! It must seem ridiculous for a girl like me to want to become a ninja...
+- **오노 츠쿠요**: Oh! R-Right...! It must seem ridiculous for a girl like me to want to become a ninja...
+- **오노 츠쿠요**: Y-You... You're just curious why?
+- **오노 츠쿠요**: Oh, in that case, the reason...the reason is...
+- **오노 츠쿠요**: W-Well...if I become a great ninja, I can help my friends in the Ninjutsu Research Club more.
+- **오노 츠쿠요**: Right...! I want to become a great ninja so I can help people.
+- **오노 츠쿠요**: Th-That's why!
+- **오노 츠쿠요**: Does... Does that sound ridiculous?
+- **오노 츠쿠요**: Wow! Th-Thank you!
+- **오노 츠쿠요**: I-I'll do anything to become a great ninja, Sensei! Wh-Where should we start?
+- **오노 츠쿠요**: Hm! I see!
+- **오노 츠쿠요**: Something I'm already good at... Do that first...
+- **오노 츠쿠요**: Train myself step-by-step... Hmm, right...
+- **오노 츠쿠요**: Sensei... That makes total sense to me!
+- **오노 츠쿠요**: That was so wise and helpful...like an old proverb! I want to write it down...
+- **오노 츠쿠요**: H-Huh? Oh, so...I'm the most confident about...
+- **오노 츠쿠요**: Oh! I do have one thing!
+- **오노 츠쿠요**: I-I'm really good at disguising myself as a tree!
+- **오노 츠쿠요**: Really...?!
+- **오노 츠쿠요**: Really...?!
+- **오노 츠쿠요**: Heehee! Wow! Hearing that from you makes me really happy!
+- **오노 츠쿠요**: Disguising myself as a tree is something I've been practicing ever since I was a little girl!
+- **오노 츠쿠요**: I was always a tall kid in school, so I got the tree part in plays a lot!
+- **오노 츠쿠요**: So I'm super comfortable and confident with being a tree!
+- **오노 츠쿠요**: I was so good at it, my nickname was the Hyakkiyako Junior Tree back in the day!
+- **오노 츠쿠요**: That's enough talk... I can show it to you right now!
+- **오노 츠쿠요**: Yes! Please give me a minute. First..!
+- **오노 츠쿠요**: I'll do this here...like this...
+- **오노 츠쿠요**: Place this branch...right here...
+- **오노 츠쿠요**: Phew... Now I'm ready...
+- **오노 츠쿠요**: Now, I, Ono Tsukuyo...will show you my best skill!
+- **오노 츠쿠요**: It's my secret specialty!
+- **오노 츠쿠요**: Hiyaaaaaa!
+- **오노 츠쿠요**: D-Do I seem like a tree, Sensei?
+- **오노 츠쿠요**: So, that was my disguise demonstration!
+- **오노 츠쿠요**: H-How was it? Was it okay? I-Is there anything I can improve?
+- **오노 츠쿠요**: Hee...heehee...heeheehee... Thanks for the compliment...
+- **오노 츠쿠요**: Thanks to you...I think I've gained a little confidence!
+- **오노 츠쿠요**: This is my forte... If I can master the tree disguise...
+- **오노 츠쿠요**: I'll be able to become a full-fledged ninja!
+- **오노 츠쿠요**: Th-Thank you for your advice, Sensei!
+- **오노 츠쿠요**: I won't give up!
+- **오노 츠쿠요**: ...
+- **오노 츠쿠요**: ...Oh, a-actually...
+- **오노 츠쿠요**: I messed up, Sensei.
+- **오노 츠쿠요**: A real ninja would have retreated and hid their enthusiasm... I'm bad at this...
+- **오노 츠쿠요**: That doesn't matter? I still did great?
+
+3. **「오노 츠쿠요 인연 스토리 3」**
+
+- **Model Scout**: My intuition from twenty-seven years and four months of model scouting is telling me that you can be a star!
+- **Model Scout**: You'll be the tallest top model in Kivotos!
+- **오노 츠쿠요**: No! I-I want to be a ninja, not a model!
+- **Model Scout**: A ninja? Haha! That's interesting.
+- **Model Scout**: We could probably work that angle!
+- **오노 츠쿠요**: N-No... I...I meant a real ninja...
+- **오노 츠쿠요**: *gasp* S-Sensei?!
+- **오노 츠쿠요**: P-Please help!
+- **오노 츠쿠요**: Oh.
+- **Model Scout**: Huh? W-Wait...! I'm not a bad person! I really see a lot of potential in you!
+- **Model Scout**: You're a future superstar! Please, give me a chance!
+- **오노 츠쿠요**: I-I'm okay...but...
+- **오노 츠쿠요**: I-I'm okay...but...
+- **오노 츠쿠요**: Waaaah! *cry*
+- **오노 츠쿠요**: I was so scared, Sensei!
+- **오노 츠쿠요**: *sniffle* I know I stand out because of my height...but I wanna be left alone...!
+- **오노 츠쿠요**: And my problems inconvenienced you...! S-Sorry...! *sob*
+- **오노 츠쿠요**: *hiccup* R-Really?
+- **오노 츠쿠요**: I'm happy to hear that...but...this always happens to me...
+- **오노 츠쿠요**: I'm so tall...which makes me noticeable...
+- **오노 츠쿠요**: S-So, a lot of strange people approach me...and I get sucked into weird situations...
+- **오노 츠쿠요**: Last week, I ran into a Helmet Gangster while I was walking down the street...
+- **오노 츠쿠요**: "You're so tall. You'd look great in this helmet. Why don't you join us?"
+- **오노 츠쿠요**: I-I was so surprised when they approached me...I ran away...
+- **오노 츠쿠요**: I don't know what to do when people act like that.
+- **오노 츠쿠요**: Right...? I just panicked...
+- **오노 츠쿠요**: Right...? I just panicked...
+- **오노 츠쿠요**: That's not the only problem my height causes!
+- **오노 츠쿠요**: My very existence is an inconvenience...
+- **오노 츠쿠요**: I block your view just standing next to you.
+- **오노 츠쿠요**: You could become unlucky like me...or lose your appetite... All because of me.
+- **오노 츠쿠요**: I'm sorry I'm so tall...
+- **오노 츠쿠요**: There's no merit in being this tall...
+- **오노 츠쿠요**: There's no merit in being this tall...
+- **오노 츠쿠요**: What do you mean?
+- **오노 츠쿠요**: My height...can be helpful?
+- **오노 츠쿠요**: My height...can be helpful?
+- **오노 츠쿠요**: S-S-Sensei?!
+- **오노 츠쿠요**: E-Excuse me, Sensei?! Y-You're so close to me...!
+- **오노 츠쿠요**: ...
+- **오노 츠쿠요**: Square my shoulders, straighten my back, and look around...
+- **오노 츠쿠요**: ...
+- **Girl**: Wh-Where's my sister? *cry*
+- **오노 츠쿠요**: Sensei! I see a crying child! She must be in trouble!
+- **오노 츠쿠요**: Oh... Yes!
+- **Lost Child's Sister**: Th-Thank you for finding my sister! How can I repay you?
+- **오노 츠쿠요**: N-No worries! It's no problem for a real ninja like me!
+- **Lost Child's Sister**: Huh...? N-Ninja...?
+- **Girl**: Thank you, tall lady!
+- **Lost Child's Sister**: Hey! Don't be rude!
+- **오노 츠쿠요**: No! It's okay! I was able to find her thanks to my height!
+- **오노 츠쿠요**: T-Take care! Don't let go of your sister's hand, okay?
+- **Girl**: Okies!
+- **오노 츠쿠요**: You were right, Sensei.
+- **오노 츠쿠요**: I've always thought of my height as...a huge inconvenience... It puts me in weird situations...
+- **오노 츠쿠요**: I hunch my back and look at the ground to avoid people's gazes. I thought it was better to make myself smaller...
+- **오노 츠쿠요**: But when you had me stand up, I realized how much I was missing!
+- **오노 츠쿠요**: Th-Thank you, Sensei!
+- **오노 츠쿠요**: That's not true! Thanks to you, I realized that being tall isn't something I should hate.
+- **오노 츠쿠요**: So, from now on I'm going to be brave!
+
+4. **「오노 츠쿠요 인연 스토리 4」**
+
+- **오노 츠쿠요**: S-S-Sensei...!
+- **오노 츠쿠요**: I-I think I might have found it, finally!
+- **오노 츠쿠요**: The way I can become...
+- **오노 츠쿠요**: A great, full-fledged ninja!
+- **오노 츠쿠요**: Oh, s-so...!
+- **오노 츠쿠요**: *pant* *inhale* *exhale* *pant* I need to breathe...
+- **오노 츠쿠요**: Phew... Where do I start?
+- **오노 츠쿠요**: You've been helping me in my training, but you can't be there every day.
+- **오노 츠쿠요**: I-I mean, o-of course because you're busy...
+- **오노 츠쿠요**: B-But I don't blame you at all! I hope I didn't make you feel bad.
+- **오노 츠쿠요**: I just wish I could spend a little more time with you...
+- **오노 츠쿠요**: S-Sometimes I even catch myself thinking about how I can extend our training time...
+- **오노 츠쿠요**: S-Sorry! I'm just trying to explain...!
+- **오노 츠쿠요**: I c-can't see you all the time, but I still need to train.
+- **오노 츠쿠요**: I've decided to study about ninjas when I'm alone... Like...researching online or reading ninja books.
+- **오노 츠쿠요**: I heard a rumor that there's "a shabby bookstore with the most powerful ninjutsu book, written by a legendary ninja," so I've been going to bookstores...
+- **오노 츠쿠요**: *gulp* Then I finally made a great discovery in a used bookstore!
+- **오노 츠쿠요**: I-I found this book!
+- **오노 츠쿠요**: R-Right?! I was so excited!
+- **오노 츠쿠요**: R-Right?! I was so excited!
+- **오노 츠쿠요**: The cover looks strange... It must contain a lot of secrets... Maybe it's that great ninjutsu book I've been looking for!
+- **오노 츠쿠요**: Especially here, look at this, Sensei! It says, "A book for special ninjas known as kunoichi!"
+- **오노 츠쿠요**: Looking at this, I think by kunoichi...
+- **오노 츠쿠요**: It must be referring to "special ninjas"!
+- **오노 츠쿠요**: You're surprised too, right? I-It's just so incredible.
+- **오노 츠쿠요**: But look at the foreword of the book. It says, "Skilled kunoichi can subdue anyone!"
+- **오노 츠쿠요**: That means kunoichi are a force to be reckoned with.
+- **오노 츠쿠요**: Among all ninjas...kunoichi are called by a special name...
+- **오노 츠쿠요**: I don't know everything about ninjas...but Michiru says there are "intermediate" or "advanced" ninjas..!
+- **오노 츠쿠요**: Kunoichi could be a nickname for...people who are just as great as those ninjas!
+- **오노 츠쿠요**: S-Sensei! Can you help me learn the ninjutsu in this book?!
+- **오노 츠쿠요**: I...want to become a great, full-fledged ninja using this...
+- **오노 츠쿠요**: Yes! I want to be the best kunoichi!
+- **오노 츠쿠요**: Okay. Heehee! Heeheehee!
+- **오노 츠쿠요**: Hmm, the first ninjutsu in the book is the...Lovey Dovey Binding Technique... Wh-What a weird name...
+- **오노 츠쿠요**: How to use this ninjutsu... First, find a rope this length...make a knot that looks like a noose...
+- **오노 츠쿠요**: All right! It's ready. O-Okay, Sensei... I-I'm gonna start!
+- **오노 츠쿠요**: Ninjutsu! Lovey Dovey Binding Technique!
+- **오노 츠쿠요**: It's not over yet! According to the ninjutsu book, I should tie the rope like so!
+- **오노 츠쿠요**: Next...the next step is...
+- **오노 츠쿠요**: "Once you successfully bind the other person, push aggressively with your chest"...?
+- **오노 츠쿠요**: L-Like this?
+- **오노 츠쿠요**: Huh?
+- **오노 츠쿠요**: E-Eeeek?! I-I'm sorry! Was it hard to breathe?
+- **오노 츠쿠요**: Oh, w-wahhh?!
+- **오노 츠쿠요**: U-Ugh...
+- **오노 츠쿠요**: I-I'm all right!
+- **오노 츠쿠요**: The kunoichi ninjutsu in this book...
+- **오노 츠쿠요**: The ninjutsus are so difficult! This must be very advanced.
+- **오노 츠쿠요**: I'm ashamed of myself for even trying!
+- **오노 츠쿠요**: It's o-okay though! Ninjas don't give up!
+- **오노 츠쿠요**: The next one is this! The Quiet Sleeping in Unison Technique!
+- **오노 츠쿠요**: ...Hmm? Sleeping in unison? What is this ninjutsu about?
+- **오노 츠쿠요**: Perhaps you use it to attack your opponent while you sleep! Like the Sleeping Beauty!
+- **오노 츠쿠요**: Let's try it!
+- **오노 츠쿠요**: Well, even after trying it, I'm still confused... Let's move on to the next one...
+- **오노 츠쿠요**: The next ninjutsu is this...
+- **오노 츠쿠요**: The Thigh Squeeze Technique... Squeeze your opponent's face...with your thighs...? What does that do?
+- **오노 츠쿠요**: Maybe it's to subdue your opponent if you lost your weapon?
+- **오노 츠쿠요**: I guess I'll try...
+
+5. **「오노 츠쿠요 인연 스토리 5」**
+
+- **Girl**: Choco! Where did you go, Choco?!
+- **오노 츠쿠요**: Oh... That kid...
+- **오노 츠쿠요**: Wh-What's going on...?
+- **Girl**: Oh! You're the lady who helped me last time, plus one!
+- **Girl**: *sob* What should I do? Choco disappeared.
+- **오노 츠쿠요**: Wh-Who is Choco?
+- **Girl**: My puppy! He was here just a second ago...
+- **Girl**: But I accidentally dropped the leash and he ran away...
+- **Girl**: What do I do?! What if he never comes back? *sob*
+- **오노 츠쿠요**: Oh, r-relax! Please don't cry...
+- **오노 츠쿠요**: Th-That's not helpful at all... Ugh!
+- **오노 츠쿠요**: She won't stop crying! Wh-What should I do, Sensei?!
+- **Girl**: Huh?
+- **오노 츠쿠요**: H-Huh?
+- **오노 츠쿠요**: ...Oh! H-How smart, Sensei!
+- **오노 츠쿠요**: ...Oh! H-How smart, Sensei!
+- **오노 츠쿠요**: O-Okay! I understand! This is a moment where I should go out of my comfort zone to grow as a ninja!
+- **오노 츠쿠요**: D-Don't worry, little girl! I-I'll...I mean, Sensei and I will help find Choco for you! I promise!
+- **Girl**: *sniffle* ...Really...?
+- **오노 츠쿠요**: Yes! Ninjas always fulfill their promises!
+- **Girl**: ...Okay!
+- **오노 츠쿠요**: The basics of tracking involve starting where the target is likely to appear!
+- **오노 츠쿠요**: Based off our intel, we should check the paths they take for walks!
+- **오노 츠쿠요**: Heehee, heeheehee. I actually have been studying tracking skills like this.
+- **오노 츠쿠요**: This is a chance to test what I learned! Wish me luck!
+- **오노 츠쿠요**: (Heehee, heeheehee... Today, I'm gonna show Sensei how much I've grown.)
+- **오노 츠쿠요**: Yes, Sensei!
+- **오노 츠쿠요**: Huh?
+- **오노 츠쿠요**: W-Wahhh?! He's running away! M-My tracking skills!
+- **오노 츠쿠요**: W-Wait...! Ch-Choco...!
+- **오노 츠쿠요**: Please stoooooop!
+- **오노 츠쿠요**: P-Please...st-stop...
+- **오노 츠쿠요**: St-Stop...
+- **MomoTalk Message**: S-Sensei... P-Please help...
+- **오노 츠쿠요**: S-Senseiiiiii... I'm heeerrre...
+- **오노 츠쿠요**: ― U-Ugh...
+- **오노 츠쿠요**: ― I was trying to go through here as a shortcut...
+- **오노 츠쿠요**: ― But as you can see, I got...
+- **오노 츠쿠요**: ― completely stuck...
+- **오노 츠쿠요**: ― Don't worry! This is the perfect timing...
+- **오노 츠쿠요**: ― to use ninjutsu!
+- **오노 츠쿠요**: ― Ugh... Ughhh!!!
+- **오노 츠쿠요**: ― I-It's not working...
+- **오노 츠쿠요**: ― Ughh... Ugh!
+- **오노 츠쿠요**: ― S-Sensei... C-Can you help me...? Please?
+- **Girl**: Oh! Choco!
+- **Girl**: Thank you for helping me again! You found Choco!
+- **오노 츠쿠요**: O-Oh, no problem. It's nothing for a ninja!
+- **오노 츠쿠요**: Choco... Don't make her worry again, okay?
+- **오노 츠쿠요**: Ch-Choco? W-Wait, it tickles! Oh, p-please don't lick me there...
+- **오노 츠쿠요**: My nostrils! A-Achoo!
+- **Girl**: By the way...your clothes are all crumpled, and your hair is crazy. Where'd you find Choco?
+- **오노 츠쿠요**: Oh, so... Um...
+- **오노 츠쿠요**: I went through a lot!
+- **Girl**: What's that mean?
+- **Girl**: Bye, you two! Let's go, Choco!
+- **오노 츠쿠요**: *sigh* ...I'm glad we found Choco, but...
+- **오노 츠쿠요**: I...I thought I might be stuck in those walls forever.
+- **오노 츠쿠요**: I couldn't move and I...I panicked!
+- **오노 츠쿠요**: Y-Yes! I fulfilled my client's request as a ninja!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/오노 츠쿠요
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,303 @@
+# 카제쿠라 모에 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카제쿠라 모에, 선생(샬레)
+
+1. **「카제쿠라 모에 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카제쿠라 모에 인연 스토리 2」**
+
+- **카제쿠라 모에**: I get it now. I couldn't track it because the thief scampered to the Black Market with an electronic jamming device.
+- **카제쿠라 모에**: The area itself is like a maze of alleys, some places are hard to see even with security footage. A jamming device is pretty effective.
+- **카제쿠라 모에**: No sweat! I'll fire up SRT's heat-seeking drone, complete with ECCM countermeasures. You came to the right person for help. Heeheehee.
+- **카제쿠라 모에**: But did you really think this one through, Sensei?
+- **카제쿠라 모에**: No, the operation is perfect. I can find the suspect with a click of a button at this point.
+- **카제쿠라 모에**: No, the operation is perfect. I can find the suspect with a click of a button at this point.
+- **카제쿠라 모에**: But having permission to use a whole bunch of explosives and guns after so long...! Am I drooling?
+- **카제쿠라 모에**: Oh, Sensei. Always huffing and puffing about the trivial details.
+- **카제쿠라 모에**: Let's get this show started. Mister Criminal, meet heat drone~
+- **Petty Thief**: *pant* *pant* ...Did I finally lose them?
+- **Petty Thief**: I guess this jamming device thing was worth the price tag.
+- **Petty Thief**: Not even drones can get a read on me with this thing! I can steal anything I want!
+- **Petty Thief**: I can keep this going forever!
+- **Petty Thief**: H-How did these drones find me?!
+- **Petty Thief**: Why isn't this stupid device working?
+- **Petty Thief**: Ow! That hurts! Ugh! Get away from me!
+- **카제쿠라 모에**: Heeheehee! Unless you can tunnel underground, there's nowhere my drone can't find you! Is that what it is? Are you a mole, Mister Criminal?
+- **카제쿠라 모에**: Oh, wait! I haven't been in the field in ages! Don't get caught too fast, okay? Run, run, run as fast as you can!
+- **카제쿠라 모에**: Shhh, Sensei. I'm taking this operation very seriously, I promise.
+- **카제쿠라 모에**: Shhh, Sensei. I'm taking this operation very seriously, I promise.
+- **카제쿠라 모에**: For now, at least. Heehee.
+- **카제쿠라 모에**: Ah! I got another read on him heading north.
+- **카제쿠라 모에**: Save that thought, Sensei! Time for a bullet hailstorm!
+- **Petty Thief**: Ow! Ow! OUCH! Stop it! Stop it!
+- **Petty Thief**: Ugh! No more! I give up!
+- **카제쿠라 모에**: Already...? That's...that's it?
+- **Petty Thief**: Yeah, that's it! What do you expect?! I can't hide from your drones or your bullets anywhere!
+- **Petty Thief**: I'll give everything back, so just please stop shooting me!
+- **카제쿠라 모에**: ...
+- **카제쿠라 모에**: ...
+- **카제쿠라 모에**: ...But I haven't fired any missiles yet.
+- **카제쿠라 모에**: I guess we'd get in trouble if I set fire to the whole area...
+- **카제쿠라 모에**: We would be in trouble? If I made everything go ka-boom?
+- **카제쿠라 모에**: So, you're telling me, that pressing this launch button will incur horrible and irreversible consequences?
+- **카제쿠라 모에**: Obviously, great consequences come with great responsibility...
+- **카제쿠라 모에**: And with great responsibility comes great, great pleasure...
+- **카제쿠라 모에**: *huff* *puff*
+- **카제쿠라 모에**: I'm antsy! I can't keep it in!
+- **Petty Thief**: W-Wait... The drone is shining a weird color...
+- **Petty Thief**: I-Is she about to shoot a missile at me?! Is she insane?
+- **Petty Thief**: She'll wreck the entire city if she shoots one here!
+- **카제쿠라 모에**: The entire city, you say?
+- **카제쿠라 모에**: This is like a fever dream! *pant* *pant*
+- **Petty Thief**: Wait! Please! I already surrendered!
+- **Petty Thief**: Noooooooo!
+- **카제쿠라 모에**: ...
+- **카제쿠라 모에**: ...Why are you looking at me like that?
+- **카제쿠라 모에**: Hm... Because...
+- **카제쿠라 모에**: Oh! I know! The button was right in front of me!
+- **카제쿠라 모에**: Because I don't have one! Look, obviously it'd be the sane, rational thing to not press the button.
+- **카제쿠라 모에**: But when I see a big, red button in front of me that I absolutely shouldn't press, I go insane!
+- **카제쿠라 모에**: My frontal lobe shuts down and my id takes over! *pant* *pant*
+- **카제쿠라 모에**: Sensei. Have you ever seen dominoes being placed?
+- **카제쿠라 모에**: In dominoes, the rectangular blocks fall very easily because they're closely stacked. So setting them up requires a high level of patience.
+- **카제쿠라 모에**: Knock over one, and say bye-bye to all your hard work. Boo-hoo, so sad.
+- **카제쿠라 모에**: But when you see those precarious dominoes painstakingly lined up piece by piece, don't you feel the urge to knock them down?
+- **카제쿠라 모에**: When I see someone's long, hard work collapse with a single touch...it's an indescribable, tingling catharsis... *pant* *pant*
+- **카제쿠라 모에**: Good! So now, understand this. The one and only thing I want out of life, is to experience the pleasure you derive from knocking down those dominoes!
+- **카제쿠라 모에**: Being the team's operator and communications whiz, I use a lot of buttons all the time.
+- **카제쿠라 모에**: And there are a lot of buttons I should never touch unless it's an emergency.
+
+3. **「카제쿠라 모에 인연 스토리 3」**
+
+- **PC Technician**: It's completely done, I'm afraid. The board is scorched and needs to be replaced entirely.
+- **PC Technician**: It must have shorted out during the storm last night.
+- **PC Technician**: Maybe if it was a software malfunction from hacking or a virus...but the device was basically completely fried...
+- **PC Technician**: Recovering data from it would be equivalent to trying to read letters from burnt paper.
+- **PC Technician**: ...Did you back up anything?
+- **PC Technician**: I hate to be the bearer of bad news, but...
+- **PC Technician**: There's no way you're getting it back.
+- **카제쿠라 모에**: Hm... That's pretty tragic.
+- **카제쿠라 모에**: Have you asked students from any other schools?
+- **카제쿠라 모에**: Then like the repair technician said, you'll have to recreate everything from scratch.
+- **카제쿠라 모에**: So, what did you lose? This month's operation reports?
+- **카제쿠라 모에**: ...Let's see. Starting with just the GPS data linked to the map, there were reports that were filtered and organized for easy viewing that contained data like locations of conflict and the scale of damage.
+- **카제쿠라 모에**: Wow... It must've taken a while to organize that...
+- **카제쿠라 모에**: Yeesh. I get why you're so bummed out.
+- **카제쿠라 모에**: Um...
+- **카제쿠라 모에**: Do you want me to help you re-do all of it?
+- **카제쿠라 모에**: What? Why are you so surprised?
+- **카제쿠라 모에**: At a quick glance, most of it looks like simple data that just needs to be categorized mechanically. It'll go faster with two people.
+- **카제쿠라 모에**: It's not like I have a packed social schedule.
+- **카제쿠라 모에**: And this way, Sensei's gonna owe me one. Heeheehee.
+- **카제쿠라 모에**: Don't worry. With my help, you'll be able to finish this within half a day.
+- **카제쿠라 모에**: Don't worry. With my help, you'll be able to finish this within half a day.
+- **카제쿠라 모에**: SRT operators are required to be experts in both paperwork and battle.
+- **카제쿠라 모에**: Let me show you my skills... Heeheehee...
+- **카제쿠라 모에**: ...I organized all the communication records received up to the 15th.
+- **카제쿠라 모에**: If you aren't done with those documents yet, I'll take them.
+- **카제쿠라 모에**: It wasn't hard. There's a certain regularity between the line, the sender, and the objective.
+- **카제쿠라 모에**: You just have to write and refine the program, review only the exceptions, and it's done.
+- **카제쿠라 모에**: Okay, Sensei. Review only things with red marks here. This has a General Student Council code name, so I don't have permission to view it.
+- **카제쿠라 모에**: Sensei. About the supply list you gave me... I compared it to the ammo use records, and ten bullets are missing.
+- **카제쿠라 모에**: ...Maybe you counted them wrong?
+- **카제쿠라 모에**: Wait a minute. I'm gonna review the handwritten reports with an OCR program.
+- **카제쿠라 모에**: Wait a minute. I'm gonna review the handwritten reports with an OCR program.
+- **카제쿠라 모에**: ...Found it. Looks like sixty bullets were entered incorrectly as fifty.
+- **카제쿠라 모에**: Just in case, I'll sort through the other list of supplies. It won't take long.
+- **카제쿠라 모에**: Sensei. Are you sending training cooperation requests to every recipient one at a time?
+- **카제쿠라 모에**: You're pasting the same sentence over and over. It's so inefficient it actually upsets me.
+- **카제쿠라 모에**: Let's see. Where's that merge program I made for sending official documents...?
+- **카제쿠라 모에**: Oh, I found it.
+- **카제쿠라 모에**: Sensei, pass me that address data over here. If I send it as a macro, it'll take less than a minute.
+- **카제쿠라 모에**: And with that, easy peasy! I'm just too good at my job.
+- **카제쿠라 모에**: Don't mention it. This is no big deal for an SRT operator.
+- **카제쿠라 모에**: It was kinda reminiscent of my school days... It was fun.
+- **카제쿠라 모에**: Of course. Supply management and administrative work during peacetime are just as important as combat.
+- **카제쿠라 모에**: If you don't stock up on supplies and manage them strictly, you won't be able to respond properly when a situation arises.
+- **카제쿠라 모에**: That's why SRT operators have to learn not only electronic warfare, but also the computer skills necessary for administrative work.
+- **카제쿠라 모에**: Of course, we still have a long way to go compared to those Millennium nerds...
+- **카제쿠라 모에**: I'll put the macro program I created on the public cloud so you can use it later if you need it.
+- **카제쿠라 모에**: All that's left now is to back the stuff up so you don't have to worry about data loss...
+- **카제쿠라 모에**: Huh...? What's this button here?
+- **카제쿠라 모에**: Emergency format button? Why is it here?
+- **카제쿠라 모에**: Oh, I see. Since a large amount of sensitive student information is stored on Schale's computers, it's a button to quickly erase the data in case of an emergency.
+- **카제쿠라 모에**: If I click this, all data on the computer, including today's work, will be lost...
+- **카제쿠라 모에**: Heehee, heeheehee...
+- **카제쿠라 모에**: A button that can flush a day's hard work with a single click...
+- **카제쿠라 모에**: A button that can flush a day's hard work with a single click...
+- **카제쿠라 모에**: A button that calls for destruction... If I press it, it will feel really, really good...
+- **카제쿠라 모에**: *pant* *pant* *pant* Wh-What should I do, Sensei? My arm is moving... I can't control my hand!
+- **카제쿠라 모에**: No! I have to do it!
+- **SYSTEM**: The emergency formatting of Schale's public PC is starting...
+
+4. **「카제쿠라 모에 인연 스토리 4」**
+
+- **카제쿠라 모에**: Sensei, I'm counting on you today!
+- **카제쿠라 모에**: Heeheehee... I'm already excited to look at what kind of files are hidden on your computer under the pretext of doing my duties...
+- **카제쿠라 모에**: Hmph... That wasn't necessary...
+- **카제쿠라 모에**: Hmph... That wasn't necessary...
+- **카제쿠라 모에**: Are you...still concerned after what happened last time?
+- **카제쿠라 모에**: Of course it was my fault for pressing the emergency format button, but...
+- **카제쿠라 모에**: Be honest, Sensei.
+- **카제쿠라 모에**: Didn't you feel it when all the data we spent half a day working on was gone?
+- **카제쿠라 모에**: The catharsis when all of our efforts were turned into nothingness in an instant...
+- **카제쿠라 모에**: That hair-raising pleasure...! *pant* *pant*
+- **카제쿠라 모에**: Hmph. I was really looking forward to going through your computer.
+- **카제쿠라 모에**: So, what's my job today? Hand over the reports!
+- **카제쿠라 모에**: ...Huh? I don't have to do anything today?
+- **카제쿠라 모에**: You're going to be away from the office for a while because of Schale work, so you don't want me to touch anything and just stay put?
+- **카제쿠라 모에**: That won't be difficult...but are you sure I don't need to do anything?
+- **카제쿠라 모에**: I'm an SRT operator. I came to help. I'm not a watchdog.
+- **카제쿠라 모에**: My brain is much better utilized on other tasks.
+- **카제쿠라 모에**: Really, now? Do you want me to put a collar on while I wait for you?
+- **카제쿠라 모에**: Okay, okay. If it's an order, then...
+- **카제쿠라 모에**: Okay, okay. If it's an order, then...
+- **카제쿠라 모에**: Then leave the office to me and go do your work. I'll sit still and wait as ordered.
+- **카제쿠라 모에**: ...Why are you looking at me so suspiciously? I'm not gonna touch anything!
+- **카제쿠라 모에**: Like I'd really miss this golden opportunity to investigate the Schale office!
+- **카제쿠라 모에**: I might be able to discover a new or secret weapon possessed by Schale...
+- **카제쿠라 모에**: Or even better, I might uncover one of Sensei's embarrassing secrets... Heehee...
+- **카제쿠라 모에**: Time to investigate!
+- **카제쿠라 모에**: ...Huh? What's this red button?
+- **카제쿠라 모에**: There's a big red button near the gun holder...
+- **카제쿠라 모에**: How suspicious. What is this for?
+- **카제쿠라 모에**: I'm at Schale, inside of Sensei's executive office.
+- **카제쿠라 모에**: Sensei has extrajudicial authority and can't be easily controlled by even the General Student Council, and this button is located where Sensei can access it at any time...
+- **카제쿠라 모에**: It must be an emergency button only meant to be used in extremely urgent and dangerous situations.
+- **카제쿠라 모에**: For example, maybe a button to summon every student in Kivotos...
+- **카제쿠라 모에**: Or for activating an ancient weapon dormant in the basement of Schale...
+- **카제쿠라 모에**: Or for launching the whole Sanctum Tower...?
+- **카제쿠라 모에**: Whatever it is, it must have huge consequences beyond my wildest dreams!
+- **카제쿠라 모에**: Just fantasizing about it gets me excited... I can't resist!
+- **카제쿠라 모에**: *pant* *pant* ...I'm at my limit. I'm gonna press it... I'm gonna do it!
+- **카제쿠라 모에**: ...Yah!
+- **카제쿠라 모에**: Wh-What?! Water is pouring down from the ceiling!
+- **카제쿠라 모에**: Argh, it's cold!
+- **카제쿠라 모에**: That's what I was gonna ask!
+- **카제쿠라 모에**: Sensei, what's this button for?
+- **카제쿠라 모에**: ...Emergency shower button?
+- **카제쿠라 모에**: ...Emergency shower button?
+- **카제쿠라 모에**: This suspicious red button...was just to activate the emergency shower...?
+- **카제쿠라 모에**: Don't give me that disappointed look! I'm disappointed!
+- **카제쿠라 모에**: I'm the one who's disappointed!
+- **카제쿠라 모에**: Do you know how excited I was to press the button?!
+- **카제쿠라 모에**: I was expecting destruction on a catastrophic level!
+- **카제쿠라 모에**: I expected a missile launch at the very least!
+- **카제쿠라 모에**: But I just took a shower instead!
+- **카제쿠라 모에**: You're responsible for disappointing me!
+
+5. **「카제쿠라 모에 인연 스토리 5」**
+
+- **카제쿠라 모에**: Whoa! I didn't know you were here already, Sensei!
+- **카제쿠라 모에**: You got here way faster than I thought. You didn't have to run...
+- **카제쿠라 모에**: I haven't sorted the bombs yet. They're piled up over there...
+- **카제쿠라 모에**: I haven't sorted the bombs yet. They're piled up over there...
+- **카제쿠라 모에**: ...Did you wanna set off a bomb, too?
+- **카제쿠라 모에**: I have all kinds of bombs. Let me know which one you wanna try.
+- **카제쿠라 모에**: What do you want first? A flash grenade? A smoke grenade? Or, my personal favorite, an incendiary grenade...?
+- **카제쿠라 모에**: ...What? You rushed here because you assumed I'd detonate a bomb?
+- **카제쿠라 모에**: ...What? You rushed here because you assumed I'd detonate a bomb?
+- **카제쿠라 모에**: I love my explosions, but even I'm not thoughtless enough to light a fuse while organizing supplies.
+- **카제쿠라 모에**: After all, I'm an SRT operator and part of the supply staff. I wouldn't just waste all of our supplies like that!
+- **카제쿠라 모에**: ...I mean, I mostly wouldn't.
+- **카제쿠라 모에**: Well, thanks anyways. Organizing all these heavy supplies on my own would've been a bummer.
+- **카제쿠라 모에**: ...You always just pop up whenever a student needs you, huh?
+- **카제쿠라 모에**: That's not anything new from you, but it's just weird to me. In a good way, I guess.
+- **카제쿠라 모에**: Let's get this party started, then!
+- **카제쿠라 모에**: These days, it seems cluster grenades are designed to explode simultaneously via electrical signals without connecting a detonator... That's interesting.
+- **카제쿠라 모에**: That means...this button alone can detonate every grenade in this place...
+- **카제쿠라 모에**: ...I'll have to individually wrap them and install an anti-static device to prevent accidental activation.
+- **카제쿠라 모에**: What's wrong, Sensei? Do you have anything to say?
+- **카제쿠라 모에**: Heeheehee. You're a weirdo, Sensei.
+- **카제쿠라 모에**: C'mon, we don't have all day!
+- **카제쿠라 모에**: Is this the new EMP bomb? It's so small but, according to the manual, deliciously deadly.
+- **카제쿠라 모에**: Imagine the effects if I set this off by mistake.
+- **카제쿠라 모에**: Heehee... All cell phones and vehicles within the radius would break down... Absolute chaos would ensue!
+- **카제쿠라 모에**: Let's keep it in a special safe made of shielding material to be extra careful.
+- **카제쿠라 모에**: Sensei, what are you doing...?
+- **카제쿠라 모에**: If you're done organizing over there, can you help me here?
+- **카제쿠라 모에**: At long last, freedom! That took forever!
+- **카제쿠라 모에**: But it would've been significantly longer alone, so many thanks.
+- **카제쿠라 모에**: Huh? Why? Do I seem off?
+- **카제쿠라 모에**: Huh? Why? Do I seem off?
+- **카제쿠라 모에**: Hm, nope! I'm still the one and only, the irreplaceable Moe.
+- **카제쿠라 모에**: Oh... You're right. I wasn't phased by any of the buttons today.
+- **카제쿠라 모에**: Well... You see...
+- **카제쿠라 모에**: Maybe it was easier, because I've already been holding back on the thing I really, really want today.
+- **카제쿠라 모에**: Something that's consumed my whole mind!
+- **카제쿠라 모에**: All the other squad members are out. It's just me and Sensei.
+- **카제쿠라 모에**: I've been holding onto my self-control by the tips of my fingernails, resisting with all my might.
+- **카제쿠라 모에**: But since you've brought it up... I can't help but give in to my desires!
+- **카제쿠라 모에**: Heh...
+- **카제쿠라 모에**: ― Sensei.
+- **카제쿠라 모에**: ― There are many taboos in this world.
+- **카제쿠라 모에**: ― Buttons that shouldn't be pressed,
+- **카제쿠라 모에**: ― lines that shouldn't be crossed...
+- **카제쿠라 모에**: ― And choices that can lead you
+- **카제쿠라 모에**: ― to irreversible destruction.
+- **카제쿠라 모에**: ― You can lose everything with one wrong step,
+- **카제쿠라 모에**: ―but what if it's still worth it to try...?
+- **카제쿠라 모에**: ― Sensei...
+- **카제쿠라 모에**: ― What would you choose, Sensei?
+- **카제쿠라 모에**: ― I know it's a meaningless question.
+- **카제쿠라 모에**: ― You aren't tempted like I am.
+- **카제쿠라 모에**: ― But I...
+- **카제쿠라 모에**: ― might end up crossing the line.
+- **카제쿠라 모에**: ― Because that moment of destruction
+- **카제쿠라 모에**: ― is also the moment I prove myself.
+- **카제쿠라 모에**: ― So, Sensei.
+- **카제쿠라 모에**: ― Would you...
+- **카제쿠라 모에**: ― like to cross the line with me?
+
+6. **「카제쿠라 모에 인연 스토리 6」**
+
+- **카제쿠라 모에**: There's...no end.
+- **카제쿠라 모에**: There's...no easy solution either...
+- **카제쿠라 모에**: Sensei! Are you always fighting this hopeless battle against paperwork?
+- **카제쿠라 모에**: I could never bring myself to dedicate my life to reading vague questions and answering with even vaguer replies. This is destruction of the soul.
+- **카제쿠라 모에**: No, it's not your fault. I'm just COMPLAINING.
+- **카제쿠라 모에**: I'm the one who said I'd help, and menial work is something of my forte.
+- **카제쿠라 모에**: But my fingers are going numb from holding this pen...
+- **카제쿠라 모에**: Got it!
+- **카제쿠라 모에**: Ah, maybe I'll use "that" then.
+- **카제쿠라 모에**: Heehee... I knew bringing this was a good call.
+- **카제쿠라 모에**: Then, without further ado...
+- **카제쿠라 모에**: Y-You scared me...
+- **카제쿠라 모에**: What's wrong, Sensei? I almost jumped out of my skin!
+- **카제쿠라 모에**: ...Trigger?
+- **카제쿠라 모에**: Ah, ah. Stop being such a worrywart, Sensei. Not everything is always as it seems!
+- **카제쿠라 모에**: I'm not the type to set off a bomb for funsies when I get bored—
+- **카제쿠라 모에**: ...Okay, fine, yeah, I am. But today I'm not, okay?!
+- **카제쿠라 모에**: Fine, fine. Look, just squeeze this handle and stop giving me that judgy side-eye!
+- **카제쿠라 모에**: Come see for yourself, geez!
+- **카제쿠라 모에**: Oh! Ohhh, I like that. What a deliciously destructive image...
+- **카제쿠라 모에**: NO, seriously, look! You really are misunderstanding the situation this time! It's not a bomb!
+- **카제쿠라 모에**: Look. It's missing the detonation signal device that every trigger needs.
+- **카제쿠라 모에**: Have you never used one before, Sensei? It's a grip trainer.
+- **카제쿠라 모에**: Look, if you hold this tight... The spring pushes your finger outward, and you can train your grip strength.
+- **카제쿠라 모에**: It requires a lot of finger strength, so I use it to get the blood flowing after a lot of work.
+- **카제쿠라 모에**: I made it myself! With a broken trigger I picked up.
+- **카제쿠라 모에**: You know how it is. You're stuck somewhere working, and you find yourself in this horrible conundrum where you can't blow anything up, no matter how bored you are!
+- **카제쿠라 모에**: So I started to fidget with this broken trigger whenever I had an itchy trigger finger.
+- **카제쿠라 모에**: To add more utility, I decided to make it a grip trainer too.
+- **카제쿠라 모에**: All I had to do was wiggle away the primer and replace it with a high-tension spring.
+- **카제쿠라 모에**: Don't you remember? I already told you that at SRT, even an operator has to maintain their physical condition and fitness. And for me, who handles a lot of supplies, being dexterous is important.
+- **카제쿠라 모에**: Also...the way it makes my hand tingle...the feeling of destruction that surges through my veins... *pant* *pant*
+- **카제쿠라 모에**: You're gettin' it! Squeezing this requires more force than you'd expect too.
+- **카제쿠라 모에**: Curious? Give it a try.
+- **카제쿠라 모에**: H-Huh? S-Sensei? Why are you grabbing my hand...?!
+- **카제쿠라 모에**: ...Well, I guess that works.
+- **카제쿠라 모에**: I more so meant the grip trainer...
+- **카제쿠라 모에**: But a handshake is a more kinetic way to measure grip strength...
+- **카제쿠라 모에**: Heehee... Looks like you've been hitting the gym too, Sensei. THAT gun show is destructive.
+- **카제쿠라 모에**: How about a little arm wrestling to see who's stronger?
+- **카제쿠라 모에**: Hm... Playing for fun sounds boooring, so whoever loses...owes the winner a favor. Heeheehee.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카제쿠라 모에
+- https://bluearchive.wiki (원문 스토리 스크립트)

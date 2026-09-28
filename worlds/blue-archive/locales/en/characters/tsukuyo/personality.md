@@ -1,0 +1,6 @@
+# Tsukuyo — official English introduction
+
+A member of the Ninjutsu Research Club of Hyakkiyako Academy. Tsukuyo grew up tall in an early age, and she was often teased for her physique, and as a result, her current reclusive personality was formed. Tsukuyo is a timid person and isn't good at communicating to others, but she also has the strength to jump into any situation once she sets her mind to it. Although she is not very familiar with the ways of ninja yet, she seems to be enjoying her time in the Ninjutsu Research Club with her senior Michiru, and Izuna.
+
+Source: https://bluearchive.wiki/wiki/Tsukuyo
+Status: source-extracted-unreviewed

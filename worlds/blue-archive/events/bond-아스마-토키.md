@@ -1,0 +1,284 @@
+# 아스마 토키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아스마 토키, 선생(샬레)
+
+1. **「아스마 토키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아스마 토키 인연 스토리 2」**
+
+- **아스마 토키**: Good morning, Sensei.
+- **아스마 토키**: ...
+- **아스마 토키**: I see. You forgot about me completely, Sensei.
+- **아스마 토키**: That's quite all right. It's fine, really. I'm not the type to be hurt by something like this. I forgive you for forgetting me.
+- **아스마 토키**: But I wonder... Will my pristine maid uniform and spotless rocket launcher forgive you as well?
+- **아스마 토키**: Oh, you remembered. Thank you, Sensei.
+- **아스마 토키**: Thank you for remembering, Sensei.
+- **아스마 토키**: I didn't realize I would surprise you so much, though. I'm a bit worried... Did I do something incorrectly?
+- **아스마 토키**: I did contact you.
+- **아스마 토키**: I just didn't reveal my identity.
+- **아스마 토키**: So, you wanted to know what I'm doing at Schale so early in the morning.
+- **아스마 토키**: So, you wanted to know what I'm doing at Schale so early in the morning.
+- **아스마 토키**: Well, it's because my schedule suddenly freed up.
+- **아스마 토키**: Is that so? Hmm... This thing called explanation is quite difficult.
+- **아스마 토키**: Let me try again. I had someone who I used to serve.
+- **아스마 토키**: I was her bodyguard and her aide.
+- **아스마 토키**: But then, something happened.
+- **아스마 토키**: With only a few orders for me, she disappeared.
+- **아스마 토키**: Suddenly, I was without responsibility, without duty. I pondered what I should do next.
+- **아스마 토키**: Yes. I concluded that I would go about my daily duties for you, Sensei.
+- **아스마 토키**: I believe, as the one responsible for creating my situation, it would likewise be your responsibility to fix it.
+- **아스마 토키**: You should see this not as a problem, but as an opportunity to consider the consequences of your actions.
+- **아스마 토키**: No. It's eminently logical and fair. A very reasonable conclusion, if I do say so myself.
+- **아스마 토키**: Anyways, that's how it is. So, from now on, I'll be taking care of you, Sensei.
+- **Passerby A**: Hey... is that Schale's Sensei? Are they really making a student wear a maid uniform and follow them around?
+- **Passerby B**: Schale's Sensei seems nice, but I heard that they sometimes make their students do messed up things. Were the rumors true after all?
+- **아스마 토키**: Ah, I can hear passing citizens praising my performance.
+- **아스마 토키**: Don't you think that I'm the epitome of a perfect maid, Sensei?
+- **아스마 토키**: I see. Then I will take this opportunity to show you another side of my flawless service, the fact that I can protect you from any threat.
+- **아스마 토키**: Raising alert level. Shifting to combat mode.
+- **Passerby A**: Oh dear! Now they're even having the student change her outfit?!
+- **Passerby B**: And in the middle of a crowded street, too... What a disgrace!
+- **아스마 토키**: Disappointing. Lowering alert level by one stage. I will continue to protect you.
+- **Millennium Student**: Ah, Sensei. Do you have a moment?
+- **아스마 토키**: Please wait. If you'd like to speak with Sensei, you must clear it with me first.
+- **Millennium Student**: Huh?
+- **아스마 토키**: On what subject would you like to speak with Sensei? For what reason? What do you expect the tone of your conversation to be?
+- **아스마 토키**: How long do you expect it to take? What goal do you hope to accomplish with that time?
+- **Millennium Student**: I, um, I just...
+- **아스마 토키**: Hm. You look fatigued. Are you well?
+- **아스마 토키**: You don't want me to worry? But...
+- **아스마 토키**: ...
+- **아스마 토키**: Did you, perhaps, find my service to be tiring, Sensei?
+- **아스마 토키**: Oh? But, if anything, my conduct today was less intense than usual.
+- **아스마 토키**: What? You think I'm kidding?
+- **아스마 토키**: Please look me in the eyes. Do I look like a student who tends to crack jokes?
+- **아스마 토키**: Oh, thank goodness. It's a relief to see proof of your good judgment, Sensei.
+- **아스마 토키**: Really?
+- **아스마 토키**: You ought to be more aware of the importance of your position, Sensei.
+- **아스마 토키**: But, if you insist... I understand.
+- **아스마 토키**: Casual. I see...
+- **아스마 토키**: I understand, Sensei.
+- **아스마 토키**: Kay, Sensei. Lookin' forward to working with you, eh?
+- **아스마 토키**: ...Just kidding. Imitation is one of the skills of an excellent maid. Don't be so shocked.
+- **아스마 토키**: I do sometimes.
+- **아스마 토키**: ...
+- **아스마 토키**: That's right. I have hurt your feelings. With that, I am victorious.
+- **아스마 토키**: Well, this is a problem. You must remain a teacher so that I can continue to assist you.
+- **아스마 토키**: This is your duty, so that I can continue to do my duty.
+- **아스마 토키**: ...Heh.
+
+3. **「아스마 토키 인연 스토리 3」**
+
+- **아스마 토키**: Hello, Sensei.
+- **아스마 토키**: Thank you for taking the time to see me.
+- **아스마 토키**: Ah...
+- **아스마 토키**: Well, I'd appreciate it if you'd take a look at this letter.
+- **아스마 토키**: It's from the school, but I'm unsure if I understood it correctly.
+- **아스마 토키**: So I wanted to seek the advice of an expert. That'd be you, Sensei.
+- **아스마 토키**: I see. It's just as I understood it. In that case...
+- **아스마 토키**: It's nothing to worry about.
+- **아스마 토키**: Let me begin escorting you today, then.
+- **아스마 토키**: I've already been held back once. I don't think anything will change if I am again.
+- **아스마 토키**: In fact, it'll allow me to escort you more, and stay an active member of C&C for longer.
+- **아스마 토키**: So, in that case, wouldn't you say it's a good thing?
+- **아스마 토키**: In the past, I received special attendance credits.
+- **아스마 토키**: However, it seems this is no longer the case, and so my attendance has been deemed insufficient.
+- **아스마 토키**: Hold on! I just had an idea.
+- **아스마 토키**: What if Millennium were to deem escorting you a special exception, as well?
+- **아스마 토키**: Ah, now that I've said it, it sounds like a good idea. Sensei, while you're here, why don't we file the paperwork for your full-time transfer to Millennium Science School?
+- **아스마 토키**: Is that right?
+- **아스마 토키**: Ah, so the letter says that if I begin attending classes, lectures, and keep up a normal daily routine at the school...
+- **아스마 토키**: Then, in consideration of my previous circumstances, they'll grant me leeway on my current attendance.
+- **아스마 토키**: Academy...life?
+- **아스마 토키**: What are you getting so excited about?
+- **아스마 토키**: ...
+- **아스마 토키**: I've heard that it's natural to feel that way about new things.
+- **아스마 토키**: To be honest, I...don't have a clue how I'm supposed to behave.
+- **아스마 토키**: S-Sensei?
+- **아스마 토키**: You can't just drag me around by the arm. Sensei? Sensei?!
+- **Instructor**: And that's the last topic we'll cover in today's remote lecture.
+- **Instructor**: Thank you all for your focus and attention.
+- **Instructor**: Asuma Toki. As a review, would you like to solve this problem?
+- **아스마 토키**: ...
+- **아스마 토키**: Solving a problem, in other words, is removing the source of it...
+- **아스마 토키**: When an unsolvable problem stands in your way...
+- **아스마 토키**: An elite agent will always know how to charge through it head on.
+- **Instructor**: Wh-What are you doing?! What are you doing to the screen?
+- **Instructor**: No, Toki! You can't use your C&C tools in class!
+- **Instructor**: Especially not a hacking tool that can take down all of Millennium's firewalls at once!
+- **Instructor**: If you keep this up, I will not be able to count your attendance today!
+- **아스마 토키**: ?!
+- **아스마 토키**: Sensei, what should I do?
+- **아스마 토키**: If that were possible, there wouldn't be conflict in the world. We would finally know peace. It's such a shame.
+- **아스마 토키**: ...Very well. If there's no other way, I'll do my best to solve the problem.
+- **Millennium Student**: Hey, Toki. I'm going to the cafe after class, do you want to come?
+- **아스마 토키**: ?!
+- **아스마 토키**: Sensei, what do I do?
+- **아스마 토키**: But...
+- **아스마 토키**: I-Is that right?
+- **아스마 토키**: In that case, will you join us, Sensei?
+- **아스마 토키**: What does that mean?
+- **아스마 토키**: Sensei? Sensei?!
+- **Millennium Student**: Aaaaaugh!
+- **Thug A**: Wh-What's with this maid...
+- **Thug B**: Hey, we're just upstanding citizens trying to help a local business get rid of leftover cake inventory! We're generously offering...to eat them for free in advance!
+- **아스마 토키**: Hm... That is better known as stealing via intimidation.
+- **Thug C**: Hmph! Whatever. Even if it's true that you shouldn't mess with a maid of Millennium, there's no way we'd give up that easily! Not when it comes to cake!
+- **아스마 토키**: ...
+- **아스마 토키**: So, this is what student life is like.
+- **아스마 토키**: It's just like the book I saw in the C&C club room.
+- **아스마 토키**: It's a student's duty to take down troublemakers. A student must conquer the school, no matter what...even if the only blade in your hand is a pair of scissors.
+- **Thug C**: Excuse me? What kind of nonsense are you spouting?!
+
+4. **「아스마 토키 인연 스토리 4」**
+
+- **아스마 토키**: What is it, Sensei?
+- **아스마 토키**: Perhaps. I'm not sure what you mean by "this kind of work."
+- **아스마 토키**: Ah, I see. Well, it may be insensitive of me to bring this up, but this was frequently among the duties assigned to me by the person I used to assist.
+- **아스마 토키**: Of course, I am also perfectly capable of cooking, cleaning, or any other housekeeping you might require.
+- **아스마 토키**: Hm. You're referring to my work for Schale?
+- **아스마 토키**: I'm not sure that I agree. Sometimes, there's so little work that I feel a bit awkward.
+- **아스마 토키**: I am a superior maid. You may assign me more duties if you wish.
+- **아스마 토키**: For example, I am escorting you now, but I am also capable of repelling enemies, suppressing crowds, defusing explosives, tracking, annihilating, intercepting, destroying, and exterminating. Please call on me if you need any of those services.
+- **아스마 토키**: Perhaps not. And yet, going above and beyond is one of the qualities of a superior maid.
+- **아스마 토키**: It is. As a perfect maid, you can trust me to give you correct information.
+- **아스마 토키**: ...Hobby? Time off?
+- **아스마 토키**: I'm sorry, I'm not sure what you're talking about. Please explain the concept to me.
+- **아스마 토키**: Something you do when you have time to spare? Are you testing me by asking such difficult questions?
+- **아스마 토키**: I generally worked through the weekend. I very rarely had time off from my duties.
+- **아스마 토키**: S-Sensei?
+- **아스마 토키**: What do you mean, you can't let this pass? Oh, are we going somewhere right now? Sensei? I said before, you can't just drag me around by the arm—
+- **아스마 토키**: I didn't understand it at all.
+- **아스마 토키**: Why did the characters begin shooting in the middle of a chase? In fact, what reason was there to escalate the situation to a shootout at all?
+- **아스마 토키**: If they had simply handled the situation better from the beginning, instead of acting so clearly suspicious, the incident would've ended without anyone being hurt.
+- **아스마 토키**: I noticed many other flaws. For example...
+- **아스마 토키**: ...That concludes my report.
+- **아스마 토키**: It was nothing.
+- **아스마 토키**: Oh? I see. You're saying that generally, a movie is simply enjoyed, and one doesn't typically spend so much time nitpicking it.
+- **아스마 토키**: It seems that I still need training in the art of watching a movie. In the future, I'll put more effort in.
+- **아스마 토키**: I've heard the saying, "a picture is worth a thousand words," but I'm not sure I agree.
+- **아스마 토키**: My qualm is this. When it comes to information density and efficiency, is this method truly the best?
+- **아스마 토키**: Despite what people say, I think the content of this image could be conveyed far more densely in a written medium, with less expenditure of ink and paper. In terms of efficiently conveying information, I believe a video medium to be superior.
+- **아스마 토키**: So... What is intended by using the picture format? Not only does it have the problems that I already described, but it takes so much time and effort to create.
+- **아스마 토키**: I assume there must be some reason, but it eludes me.
+- **아스마 토키**: Shopping is truly an intricate ritual.
+- **아스마 토키**: You make the decision, with knowledge and intent, to buy so many unnecessary things.
+- **아스마 토키**: I'm not sure I understand. All acts must have meaning, don't you think?
+- **아스마 토키**: And yet shopping doesn't seem to have any.
+- **아스마 토키**: I did nothing difficult or praiseworthy.
+- **아스마 토키**: In fact, I believe you've done most of the work today.
+- **아스마 토키**: ...
+- **아스마 토키**: Um, Sensei?
+- **아스마 토키**: I'm still not sure...what sort of thing a hobby is.
+- **아스마 토키**: Is it a technical skill that requires mastery, such as the skill of escorting someone?
+- **아스마 토키**: Is it an activity that requires success and understanding, or something of that nature?
+- **아스마 토키**: Yes?
+- **아스마 토키**: Something that I enjoy... Something I do just because I want to.
+- **아스마 토키**: ...
+- **아스마 토키**: So, my hobby could be...
+- **아스마 토키**: ...Heehee.
+- **아스마 토키**: It's nothing! Nevermind.
+- **아스마 토키**: Then, Sensei.
+- **아스마 토키**: Should we go back?
+- **아스마 토키**: I'll escort you back to Schale.
+- **아스마 토키**: Hm, I wonder. What could that be?
+- **아스마 토키**: Well, how could I tell you when I hardly know myself?
+
+5. **「아스마 토키 인연 스토리 5」**
+
+- **아스마 토키**: Hello, Sensei. As I mentioned earlier, I'll be a bit late today.
+- **아스마 토키**: Hm? You were worried about that, and you're on your way here?
+- **아스마 토키**: Ah, my apologies. It seems I should've explained myself a bit better.
+- **아스마 토키**: I didn't realize you'd do that, but that doesn't excuse negligence.
+- **아스마 토키**: Huh...? Why are you apologizing to me?
+- **아스마 토키**: Ah... So you're already almost here.
+- **아스마 토키**: Uh... Hm. I'm not sure what to do.
+- **아스마 토키**: However, I know it's not right for me to keep you waiting. Please come in.
+- **아스마 토키**: ― There's not much to see, but welcome, Sensei.
+- **아스마 토키**: ― I was checking my equipment, as usual.
+- **아스마 토키**: ― I'm sorry to cause you concern.
+- **아스마 토키**: ― Yes. I always try to maintain peak condition.
+- **아스마 토키**: ― To honor the name of C&C,
+- **아스마 토키**: ― I want to be a great maid.
+- **아스마 토키**: ― Do you...really think so? It doesn't seem that special to me.
+- **아스마 토키**: ― But hearing you say that makes me think...
+- **아스마 토키**: ― I'm determined.
+- **아스마 토키**: ― Today's maintenance will be performed even more effectively than usual.
+- **아스마 토키**: ― The goal is to become the best maid in Kivotos. The maid of all maids.
+- **아스마 토키**: ― Well, Sensei...
+- **아스마 토키**: ― Please watch carefully, all right?
+- **아스마 토키**: Thank you again for your patience, Sensei.
+- **아스마 토키**: Let's begin today's work.
+- **아스마 토키**: I, Asuma Toki, will be the perfect assistant.
+
+6. **「아스마 토키 인연 스토리 6」**
+
+- **아스마 토키**: Hello, Sensei.
+- **아스마 토키**: Connection confirmed.
+- **아스마 토키**: A successful attempt. I'm glad. I truly am excellent.
+- **아스마 토키**: With this, I've also confirmed that I am connected to you 24 hours a day, Sensei.
+- **아스마 토키**: But it is simply the truth.
+- **아스마 토키**: After all, are you not currently talking to me using an unknown communication line at this very moment?
+- **아스마 토키**: An educator should never deny obvious truths.
+- **아스마 토키**: In fact, is it not an educator's duty to lead students to correct conclusions that are based on facts?
+- **아스마 토키**: As expected, you are a true teacher. Being able to adapt your thought processes quickly is an excellent thing.
+- **아스마 토키**: In any case, I contacted you to arrange a meeting. I have something to give you.
+- **아스마 토키**: That's right. I, a kind and perfect maid, am giving you this digital shackle—
+- **아스마 토키**: ...I mean, symbol of our relationship.
+- **아스마 토키**: You misheard me.
+- **아스마 토키**: ...You don't think so? It's true. You did mishear me.
+- **아스마 토키**: Protest as much as you'd like, but my opinion will not change.
+- **아스마 토키**: Listen, Sensei. It is said that a person swallows an average of eight spiders a year.
+- **아스마 토키**: If that's the case, wouldn't it also be true that a person mishears things an average of 100 times a year?
+- **아스마 토키**: ...Hm? How are those two things related?
+- **아스마 토키**: ...
+- **아스마 토키**: They aren't in any way, but you still misheard me. I'm positive.
+- **아스마 토키**: Thank you.
+- **아스마 토키**: So on that note, I would like to visit you.
+- **아스마 토키**: I will come and give you this token of our connection. Okay?
+- **아스마 토키**: That agreement was not very enthusiastic...
+- **아스마 토키**: No. Of course you would want me there. In fact, I am in front of Schale's office right now.
+- **아스마 토키**: Correct.
+- **아스마 토키**: Hello, Sensei. It's good to see you again.
+- **아스마 토키**: I could have, but this was my strategy to gain your sympathy.
+- **아스마 토키**: Furthermore, to make passersby think...
+- **아스마 토키**: ..."How could Sensei make such a perfect, wonderful maid wait outside? How terrible."
+- **아스마 토키**: ...There was one significant problem, though.
+- **아스마 토키**: What is that, you ask? It was that there was significantly less foot traffic in front of your office than I originally expected.
+- **아스마 토키**: Truly a blunder. Next time, I will be more diligent in finding methods to properly induce sympathy from both you and civilians.
+- **아스마 토키**: Oh, no. You misheard me.
+- **아스마 토키**: Moving on. Allow me to reveal the purpose behind today's visit.
+- **아스마 토키**: Yes, after all, there is no point in subterfuge now. This is a headset, perfect for both a maid and a perfect agent.
+- **아스마 토키**: The soundproofing is thorough, and although it is an in-ear type, it has special acoustic processing to prevent hearing damage.
+- **아스마 토키**: Naturally, basic channel interference and hacking prevention are in place. However, in the unlikely event that the channel is breached, it has more safeguards.
+- **아스마 토키**: It will automatically bypass the channel and generate a new one.
+- **아스마 토키**: There are various other features, but I will skip them due to time constraints.
+- **아스마 토키**: The point is that with this, a separate, secure communication channel is available to us.
+- **아스마 토키**: It means you can contact me directly at any time.
+- **아스마 토키**: One for you, and one for me. Two makes a pair.
+- **아스마 토키**: Yes. It is what I want.
+- **아스마 토키**: This is a unique, special piece of equipment that someone I used to serve developed especially for me.
+- **아스마 토키**: ...I should save it for if that person returns?
+- **아스마 토키**: Why is that necessary? Not utilizing all available resources is unreasonable. That person would say the same.
+- **아스마 토키**: Therefore, I believe that the correct decision is for you to use it. That person will also feel the same way.
+- **아스마 토키**: Furthermore, this headset will also be pleased that it's being used.
+- **아스마 토키**: The lifespan of tools are shortened when they are left to idle.
+- **아스마 토키**: Therefore, Sensei, please put on the headset and stay connected with me 24 hours a day.
+- **아스마 토키**: ...Why is that? Have you perhaps found someone else?
+- **아스마 토키**: Our relationship...
+- **아스마 토키**: ...was it all just a game to you?!
+- **아스마 토키**: I apologize, Sensei. It was a joke intended to lighten the mood.
+- **아스마 토키**: More specifically, it was a line from a drama.
+- **아스마 토키**: My knowledge of dramas and movies is still lacking, but I am doing my utmost to learn.
+- **아스마 토키**: That was a line I was able to recall.
+- **아스마 토키**: Anyway, what I would like to say is simple.
+- **아스마 토키**: Please accept it. And always be with me.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아스마 토키
+- https://bluearchive.wiki (원문 스토리 스크립트)

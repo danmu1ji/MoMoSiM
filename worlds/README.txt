@@ -1,6 +1,7 @@
 MoMoSiM world packages
 
-Put downloaded .😭 or .zip world packages in this folder to keep them beside the app.
-Start MoMoSiM, choose “Open package”, and select the file here. You can also drag a
-package file from Downloads onto the MoMoSiM window. World packages are not bundled
-with the app; only install packages you trust and have the right to use.
+Put .😭 or .zip world packages in this folder to make them appear on the startup
+world-selection screen. Select a package there to play. You can also choose “Open
+package” or drag a package file from Downloads onto the MoMoSiM window. World
+packages are not bundled with the app; only install packages you trust and have
+the right to use.

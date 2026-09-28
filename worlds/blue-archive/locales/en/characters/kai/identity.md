@@ -1,0 +1,1 @@
+# Kai\n\nThe former president of the Eastern Alchemy Society, Kai got herself banned from Shanhaijing for spreading illegal drugs and elixirs. She is now one of the Seven Prisoners, known as Monkey of the Senses.\n\nSource: https://bluearchive.wiki/wiki/Kai\nReview status: source extracted; pending editorial review.\n

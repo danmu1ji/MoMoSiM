@@ -1,0 +1,6 @@
+# Ui — official English introduction
+
+Ui belongs to Trinity Integrated Academy and is the chairman of the library committee. She loves books and is also a bit of a misanthrope, although it is unclear which of the two comes first. She is particularly fond of old books, and spends her days in seclusion, deciphering and managing old tomes at a place called the "Antiquarian Bookstore". Her intellectual curiosity and her knowledge of antique books are first-rate, and she is even called the "Sorceress of the Antiquarian Bookstore" by those around her.
+
+Source: https://bluearchive.wiki/wiki/Ui
+Status: source-extracted-unreviewed

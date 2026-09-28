@@ -1,0 +1,5 @@
+schemaVersion: '1.0'
+id: blue-archive
+name: 블루 아카이브
+version: 0.1.0
+entry: world.yaml

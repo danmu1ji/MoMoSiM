@@ -1,0 +1,273 @@
+# 카와와 시즈코 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카와와 시즈코, 선생(샬레)
+
+1. **「카와와 시즈코 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카와와 시즈코 인연 스토리 2」**
+
+- **카와와 시즈코**: Oh, Sensei!
+- **카와와 시즈코**: Heehee. Oops! I mean...!
+- **카와와 시즈코**: Welcome, Master!
+- **카와와 시즈코**: You look surprised. It's shop tradition to refer to our customers as Master.
+- **카와와 시즈코**: Why not order something off of the menu?
+- **카와와 시즈코**: I recommend the strawberry anmitsu.
+- **카와와 시즈코**: But all of our other traditional desserts are just as delicious!
+- **카와와 시즈코**: Okay! Coming right up!
+- **카와와 시즈코**: Okay! Coming right up!
+- **카와와 시즈코**: Here's the strawberry red bean bun set you ordered!
+- **Cuteness-Obsessed Female Student**: How do you recommend eating it, Shizuko?
+- **카와와 시즈코**: Oh! I know a special trick!
+- **카와와 시즈코**: If you take a sip of tea along with a bite of the red bean bun...
+- **카와와 시즈코**: ...the tea's bitterness and red bean's sweetness make a fantastic combination! Heehee.
+- **Cuteness-Obsessed Female Student**: Wh-Whoa!
+- **Cuteness-Obsessed Female Student**: Shizuko is so cute!
+- **카와와 시즈코**: Here's the strawberry rice cake set you ordered!
+- **Momoyodou Regular**: Huh? This isn't what I ordered.
+- **Momoyodou Regular**: You're right that I ordered rice cakes, but this is yatsuhashi...
+- **카와와 시즈코**: Huh?
+- **카와와 시즈코**: Oh...! I-I'm so sorry, Master!
+- **카와와 시즈코**: I must have made a mistake.
+- **카와와 시즈코**: I'll have it out in a minute!
+- **Momoyodou Regular**: Heh heh.
+- **Momoyodou Regular**: It happened! One of Shizuko's famous scatterbrain moments!
+- **Momoyodou Regular**: That look of concern on your face, your cheeks flushed red with embarrassment...
+- **Momoyodou Regular**: You're so adorable.
+- **카와와 시즈코**: S-Stop. Don't tease me...
+- **카와와 시즈코**: Thank you for your patience, Master!
+- **카와와 시즈코**: Here's your order!
+- **카와와 시즈코**: Strawberry manju! The deluxe version!
+- **카와와 시즈코**: Ah, I made another mistake!
+- **카와와 시즈코**: Ah, I made another mistake!
+- **카와와 시즈코**: I-I'm so sorry, Master! I'll bring you what you ordered...
+- **카와와 시즈코**: ...!
+- **카와와 시즈코**: That's it?
+- **카와와 시즈코**: Okay, th-then I'll be right back with the next part of your order!
+- **카와와 시즈코**: Oh, Master! P-Please get out of the way! C-Coming through!
+- **카와와 시즈코**: Th-That was fast!
+- **카와와 시즈코**: Y-Yes, I'm fine!
+- **카와와 시즈코**: I-I'll bring you your next order...
+- **카와와 시즈코**: Ah! Stupid Shizuko! Stop making mistakes!
+- **카와와 시즈코**: Sensei—I mean, Master—I accidentally put hot sauce in the drink I made for you!
+- **카와와 시즈코**: D-Do you still want it, Sensei? (peek)
+- **카와와 시즈코**: Ah! Shizuko, you scatterbrain!
+- **카와와 시즈코**: I'm so clumsy. I can't believe I did that!
+- **카와와 시즈코**: That's it?!
+- **카와와 시즈코**: You drank the entire thing in one gulp?!
+- **카와와 시즈코**: You want another one?!
+- **카와와 시즈코**: ...
+- **카와와 시즈코**: Gah. I can't take this anymore!
+- **카와와 시즈코**: Come with me, Sensei!
+- **카와와 시즈코**: What do you think you're doing, Sensei?!
+- **카와와 시즈코**: What do you mean? I'm just...
+- **카와와 시즈코**: What do you mean? I'm just...
+- **카와와 시즈코**: I'm the scatterbrain of Momoyodou! Everyone knows that.
+- **카와와 시즈코**: I already told you on MomoTalk.
+- **카와와 시즈코**: Remember? Top notch service?
+- **카와와 시즈코**: Exactly! The customers eat it up.
+- **카와와 시즈코**: That's my act and they love it.
+
+3. **「카와와 시즈코 인연 스토리 3」**
+
+- **Hyakkiyako Student A**: Wow! Take a photo with me Shizuko!
+- **Hyakkiyako Student B**: Me too! Me too! Can I get a picture too?
+- **카와와 시즈코**: Heehee. I would love to!
+- **카와와 시즈코**: Sensei! Over here! ♪
+- **카와와 시즈코**: Um, there's something I have to go take care of. Excuse me!
+- **카와와 시즈코**: (smile) I've been waiting for you, Sensei!
+- **카와와 시즈코**: Sensei...
+- **카와와 시즈코**: You don't have to say such stupid things!
+- **카와와 시즈코**: Taking care of unruly customers is part of the job.
+- **카와와 시즈코**: Anyway, you're the one who was ten minutes late.
+- **카와와 시즈코**: Heh heh.
+- **카와와 시즈코**: Heh heh.
+- **카와와 시즈코**: Sensei, do you know who I am?
+- **카와와 시즈코**: No! The stuff for Momoyodou is just an act!
+- **카와와 시즈코**: No! The stuff for Momoyodou is just an act!
+- **카와와 시즈코**: I do that job so I can make money for club activities.
+- **카와와 시즈코**: There's more to me, you know?
+- **카와와 시즈코**: I'm also the president of the Festival Operations Department!
+- **카와와 시즈코**: You heard?!
+- **카와와 시즈코**: *sigh* Is that so...?
+- **카와와 시즈코**: Anyway, I called you here today because I have a request from the department.
+- **카와와 시즈코**: Yes. There will be a small festival at Hyakkiyako's 23rd shopping district this weekend.
+- **카와와 시즈코**: The shopping district sent over an official request asking the Festival Operations Department to manage the festival.
+- **카와와 시즈코**: Yes. Hyakkiyako is an academy district that specializes in tourism.
+- **카와와 시즈코**: And the most important tourist attractions for Hyakkiyako are the festivals.
+- **카와와 시즈코**: They're to be complete, perfect, and elegant.
+- **카와와 시즈코**: The Festival Operations Department's main mission is making sure they stay that way.
+- **카와와 시즈코**: Come on, we don't have time to waste here.
+- **카와와 시즈코**: Shall we go then, Sensei?
+- **카와와 시즈코**: Hello!
+- **Performance Equipment Manager**: Yes? How can I help you?
+- **카와와 시즈코**: We'll be holding a festival at the 23rd shopping district.
+- **카와와 시즈코**: I'd like to borrow some equipment for the festival...
+- **Performance Equipment Manager**: Sure. We'll deliver the equipment based on your requirements.
+- **카와와 시즈코**: Thanks for choosing us. ♪
+- **카와와 시즈코**: That was nothing! I'm the president, after all.
+- **카와와 시즈코**: But we're not done yet.
+- **카와와 시즈코**: Now that we've rented the performance equipment...
+- **카와와 시즈코**: ...all we need is a group to use it.
+- **카와와 시즈코**: Pardon me!
+- **Band Manager**: Is there something I can help you with?
+- **카와와 시즈코**: We need a band to perform at Hyakkiyako's 23rd shopping district.
+- **카와와 시즈코**: Here is the schedule and other conditions.
+- **Band Manager**: Hmm, but we'll need a bit more than that...
+- **카와와 시즈코**: Then how about something like this?
+- **카와와 시즈코**: You can record at the festival and stream it online.
+- **카와와 시즈코**: As for the revenue from selling the festival version of the song...
+- **카와와 시즈코**: ...I can guarantee a sales channel through this. The same goes for the contracts for any future concerts.
+- **Band Manager**: I-In that case, we can sign right away!
+- **카와와 시즈코**: Yes, thank you!
+- **카와와 시즈코**: Okay! I think that about wraps things up.
+- **카와와 시즈코**: Feels accomplishing!
+- **카와와 시즈코**: Wait. Are you okay, Sensei? You don't look so good.
+- **카와와 시즈코**: Hmm, is that so?
+- **카와와 시즈코**: Hmm, is that so?
+- **카와와 시즈코**: Heh... You're only realizing now?
+- **카와와 시즈코**: And this is just for a small festival!
+- **카와와 시즈코**: The festivals actually hosted by the Festival Operations Department are even crazier.
+- **카와와 시즈코**: Yes. Hosting a festival takes time and effort.
+- **카와와 시즈코**: So much goes into making it happen.
+
+4. **「카와와 시즈코 인연 스토리 4」**
+
+- **카와와 시즈코**: Here's the manju set you ordered!
+- **Cuteness-Obsessed Female Student**: Shizuko! I actually ordered the...
+- **Cuteness-Obsessed Female Student**: Wait. I did order the manju.
+- **Cuteness-Obsessed Female Student**: Huh? You actually got my order right today?
+- **카와와 시즈코**: That's what you wanted right? I hope you enjoy.
+- **Cuteness-Obsessed Female Student**: ...?
+- **Momoyodou Regular**: *gasp* Look out, Shizuko!
+- **Momoyodou Regular**: What was that?!
+- **Momoyodou Regular**: Right when Shizuko was about to trip, she slid and did some sort of acrobatic move!
+- **카와와 시즈코**: Oh, I'm sorry. I didn't mean to do that.
+- **Momoyodou Regular**: She's not her usual cheerful self. She's so brisk and professional!
+- **카와와 시즈코**: You ordered the anmitsu, right? Just a minute.
+- **카와와 시즈코**: Here you are.
+- **Momoyodou Regular**: And she's calmly bringing out the correct orders!
+- **Cuteness-Obsessed Female Student**: Something's...different about Shizuko today.
+- **Momoyodou Regular**: She's working so fast and getting everything right...
+- **카와와 시즈코**: Oh, is there a problem?
+- **Customers**: This version of Shizuko is so cool!
+- **카와와 시즈코**: We'll be closing shortly.
+- **카와와 시즈코**: Thank you for visiting Momoyodou today.
+- **카와와 시즈코**: Huh?
+- **카와와 시즈코**: Sensei?
+- **카와와 시즈코**: When did you get here?
+- **카와와 시즈코**: I-I'm sorry... I...
+- **카와와 시즈코**: I-I'm sorry... I...
+- **카와와 시즈코**: Oh.
+- **카와와 시즈코**: *pant* *pant*
+- **카와와 시즈코**: Huh...? Where am I?
+- **카와와 시즈코**: S-Sensei?
+- **카와와 시즈코**: What happened?
+- **카와와 시즈코**: Well...
+- **카와와 시즈코**: Well...
+- **카와와 시즈코**: Momoyodou has had a lot more customers lately.
+- **카와와 시즈코**: And I've had so much work to do as the president of the Festival Operations Department...
+- **카와와 시즈코**: But...
+- **카와와 시즈코**: ...I'm supposed to be the reliable one.
+- **카와와 시즈코**: I can't just sit back and take it easy.
+- **카와와 시즈코**: You want me to take a break...?
+- **카와와 시즈코**: You want me to take a break...?
+- **카와와 시즈코**: Isn't your job to motivate me to always do my best?
+- **카와와 시즈코**: Okay...
+- **카와와 시즈코**: Okay...
+- **카와와 시즈코**: Then just for today...
+- **카와와 시즈코**: I'm just gonna take a quick nap, Sensei.
+- **카와와 시즈코**: Can you stay here...until I fall asleep?
+- **카와와 시즈코**: Zzz...
+
+5. **「카와와 시즈코 인연 스토리 5」**
+
+- **카와와 시즈코**: Oh! Sensei, you're here.
+- **카와와 시즈코**: ― Heehee. Welcome back, Master.
+- **카와와 시즈코**: — You bet I am!
+- **카와와 시즈코**: ― I'm slacking off as we speak!
+- **카와와 시즈코**: ― It's a little funny.
+- **카와와 시즈코**: ― Technically,
+- **카와와 시즈코**: ― this is
+- **카와와 시즈코**: ― against the rules.
+- **카와와 시즈코**: ― But when I'm with you...
+- **카와와 시즈코**: ― ...I feel so comfortable.
+- **카와와 시즈코**: ― Come sit next to me, Sensei.
+- **카와와 시즈코**: ― It's your fault I've changed so much, so it's time you own up to it.
+- **카와와 시즈코**: All right. Now I feel recharged.
+- **카와와 시즈코**: Shizuko is back!
+- **카와와 시즈코**: I have all the energy I need to get through today's shift because of you.
+- **카와와 시즈코**: Thank you, Sensei.
+- **카와와 시즈코**: So, can I count on you for the rest of today?
+- **카와와 시즈코**: Heehee.
+
+6. **「카와와 시즈코 인연 스토리 6」**
+
+- **카와와 시즈코**: Sens—I mean, Master! You came!
+- **카와와 시즈코**: I'm sorry, you came during the rush! And today is especially rush-y!
+- **카와와 시즈코**: F-For now, let me take you to your seat! This way, please!
+- **카와와 시즈코**: What can I get for you today?
+- **카와와 시즈코**: Our most popular item is our apple tea, made with premium-grade peels and—
+- **카와와 시즈코**: I wasn't even done explaining!
+- **카와와 시즈코**: Y-You don't want to think about it?!
+- **카와와 시즈코**: A-Ah! Such blatant flattery...
+- **카와와 시즈코**: Talk all you want, but I was going to give you a ton of complementary service anyway!
+- **카와와 시즈코**: Yes! So please wait right there!
+- **카와와 시즈코**: Now, to serve everything up perfectly.
+- **Momoyodou Part-Timer**: B-Boss!
+- **카와와 시즈코**: I told you, I'm the president! Not the boss! What is it?
+- **Momoyodou Part-Timer**: P-President! We have so many customers that we ran out of tea!
+- **카와와 시즈코**: What?!
+- **Momoyodou Part-Timer**: Normally people order different things than just the tea! But the new apple tea is so popular...
+- **Momoyodou Part-Timer**: Wh-What should we do? It'll take us twenty minutes to get additional tea sets and make more!
+- **카와와 시즈코**: (O-Oh no... To think something like this would happen today, of all days...)
+- **카와와 시즈코**: (I can't keep Sensei waiting for twenty whole minutes!)
+- **카와와 시즈코**: (We always provide the best, highest-effort service at Momoyodou!)
+- **카와와 시즈코**: (What do I do...?)
+- **카와와 시즈코**: (I've got it!)
+- **카와와 시즈코**: I'll take care of this order, so please handle the additional order from table 5. Two hanami dangos and one sticky apple monaka!
+- **Momoyodou Part-Timer**: Yes! On it!
+- **카와와 시즈코**: Now, here's the premium apple tea you ordered and some bite-sized yokans!
+- **카와와 시즈코**: Yup! Proudly made by Momoyodou! Heehee.
+- **Momoyodou Part-Timer**: Phew, there are less customers now.
+- **카와와 시즈코**: Okay, everyone! Just finish cleaning up, and you can take a break!
+- **Momoyodou Part-Timer**: Yes, President!
+- **카와와 시즈코**: Mast—Sensei! Are you enjoying yourself?
+- **카와와 시즈코**: Phew! Today was even busier than usual!
+- **카와와 시즈코**: Did you see how awesome I was?
+- **카와와 시즈코**: N-No! That was an actual accident! If it weren't for the incredible skills of Kawawa Shizuko, idol and representative of Momoyodou, it would've been a dangerous situation!
+- **카와와 시즈코**: Ahem! Anyways! Now that we've gotten through the rush, I'm here to take a break with you, Sensei!
+- **카와와 시즈코**: Ah! You realized before I got to tell you.
+- **카와와 시즈코**: There was a bit of a situation earlier...
+- **카와와 시즈코**: I normally would never let something like that happen!
+- **카와와 시즈코**: But it was my fault that I didn't prepare for every possible outcome!
+- **카와와 시즈코**: And, so, I ended up using my personal tea set to serve you.
+- **카와와 시즈코**: B-Because...it was the only available set at the time, Sensei.
+- **카와와 시즈코**: I-I know! It doesn't exactly fit the aesthetic of this event!
+- **카와와 시즈코**: The Apple Fair was meant to be all about freshness, so we were serving these super-cute tea sets and utensils! I served you with something completely off-theme...
+- **카와와 시즈코**: *sigh* Momoyodou should always be on the cutting edge of trends, but...
+- **카와와 시즈코**: Even if I made the choice to make sure you received your order as quickly as possible...
+- **카와와 시즈코**: ...it's unacceptable. I should be ousted as the owner of Momoyodou.
+- **카와와 시즈코**: ...Thank you for your kind words.
+- **카와와 시즈코**: Ah, yes. That's because...
+- **카와와 시즈코**: ...that's the first tea set I ever purchased.
+- **카와와 시즈코**: I started conducting tea ceremonies when I was really young. I practiced a whole ton.
+- **카와와 시즈코**: I messed up so many times! Just thinking about all the tea leaves I wasted back then... Ugh...
+- **카와와 시즈코**: Heehee. History. I guess you could put it that way!
+- **카와와 시즈코**: But it fell out of fashion after a while. We always try to stay on top of the latest trends with Momoyodou's designs, you know?
+- **카와와 시즈코**: L-Looking at it now, it looks...tacky...
+- **카와와 시즈코**: I can't believe I used something like that for so long. I—
+- **카와와 시즈코**: ...?
+- **카와와 시즈코**: H-Huh?
+- **카와와 시즈코**: Gah?!
+- **카와와 시즈코**: N-No! That reaction was me having a heart attack!
+- **카와와 시즈코**: Heehee. Just now, if it wasn't for my Momoyodou idol training, that may have been fatal!
+- **카와와 시즈코**: ...Or, actually, maybe it was...a little bit...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카와와 시즈코
+- https://bluearchive.wiki (원문 스토리 스크립트)

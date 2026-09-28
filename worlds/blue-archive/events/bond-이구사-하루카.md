@@ -1,0 +1,296 @@
+# 이구사 하루카 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 이구사 하루카, 선생(샬레)
+
+1. **「이구사 하루카 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「이구사 하루카 인연 스토리 2」**
+
+- **이구사 하루카**: There you are. Thanks for coming. So I installed the bomb here...
+- **이구사 하루카**: I'm worried it's on the small side, though. I wanted your opinion.
+- **이구사 하루카**: ...?
+- **이구사 하루카**: Sensei?
+- **이구사 하루카**: ...?
+- **이구사 하루카**: S-S-Sensei?! What are you doing here...?
+- **이구사 하루카**: Wh-What? I was the one who asked you here?
+- **이구사 하루카**: Text...?
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...
+- **이구사 하루카**: I-I-I've made a big mistake! Huge mistake!
+- **이구사 하루카**: Th-That text wasn't meant for you.
+- **이구사 하루카**: Colossal mistake! What do I do what do I do what do I do?!
+- **이구사 하루카**: You're wasting your precious time on me of all people because of my screw up.
+- **이구사 하루카**: I'm sorry. I'm so, so sorry.
+- **이구사 하루카**: I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry...
+- **이구사 하루카**: ...?
+- **이구사 하루카**: You...don't mind? You just want to know what I was up to?
+- **이구사 하루카**: I-I was...
+- **이구사 하루카**: ...
+- **이구사 하루카**: B-Bombs...
+- **이구사 하루카**: I was secretly planting bombs.
+- **이구사 하루카**: It's for a contract we took. There's someone...who needs to leave early tomorrow.
+- **이구사 하루카**: Since the target passes by here...I was going to detonate them as they're going by.
+- **이구사 하루카**: That would ensure the target left early...and for good...
+- **이구사 하루카**: Who ordered me to plant the bombs? N-No one...
+- **이구사 하루카**: I-It was...my idea.
+- **이구사 하루카**: Th-That's why I wanted to make sure I was doing it right but sent you the text by mistake!
+- **이구사 하루카**: I'm sorry again. I'm sorry, I'm sorry...
+- **이구사 하루카**: You really...don't mind?
+- **이구사 하루카**: O-Oh. You meant that you don't mind me contacting you. That makes sense...
+- **이구사 하루카**: I...have to remove all of the bombs, don't I?
+- **이구사 하루카**: Y-Yes, Sensei! Whatever you say...
+- **이구사 하루카**: All done... It's a shame I did all of that work for nothing.
+- **이구사 하루카**: Did I plant bombs anywhere else? S-Sure I did. I had to ensure the target would leave the mortal plane early...
+- **이구사 하루카**: A-Are you saying I didn't have to take it that far? You want to know where the other bombs are, don't you?
+- **이구사 하루카**: Um... The basement, the fitness club, the park...
+- **이구사 하루카**: Do I really have to disarm all of them? Fine... I understand.
+- **이구사 하루카**: W-Wait, I can do it by myself! Honest! Y-You don't have to go out of your way to escort someone like me!
+- **이구사 하루카**: ...?!
+- **이구사 하루카**: But why would you want to walk with me...?
+- **이구사 하루카**: N-No, I just mean that...! That's not what I meant to say!
+- **이구사 하루카**: You're really okay with this...? You're even going to insist?
+- **이구사 하루카**: W-Well... If you say so.
+- **이구사 하루카**: W-We should get going, then.
+- **이구사 하루카**: And then one next to this pillar. There. It's disarmed now...
+- **이구사 하루카**: I-It's not like I did anything special.
+- **이구사 하루카**: ...!
+- **이구사 하루카**: Here too.
+- **이구사 하루카**: What a waste. A detonation here would have taken the target out for sure...
+- **이구사 하루카**: Huh? I-It's nothing. I was just talking to myself.
+- **이구사 하루카**: Y-Yes, Sensei.
+- **이구사 하루카**: That takes care of all the ones planted here.
+- **이구사 하루카**: Y-You must think I'm wasting your time, don't you, Sensei?
+- **이구사 하루카**: A disappointment like me is making you stay up and work until dawn...
+- **이구사 하루카**: I'm sorry...for all the trouble I cause.
+- **이구사 하루카**: I just wanted to impress everyone and make them like me.
+- **이구사 하루카**: Wh-What do you mean...?
+- **이구사 하루카**: Wh-What do you mean...?
+- **이구사 하루카**: You don't have to say something like that for me...
+
+3. **「이구사 하루카 인연 스토리 3」**
+
+- **이구사 하루카**: I-I'm surprised you came, Sensei!
+- **이구사 하루카**: I, uh...thought you might leave someone like me on read.
+- **이구사 하루카**: The reason I called you here was...I wanted to make it up to you. You know, after last time.
+- **이구사 하루카**: I-I know you're always so busy, s-so the last thing I want is take up your time. That's why I...
+- **이구사 하루카**: I-Instead, I got you this. It's a gift...
+- **이구사 하루카**: Y-Yeah. It's a pot of weeds...that I made. I hope you like it...
+- **이구사 하루카**: ...
+- **이구사 하루카**: N-Never mind! Wh-Why would anyone want worthless weeds as a gift?
+- **이구사 하루카**: Wh-What was I thinking?!
+- **이구사 하루카**: I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry...
+- **이구사 하루카**: Huh?
+- **이구사 하루카**: You like the way it's decorated? A-Are you sure...?
+- **이구사 하루카**: You're just curious why I grew weeds instead of flowers or something else?
+- **이구사 하루카**: I-I was...
+- **이구사 하루카**: H-Heh heh. Raising weeds is my hobby.
+- **이구사 하루카**: I have a sort of kinship with weeds. They remind me of myself.
+- **이구사 하루카**: They're not good for anything. They're seen as an annoying inconvenience.
+- **이구사 하루카**: They're worthless eyesores that keep springing up time and again. Those characteristics...
+- **이구사 하루카**: ...remind me of myself. So when I look at weeds, I feel like I'm not alone.
+- **이구사 하루카**: ...P-Pardon?
+- **이구사 하루카**: ...P-Pardon?
+- **이구사 하루카**: What are you trying to say, Sensei?
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...
+- **이구사 하루카**: Sensei...?
+- **이구사 하루카**: (Wh-What is Sensei talking about? That couldn't be in reference to me...)
+- **이구사 하루카**: (I-Is Sensei...complimenting me right now?!)
+- **이구사 하루카**: (Th-There's absolutely no way. Get your head out of the clouds, Haruka, you stupid idiot!)
+- **이구사 하루카**: (But... But...!)
+- **이구사 하루카**: (But we are alone and Sensei is speaking right at me. Could that mean...?!)
+- **이구사 하루카**: (Maybe...!)
+- **이구사 하루카**: ...?
+- **이구사 하루카**: A worm?
+- **이구사 하루카**: There are worms in the soil...
+- **이구사 하루카**: ...
+- **이구사 하루카**: Un...able...
+- **이구사 하루카**: Unforgivable. Who gave you permission...? Who said you could crawl in there?
+- **이구사 하루카**: You have the audacity...to make my gift to Sensei your home?!
+- **이구사 하루카**: How dare you...?
+- **이구사 하루카**: I hate you I hate you I hate you I hate you I hate you!
+- **이구사 하루카**: I'll kill you, you disgusting pests!
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...?
+- **이구사 하루카**: Oh.
+
+4. **「이구사 하루카 인연 스토리 4」**
+
+- **이구사 하루카**: S-Sensei! You actually showed up again...
+- **이구사 하루카**: Thank you for agreeing to this.
+- **이구사 하루카**: I-I thought you'd never want to see me again...
+- **이구사 하루카**: I shouldn't worry about last time? I-I can't do that...
+- **이구사 하루카**: S-Sorry! I didn't mean to argue with you. What I meant was...!
+- **이구사 하루카**: O-Okay. I'll try not to let it bother me. Thanks again...
+- **이구사 하루카**: Th-This time, I want to give you a proper gift.
+- **이구사 하루카**: H-Here you go. I'm not sure if you'll like it...
+- **이구사 하루카**: Th-There's more. Here you go...and here's some more... I thought you might like them, so take them all.
+- **이구사 하루카**: Th-There's more. Here you go...and here's some more... I thought you might like them, so take them all.
+- **이구사 하루카**: I-I didn't make these like I did my first gift...so there shouldn't be anything wrong with them. Again, I'm sorry about last time...
+- **이구사 하루카**: Wh-What do you think, Sensei?
+- **이구사 하루카**: A-Are they...not good enough?
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...
+- **이구사 하루카**: Heh... Heh heh.
+- **이구사 하루카**: I'm glad that you like them...Sensei...
+- **이구사 하루카**: If this is what you like...then I'll get you more.
+- **이구사 하루카**: ...?
+- **Clerk**: Huh? Why did the channel change all of a sudden?
+- **Clerk**: Breaking news? What's going on?
+- **이구사 하루카**: Uh... Um...
+- **이구사 하루카**: ...
+- **Announcer**: Breaking news. Early this morning, a series of robberies took place across multiple gift stores in the shopping district.
+- **Announcer**: Each robbery shares a defining characteristic: The offender only stole valuable and rare items, leaving the cash registers untouched.
+- **Announcer**: It has been speculated that the offender's primary motivation was not monetary gain.
+- **Announcer**: Investigators believe that the offender is still within the Trinity district...
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...!
+- **이구사 하루카**: I-I can explain!
+- **이구사 하루카**: I-I didn't think that they'd find out so soon! I was sure that they wouldn't start investigating until this evening!
+- **이구사 하루카**: That's...not the kind of explanation you wanted? Right. I should have done more to throw them off the trail...
+- **이구사 하루카**: Huh? That's not what you meant either? U-Um. Ugh... I'm sorry.
+- **이구사 하루카**: I'm sorry... I'm so sorry. I'm sorry I'm sorry I'm sorry I'm sorry...
+- **이구사 하루카**: But why?! It's not like they're on their way here. They haven't even figured out it was me yet...
+- **이구사 하루카**: N-No...I'm still not trying to talk back to you...
+- **이구사 하루카**: I-I understand... If you say so, Sensei.
+- **이구사 하루카**: ...
+- **이구사 하루카**: I'm sorry. I'm so sorry...
+- **이구사 하루카**: You were roped into apologizing to all of them because of me.
+- **이구사 하루카**: I wanted to get you a gift, but I ended up causing more trouble. I just...
+- **이구사 하루카**: I don't want to...
+- **이구사 하루카**: ...bother you anymore, Sensei.
+- **이구사 하루카**: I'm not...?
+- **이구사 하루카**: I don't...?
+- **이구사 하루카**: B-But...I've caused you so much trouble.
+- **이구사 하루카**: You think I should feel more comfortable around you? Me...? With you...?
+- **이구사 하루카**: Th-That's impossible! I-I mean, I'm not saying that I don't want that! But still...!
+- **이구사 하루카**: Uh... Ugh...
+- **이구사 하루카**: I'll try. If you say it's okay, th-then I'll try to.
+- **이구사 하루카**: Hey, Sensei?
+- **이구사 하루카**: Are you sure you aren't...mad at me? You don't hate me, do you?
+- **이구사 하루카**: Not even a little? But why? How? I'm such a loser...
+- **이구사 하루카**: Huh? Wh-What are you saying...?
+- **이구사 하루카**: Huh? Wh-What are you saying...?
+- **이구사 하루카**: I don't really get what you mean...or why that's enough of a reason.
+- **이구사 하루카**: I'll understand...someday in the future?
+- **이구사 하루카**: ...
+- **이구사 하루카**: S-Sorry. I feel pathetic for still not understanding.
+- **이구사 하루카**: Okay. I'll do as you say...
+
+5. **「이구사 하루카 인연 스토리 5」**
+
+- **???**: ...sei.
+- **???**: ...nsei!
+- **???**: ...Sensei! Wake up, Sensei!
+- **???**: Sensei!
+- **이구사 하루카**: Sensei, are you okay? Sensei!
+- **이구사 하루카**: Oh... You're awake. Whew... You scared me...
+- **이구사 하루카**: A-Ah... Yes... That's right. It's me...
+- **이구사 하루카**: *gasp*
+- **이구사 하루카**: S-Sorry. I was so surprised I didn't realize I...!
+- **이구사 하루카**: I-I mean, I was only trying to support your weight, but I-I shouldn't have t-touched you...!
+- **이구사 하루카**: What...? You're fine with this...? Y-You just want to rest for a bit...?
+- **이구사 하루카**: B-But...! U-Uh...!
+- **이구사 하루카**: N-No! It's not that I don't want to...! It's just...!
+- **이구사 하루카**: ...S-Sensei?
+- **이구사 하루카**: Y-Your complexion is... Are you feeling better?
+- **이구사 하루카**: ...?
+- **이구사 하루카**: ...?
+- **이구사 하루카**: #%^&*@#?!?!
+- **이구사 하루카**: I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I don't know what you mean, but I'm sorry...
+- **이구사 하루카**: A-Are you sure you're okay? B-But...
+- **이구사 하루카**: C-Come to think of it, why are you in a dirty, gloomy place like this...?
+- **이구사 하루카**: N-Nobody ever comes here except me... An abandoned place like this...
+- **이구사 하루카**: ...? What? What was I doing here?
+- **이구사 하루카**: A-Ah... W-Well...
+- **이구사 하루카**: I was just looking for new soil...to plant some weeds...
+- **이구사 하루카**: I-I sometimes come here to dig up soil to take back with me...and if I'm lucky...I get some stuff to use as compost...
+- **이구사 하루카**: ...Huh? Wh-What do you mean, Sensei...?
+- **이구사 하루카**: ...Huh? Wh-What do you mean, Sensei...?
+- **이구사 하루카**: Uh... Th-Then what was your reason for coming here...?
+- **이구사 하루카**: D-Don't tell me you came here for my sake...?! To such a remote place...?! For s-someone like me...?!
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...Sorr...
+- **이구사 하루카**: I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry...
+- **이구사 하루카**: I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I didn't know, I really didn't know. I didn't think you'd assume that...
+- **이구사 하루카**: I'm sorry. I'm sorry for making excuses. I'm sorry for causing trouble. It seems that in order to prove my sincerity, I'll have to stay here after all...!
+- **이구사 하루카**: What? I don't need to do that? B-But I've caused you so much trouble, Sensei...!
+- **이구사 하루카**: Huh?
+- **이구사 하루카**: This is how much you normally walk during your hikes? I-Is that so? B-But weren't you collapsed here just now...?
+- **이구사 하루카**: Oh, no! Not at all! I'm not trying to argue or dispute what you're saying, it's just...!
+- **이구사 하루카**: ...Huh? O-Oh, these...?
+- **이구사 하루카**: ...Huh? O-Oh, these...?
+- **이구사 하루카**: O-Oh... This is the soil I told you about earlier... I just finished digging it up...
+- **이구사 하루카**: The weeds I want to plant...aren't from around here. The grasses here aren't "weeds" exactly...
+- **이구사 하루카**: The weeds I grow are the more useless...stray kinds that pop up from the cracks of sidewalks and roads.
+- **이구사 하루카**: But...even those little ones have a kind of soil they like, so...I just wanted to take care of them...
+- **이구사 하루카**: I-I'm just like those weeds...always receiving everyone's help. Completely, utterly useless...
+- **이구사 하루카**: S-So while I can't do anything to make up for it, I at least want to be...helpful to the weeds.
+- **이구사 하루카**: Th-That's not it at all...! S-Someone like me doesn't have a kind soul or anything like that! It's just that...!
+- **이구사 하루카**: Th-That's not it at all...! S-Someone like me doesn't have a kind soul or anything like that! It's just that...!
+- **이구사 하루카**: N-No! I mean! I'm not saying that you were wrong, Sensei, but I...!
+- **이구사 하루카**: ...U-Um...
+- **이구사 하루카**: ...Th-Then.
+- **이구사 하루카**: ...If you insist, Sensei, then I-I'll just go with it. I'll make it so...!
+- **이구사 하루카**: ...Wh-What? I already did?
+- **이구사 하루카**: B-But...there's no way that... Oh, I mean! I'm not saying it's impossible, and I'm not trying to say you're wrong!
+- **이구사 하루카**: Th-That... Ugh... Ughhh...!
+- **이구사 하루카**: F...Fine... I-If you insist...then we'll go with that!
+- **이구사 하루카**: ...We'll go along with that...! Y-Yes!
+
+6. **「이구사 하루카 인연 스토리 6」**
+
+- **이구사 하루카**: Eh?!
+- **이구사 하루카**: Huh? Eh...?!
+- **이구사 하루카**: ― Wh-Wh-Why? HUH?!
+- **이구사 하루카**: ― Wh-Why are you here, Sensei?
+- **이구사 하루카**: ― H-How...? Wh-Why are you here, Sensei...?!
+- **이구사 하루카**: ― I-I must have messed up again...
+- **이구사 하루카**: Ah, c-could it be that I got the location wrong...?
+- **이구사 하루카**: ― Th-That's... This is...
+- **이구사 하루카**: ― This is where... What should I say...
+- **이구사 하루카**: ― Like, weeds and such...
+- **이구사 하루카**: ― Where I can grow stuff like that... That...
+- **이구사 하루카**: ―S-Sorry, Sensei.
+- **이구사 하루카**: ― It's my fault that...someone like you came to a filthy place like this...
+- **이구사 하루카**: ― Huh? Ah...? J-Just now,
+- **이구사 하루카**: ― I heard s-something incredible...!?
+- **이구사 하루카**: ― (I wanna die I wanna die I wanna die I wanna die
+- **이구사 하루카**: ― I wanna die I wanna die I wanna die I wanna die I wanna die...)
+- **이구사 하루카**: S-So...this place is...
+- **이구사 하루카**: It's... Well, how do I put this, um... I-It's a completely worthless place...but...
+- **이구사 하루카**: I don't know if you remember the weeds I tried to give you that one time, but...I-I grow stuff like that here...
+- **이구사 하루카**: Right... What? N-No! No, it's nothing as grand as that at all! Th-This is...!
+- **이구사 하루카**: Right... What? N-No! No, it's nothing as grand as that at all! Th-This is...!
+- **이구사 하루카**: A-Ah! Y-You can't touch that! O-Oh, it's not that you can't! It's only because that little one is carnivorous, so it may bite you!
+- **이구사 하루카**: Oh, no. I'm sorry! I'm sorry! If you want to look at it, I'll get bitten for you. I will, it's okay!
+- **이구사 하루카**: ...What? I-I don't understand what you're saying.
+- **이구사 하루카**: ...What? I-I don't understand what you're saying.
+- **이구사 하루카**: Um...
+- **이구사 하루카**: S-Sensei just...c-complimented me?
+- **이구사 하루카**: ...Huh?
+- **이구사 하루카**: H-Have I ever brought anyone else here before? N-No way!
+- **이구사 하루카**: I-I would never do such a thing! To a filthy, unsettling, and gloomy place like this...!
+- **이구사 하루카**: Nobody would want to see a place like this... No way! I couldn't trouble someone like that!
+- **이구사 하루카**: There's no reason for me to even bring it up with someone... And even if I did, I'm sure no one would be interested in it...
+- **이구사 하루카**: ...Huh?
+- **이구사 하루카**: What?
+- **이구사 하루카**: S-Secret hiding place... Ours?!
+- **이구사 하루카**: You're not wrong, but a s-secret between Sensei and me.... I-Is it really okay for someone like me to have that with someone like you?
+- **이구사 하루카**: What? Y-You want to come here again...?
+- **이구사 하루카**: W-Well, of course! This is our secret hiding place. So if you want, Sensei...
+- **이구사 하루카**: J-Just tell me when you're coming, and I'll come meet you at anytime! A-Actually, you don't even need to tell me, I'll just wait for you here for all of eternity!
+- **이구사 하루카**: B-But, really, why would you want to come somewhere like this? A garbage place where worthless me and my worthless weeds reside...
+- **이구사 하루카**: N-No! If you think these are flowers, then that would mean even the moss that grows from the sidewalk is a flower!
+- **이구사 하루카**: ...
+- **이구사 하루카**: ...Yeah. It's really... It's really like that...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/이구사 하루카
+- https://bluearchive.wiki (원문 스토리 스크립트)

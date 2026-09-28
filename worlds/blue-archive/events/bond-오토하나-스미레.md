@@ -1,0 +1,284 @@
+# 오토하나 스미레 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 오토하나 스미레, 선생(샬레)
+
+1. **「오토하나 스미레 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「오토하나 스미레 인연 스토리 2」**
+
+- **오토하나 스미레**: Oh, Sensei—I mean, Trainer! You're here!
+- **오토하나 스미레**: I've been waiting for you.
+- **오토하나 스미레**: Haha. It still feels unusual to acknowledge you as my trainer.
+- **오토하나 스미레**: I put together a workout plan like I promised.
+- **오토하나 스미레**: Would you mind looking over it?
+- **오토하나 스미레**: What do you think, Trainer?
+- **오토하나 스미레**: Overhead dumbbells are said to be good for developing triceps and other long head muscles.
+- **오토하나 스미레**: This exercise should add elasticity to my arms, and with these leg extensions, I can...
+- **오토하나 스미레**: ...improve leg strength and then... Oh. What is it, Trainer?
+- **오토하나 스미레**: Well... I won't deny I'm putting more pressure on myself.
+- **오토하나 스미레**: I probably wouldn't have been able to handle this workout before.
+- **오토하나 스미레**: But I'm not the same person I used to be.
+- **오토하나 스미레**: B-Because I have my trainer with me now!
+- **오토하나 스미레**: That's okay!
+- **오토하나 스미레**: You have a track record of helping everyone around you!
+- **오토하나 스미레**: I can count on you to stop me from overworking myself.
+- **오토하나 스미레**: After all, I was able to craft this training program thanks to you.
+- **오토하나 스미레**: N-No, the pleasure is mine.
+- **오토하나 스미레**: I was nothing but a beginner until I met you.
+- **오토하나 스미레**: Oh, Sensei.
+- **오토하나 스미레**: I'm fine! It's just some mild dehydration.
+- **오토하나 스미레**: I collapsed about three times, but I'll be all right.
+- **오토하나 스미레**: Huh? How did I become so dehydrated?
+- **오토하나 스미레**: Well...it's exam season, so lately I've been spending a lot more time sitting down.
+- **오토하나 스미레**: I thought I should increase my workout load to make up for that, and I ended up overworking myself. You can probably guess what happened after that.
+- **오토하나 스미레**: Not at all.
+- **오토하나 스미레**: The key to training is consistency. It's constant and uncompromising.
+- **오토하나 스미레**: Otherwise...
+- **오토하나 스미레**: ...you experience muscle loss.
+- **오토하나 스미레**: Don't you get it? All the gains I've made would go away, just like that.
+- **오토하나 스미레**: That's the worst case scenario. I'll do anything to avoid it!
+- **오토하나 스미레**: O-Oh! Sorry. I got carried away.
+- **오토하나 스미레**: O-Oh! Sorry. I got carried away.
+- **오토하나 스미레**: *sigh*
+- **오토하나 스미레**: Anyway, that's why I did what I did.
+- **오토하나 스미레**: Of course it is. I know that.
+- **오토하나 스미레**: That's why I try so hard to...
+- **오토하나 스미레**: ...?!
+- **오토하나 스미레**: No. Of course not. You're right.
+- **오토하나 스미레**: I'm sorry, Sensei.
+- **오토하나 스미레**: *sigh*
+- **오토하나 스미레**: I normally can keep a regular workout plan.
+- **오토하나 스미레**: All it took was a little impatience for me to slip up like this.
+- **오토하나 스미레**: I wish there was someone to spot me...but I don't know who I'd ask.
+- **오토하나 스미레**: What should I do?
+- **오토하나 스미레**: Come again?!
+- **오토하나 스미레**: Come again?!
+- **오토하나 스미레**: You want to train me, Sensei?
+- **오토하나 스미레**: A-Are you really sure?
+- **오토하나 스미레**: Thank you, Sensei!
+- **오토하나 스미레**: Wait, should I call you "Trainer" from now on?
+- **오토하나 스미레**: Understood!
+- **오토하나 스미레**: Understood!
+- **오토하나 스미레**: Well, then!
+- **오토하나 스미레**: Should we get started?
+- **오토하나 스미레**: I'm counting on you, Trainer.
+
+3. **「오토하나 스미레 인연 스토리 3」**
+
+- **오토하나 스미레**: *pant* *pant*
+- **오토하나 스미레**: Ah? Trainer!
+- **오토하나 스미레**: I've been waiting for you.
+- **오토하나 스미레**: That's okay.
+- **오토하나 스미레**: I was actually worried I wouldn't get my daily training in because of our plans.
+- **오토하나 스미레**: I was able to get some squats in because you were late.
+- **오토하나 스미레**: They make for a great workout.
+- **오토하나 스미레**: I didn't even do that many, but I could already feel the burn.
+- **오토하나 스미레**: It feels so... Huh?
+- **오토하나 스미레**: Ah...
+- **오토하나 스미레**: Aghhh!
+- **오토하나 스미레**: U-Ugh...
+- **오토하나 스미레**: I-I'm sorry, Trainer.
+- **오토하나 스미레**: I was only trying to find some way to effectively pass the time.
+- **오토하나 스미레**: Then I thought it would be the perfect time for some squats.
+- **오토하나 스미레**: I was only going to do a few, but then I got in the zone and...
+- **오토하나 스미레**: I-If...
+- **오토하나 스미레**: If you think that I'm doing too much, then...
+- **오토하나 스미레**: Thanks. I needed that.
+- **오토하나 스미레**: Thanks. I needed that.
+- **오토하나 스미레**: But still, if I ever do anything that bothers you...
+- **오토하나 스미레**: ...I want you to tell me.
+- **오토하나 스미레**: I care a lot about my fitness...
+- **오토하나 스미레**: ...but what matters most to me is...
+- **오토하나 스미레**: ...
+- **오토하나 스미레**: N-Nothing! Forget I said anything!
+- **오토하나 스미레**: A-Anyway! Weren't we going to shop for protein supplements?
+- **오토하나 스미레**: Let's go!
+- **오토하나 스미레**: Thanks for shopping with me today, Trainer.
+- **오토하나 스미레**: You helped me find what I needed.
+- **오토하나 스미레**: I'm especially thankful that you have an eye for sales.
+- **오토하나 스미레**: The way you pushed your way through the crowd to get that protein was amazing.
+- **오토하나 스미레**: You're such an excellent role model on how to be determined and motivated.
+- **오토하나 스미레**: Though it was also fun to see all the passersby wonder why you were in such a rush.
+- **오토하나 스미레**: I never could have done something like that.
+- **오토하나 스미레**: Heehee. You're so funny.
+- **오토하나 스미레**: Heehee. You're so funny.
+- **오토하나 스미레**: Anyway, I think that's enough for today.
+- **오토하나 스미레**: What? Do you think I bought too many supplements?
+- **오토하나 스미레**: You'd be surprised how quickly I can go through these.
+- **오토하나 스미레**: And besides...
+- **오토하나 스미레**: ...I have a feeling that someone else might be needing them soon.
+- **오토하나 스미레**: Hmm? You wanna know who I'm talking about?
+- **오토하나 스미레**: That's a secret.
+- **오토하나 스미레**: You'll find out soon enough. Heehee.
+- **오토하나 스미레**: I should be heading back now.
+- **오토하나 스미레**: Be safe on your way home, Trainer.
+
+4. **「오토하나 스미레 인연 스토리 4」**
+
+- **오토하나 스미레**: Trainer! You're here.
+- **오토하나 스미레**: I've been waiting for you.
+- **오토하나 스미레**: How are you feeling today?
+- **오토하나 스미레**: Yeah, you look good to me.
+- **오토하나 스미레**: I think you're in tip-top shape for my big plan.
+- **오토하나 스미레**: Huh? What am I talking about?
+- **오토하나 스미레**: Heehee. I'm talking about THIS!
+- **오토하나 스미레**: I figured my workout might be a little too demanding.
+- **오토하나 스미레**: Huh? What about my old workout plan?
+- **오토하나 스미레**: Well...I'll have to stick with it, won't I?
+- **오토하나 스미레**: Um...
+- **오토하나 스미레**: I don't think we're on the same page, Trainer.
+- **오토하나 스미레**: The plan I just showed you wasn't made for me. Take a closer look.
+- **오토하나 스미레**: Yup! This is a plan for my trainer, [USERNAME]!
+- **오토하나 스미레**: Heehee. What do you think? Do you like it?
+- **오토하나 스미레**: I crafted a plan just for you with all my experience in fitness training!
+- **오토하나 스미레**: First, I put down 10 minutes of light stretches as a warm up.
+- **오토하나 스미레**: After that is about 20 minutes on the treadmill...
+- **오토하나 스미레**: What? What's wrong?
+- **오토하나 스미레**: What? What's wrong?
+- **오토하나 스미레**: Oh, I get it. This workout would be way too easy for a personal trainer.
+- **오토하나 스미레**: I only assigned some light weightlifting exercises after the warm-up.
+- **오토하나 스미레**: Maybe I should make an alternative version just in case.
+- **오토하나 스미레**: Okay, Trainer! What do you think of this one?
+- **오토하나 스미레**: Hmm? Are you sure?
+- **오토하나 스미레**: You don't look totally convinced.
+- **오토하나 스미레**: Ahaha! Oh, stop it, Trainer.
+- **오토하나 스미레**: In that case, today's a day to remember.
+- **오토하나 스미레**: I get to be my trainer's trainer.
+- **오토하나 스미레**: Hmm? What about my training?
+- **오토하나 스미레**: You're always so considerate.
+- **오토하나 스미레**: I finished it early to make time for you, of course.
+- **오토하나 스미레**: Huh? What's with that look on your face...?
+- **오토하나 스미레**: Oh, I get it! You can't wait to get started, can you?
+- **오토하나 스미레**: Great! Then let's begin!
+- **오토하나 스미레**: Come on, hurry!
+- **오토하나 스미레**: *pant* *pant*
+- **오토하나 스미레**: I thought I could handle some light jogging with you.
+- **오토하나 스미레**: Maybe I'm getting tired so quickly because I already worked out before.
+- **오토하나 스미레**: You look tired too. Should we rest for a bit?
+- **오토하나 스미레**: ― What did you think, Trainer? Do you enjoy your workout plan?
+- **오토하나 스미레**: ― Can't you feel the burn?
+- **오토하나 스미레**: ― O-Oh... Trainer, you're staring at me.
+- **오토하나 스미레**: ― (I know I look gross after working out...)
+- **오토하나 스미레**: ― Wh-What...are you looking at?
+- **오토하나 스미레**: ― Trainer, I have a favor to ask you.
+- **오토하나 스미레**: ― I want you to promise to keep training with me.
+- **오토하나 스미레**: ― I want you to stay healthy.
+- **오토하나 스미레**: ― Wh-Why? Th-That's because... Heehee.
+- **오토하나 스미레**: ― Isn't it obvious?
+- **오토하나 스미레**: Did you enjoy training with me today, Trainer?
+- **오토하나 스미레**: Heehee. I'm glad you enjoyed it.
+- **오토하나 스미레**: I put a lot of thought into this workout.
+- **오토하나 스미레**: ...?!
+- **오토하나 스미레**: Th-That's amazing, Trainer.
+- **오토하나 스미레**: Maybe we should switch to the harder workout plan I made after all...
+- **오토하나 스미레**: Heehee. So was I.
+- **오토하나 스미레**: Anyway, I enjoy when we train together.
+- **오토하나 스미레**: I know work keeps you busy, so I won't force you...
+- **오토하나 스미레**: But I'd love to keep working out with you if you find the time...
+
+5. **「오토하나 스미레 인연 스토리 5」**
+
+- **오토하나 스미레**: ...
+- **오토하나 스미레**: Oh, there you are, Trainer.
+- **오토하나 스미레**: I've been waiting for you.
+- **오토하나 스미레**: Huh? Did I come to buy more things for training?
+- **오토하나 스미레**: N-No! Not this time.
+- **오토하나 스미레**: I just couldn't think of a better place to meet.
+- **오토하나 스미레**: Maybe that's because working out is all we talk about.
+- **오토하나 스미레**: That's why today, I wanted to talk about something else with you...
+- **오토하나 스미레**: ...
+- **오토하나 스미레**: O-Oh! I'm sorry, Trainer!
+- **오토하나 스미레**: You must have been busy today! I feel so selfish for wasting your time like this!
+- **오토하나 스미레**: A-Are you sure?
+- **오토하나 스미레**: Thanks for putting my mind at ease.
+- **오토하나 스미레**: ...?!
+- **오토하나 스미레**: Huh? A d-date? I didn't mean...
+- **오토하나 스미레**: I mean, I wouldn't mind that, but...
+- **오토하나 스미레**: Hnnnngh...
+- **오토하나 스미레**: As it so happens, the diets we planned out let us have sugar and fat today.
+- **오토하나 스미레**: I think this what people refer to as a cheat day.
+- **오토하나 스미레**: So if it's all right with you, let's go somewhere to take advantage of that.
+- **오토하나 스미레**: You got it, Trainer!
+- **오토하나 스미레**: Wow. It's been so long since I've been to a place like this.
+- **오토하나 스미레**: I often hear about my classmates' favorite cafes and run by people going in and out of them.
+- **오토하나 스미레**: I always thought there wouldn't be anything for someone like me...
+- **오토하나 스미레**: ...but now that I'm here, I can appreciate how cute it is on the inside.
+- **오토하나 스미레**: Good choice, Trainer.
+- **Clerk**: May I take your order?
+- **오토하나 스미레**: Oh, please give me a minute.
+- **오토하나 스미레**: Um...
+- **오토하나 스미레**: Oh, this cake.
+- **오토하나 스미레**: It's so cute.
+- **오토하나 스미레**: Yes, Trainer.
+- **오토하나 스미레**: Oh, but before we order...
+- **오토하나 스미레**: Excuse me? I have a question.
+- **Clerk**: Sure. What is it?
+- **오토하나 스미레**: It's about this cake decorated with the cute mascot.
+- **오토하나 스미레**: Where can I find the nutritional information for this dessert?
+- **Clerk**: I-I'm sorry?
+- **오토하나 스미레**: The total calories, the amount of sugar and fat...
+- **오토하나 스미레**: Oh, and I'm sure it won't be much, but I'd also like to know how much protein it contains.
+- **Clerk**: Oh, I-I don't know...
+- **오토하나 스미레**: Yes, Trainer?
+- **오토하나 스미레**: Oh...
+- **오토하나 스미레**: Oh, I'm doing it again... I'm so sorry.
+- **오토하나 스미레**: Let's start over and pretend that didn't happen. Sorry.
+- **오토하나 스미레**: *sigh* I'm still sorry about earlier, Trainer.
+- **오토하나 스미레**: I know today's a cheat day, but I can't ignore how important my diet is to my training regimen.
+- **오토하나 스미레**: Having a healthy diet is a key to staying healthy and building muscle mass.
+- **오토하나 스미레**: That reminds me. Have you been taking the protein supplements I gave you?
+- **오토하나 스미레**: There's a limit to the amount of protein you can get from ordinary food, naturally.
+- **오토하나 스미레**: That's why supplements are made. They make it easy to increase your intake of proteins with high BV.
+- **오토하나 스미레**: BV? That's biological value. It refers to ingesting nutrients responsible for the maintenance and growth of the body...
+- **오토하나 스미레**: ...Oh.
+- **오토하나 스미레**: ...Oh.
+- **오토하나 스미레**: Not again!
+- **오토하나 스미레**: I'm sorry, Trainer.
+- **오토하나 스미레**: I got carried away again.
+- **오토하나 스미레**: That happens whenever I start talking about working out...
+- **오토하나 스미레**: I have no excuses anymore, Trainer.
+- **오토하나 스미레**: ...If you say so.
+
+6. **「오토하나 스미레 인연 스토리 6」**
+
+- **오토하나 스미레**: Sorry to keep you waiting, Trainer.
+- **오토하나 스미레**: Organizing my equipment took way longer than I thought.
+- **오토하나 스미레**: Of course.
+- **오토하나 스미레**: For any exercise, proper preparation is key.
+- **오토하나 스미레**: From the treadmill to the asphalt, not having the right kind of gear on you can lead to big injuries!
+- **오토하나 스미레**: It's been a while since I went jogging, so I had to pick up some new equipment.
+- **오토하나 스미레**: A new workout, in a new place... I think I might have some goosebumps. Heehee.
+- **오토하나 스미레**: Now then... How about a light run?
+- **오토하나 스미레**: *pant* *pant*
+- **오토하나 스미레**: I'm fine. We haven't even hit 1 km yet.
+- **오토하나 스미레**: I can do this all day.
+- **오토하나 스미레**: No... I'm perfectly fine.
+- **오토하나 스미레**: In fact, I feel better than usual.
+- **오토하나 스미레**: I know I sound like I'm out of breath...
+- **오토하나 스미레**: I probably just brought one too many sandbags.
+- **오토하나 스미레**: Yes, I wrapped some sandbags around my arms and legs when I came out to jog today.
+- **오토하나 스미레**: Perhaps I tied on a few sandbags too many.
+- **오토하나 스미레**: I have to use my muscles in new ways if I'm going to keep improving my strength.
+- **오토하나 스미레**: While it's important not to strain yourself, you won't improve if you settle for doing the same exercises over and over.
+- **오토하나 스미레**: Reaching your limit, then giving all your might to push past them... That's the real way to train!
+- **오토하나 스미레**: Good idea, Trainer.
+- **오토하나 스미레**: If you want to make our jog more intense, how about you grab a few of these sandbags?
+- **오토하나 스미레**: I brought two sets for both my arms and legs, so you can go ahead and borrow one.
+- **오토하나 스미레**: Huh? They are?
+- **오토하나 스미레**: I calculated exactly the right amount of weight I needed to strengthen my muscles without straining them...
+- **오토하나 스미레**: They're not that heavy.
+- **오토하나 스미레**: Each side weighs 5 kg, so only 10 kg combined?
+- **오토하나 스미레**: What? No, of course not.
+- **오토하나 스미레**: Heehee, that'd probably look very silly.
+- **오토하나 스미레**: Then again...it could be a fun new way to exercise. Maybe next time.
+- **오토하나 스미레**: All right, Trainer. We still have a long way to go, so pick up those feet!
+- **오토하나 스미레**: One, two! One, two!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/오토하나 스미레
+- https://bluearchive.wiki (원문 스토리 스크립트)

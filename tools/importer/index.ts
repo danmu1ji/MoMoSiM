@@ -27,7 +27,8 @@ function frontmatter(source: string): { meta: Record<string, unknown>; body: str
 
 function stringList(value: unknown): string[] { return Array.isArray(value) ? value.map(String) : typeof value === 'string' && value ? [value] : []; }
 
-function linksIn(body: string): string[] { return [...body.matchAll(/\[\[([^\]]+)\]\]/g)].map(match => match[1]).filter(target => !target.startsWith('media:') && !target.startsWith('audio:')); }
+function stripAudioDirectives(body: string): string { return body.replace(/\[\[audio:[^\]]*\]\]/gi, ''); }
+function linksIn(body: string): string[] { return [...body.matchAll(/\[\[([^\]]+)\]\]/g)].map(match => match[1]).filter(target => !target.startsWith('media:')); }
 function typeOfReference(target: string, fallback: EntityType): EntityType { const [prefix] = target.split(':'); return KNOWN_TYPES.includes(prefix as EntityType) ? prefix as EntityType : fallback; }
 function firstHeading(body: string): string | undefined { return body.split('\n').find(line => line.startsWith('# '))?.slice(2).trim(); }
 function firstParagraph(body: string): string | undefined { return body.split('\n').map(line => line.trim()).find(line => line && !line.startsWith('#') && !line.startsWith('[[')); }
@@ -48,10 +49,11 @@ export function importMarkdownFolder(files: Record<string, string>, options: Imp
   // First pass: learn entity types from links used elsewhere in the folder, so a file without
   // frontmatter still becomes the `character:`/`location:` entity its neighbours refer to.
   const referenced = new Map<string, EntityType>();
-  for (const path of paths) for (const target of linksIn(frontmatter(files[path]).body)) referenced.set(slugify(target.split(':').slice(1).join(':')), typeOfReference(target, defaultType));
+  for (const path of paths) for (const target of linksIn(stripAudioDirectives(frontmatter(files[path]).body))) referenced.set(slugify(target.split(':').slice(1).join(':')), typeOfReference(target, defaultType));
 
   for (const path of paths) {
-    const { meta, body } = frontmatter(files[path]);
+    const { meta, body: rawBody } = frontmatter(files[path]);
+    const body = stripAudioDirectives(rawBody);
     const declaredType = typeof meta.type === 'string' && KNOWN_TYPES.includes(meta.type as EntityType) ? meta.type as EntityType : undefined;
     const slug = slugify(path.replace(/\.md$/, '').split('/').pop() ?? path);
     const inferredType = declaredType ?? referenced.get(slug) ?? defaultType;

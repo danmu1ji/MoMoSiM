@@ -1,0 +1,252 @@
+# 나카마사 이치카 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 나카마사 이치카, 선생(샬레)
+
+1. **「나카마사 이치카 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「나카마사 이치카 인연 스토리 2」**
+
+- **나카마사 이치카**: ...
+- **나카마사 이치카**: ...Ah.
+- **나카마사 이치카**: Sensei, over here!
+- **나카마사 이치카**: How is it that you're right on time when you have a ton of work? I assumed you would take longer to get here.
+- **나카마사 이치카**: Haha! Well you didn't have to go out of your way for me.
+- **나카마사 이치카**: But it's nice to hear that. And I have a feeling I'm going to prefer this assignment over my usual work.
+- **나카마사 이치카**: I think, perhaps, today is my lucky day.
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: Ah, well, my usual work is...
+- **나카마사 이치카**: Normally, I liaise with students from different academies, patrol potential battle locations, break up fights...
+- **나카마사 이치카**: You know, mostly security and mediation work. Haha.
+- **나카마사 이치카**: But nobody else on the team could schedule in the time for this today, so here I am.
+- **나카마사 이치카**: That's not to say it's a bad thing. I'm actually happy about how things turned out!
+- **나카마사 이치카**: It's better this way.
+- **나카마사 이치카**: Patrolling or preventing fights from breaking out in tense situations is boring compared to this assignment.
+- **나카마사 이치카**: In fact, comparing the two is laughable.
+- **나카마사 이치카**: Ahahaha! That's such an honest response! You're so relatable.
+- **나카마사 이치카**: I'm glad you understand. That being said...
+- **나카마사 이치카**: I hope you'll continue being understanding if things don't go according to plan today, Sensei. Sometimes I feel like a magnet for problems! Haha.
+- **나카마사 이치카**: Ehem... Anyway, we should get going before things get awkward.
+- **나카마사 이치카**: This way.
+- **나카마사 이치카**: We're almost there. It's just past—
+- **나카마사 이치카**: Huh?
+- **Thug A**: You're kidding, right? Are you trying to start a fight?
+- **Thug A**: You don't honestly think taiyaki and plum blossom mooncakes are the same thing...
+- **Helmet Gangster A**: They're both red bean pastry puffs, aren't they? What's the difference?
+- **Thug B**: What the...?! You ignorant child! I ought to—
+- **Helmet Gangster B**: You ought to what? Fight us? Psh! Like you'd even stand a chance!
+- **Thug A**: Um, excuuuuse me?!
+- **나카마사 이치카**: Ugh. There they go again. You'd think they'd have grown out of all that bickering by now...
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: I'm not sure my intervention is necessary.
+- **나카마사 이치카**: ...Hm. Yes, as a member of the Justice Task Force...
+- **나카마사 이치카**: I suppose I should step in.
+- **나카마사 이치카**: But what can I really do?
+- **나카마사 이치카**: ...My assignment right now is to escort Sensei, not keep the peace.
+- **나카마사 이치카**: It'd be weird if I forced myself into the middle of an argument before anyone starts shooting.
+- **나카마사 이치카**: And if things get out of hand, there are plenty of other Justice Task Force members on call that can mobilize... My assignment today is you, Sensei.
+- **나카마사 이치카**: If you and I interfere in every little thing, you'll never get all of your work done.
+- **나카마사 이치카**: Well, yeah. Unless it's something really serious, it's better to roll with the metaphorical punches. As they say, all's well that ends well, right?
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: You don't hear that often? Oh, you mean you don't hear it from the other Justice Task Force members.
+- **나카마사 이치카**: Ahahaha! I think I understand what you mean.
+- **나카마사 이치카**: The rest of the Justice Task Force can be a little...stubborn.
+- **나카마사 이치카**: Not that it's a bad thing. I think it's pretty cool of them.
+- **나카마사 이치카**: But I'm all about taking it easy.
+- **나카마사 이치카**: Now, then. Let's head to our next stop! We won't get anything done if we stand around talking all day.
+- **나카마사 이치카**: I'll take the lead. Follow me!
+- **나카마사 이치카**: Hm... I guess that covers it.
+- **나카마사 이치카**: Good Work, Sensei! We managed to get everything done in one day!
+- **나카마사 이치카**: Who? Me?
+- **나카마사 이치카**: Ahhhh... Enough with the flattery. It's embarrassing...
+- **나카마사 이치카**: Besides, it was a refreshing change of pace for me. If work was like this all the time, I might actually enjoy it.
+- **나카마사 이치카**: In fact, if it's okay with you, Sensei...
+- **나카마사 이치카**: I'd love to help you the next time you visit. Haha...
+- **나카마사 이치카**: ...Ugh. I said too much, didn't I?
+- **나카마사 이치카**: Why don't I just...walk you out now?
+- **나카마사 이치카**: Then I can go finish my work.
+- **나카마사 이치카**: Huh?
+- **나카마사 이치카**: Oh, it's nothing serious. I just need to tie up those loose ends from earlier.
+
+3. **「나카마사 이치카 인연 스토리 3」**
+
+- **나카마사 이치카**: ...Huh?
+- **나카마사 이치카**: Oh, hello, Sensei! What brings you to this neck of the woods?
+- **나카마사 이치카**: You're more interested in why I'm here?
+- **나카마사 이치카**: It doesn't matter. I'm just glad to see you again.
+- **나카마사 이치카**: ...Huh?
+- **나카마사 이치카**: You really want to know what I was looking at?
+- **나카마사 이치카**: Nothing important...just a guitar...
+- **나카마사 이치카**: I've never really though about playing before. That is, not until this morning.
+- **나카마사 이치카**: I've never even touched a guitar, let alone played one.
+- **나카마사 이치카**: Hahaha! Yeah, that's the reaction I expected.
+- **나카마사 이치카**: I know it's out of the ordinary for me, but... I heard some people playing guitar on my way here.
+- **나카마사 이치카**: They weren't drawing a crowd or anything.
+- **나카마사 이치카**: But isn't that cool? They found something they're passionate about, that they love no matter what people say.
+- **나카마사 이치카**: It made me want to discover what I'm passionate about. So I came here.
+- **나카마사 이치카**: But now that I'm looking at it...
+- **나카마사 이치카**: ...Haha.
+- **나카마사 이치카**: I'm not sure it's for me. What if I don't like it enough to really practice? Then I'd never be able to play well.
+- **나카마사 이치카**: On the other hand, you don't know until you try, right? Maybe I'll love it!
+- **나카마사 이치카**: ...
+- **나카마사 이치카**: Ah, who am I kidding? Inspiration has never struck before. Why would it now?
+- **나카마사 이치카**: Besides...
+- **나카마사 이치카**: Something like that probably requires more talent than skill.
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: You really think I should give it a try?
+- **나카마사 이치카**: What exactly do you want to hear?
+- **나카마사 이치카**: Me playing the guitar?
+- **나카마사 이치카**: Me?
+- **나카마사 이치카**: For you, Sensei?
+- **나카마사 이치카**: Um...
+- **나카마사 이치카**: What are you even saying? I-I could never! I—
+- **나카마사 이치카**: I just said I've never even touched a guitar before! Are you trying to embarrass me?
+- **나카마사 이치카**: But still... I...
+- **나카마사 이치카**: Even if that is what you meant... It's too much. I-I just can't.
+- **나카마사 이치카**: I know I said I wanted to find something I'm passionate about, but...
+- **나카마사 이치카**: Well... It's...
+- **나카마사 이치카**: Um... Mmm...
+- **나카마사 이치카**: *sigh*
+- **나카마사 이치카**: Fine! I'll just...figure it out or something! If you really want to hear me.
+- **나카마사 이치카**: But if it's terrible, don't say I didn't warn you! You hear me?!
+- **나카마사 이치카**: Well, okay then... I'll get the cheapest one they make for beginners.
+- **나카마사 이치카**: It's a real guitar... And it's mine...
+- **나카마사 이치카**: I was only thinking about getting one, but now we're actually sitting here with one.
+- **나카마사 이치카**: Even though it's for a beginner, to anyone walking by, I look like a professional. Haha!
+- **나카마사 이치카**: And now that I have music and instructions, I guess there's nothing left to do but play.
+- **나카마사 이치카**: If I follow the instructions, it might sound okay. What do you think?
+- **나카마사 이치카**: Okay, yeah. Let's see... I should hold it like this.
+- **나카마사 이치카**: And the chords are...here. Yes. Hm...
+- **나카마사 이치카**: And then I strum, I think.
+- **나카마사 이치카**: Something like this? How's it sound?
+- **나카마사 이치카**: I mean...yes? I guess I am.
+- **나카마사 이치카**: It's meant for beginners though.
+- **나카마사 이치카**: Whether it's cooking, programming, or drawing, this is pretty typical when you're following simple instructions, isn't it?
+- **나카마사 이치카**: I don't see why musical instruments would be any different. They're made to be played...
+- **나카마사 이치카**: Just do as you're told and it'll work. Simple as that.
+- **나카마사 이치카**: You can even add a little something to the basics to make it your own.
+- **나카마사 이치카**: No big deal.
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: You really are impressed, aren't you?
+- **나카마사 이치카**: And you're wondering if people have told me I'm a quick study.
+- **나카마사 이치카**: Well... I can't say it's the first time I've heard that...
+
+4. **「나카마사 이치카 인연 스토리 4」**
+
+- **나카마사 이치카**: ...Huh?
+- **나카마사 이치카**: Sensei! What are you doing out this late?
+- **나카마사 이치카**: Ah, you were thirsty, huh?
+- **나카마사 이치카**: I guess that means you're working late.
+- **나카마사 이치카**: I'm sorry to hear that. You really work a lot, don't you?
+- **나카마사 이치카**: Well, you're in good company. I'm working too. Let me know if you need any help!
+- **나카마사 이치카**: What about me?
+- **나카마사 이치카**: Oh, I'm out late because I'm gathering stuff for the flea market, and I had a few more boxes to deal with...
+- **나카마사 이치카**: Hahaha! Yeah, I get that a lot...
+- **나카마사 이치카**: I like to try a lot of different things, which means I accumulate a lot of stuff. Periodically, I sort through and sell the things I haven't been using.
+- **나카마사 이치카**: Most people use what they buy for a long time. But that's not really how I work.
+- **나카마사 이치카**: Whenever I discover a new hobby, I suddenly get really excited and learn everything about it. But then one day, just as suddenly, I lose interest.
+- **나카마사 이치카**: And well...
+- **나카마사 이치카**: It means that a lot of my stuff is hardly used at all. And since they're in such good condition, they sell pretty quickly.
+- **나카마사 이치카**: Check out this app. This is what I use to sell on the flea market. Take a look at the number of safe transactions...
+- **나카마사 이치카**: And it's not just Trinity students who buy from me. I sell to Millennium, Hyakkiyako...everybody!
+- **나카마사 이치카**: I really enjoy negotiating deals, and it's really satisfying to see people enjoy what they buy from me when they've gotten a good deal.
+- **나카마사 이치카**: Isn't it great? If it weren't for this app, I wouldn't have been able to sell half the things I did. They would have ended up in the trash.
+- **나카마사 이치카**: Huh?
+- **나카마사 이치카**: Ah. The guitar?
+- **나카마사 이치카**: ...Ah.
+- **나카마사 이치카**: No, I haven't sold that.
+- **나카마사 이치카**: I'm not ready to let it go yet. It got me compliments from Sensei...
+- **나카마사 이치카**: But I suppose I might be willing to sell if I met someone who really needs it.
+- **나카마사 이치카**: Mph. I said too much again, didn't I?
+- **나카마사 이치카**: *sigh*
+- **나카마사 이치카**: There you go again. Do you always say things like that?
+- **나카마사 이치카**: "Whatever you're comfortable with." "Whatever you want." "You're so talented." I mean, you're SO supportive!
+- **나카마사 이치카**: ...
+- **나카마사 이치카**: Are you this kind to all the students? You must be.
+- **나카마사 이치카**: You do nice things for them, say nice things to them, help them be successful...
+- **나카마사 이치카**: And if anyone tries to return the favor, you dismiss it with some excuse about being a good teacher.
+- **나카마사 이치카**: Um...
+- **나카마사 이치카**: Hmmm...!
+- **나카마사 이치카**: No, this won't do. I don't like it.
+- **나카마사 이치카**: If I keep letting you take care of things for me, eventually you'll give too much, and it will ruin our relationship.
+- **나카마사 이치카**: I need to repay your kindness, Sensei, or I'll always feel like I owe you.
+- **나카마사 이치카**: We need to promise each other something.
+- **나카마사 이치카**: The promise is...
+- **나카마사 이치카**: ...not big. It's nothing serious. I wouldn't burden you like that, Sensei. You've done enough already...
+- **나카마사 이치카**: Just promise me that if you run into any problem—no matter how small or annoying it is—you'll let me know.
+- **나카마사 이치카**: Like that scuffle between students earlier or when you're trying to get a good deal on a purchase...
+- **나카마사 이치카**: What I'm saying is that I'm good with people, and I want to help. So please, let me help.
+- **나카마사 이치카**: You have to be okay with that, okay. That's how it has to be.
+- **나카마사 이치카**: ...Heehee!
+- **나카마사 이치카**: I look forward to the day you need my help.
+
+5. **「나카마사 이치카 인연 스토리 5」**
+
+- **???**: Uh... Sensei.
+- **???**: Wow. How do you have such perfect timing?
+- **나카마사 이치카**: Ahaha! Because I'm over here! Sensei, up here!
+- **나카마사 이치카**: Hang on. I'm in the middle of something...
+- **나카마사 이치카**: I need to grab something, and then I'll be right down.
+- **나카마사 이치카**: Hup!
+- **나카마사 이치카**: ― Haha! Sensei! Over here! Here!
+- **나카마사 이치카**: ― Can you see me?
+- **나카마사 이치카**: ― Ah! This is just a balloon...
+- **나카마사 이치카**: ― But, when I'm holding it...
+- **나카마사 이치카**: ― I look like a kid having fun at an amusement parks... Haha.
+- **나카마사 이치카**: ― Oh! This isn't mine though!
+- **나카마사 이치카**: ― It's just... One thing led to another, and...
+- **나카마사 이치카**: ― Well, uh... Yes, that's it...
+- **나카마사 이치카**: ― Well, uh... Yes, that's it...
+- **나카마사 이치카**: ― How did you know?
+- **나카마사 이치카**: ― Huh...?
+- **나카마사 이치카**: ― Am I really that easy to read?
+- **나카마사 이치카**: ― Ah. Well, whatever...
+- **나카마사 이치카**: ― You know, I've never seen you from this angle before.
+- **나카마사 이치카**: ― It's a whole new perspective.
+- **나카마사 이치카**: ― Everything looks...different.
+- **나카마사 이치카**: ― It's kinda fun.
+- **나카마사 이치카**: ― I think I like it! Haha!
+- **나카마사 이치카**: *pant* *pant* ...Okay, I'm back!
+- **나카마사 이치카**: Phew! If I knew you were going to be early, I would have come sooner!
+- **나카마사 이치카**: But it worked out. I climbed the tree for that balloon because a kid lost it.
+- **나카마사 이치카**: I was worried they'd get hurt trying to get it themselves, so I sat them on a bench to wait while I got it for them.
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: You think that was impressive? Why?
+- **나카마사 이치카**: Because the tree is so tall?
+- **나카마사 이치카**: Ha! There you go exaggerating again.
+- **나카마사 이치카**: It's nothing. Plenty of people can climb trees.
+- **나카마사 이치카**: I just happened to be in the right place at the right time. It's no big deal.
+- **나카마사 이치카**: *sigh* You don't have to keep saying things like that just for my sake.
+- **나카마사 이치카**: ...Hm?
+- **나카마사 이치카**: Wait—You actually think I did a good thing?
+- **나카마사 이치카**: Well, everybody appreciates a compliment but—
+- **나카마사 이치카**: No, you know what? I'm just going to take what you said to heart. Thank you, Sensei!
+- **나카마사 이치카**: Heehee...
+- **나카마사 이치카**: Uh...
+- **나카마사 이치카**: Anyway, the reason I reached out to you...
+- **나카마사 이치카**: You may already know, since I've mentioned it before.
+- **나카마사 이치카**: It's about... Uh...
+- **나카마사 이치카**: *sigh* I'm not really sure how to explain this. I want to...
+- **나카마사 이치카**: ...Haha.
+- **나카마사 이치카**: So you did already know. I guess you saw this coming.
+- **나카마사 이치카**: I suppose I mentioned it once, or twice, or a bunch...
+- **나카마사 이치카**: Anyway, it's like you said. And I thought maybe you could offer some advice.
+- **나카마사 이치카**: I know you and the other members of the Justice Task Force think I'm good at a lot of stuff.
+- **나카마사 이치카**: The thing is, I'm always envious of people who seem really passionate about what they do.
+- **나카마사 이치카**: Being decent at everything I try is nice and all, but what good is that if I can't figure out what I truly love? I'll never be great at anything.
+- **나카마사 이치카**: Someone who knows who they are and what they're about... Well, they shine so much brighter, you know?
+- **나카마사 이치카**: It probably sounds silly. And I worry people wouldn't understand or would make fun of me for feeling that way.
+- **나카마사 이치카**: So... Well... That's the situation.
+- **나카마사 이치카**: And that's also why you're the only person I've talked to about it.
+- **나카마사 이치카**: Ugh. You must think I'm such a bother.
+- **나카마사 이치카**: It's not that I can't trust other people with this, but...you're Sensei.
+- **나카마사 이치카**: If there's anyone I should get advice from, its you, right? It's not weird?
+- **나카마사 이치카**: ...Of course. Haha! I should have known you'd say that.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/나카마사 이치카
+- https://bluearchive.wiki (원문 스토리 스크립트)

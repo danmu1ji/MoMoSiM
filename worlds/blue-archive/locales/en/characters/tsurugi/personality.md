@@ -1,0 +1,6 @@
+# Tsurugi — official English introduction
+
+While enrolled as a Student of Trinity Joint Academy, and president of the Justice Actualization Committee, Tsurugi is also Trinity's strategic weapon. She is of a violent and trigger-happy disposition, and possesses a destroy-first think-later attitude towards whatever she finds disagreeable. It is due to the efforts of its vice-president, Hasumi, that the Justice Actualization Committee is (just about) kept under control. Despite Tsurugi's uncontrollable and ferocious nature, she can't help but reveal her feminine side when face to face with Sensei and unable to hide her shyness.
+
+Source: https://bluearchive.wiki/wiki/Tsurugi
+Status: source-extracted-unreviewed

@@ -1,0 +1,266 @@
+# 모토미야 치아키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 모토미야 치아키, 선생(샬레)
+
+1. **「모토미야 치아키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「모토미야 치아키 인연 스토리 2」**
+
+- **모토미야 치아키**: Yahoo! Newspaper delivery!
+- **모토미야 치아키**: Hello! Chiaki here!
+- **모토미야 치아키**: ...I'm not interrupting you when you're busy, am I?
+- **모토미야 치아키**: Phew, glad to hear it! Don't mind me, then...
+- **모토미야 치아키**: ...Wow, Schale is really nice! It's so spacious! Do you always work here, Sensei?
+- **모토미야 치아키**: Also, your skin is looking all shiny today. Maybe 'cause the air's so fresh!
+- **모토미야 치아키**: Nah, just saying, what's good is good, right?
+- **모토미야 치아키**: Oh, right! I have a big surprise gift for you! Behold, the grand reveal...
+- **모토미야 치아키**: ...Tada! The newest issue of "Weekly Pandemonium Society"!
+- **모토미야 치아키**: ...Wait, is this your first time seeing it?
+- **모토미야 치아키**: So you...didn't know what "Weekly Pandemonium Society" is?
+- **모토미야 치아키**: You're telling me...you haven't read a single issue...of the fastest, most accurate, most integrous weekly magazine in the whole Gehenna district...?
+- **모토미야 치아키**: This, uh... This is really...
+- **모토미야 치아키**: This is the BEST!!
+- **모토미야 치아키**: You can enjoy the experience of reading it for the very first time!
+- **모토미야 치아키**: And I get to experience YOUR experience of reading it for the very first time! This is going to be great!
+- **모토미야 치아키**: Plus this week is super-full of all these great articles, like "Exclusive Report! Pandemonium Society Break Room Tour" and "Big Release! Ibuki's Sand Play Activity Records"!
+- **모토미야 치아키**: So enjoy the read!
+- **모토미야 치아키**: Or I can read it TO you, you know...
+- **모토미야 치아키**: It's a special service! Chiaki, the Pandemonium Society's secretary, and the reporter-editor-publisher of "Weekly Pandemonium Society," reads the articles straight to you!
+- **모토미야 치아키**: What do you say? Do you want to start right away?
+- **모토미야 치아키**: R-Really? You sure you don't want me to?
+- **모토미야 치아키**: It's a rare opportunity, you know. You might regret it.
+- **모토미야 치아키**: ...Oh, you were joking?
+- **모토미야 치아키**: Heehee! I knew it! You couldn't miss this opportunity, right?
+- **모토미야 치아키**: A great choice!
+- **모토미야 치아키**: Leave it to me!
+- **모토미야 치아키**: Now then, look at the first page! What you see in this photo is the Pandemonium Society's office!
+- **모토미야 치아키**: That's where the other members and I go every day!
+- **모토미야 치아키**: The sofa is super-super-super fluffy! You should come try it sometime, Sensei!
+- **모토미야 치아키**: Hm? Am I not working while I'm there?
+- **모토미야 치아키**: Well, since I'm a secretary, I just have to jot things down in the meetings...
+- **모토미야 치아키**: But we hardly ever HAVE meetings, so it...just kind of works out, I guess?
+- **모토미야 치아키**: Now then, next page!
+- **모토미야 치아키**: Ah, I put some time and effort into this one! I'll read it to you...!
+- **모토미야 치아키**: ...Oh, this is the last page!
+- **모토미야 치아키**: Wow, time really flew by, huh?
+- **모토미야 치아키**: So, your first time reading "Weekly Pandemonium Society"! What'd you think, Sensei?
+- **모토미야 치아키**: Heehee, you've got good taste!
+- **모토미야 치아키**: Okay then, going back to the main point...
+- **모토미야 치아키**: Would you be interested in a regular subscription?
+- **모토미야 치아키**: You can get new "Weekly Pandemonium Society" content every week!
+- **모토미야 치아키**: And if you subscribe now, you'll also get lots of gifts!
+- **모토미야 치아키**: Ah, really?
+- **모토미야 치아키**: Thank you! This is a milestone for "Weekly Pandemonium Society" too. Another step outside of Gehenna!
+- **모토미야 치아키**: It's free, of course!
+- **모토미야 치아키**: I don't do this for money. It's just for fun!
+- **모토미야 치아키**: And the printing and publishing fees, those are 100% covered by the Pandemonium Society budget!
+- **모토미야 치아키**: Well, Makoto did say she wanted the Pandemonium Society's name to spread far and wide...
+- **모토미야 치아키**: So...yes, probably?
+- **모토미야 치아키**: Now, then! Just sign here on the subscriber list, please!
+- **모토미야 치아키**: Yup, right there!
+- **모토미야 치아키**: Thank you!
+- **모토미야 치아키**: I'm so glad you were open to this. Good thing I came here to advertise!
+- **모토미야 치아키**: Nah, it's usually with MomoTalk or phone calls...but I do go around myself when I have time!
+- **모토미야 치아키**: It's fun to meet new students and talk with them. Also, I want to see more people reading my newspaper with my own eyes.
+- **모토미야 치아키**: And to be honest...
+- **모토미야 치아키**: ...I typically prioritize visiting people I want to discuss in the "Big Interview! I Met This Person!" column.
+- **모토미야 치아키**: So, still being honest, I'd love to interview you sometime, Sensei.
+- **모토미야 치아키**: Really? I knew I could count on you, Sensei!
+
+3. **「모토미야 치아키 인연 스토리 3」**
+
+- **모토미야 치아키**: Yahoo! Hello, Sensei!
+- **모토미야 치아키**: I brought my subscription gift, like I mentioned!
+- **모토미야 치아키**: How is it? Super-super-super-exciting, right?
+- **모토미야 치아키**: Huh?! How come you look so tired, Sensei?
+- **모토미야 치아키**: You're not sick or anything, are you?
+- **모토미야 치아키**: Did you...stay up all night doing work, maybe?
+- **모토미야 치아키**: In that case...great!
+- **모토미야 치아키**: The thing is... Tada! "Weekly Pandemonium Society", Subscription Gift for Sensei!
+- **모토미야 치아키**: Take a look inside the envelope. You'll see!
+- **모토미야 치아키**: Yup! Here you go, open it!
+- **모토미야 치아키**: Yup! It's a free dessert buffet voucher. For two!
+- **모토미야 치아키**: Nothing feels better than sweet dessert when you're tired.
+- **모토미야 치아키**: I know when I'm out of energy from editing "Weekly Pandemonium Society," I always go out for sweets!
+- **모토미야 치아키**: So it looks like the perfect gift for you right now!
+- **모토미야 치아키**: Heehee, don't mention it.
+- **모토미야 치아키**: Work is important, but so is getting enough rest.
+- **모토미야 치아키**: So...why don't you use it now?
+- **모토미야 치아키**: Well, you'll have an easier time with it if you have more energy, right?
+- **모토미야 치아키**: "One step back, two steps forward," right?
+- **모토미야 치아키**: Lose yourself in those super-super-super-sweet desserts, just for a little while!
+- **모토미야 치아키**: Of course!
+- **모토미야 치아키**: Follow me. I'll guide you!
+- **모토미야 치아키**: Whoa! This place is just full of that sweet scent! Makes your mouth water, doesn't it, Sensei?
+- **모토미야 치아키**: I want to hurry up and dig in!
+- **Dessert Store Clerk**: Welcome! Table for two?
+- **모토미야 치아키**: Yuuup!
+- **Dessert Store Clerk**: Got it!
+- **Dessert Store Clerk**: I'll take you to your seats.
+- **Dessert Store Clerk**: ...And that's it for the explanation. Any questions?
+- **모토미야 치아키**: No, we're goo— Ah!
+- **모토미야 치아키**: Could I do a report on this place and write an article?
+- **모토미야 치아키**: It's got such a cozy atmosphere, and there's all different kinds of desserts. It's totally my kind of place!
+- **모토미야 치아키**: It could even help with advertisement, if this place gets a spot in "Weekly Pandemonium Society"!
+- **Dessert Store Clerk**: Ah, if that's the case, please feel free!
+- **모토미야 치아키**: Yay! Great! Thank you!
+- **Dessert Store Clerk**: Okay then, enjoy your dessert.
+- **모토미야 치아키**: Now I'm fully prepared for the next issue's feature article!
+- **모토미야 치아키**: And to think it came out of a dessert cafe I happened to visit. That was a brilliant moment of instinct from a secretary-who's-also-a-reporter-editor-publisher!
+- **모토미야 치아키**: It says they have over 100 different types of desserts here! If I write a review for each one...
+- **모토미야 치아키**: ..."Weekly Pandemonium Society" could become a bestseller!
+- **모토미야 치아키**: Huh?! I didn't think of that! My limit is like 5 macarons!
+- **모토미야 치아키**: Ugh... Well, that's not going to work out...
+- **모토미야 치아키**: Ahaha... Um, Sensei... I hate to ask this of you, since it's your subscription gift, but...
+- **모토미야 치아키**: Ughh, yes, thank you...
+- **모토미야 치아키**: Let's separate them out, so they don't overlap...
+- **모토미야 치아키**: ...Okay, next, let's take a photo of this mango tart, and...
+- **모토미야 치아키**: Say aah, Sensei!
+- **모토미야 치아키**: Yup, great job!
+- **모토미야 치아키**: Now, tell me about that tart...
+- **모토미야 치아키**: How is it? How is it?
+- **모토미야 치아키**: And?
+- **모토미야 치아키**: That's pretty much the same thing you said about that cherry cookie, though!
+- **모토미야 치아키**: We're only on our tenth one...
+- **모토미야 치아키**: Hmm, did we bite off more than we can chew here...?
+- **모토미야 치아키**: Aw, but I want to do a big feature about this...
+- **모토미야 치아키**: ...Aha!
+- **모토미야 치아키**: We can ask the other customers to help, then!
+- **모토미야 치아키**: Lots of people would want to taste these other desserts!
+- **모토미야 치아키**: Look, there's a party of two, just like us!
+- **모토미야 치아키**: Well, we want to cover as many desserts as we can, right?
+
+4. **「모토미야 치아키 인연 스토리 4」**
+
+- **모토미야 치아키**: Hello, Sensei! How have you been?
+- **모토미야 치아키**: Ah, did I bother you in the middle of work...?
+- **모토미야 치아키**: I'm glad to hear that! I'm taking a break too this week!
+- **모토미야 치아키**: Hm? What happened?
+- **모토미야 치아키**: Nothing much, it's just a regular hiatus!
+- **모토미야 치아키**: Haha! Yup, that's right!
+- **모토미야 치아키**: Since "Weekly Pandemonium Society" is, you know, weekly, taking a break just leads to more crunch later on, unless I decide to just take the whole week off!
+- **모토미야 치아키**: It's a marathon, not a sprint, you know! Or something like that.
+- **모토미야 치아키**: I really do enjoy working on it, so it's important I set myself up to keep going and not burn out.
+- **모토미야 치아키**: That's why I make sure to take at least one week off every two months!
+- **모토미야 치아키**: Although I do have OTHER work to do, so I'm really just taking this one day off!
+- **모토미야 치아키**: You look, um... Is that envy?
+- **모토미야 치아키**: Oh, you're so swamped lately you can't even take any weekends off?
+- **모토미야 치아키**: Mmm, I see... In that case...
+- **모토미야 치아키**: You should take a break today too, Sensei!
+- **모토미야 치아키**: Like I said, you can't keep going forever without any rest!
+- **모토미야 치아키**: Would you rather take a day off and get a fresh start tomorrow, or just pop in and out of super-super-super short breaks that don't really help you?
+- **모토미야 치아키**: Right? Right?
+- **모토미야 치아키**: Great choice!
+- **모토미야 치아키**: Now come on, get up from your desk and stretch!
+- **모토미야 치아키**: Then enjoy a nice nap, or read a book, or play games, or something!
+- **모토미야 치아키**: Or you could exercise, or enjoy a hobby you don't usually have time for!
+- **모토미야 치아키**: ...What? You've been working so hard, you can't think of what else to do?
+- **모토미야 치아키**: Me?
+- **모토미야 치아키**: Um... Enjoy my hobby, mostly. Like everybody else, I guess.
+- **모토미야 치아키**: Ah, sure thing!
+- **모토미야 치아키**: You and me, Sensei, we're going to have a blast together!
+- **모토미야 치아키**: It might even give me something to write about next week!
+- **모토미야 치아키**: Let's hurry up and go!
+- **모토미야 치아키**: To enjoy the hobby, of course!
+- **모토미야 치아키**: If you're wondering what it is...
+- **모토미야 치아키**: ...you'll find out when you get there!
+- **모토미야 치아키**: Yahoo! Hello, Historical Society. How have you been?
+- **Historical Society Member A**: Ah, it's Chiaki!
+- **Historical Society Member B**: It's been a while! How have you been?
+- **모토미야 치아키**: I'm doing great! It's nice to see everyone again!
+- **모토미야 치아키**: What's the club been up to?
+- **Historical Society Member A**: Eh, kinda... Oh, right! Remember that old text you brought us last time?
+- **Historical Society Member A**: Turns out it was a total fake!
+- **모토미야 치아키**: Oh! Really? I thought I hit the jackpot when I found it in that used bookstore!
+- **Historical Society Member B**: Hahaha! Well, that's how it'll feel when you find a real one!
+- **Historical Society Member B**: Now come on in. Have a seat! We'll pour you some tea!
+- **모토미야 치아키**: Ahaha! Thank you! Could you get some for Sensei as well?
+- **Historical Society Member A**: Of course! This way, Sensei!
+- **모토미야 치아키**: Um, I'm more like a guest member here, I guess?
+- **Historical Society Member A**: She can't be around all the time, but it's always great to have her here.
+- **모토미야 치아키**: That's right! Since I'm part of the Pandemonium Society in the first place!
+- **모토미야 치아키**: So the best I can do is scratch the surface, I'd say!
+- **모토미야 치아키**: Oh, look at the time!
+- **모토미야 치아키**: I'll be on my way, then! I had fun today!
+- **Historical Society Member A**: Yeah, for sure! Hope to see you soon!
+- **모토미야 치아키**: Of course!
+- **모토미야 치아키**: Mmm, I would like to stick around...
+- **모토미야 치아키**: Heehee, but history isn't my hobby!
+- **모토미야 치아키**: Let's get going, then!
+- **Catch Club Member A**: Ah, it's Chiaki!
+- **모토미야 치아키**: Hello, looks like you're working hard as usual!
+- **Catch Club Member B**: It's been a while! It was no fun without you around!
+- **Catch Club Member B**: Got time to play today?
+- **모토미야 치아키**: Of course!
+
+5. **「모토미야 치아키 인연 스토리 5」**
+
+- **모토미야 치아키**: Hello!
+- **모토미야 치아키**: How are you feeling today, Sensei?
+- **모토미야 치아키**: Did you sleep well last night? You're not sick or anything, are you?
+- **모토미야 치아키**: Heehee, well...
+- **모토미야 치아키**: It's because of this new Weekly Pandemonium Society's feature I'm working on!
+- **모토미야 치아키**: ...And I really need your help with it, Sensei!
+- **모토미야 치아키**: Ahaha! No, no, not that!
+- **모토미야 치아키**: I was actually thinking about the headline for the next Weekly Pandemonium Society feature article!
+- **모토미야 치아키**: How does this sound: "On-site Reportage! Schale Undercover Mission!"
+- **모토미야 치아키**: Heehee, correct!
+- **모토미야 치아키**: Schale's [USERNAME] Sensei, the celebrity everyone's talking about!
+- **모토미야 치아키**: An up-close-and-personal report of Sensei's day at Schale!
+- **모토미야 치아키**: What do you think? That title just reaches out and grabs you, right?
+- **모토미야 치아키**: I mean, I'm here as a student rep today, and I DO have a code of journalistic ethics.
+- **모토미야 치아키**: I wouldn't write this story without your permission, of course!
+- **모토미야 치아키**: No pressure or anything. If it's a no-go, I can always find something else to write about.
+- **모토미야 치아키**: Really? Sweet, thank you!
+- **모토미야 치아키**: ..."But"? Is there a problem?
+- **모토미야 치아키**: Don't worry about that! Who do you think I am?
+- **모토미야 치아키**: I'm Motomiya Chiaki, the secretary of Gehenna Academy's student council, Pandemonium Society, and "Weekly Pandemonium Society's" reporter-editor-publisher!
+- **모토미야 치아키**: No matter the place, there's always news going on!
+- **모토미야 치아키**: No, not at all! Just act normal!
+- **모토미야 치아키**: It's my job to FIND the news!
+- **모토미야 치아키**: And acting normal is how you make the most interesting stuff happen!
+- **모토미야 치아키**: Yup! So I've got your permission for this, right?
+- **모토미야 치아키**: Is it okay if I go around and take a few pictures of Schale?
+- **모토미야 치아키**: Thanks!
+- **모토미야 치아키**: Ah, I'd recognize this brand of chairs anywhere. You can't slip anything past me, Schale!
+- **모토미야 치아키**: Hmm, I need more than that for a news article, though...
+- **모토미야 치아키**: Hup! Maybe there's something interesting under the sofa!
+- **모토미야 치아키**: Umm... Nope, just dust...
+- **모토미야 치아키**: Ah, this is a gamepad?! Maybe I can find out what kind of games Sensei likes!
+- **모토미야 치아키**: Huh? It's not yours, one of the other student reps left it here? I see...
+- **모토미야 치아키**: Mmm, good news is hard to find sometimes...
+- **모토미야 치아키**: I-I won't give up, though!
+- **모토미야 치아키**: Hey, Sensei? I'm sorry to bother you at work...
+- **모토미야 치아키**: But do you usually just sit there and type all day?
+- **모토미야 치아키**: Ugh, this is turning into my worst article ever.
+- **모토미야 치아키**: M-Maybe I should find a different topic?
+- **모토미야 치아키**: Ha, my razor-sharp reporter's instincts...
+- **모토미야 치아키**: ...will always find the most amazing exclusives!
+- **모토미야 치아키**: ― Ahaha! Yes! Got it! Perfect shot!
+- **모토미야 치아키**: ― Sensei's dozing face! It'll be great for next issue's cover!
+- **모토미야 치아키**: ― That's a wrap for this special issue of "Weekly Pandemonium Society!"
+- **모토미야 치아키**: ― I, Chiaki, have scored myself yet another exclusive report!
+- **모토미야 치아키**: ― Heehee! Never underestimate a secretary's resolve!
+- **모토미야 치아키**: ― Ooh! Maybe while I'm at it, I can find out your secrets too...!
+- **모토미야 치아키**: ― Like, why do you have holes in your socks?
+- **모토미야 치아키**: ― What?! Your secret is you lock naughty students up under your desk...?
+- **모토미야 치아키**: ― I-I'm sorry! Please forgive me!
+- **모토미야 치아키**: Ugh... Undercover work is dangerous sometimes...
+- **모토미야 치아키**: I could have been locked up for that...
+- **모토미야 치아키**: Heehee, well, I WAS going to...
+- **모토미야 치아키**: ...
+- **모토미야 치아키**: ...but I can use something else!
+- **모토미야 치아키**: As much as I enjoy making "Weekly Pandemonium Society," I want the readers to enjoy it! And that includes you, Sensei!
+- **모토미야 치아키**: So yeah, I'll find a better picture!
+- **모토미야 치아키**: Heehee, actually, maybe you could help me find it?
+- **모토미야 치아키**: I think I'd have better luck with you around.
+- **모토미야 치아키**: Yay! Thank you!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/모토미야 치아키
+- https://bluearchive.wiki (원문 스토리 스크립트)

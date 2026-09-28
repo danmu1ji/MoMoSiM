@@ -11,15 +11,9 @@ Research date: 2026-09-26
 
 These are useful distribution patterns, not legal precedents that automatically apply to MoMoSiM. In particular, requiring local files or extracting assets on the user's device does not itself establish that the source, extraction, or resulting use is authorized.
 
-## What the current Blue Archive package contains
+## Current package state
 
-The local ignored archive `worlds/blue-archive.😭` is about 1.43 GB. Its 25,599 ZIP entries expand to about 1.49 GB. It contains 21,933 `.ogg` files (about 810 MB), 584 images (PNG and JPG files totaling about 563 MB), WAV/MP3 audio, and Markdown/YAML/JSON world data. This is a mixed content archive, not merely a text-only wiki export.
-
-The ignored package-building tools also do more than generic packaging:
-
-- `collect-media.py` queries `bluearchive.wiki` and downloads images and audio.
-- `build-tts-references.mjs` trims and concatenates selected source audio into voice-reference WAV files.
-- `build-story-docs.py` assembles story descriptions with named NamuWiki and Blue Archive Wiki sources.
+The repository package was sanitized on 2026-09-28: the generated `worlds/blue-archive.😭` now contains only Markdown, YAML, and JSON. Game artwork, audio, and derived voice-reference clips were removed, as were the asset collection and TTS-reference generation scripts. The archive remains a Blue Archive-specific text package and still needs a source/license review before redistribution.
 - `make-english-corpus.py` maps English story sources and produces English package data.
 
 The generic importer/validator is a different category: it can turn author-supplied Markdown/YAML into a MoMoSiM-compatible archive without fetching Blue Archive material. The BA-specific source pipeline also names NamuWiki and official/wiki English sources. NamuWiki's stated default text license is commonly identified as CC BY-NC-SA 2.0 KR; check the live [NamuWiki policy](https://namu.wiki/Policy/CCL) and each page/source before reuse. CC BY-NC-SA is non-commercial and share-alike, which is another reason not to relicense the mixed world archive as one freely reusable package without auditing its inputs.

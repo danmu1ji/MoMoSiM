@@ -1,0 +1,289 @@
+# 아키이즈미 모미지 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아키이즈미 모미지, 선생(샬레)
+
+1. **「아키이즈미 모미지 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아키이즈미 모미지 인연 스토리 2」**
+
+- **아키이즈미 모미지**: I'm looking for the fanzine of legends!
+- **아키이즈미 모미지**: Oh, I'm sorry Sensei! I guess I got too excited...
+- **아키이즈미 모미지**: It's said that somewhere in Red Winter Academy, there's a fanzine that was put together by the previous Knowledge Liberation Front.
+- **아키이즈미 모미지**: Doesn't the thought of a legendary fanzine make your heart just race?!
+- **아키이즈미 모미지**: It could contain information on our previous history, culture, and so much more!
+- **아키이즈미 모미지**: Ahem! The point is, it could help solve all the problems that the Knowledge Liberation Front is suffering through at this very moment!
+- **아키이즈미 모미지**: Yes! So let's go look for it, Sensei!
+- **아키이즈미 모미지**: ...Hm? Paper is pretty easily damaged? You're right! That means the longer we wait, the more moisture it's absorbing! It's being damaged as we speak!
+- **아키이즈미 모미지**: Do I have any clues? Don't worry about the little details! I've come prepared!
+- **아키이즈미 모미지**: What's wrong, Sensei?
+- **아키이즈미 모미지**: This is how we're going to look for the legendary fanzine! Isn't it obvious?
+- **아키이즈미 모미지**: ...Is something wrong?
+- **아키이즈미 모미지**: What are you talking about, Sensei?
+- **아키이즈미 모미지**: The dowsing rod has such rich culture and history.
+- **아키이즈미 모미지**: Normally they're used to look for veins of water...
+- **아키이즈미 모미지**: But utilizing the basic principles of dowsing, we should be able to find what's lost!
+- **아키이즈미 모미지**: Shh. Look. The copper rods...are already turning.
+- **아키이즈미 모미지**: If we go in the direction that makes it turn faster...
+- **아키이즈미 모미지**: Spin, spin, spin...
+- **아키이즈미 모미지**: Here! I'm sure of it!
+- **아키이즈미 모미지**: I'll use my weapon and blow the whole place up!
+- **아키이즈미 모미지**: Oh, really? Th-Then what do we do?
+- **아키이즈미 모미지**: Digging...? But most of the earth under Red Winter is frozen solid, so it won't be easy.
+- **아키이즈미 모미지**: But I guess that's better than blowing up the legendary fanzine...
+- **아키이즈미 모미지**: We've been digging for a whole meter! We haven't found even a single scrap of paper... Ugh...
+- **아키이즈미 모미지**: I wonder why? Was something wrong with my dowsing skills?
+- **아키이즈미 모미지**: You're right! Of course it doesn't! We just need to use a different method.
+- **아키이즈미 모미지**: How about...a pendulum!
+- **아키이즈미 모미지**: Right now, it's barely moving...
+- **아키이즈미 모미지**: But it'll start rotating in wider and wider circles as we near our desired object.
+- **아키이즈미 모미지**: Okay, never mind! Next, we'll use a magnetic field sensor!
+- **아키이즈미 모미지**: We can download a free app and make use of the phone's internal magnetic sensor!
+- **아키이즈미 모미지**: A vein detector!
+- **아키이즈미 모미지**: Tarot cards...!
+- **아키이즈미 모미지**: Astrology...
+- **아키이즈미 모미지**: Weeeeeh...
+- **아키이즈미 모미지**: But...but I can't find the fanzine no matter what tool I use...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: T-To me it is...
+- **아키이즈미 모미지**: It might not seem like a big deal to other people, and if we ever find it, it might even seem silly and stupid to Sensei...
+- **아키이즈미 모미지**: But that fanzine is a part of the Knowledge Liberation Front's history nonetheless...
+- **아키이즈미 모미지**: I'm sure I'd be able to see comics, artwork, and other data that I haven't been able to see before.
+- **아키이즈미 모미지**: That's why I can't give up.
+- **아키이즈미 모미지**: I know it's silly, so I'm sorry for involving you, Sensei.
+- **아키이즈미 모미지**: I can just...look for it on my own. You can go back now...
+- **아키이즈미 모미지**: I'm sorry again... It was just a silly dream.
+- **아키이즈미 모미지**: Thank you for today, Sensei. Please take care.
+- **아키이즈미 모미지**: H-Huh? You don't have any reason to care about this fanzine...
+- **아키이즈미 모미지**: But you're still gonna help me look for it?
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: From the bottom of my heart, thank you, Sensei! And I'm really sorry again...
+- **아키이즈미 모미지**: ...Normally after having such a touching moment, people tend to find what they're looking for...
+- **아키이즈미 모미지**: At least in manga they do...
+- **아키이즈미 모미지**: Ugh... I guess reality can't be that easy...
+- **아키이즈미 모미지**: That line was straight out of some cheesy Saturday morning cartoon...
+- **아키이즈미 모미지**: Wait, Sensei. Inside... Inside...
+- **아키이즈미 모미지**: Sensei, could it be...?!
+- **아키이즈미 모미지**: To the library! Immediately!
+- **아키이즈미 모미지**: The deepest part of the library is being used as storage these days.
+- **아키이즈미 모미지**: It might just be the one place no one's thought to check!
+
+3. **「아키이즈미 모미지 인연 스토리 3」**
+
+- **Valkyrie Student**: Thank you for your assistance, Sensei.
+- **Valkyrie Student**: Today's patrol went smoothly thanks to you.
+- **Valkyrie Student**: Don't say that! Just your presence makes the job easier.
+- **Valkyrie Student**: Once word gets out that you'll be around, all the criminals tuck tail and run!
+- **Valkyrie Student**: Of course, there are always reckless troublemakers who'll try their luck.
+- **Valkyrie Student**: Just like her! Come on out!
+- **아키이즈미 모미지**: Waaah...
+- **Valkyrie Student**: Oh! Do you know this student, Sensei?
+- **Valkyrie Student**: Understood. If that's the case, I will place Akiizumi Momiji under your care, Sensei.
+- **Valkyrie Student**: It's less paperwork for me!
+- **Valkyrie Student**: I will leave the guidance and punishment of that individual in your hands, Sensei!
+- **아키이즈미 모미지**: Th-Thank you, Sensei!
+- **아키이즈미 모미지**: If I was just handed over to Red Winter... For the crime of entering the black market without permission...
+- **아키이즈미 모미지**: I would have been sentenced to no less than two weeks of cleaning our deepest, darkest bathrooms...
+- **아키이즈미 모미지**: N-No! It's not like that... I mean, yeah, I was here!
+- **아키이즈미 모미지**: But I promise I'm not doing anything bad. Please believe me, Sensei!
+- **아키이즈미 모미지**: Then what am I doing here...? Ah...
+- **아키이즈미 모미지**: Well, I heard a rumor that one of Luriel's old books was spotted on the black market.
+- **아키이즈미 모미지**: Yeah... Those are the ones I've been collecting.
+- **아키이즈미 모미지**: Yes! And in mint condition too!
+- **아키이즈미 모미지**: Heeheehee. It was dangerous, scary, and more expensive than I thought but...
+- **아키이즈미 모미지**: I'm so, so happy I was able to get it...
+- **아키이즈미 모미지**: Huh? What makes it so valuable?
+- **아키이즈미 모미지**: Um... I wouldn't necessarily call it valuable in that sense. People don't actually think much of it.
+- **아키이즈미 모미지**: It was Luriel's second ever published work, before she blew up in popularity. That's why there aren't a lot of copies.
+- **아키이즈미 모미지**: Unless you're a real fan... You wouldn't even know to look for it.
+- **아키이즈미 모미지**: Exactly! So you do get it, Sensei.
+- **아키이즈미 모미지**: HUH?! You've spent 100,000 yen on a transforming robot toy?!
+- **아키이즈미 모미지**: Wow... That's a whole other level... Is that what adults are capable of...? Their power...?
+- **아키이즈미 모미지**: I just like collecting her published works. It's a little niche, I'll admit.
+- **아키이즈미 모미지**: The reason? Well...
+- **아키이즈미 모미지**: Firstly, I am a member of the Knowledge Liberation Front. I'm doing my duty to collect information, with priority given to books.
+- **아키이즈미 모미지**: The older publications tend to be damaged or dog-eared, so people think they're not worth much.
+- **아키이즈미 모미지**: For some reason... I'm particularly partial to those kind of items.
+- **아키이즈미 모미지**: Because, you know, books are made to be read by people, right? If they've been loved, they shouldn't be in perfect condition.
+- **아키이즈미 모미지**: Y-You don't have to be that moved, Sensei!
+- **아키이즈미 모미지**: There are also concerns regarding our budget.
+- **아키이즈미 모미지**: Of course, there are other cool items that aren't just books.
+- **아키이즈미 모미지**: But, as you know, Red Winter students aren't exactly living under the best conditions in their day-to-day lives.
+- **아키이즈미 모미지**: I have to be careful about what we're spending our money on, or it'll lead to riots and problems.
+- **아키이즈미 모미지**: Trying to be so selective about what I choose, my collection ended up mostly being works that mean a lot to me.
+- **아키이즈미 모미지**: I do try to make requests to the Secretariat Office here and there for additional books and publications.
+- **아키이즈미 모미지**: But they almost always get rejected! Ugh! It's so frustrating!
+- **아키이즈미 모미지**: Even though the library is kind of isolated and no one really knows where it is...
+- **아키이즈미 모미지**: And even though the library doesn't exactly have a lot of foot traffic...
+- **아키이즈미 모미지**: I still want to increase our selection for the dedicated students who do come and visit!
+- **아키이즈미 모미지**: *sigh* But I've learned that we can't have everything we want in life...
+- **아키이즈미 모미지**: I-I did. Why?!
+- **아키이즈미 모미지**: I'm so sorry... WAAAH!
+- **아키이즈미 모미지**: You're right! I'm using the Secretariat Office and library for my own personal gain!
+- **아키이즈미 모미지**: I'm a terrible librarian! How can I even call myself a member of the Knowledge Liberation Front?
+- **아키이즈미 모미지**: Once the others hear about this, they won't forgive me...
+- **아키이즈미 모미지**: ...Really?
+- **아키이즈미 모미지**: Then that makes you an accomplice, right Sensei? Heeheehee...
+
+4. **「아키이즈미 모미지 인연 스토리 4」**
+
+- **아키이즈미 모미지**: Oh, Sensei! Welcome.
+- **아키이즈미 모미지**: Heehee. I can't believe we're going to the Red Winter book festival together, Sensei.
+- **아키이즈미 모미지**: Exactly what it sounds like! It happens once a year, over the course of two days!
+- **아키이즈미 모미지**: Red Winter students bring books from all over, display them, or even buy and sell the books they like.
+- **아키이즈미 모미지**: That's what it's supposed to be, at least.
+- **아키이즈미 모미지**: In actuality, it's a kind of flea market for each club so that they can offload their leftover inventory from the last year.
+- **아키이즈미 모미지**: Red Winter Academy doesn't have a lot of events, to be honest... So we try to make it as much like a festival as we can.
+- **아키이즈미 모미지**: Even though it's called a book festival, a lot of students are just here for the environment and good food.
+- **아키이즈미 모미지**: Of course not! That's the best part of this whole thing!
+- **아키이즈미 모미지**: Since most people aren't interested in the books, it's the perfect time for the Knowledge Liberation Front to go treasure hunting!
+- **아키이즈미 모미지**: We get to peruse a whole variety of books! Without the need of differentiating samples and the real thing! Actually, most students don't even understand the concept of a sample!
+- **아키이즈미 모미지**: And sometimes... We can even find some legendary publications as well!
+- **아키이즈미 모미지**: This isn't the time to dawdle, Sensei! We only have two days to make history!
+- **아키이즈미 모미지**: Our goal for the next two days is to explore every corner of this festival!
+- **아키이즈미 모미지**: Okay! That might be a little ambitious! But we're going to read as much as we can!
+- **아키이즈미 모미지**: Look over here, Sensei! It's the complete collection of Two Piece!
+- **아키이즈미 모미지**: I can't believe I was able to find this here!
+- **아키이즈미 모미지**: Ack! I thought it was complete, but it's missing a volume!
+- **아키이즈미 모미지**: That makes a lot more sense... The complete collection is a rarity that would cost an arm and a leg!
+- **아키이즈미 모미지**: The missing volume is one that tends to be pretty hard to find, to top it all off...
+- **아키이즈미 모미지**: There's no choice. For now, I'll buy this pack as a way to secure the whole eventually.
+- **아키이즈미 모미지**: This is...! The limited special edition of Jason and the Caramel Factory?!
+- **아키이즈미 모미지**: Such precious knowledge, just lying around in a festival... I'm so glad to be a part of the Knowledge Liberation Front!
+- **아키이즈미 모미지**: Huh? The hand-written foreword from the author that should be inside the cover is...cut out of it!
+- **아키이즈미 모미지**: What an atrocity! How dare they?! This harms not only the book, but is an insult to the author!
+- **아키이즈미 모미지**: I'm outraged! They probably cut it out to sell the autograph that accompanies the foreword! They're the enemy of society.
+- **아키이즈미 모미지**: Whoa, the regular print of Ishmael!
+- **아키이즈미 모미지**: It was super unpopular at the time of printing. Only 3,200 volumes were sold!
+- **아키이즈미 모미지**: The subject was very niche, and people just couldn't get through all 135 chapters.
+- **아키이즈미 모미지**: But more people started to read it over time, and has since been recognized as one of history's classics.
+- **아키이즈미 모미지**: This isn't a special edition or anniversary printing or anything, but...
+- **아키이즈미 모미지**: Heehee. I still like it. Maybe we should get this as well.
+- **아키이즈미 모미지**: ― Sensei! I finally found it!
+- **아키이즈미 모미지**: ― No damage to the pages,
+- **아키이즈미 모미지**: ― and it even includes the special edition illustration!
+- **아키이즈미 모미지**: ― An intact limited edition print!
+- **아키이즈미 모미지**: ― Maybe...my whole life
+- **아키이즈미 모미지**: ― has led up to this very moment. To finding this book.
+- **아키이즈미 모미지**: ― Heeheehee... This is all
+- **아키이즈미 모미지**: ― thanks to you coming with me, Sensei.
+- **아키이즈미 모미지**: ― As long as I'm with you...
+- **아키이즈미 모미지**: ― good things tend to happen.
+- **아키이즈미 모미지**: ― So... Um... Sensei.
+- **아키이즈미 모미지**: ― If it's all right with you... Um,
+- **아키이즈미 모미지**: ― even if it's not every day...
+- **아키이즈미 모미지**: ― Even if it's just every now and again...
+- **아키이즈미 모미지**: ― Please come visit
+- **아키이즈미 모미지**: ― the Knowledge Liberation Front...
+
+5. **「아키이즈미 모미지 인연 스토리 5」**
+
+- **아키이즈미 모미지**: Oh, welcome, Sensei!
+- **아키이즈미 모미지**: Oh, about that... Today's a holiday.
+- **아키이즈미 모미지**: What? Why did I call you on a holiday?
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: Just, hurry up and come in! Come on!
+- **아키이즈미 모미지**: What do you think, Sensei? Isn't it warm?
+- **아키이즈미 모미지**: A-About that!
+- **아키이즈미 모미지**: Well, you see! Today isn't really an official holiday. More of a temporary one.
+- **아키이즈미 모미지**: I'm dodging the question? Fine, you got me there...
+- **아키이즈미 모미지**: Um, Sensei...
+- **아키이즈미 모미지**: Will... Will you...take a nap in the library?
+- **아키이즈미 모미지**: Ack! Well, you see...
+- **아키이즈미 모미지**: Sometimes...students or even President Cherino will come to the library just to nap!
+- **아키이즈미 모미지**: So I have to wake all of them up. I had to physically escort President Cherino out once! Not that it was very difficult, with her height and all...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: Anyways! I got kinda curious why people would come all the way out here just to nap, so I tried it out...
+- **아키이즈미 모미지**: ...Yes.
+- **아키이즈미 모미지**: Wh-Why are you asking why the library is closed?
+- **아키이즈미 모미지**: Th-That's because...!
+- **아키이즈미 모미지**: You make it sound bad if you put it that way!
+- **아키이즈미 모미지**: Well, you're not...wrong...
+- **아키이즈미 모미지**: Ugh... It's bad of me, isn't it? Maybe this was a bad idea...
+- **아키이즈미 모미지**: What would people say if they found out that the librarian was using it for such trifling matters?
+- **아키이즈미 모미지**: B-But still, I did set aside some space as a dedicated napping area.
+- **아키이즈미 모미지**: Other academies do it too, you know! We're just following suit!
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: I'm sorry, Sensei. I'm just making excuses...
+- **아키이즈미 모미지**: R-Really?
+- **아키이즈미 모미지**: Are you just trying to make me feel better, Sensei?
+- **아키이즈미 모미지**: Hey! Wipe that smile off your face! You're starting to embarrass me!
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: Um, Sensei?
+- **아키이즈미 모미지**: Well, if you really are that tired, do you...maybe want to nap together?
+- **아키이즈미 모미지**: Heeheehee... Then please come this way to Red Winter library's brand new napping spot!
+- **아키이즈미 모미지**: Are you comfortable, Sensei?
+- **아키이즈미 모미지**: Your breathing slowed down already. You must have been so tired...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: You know, Sensei.
+- **아키이즈미 모미지**: I... I really like people who understand me.
+- **아키이즈미 모미지**: I hope you get some good rest.
+
+6. **「아키이즈미 모미지 인연 스토리 6」**
+
+- **아키이즈미 모미지**: Oh, you're here, Sensei?
+- **아키이즈미 모미지**: I feel bad troubling you with something this small...
+- **아키이즈미 모미지**: Hmm? Small things can be important too? Well, um...
+- **아키이즈미 모미지**: A-Are you sure, Sensei? A-All right, thank you...
+- **아키이즈미 모미지**: Hm? You're asking what I'm looking for?
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: ...!
+- **아키이즈미 모미지**: I-I-I-I-It's, so, I need to find...!
+- **아키이즈미 모미지**: My limited reprint set of Luriel's debut manga...
+- **아키이즈미 모미지**: Well, not small to me, since I happen to be a fan, but...
+- **아키이즈미 모미지**: ...to someone else, it's only a set of manga...
+- **아키이즈미 모미지**: You say that makes the treasure personal and irreplaceable?
+- **아키이즈미 모미지**: ...!
+- **아키이즈미 모미지**: It's kind of you to put it that way. Thank you, Sensei.
+- **아키이즈미 모미지**: Well, let's see if we can find it, then!
+- **아키이즈미 모미지**: Hm...?
+- **아키이즈미 모미지**: Y-Yes! This is it! Thank you, Sensei!
+- **아키이즈미 모미지**: I was worried I'd never see it again.
+- **아키이즈미 모미지**: To lose a book in midst of other books. What kind of librarian could I ever hope to be?
+- **아키이즈미 모미지**: Hmm? You're asking why it looks so new, still in its original wrapping and all?
+- **아키이즈미 모미지**: I've been very careful storing it. Thank you for asking!
+- **아키이즈미 모미지**: It is my favorite collection, after all!
+- **아키이즈미 모미지**: What's wrong, Sensei?
+- **아키이즈미 모미지**: Hm? You found the collection's trading price? Let's see...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: *gaaasp*
+- **아키이즈미 모미지**: S-Sensei? Sensei...? Are you SURE that's the right number? Maybe the page is hacked, or malfunctioning, or...
+- **아키이즈미 모미지**: W-Well, limited first editions can go for quite a bit sometimes...
+- **아키이즈미 모미지**: ...but still, this is...!
+- **아키이즈미 모미지**: (I wouldn't have to ask for new books. I could buy them myself!)
+- **아키이즈미 모미지**: (And replace that shoddy old heater.)
+- **아키이즈미 모미지**: (And maybe even build an annex, if I can convince the Labor Party...)
+- **아키이즈미 모미지**: (Ooh, and pudding...)
+- **아키이즈미 모미지**: (I might even have some money left over after all that! That's... That's scary!)
+- **아키이즈미 모미지**: Y-Yes?!
+- **아키이즈미 모미지**: F-Forgive me, I was...lost in thought for a bit...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: ...!!
+- **아키이즈미 모미지**: Wh-What am I thinking? I can't give my collectible up!
+- **아키이즈미 모미지**: Right...
+- **아키이즈미 모미지**: It's the first thing I ever saved money for.
+- **아키이즈미 모미지**: Back when the price wasn't this absurd, of course.
+- **아키이즈미 모미지**: So I can't treat it as a simple investment or a piece of merchandise.
+- **아키이즈미 모미지**: It represents my determination, in a way.
+- **아키이즈미 모미지**: And it represents my pride as a collector.
+- **아키이즈미 모미지**: Most of all, it stands for what I believe, that some things can't be measured in material value.
+- **아키이즈미 모미지**: That's...good to believe, isn't it?
+- **아키이즈미 모미지**: Ehehe. Thank you, Sensei. I appreciate the way you think.
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: ...
+- **아키이즈미 모미지**: H-Huh?! What's the trouble now?
+- **아키이즈미 모미지**: ...Waah...
+- **아키이즈미 모미지**: Sensei, I think I'm a bad collector...
+- **아키이즈미 모미지**: I've already made the decision not to sell it, but a thought still lingers in my head...
+- **아키이즈미 모미지**: "Just how much pudding could I buy with that money...?"
+- **아키이즈미 모미지**: R-Really?!
+- **아키이즈미 모미지**: Thank you, Sensei! You're the best!!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아키이즈미 모미지
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -3,7 +3,7 @@ import { performance } from 'node:perf_hooks';
 import { createRemoteZipSource, loadWorld, loadWorldDocuments, withLocaleOverlay } from '../packages/engine/dist/desktop-adapter.js';
 
 const baseUrl = process.argv[2] ?? 'http://127.0.0.1:5173/';
-const packageUrl = new URL('api/blue-archive', baseUrl).href;
+const packageUrl = new URL('api/worlds/blue-archive.%F0%9F%98%AD', baseUrl).href;
 const iterations = Number(process.argv[3] ?? 5);
 
 async function sourceForLanguage(source, language) {

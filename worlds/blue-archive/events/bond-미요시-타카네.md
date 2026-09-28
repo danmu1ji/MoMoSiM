@@ -1,0 +1,236 @@
+# 미요시 타카네 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 미요시 타카네, 선생(샬레)
+
+1. **「미요시 타카네 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「미요시 타카네 인연 스토리 2」**
+
+- **미요시 타카네**: How do you do, Sensei? I am Miyoshi Takane, and I'd like to offer my greetings.
+- **미요시 타카네**: Fufu. Indeed it is. Thank you for the warm welcome. Schale is as wonderful as they say.
+- **미요시 타카네**: And, speaking of "warm"... This weather is quite balmy, isn't it? I'm not sure I've ever experienced such a climate.
+- **미요시 타카네**: I apologize if this is too sudden, but...from the moment I started my journey to Schale, I was assailed by a certain curiosity.
+- **미요시 타카네**: Well I...
+- **미요시 타카네**: I wish to learn more about you.
+- **미요시 타카네**: Well... Do you also not wish to learn more about ME, Sensei?
+- **미요시 타카네**: I'm certain that you do. Every teacher must take care to understand their students, do they not?
+- **미요시 타카네**: Very well. We are in accordance. From now on, we shall dedicate this time to learn more about one another.
+- **미요시 타카네**: After all, a critic must take care to intimately know whatever she's critiquing.
+- **미요시 타카네**: Hmm... Technically, that's not something I would formally write and publish.
+- **미요시 타카네**: Regardless, the act of learning more about a subject, analyzing it, and discovering its hidden...value...is quite paramount.
+- **미요시 타카네**: I think both critiques and human relationships have that in common.
+- **미요시 타카네**: In that sense, if I take care with my words, I imagine that I can critique people one day.
+- **미요시 타카네**: ...With positive and productive intentions, of course.
+- **미요시 타카네**: Of course I am.
+- **미요시 타카네**: ...If I'm not, in this "digital age"... I'd never be able to make a living as a writer.
+- **미요시 타카네**: Now then, Sensei. Shall we discuss this book? I found it under your desk.
+- **미요시 타카네**: Perhaps I should read it with you and we can critique its merits and themes together?
+- **미요시 타카네**: Wh-Why not...?
+- **미요시 타카네**: No matter what, I am "explicitly" not to read or critique this book...?
+- **미요시 타카네**: Hm...
+- **미요시 타카네**: All right, then. Keep your secrets.
+- **미요시 타카네**: Still, I confess a spot of disappointment... You know, Sensei, I can be quite open-minded.
+- **미요시 타카네**: Are you so certain I'm not allowed?
+- **미요시 타카네**: Ah, could it truly be so dire?
+- **미요시 타카네**: Nevertheless, I have noticed an...eclectic collection of items arranged around your office.
+- **미요시 타카네**: It's such a varied motley that I can't uncover a cohesive theme or thesis.
+- **미요시 타카네**: Oh? Is that so? These are items your dear students gifted you? What a quaint array of souvenirs, so haphazardly stacked about.
+- **미요시 타카네**: ...
+- **미요시 타카네**: And while that's quite "sweet," I must insist that you organize them with SOME semblance of order.
+- **미요시 타카네**: Classification and arrangement should demonstrate thoughtfulness. The way you arrange things demonstrates value in the act itself.
+- **미요시 타카네**: Further, by doing so, you would assist me in my attempts to understand what sort of person you are.
+- **미요시 타카네**: So, in the spirit of that, I present a gift.
+- **미요시 타카네**: Here you will find this month's Kivotos cultural critiques published by our Publishing Department.
+- **미요시 타카네**: Oh, do feel free to skip pages 22 to 24.
+- **미요시 타카네**: Those pages contain Meruri's..."creative" corner.
+- **미요시 타카네**: I'm not the sole writer, but I do my best to fill the pages allotted to me.
+- **미요시 타카네**: ...Although, in times when there isn't anything worth critiquing, I sometimes am forced to acquiesce with a heavy heart...
+- **미요시 타카네**: ...Indeed. If we solely pursued analog publication, we would have never survived.
+- **미요시 타카네**: As we continue in the publishing and cultural enrichment industry, we try to expand into other areas, anything that will help make ends meet.
+- **미요시 타카네**: I feel like the tail is wagging the dog now, so I would personally prefer things to go back to the days when we were solely handling published works, but...
+- **미요시 타카네**: *sigh* I understand that I'm coming across as ungrateful. Even I must concede that the president's business strategy was a success.
+- **미요시 타카네**: And so, I keep coming to a similar conclusion.
+- **미요시 타카네**: If I have time to complain about how I must compromise in order to keep my job, then it is also my duty to make good critiques for the greater public...
+- **미요시 타카네**: ...so that I can unearth hidden gems of value and present them to as many people as possible.
+- **미요시 타카네**: So, Sensei! Now that we're on the topic...
+- **미요시 타카네**: Could you reveal to me the sides of you that you normally keep hidden?
+- **미요시 타카네**: Wow, what a textbook response. It sounds almost coached.
+- **미요시 타카네**: But I've already uncovered two things, you realize?
+- **미요시 타카네**: I know that the gifts students give you carry a great weight of sentimentality.
+- **미요시 타카네**: ...And that even YOU have something you want to hide from your students. I have an inkling of what it is.
+- **미요시 타카네**: Of course. Feel free to ask any and all questions.
+- **미요시 타카네**: Oh, but please refrain from prying into sensitive topics...
+- **미요시 타카네**: ...
+- **미요시 타카네**: Depending on the question, I may need to censor myself.
+- **미요시 타카네**: R-Really...?
+- **미요시 타카네**: What would you like to learn about, then?
+- **미요시 타카네**: What? My hobbies? You mean, other than the obvious answer of "reading"?
+- **미요시 타카네**: Hm... I don't enjoy the thought of you finding me so trite and predictable.
+
+3. **「미요시 타카네 인연 스토리 3」**
+
+- **미요시 타카네**: Welcome, Sensei! How has life been treating you?
+- **미요시 타카네**: Very well. Please follow me to the screening room.
+- **미요시 타카네**: What? Why aren't we watching the game here? Oh, spare me. This is a workplace!
+- **미요시 타카네**: And, as you may have noticed, this place has a dearth of video projection equipment!
+- **미요시 타카네**: Please! This way!
+- **미요시 타카네**: Is it? Well, I couldn't settle for less. After all, the great "Sensei" is visiting.
+- **미요시 타카네**: Oh, about that...
+- **미요시 타카네**: The Publishing Department is indeed intended to publish publications.
+- **미요시 타카네**: But THIS is a demonstration of how much the president likes to spend money...
+- **미요시 타카네**: Among Red Winter's various cultural ventures, the Publishing Department can be quite...enthusiastic regarding certain projects.
+- **미요시 타카네**: Which led to this...
+- **미요시 타카네**: R-Red Winter has its own way of doing things! Just like the Publishing Department itself!
+- **미요시 타카네**: There is no need to investigate our finances or spending, I assure you!
+- **미요시 타카네**: Above all, we're here for hockey, aren't we?
+- **미요시 타카네**: As I have already told you, the semifinals are about to begin.
+- **미요시 타카네**: Naturally, Red Winter has many students who participate in winter sports.
+- **미요시 타카네**: Ice hockey, in particular, has a healthy amount of dedicated fans!
+- **Announcer**: Here we are, ladies and gentlemen! The ice hockey league semifinals are about to commence!
+- **미요시 타카네**: So it begins, Sensei!
+- **미요시 타카네**: As you may already know, each ice hockey team is comprised of six players. That's quite small when compared to other sports.
+- **미요시 타카네**: A match has three periods of 20 minutes each, meaning that there are 60 minutes of total playtime.
+- **미요시 타카네**: The rules...are actually quite simple. Players use hockey sticks to score by shooting the puck into the opposing goal.
+- **미요시 타카네**: By the way, in hockey, we have "goaltenders" instead of "goalkeepers." They're referred to as "goalies" in common parlance.
+- **Announcer**: That's a solid body check! A very aggressive defense!
+- **미요시 타카네**: It's fine! That much is permitted in Red Winter's ice hockey rules.
+- **미요시 타카네**: Most importantly, don't remain sprawled on the ice! Hurry and get back up! If you delay the game any longer, you'll face a penalty!
+- **미요시 타카네**: Yes! These are the rules of Red Winter's ice hockey!
+- **미요시 타카네**: Not good! That's a five-minute penalty!
+- **미요시 타카네**: What?! Are you insane, referee? A mere two-minute penalty?! We should investigate their bank account!
+- **미요시 타카네**: Oh... Now that's a little too far. If the glass barrier is sufficiently damaged, then the game has to stop until it's replaced.
+- **미요시 타카네**: Furthermore, intentional and consecutive body checks like that will surely result in a 10-minute penalty for unsportsmanlike conduct—
+- **Announcer**: The ref deems that the game must continue! You don't see generosity like this every day, folks!
+- **미요시 타카네**: Is the referee suffering a concussion?! Do they have a death wish?
+- **미요시 타카네**: Of course! That's a natural reaction to such injustice.
+- **미요시 타카네**: In fact, an ice hockey match without a single fight is quite the rarity!
+- **미요시 타카네**: If the home team is losing badly, sometimes the players start fights on purpose to keep the audience engaged.
+- **미요시 타카네**: After all, if the game is boring, the players are obligated to ensure that the fans receive a proper show. We must justify the ticket price, after all.
+- **미요시 타카네**: The ice hockey pads and helmets are quite sturdy, so it's relatively safe.
+- **미요시 타카네**: And, since most players only fight with their fists, no one suffers serious—
+- **미요시 타카네**: ...Oh, my.
+- **미요시 타카네**: This is quite the incident.
+- **미요시 타카네**: ...Oh? Does this happen often?
+- **미요시 타카네**: ...
+- **미요시 타카네**: Well, it's not a frequent occurrence, but...
+- **미요시 타카네**: ...It's not...unheard of.
+- **Angry Audience**: —as such, we condemn the Secretariat and denounce their policies!
+- **Angry Audience**: Denounce! Denounce!
+- **Angry Audience**: We denounce how it's still cold in the dorms this morning! How the back-breaking labor continues for its third consecutive day! How we are offered only one measly ration of watered-down pudding at dinner!
+- **Angry Audience**: And now my beloved team has lost this hockey game? Outlandish! Corruption! This is all the Secretariat's fault!
+- **Angry Audience**: Yeah! That's right!
+- **Angry Audience**: Comrades, let us march to the Secretariat!
+- **Angry Audience**: Onward! Onward!
+- **미요시 타카네**: Wh-Where did you even hear that?
+- **미요시 타카네**: ...After everything I told you, I feel a pang of guilt as a Red Winter student...
+- **Secretariat Broadcast**: Test, test, mic check. Mic check. Hey.
+- **Secretariat Broadcast**: Hello, Red Winter student body. We would like to notify you that a small coup is currently starting in the vicinity of the ice hockey arena.
+- **Secretariat Broadcast**: The Secretariat assures you that it will do its best to address the situation and has hereby declared martial law in this limited zone. Law and order shall be upheld.
+- **Secretariat Broadcast**: We ask that the students do not panic and instead focus on their schoolwork and manual labor.
+- **Secretariat Broadcast**: We repeat. Red Winter is safe. Red Winter is safe.
+- **Secretariat Broadcast**: How long do you think we'll need to be on the run?
+
+4. **「미요시 타카네 인연 스토리 4」**
+
+- **미요시 타카네**: Yes. Mung beans obviously grow into mung bean plants.
+- **미요시 타카네**: Soybean sprouts grow into soy bean plants.
+- **미요시 타카네**: I believe that the mung bean variety is smoother and has a cleaner flavor, but...
+- **미요시 타카네**: ...Because mung beans cook so quickly, they can become quite unappetizing within seconds.
+- **미요시 타카네**: As for that name... It's something that I created on a bit of a whim.
+- **미요시 타카네**: It simply means that on every other Wednesday, I have a habit of grilling up soybean sprouts on a hot griddle.
+- **미요시 타카네**: ...Please don't ask me if I didn't know how to make any other dishes...
+- **미요시 타카네**: Since we're already at it, why don't we begin a critique on soybean sprouts and mung bean sprouts?
+- **미요시 타카네**: I already told you how each ingredient is prepared, so we can skip that.
+- **미요시 타카네**: The mung bean sprout is softer than its soybean counterpart, so it's delicious both raw or after a short blanch.
+- **미요시 타카네**: Conversely, soybean sprouts are comparatively larger and quite hearty.
+- **미요시 타카네**: Unless they're cooked somewhat, they have an undesirable texture and aroma.
+- **미요시 타카네**: We can use this to our advantage when adding flavor to a broth or a sauce.
+- **미요시 타카네**: Soups made by boiling soybean sprouts are often considered to be some of the most delectable options for breakfast. They retain a striking and enjoyable flavor profile.
+- **미요시 타카네**: This stays between us, Sensei, so listen well.
+- **미요시 타카네**: To survive in this modern era, a critic must constantly be ready to articulate her educated opinion!
+- **미요시 타카네**: A professional critic must always be prepared to rouse public discourse! This is to be expected!
+- **미요시 타카네**: Ahem. I suppose I got a little carried away. I'm sorry about that.
+- **미요시 타카네**: My apologies, Sensei.
+- **미요시 타카네**: Shall we move on to today's topic, the Bean Sprout Festival?
+- **미요시 타카네**: For the festival, I usually stir-fry spicy soybean sprouts and pork!
+- **미요시 타카네**: I start with slightly-cooked soybean sprouts, then I add accentuating spices and pork before stir-frying the whole thing.
+- **미요시 타카네**: The soybean sprouts' flavor adds depth to the pork while the sauce and the fat rendered from the pork coat the bean sprouts...
+- **미요시 타카네**: That harmony makes this a perfect dish for cold winter days like this one. It's a symphony of calories, vitamins, and fiber!
+- **미요시 타카네**: Indeed. Please give me a moment!
+- **미요시 타카네**: The dish is ready, Sensei!
+- **미요시 타카네**: You can have this over rice, or as a side dish!
+- **미요시 타카네**: Or would you prefer bread? If you prefer a more "hands-on experience," we can treat it as a sandwich filling. I recommend black bread!
+- **미요시 타카네**: What? Well... I am a mere student of Red Winter after all...far from professional.
+- **미요시 타카네**: But if you're enjoying it, know that there's plenty left. Please help yourself!
+
+5. **「미요시 타카네 인연 스토리 5」**
+
+- **미요시 타카네**: Yes, it occasionally shows itself over Red Winter.
+- **미요시 타카네**: We even have an aurora forecast app.
+- **미요시 타카네**: I...suppose?
+- **미요시 타카네**: ...Though, I am more interested in capturing scenic landscapes than taking portraits.
+- **미요시 타카네**: I feel that, in a way, that taking photographs and forming critiques share considerable common ground.
+- **미요시 타카네**: Ahem. Please allow me to expand on my thesis, Sensei.
+- **미요시 타카네**: The purpose of critique is to observe a cultural work, and then use one's own logic and words...
+- **미요시 타카네**: ...to transcribe one's feelings through the act of writing.
+- **미요시 타카네**: In a way, you seek to capture the feelings and impressions of a certain moment, and articulate those to another.
+- **미요시 타카네**: And your impression, or "critique," is then read by your peers, then reinterpreted and edited to convey an air of objectivity.
+- **미요시 타카네**: To seek "objectivity" is, perhaps, the fruitless effort to represent a universal point of view.
+- **미요시 타카네**: That's how I see the link between photography and critique.
+- **미요시 타카네**: To an extent. Nothing is truly "objective." The photographer makes dozens of decisions, after all. Consider the lens, the framing, the shutter speed...
+- **미요시 타카네**: All these micro-decisions impact the resulting photograph and how it will be interpreted.
+- **미요시 타카네**: Any attempt to secure objectivity will inevitably involve a multitude of subjective decisions.
+- **미요시 타카네**: The creator's fingerprints will naturally show on any work.
+- **미요시 타카네**: Don't you find that intertwined tension interesting?
+- **미요시 타카네**: At least... I think it is.
+- **미요시 타카네**: I feel the same could be said about the relationship between creative works and critique.
+- **미요시 타카네**: What? Have I ever considered making my own..."more creative" works?
+- **미요시 타카네**: Uh... Well...
+- **미요시 타카네**: I...
+- **미요시 타카네**: Ah...!
+- **미요시 타카네**: Sensei! An aurora!
+- **미요시 타카네**: ...Nature is amazing, is it not?
+- **미요시 타카네**: Whenever I witness nature's grandeur, I can't help but consider that we as people are mere motes of dust floating in a grand, vast universe.
+- **미요시 타카네**: Sometimes I even ponder why I bother writing critiques or even consider being creative...
+- **미요시 타카네**: Yet, at the same time, I believe creative expression is one of the most beautiful endeavors a person can attempt.
+- **미요시 타카네**: You know what they say: "people may not be beautiful, but what they create could be."
+- **미요시 타카네**: ...Unless one finds something to be truly breathtaking, they will never be inspired enough to attempt the act of creation.
+- **미요시 타카네**: Perhaps "critique" is my form of a creative expression...
+- **미요시 타카네**: ...My own unique way of celebrating beauty.
+- **미요시 타카네**: Wh-What?! You, taking a picture of me...? I-I mean, I would be grateful and happy but... Why all the sudden?
+- **미요시 타카네**: Whaaaat?! You want me to create a "theme" for my pose? Wh-What kind of theme did you have in mind...?
+- **미요시 타카네**: Y-You want me to come up with one? Spontaneously? This is so SUDDEN, Sensei!
+- **미요시 타카네**: What? Adding something pretty on top of something else pretty would just be additive, not harmonious!
+- **미요시 타카네**: Do you also enjoy pouring mint chocolate syrup on hot takoyaki?
+- **미요시 타카네**: Above all, creation...isn't part of the...a critic's repertoire...
+- **미요시 타카네**: Y-Yes, of course I read and appreciate a bevy of different works! But still! This feels like I'm over-stepping into someone else's world...
+- **미요시 타카네**: I don't want to undermine the struggle of those who are courageous enough to create...
+- **미요시 타카네**: ...I've seen plenty of incidents where someone was haphazardly creative, and it resulted in widespread pain and suffering.
+- **미요시 타카네**: What? You really think it's permissible? If I'm with you? It can be a secret?
+- **미요시 타카네**: ...To capture a single, magical moment...just for me. How aspirational.
+- **미요시 타카네**: ...!
+- **미요시 타카네**: Th-Then...
+- **미요시 타카네**: Could you inspire me with some...keywords...or something...?
+- **미요시 타카네**: ...Why do people keep telling me things like that...?
+- **미요시 타카네**: All right. If it's something you came up with, Sensei...
+- **미요시 타카네**: Ahem.
+- **미요시 타카네**: I had three older sisters, making me the youngest in a quite well-respected family.
+- **미요시 타카네**: I was beloved by the people, but ever since I was a child...I was struck by a tragic frailty.
+- **미요시 타카네**: I was never allowed to have fun outside, so I always instead chose to pull pranks on the people around me...
+- **미요시 타카네**: Because of that, my sisters called me "little menace," and I was particularly close with my third sister.
+- **미요시 타카네**: Whenever I wasn't sick, we would share a pillow on our cot. On mornings, we'd bathe together in cold water.
+- **미요시 타카네**: I never liked cold baths, but my sister insisted it would help with my health...
+- **미요시 타카네**: But...due to a number of unfortunate events, our house came to ruin...
+- **미요시 타카네**: And we, the four sisters, scattered and said goodbye, without ever knowing if we'd find each other again.
+- **미요시 타카네**: ― Sensei, look...
+- **미요시 타카네**: ― An aurora.
+- **미요시 타카네**: ― Old stories say
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/미요시 타카네
+- https://bluearchive.wiki (원문 스토리 스크립트)

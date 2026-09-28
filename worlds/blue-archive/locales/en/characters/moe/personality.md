@@ -1,0 +1,6 @@
+# Moe — official English introduction
+
+An operator of the RABBIT platoon belonging to SRT Special Academy. Her callsign is "RABBIT3". Moe enlisted in the SRT Special Academy because of its focus on firepower, but the academy was suddenly shut down and now she is sleeping outdoors with the other platoon members in the park. She's got a weird taste for blowing things up and ruining things, but she's a solid operator. Moe also has a serious sweet tooth and is rarely seen without a candy bar in her mouth.
+
+Source: https://bluearchive.wiki/wiki/Moe
+Status: source-extracted-unreviewed

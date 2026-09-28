@@ -1,0 +1,12 @@
+{
+  "sourceLanguage": "en",
+  "status": "source-extracted-unreviewed",
+  "relationshipStoryPages": 647,
+  "relationshipStoryLines": 44459,
+  "groupStoryPages": 65,
+  "mainStoryEpisodeSynopses": 379,
+  "mainStorySynopsisWordCount": 17091,
+  "eventOverviewPages": 55,
+  "sourceRoot": "research/blue-archive/raw",
+  "details": "English-language wiki transcripts are source excerpts; main story volume pages contain synopses, not full scene scripts. Event overview pages are also synopses. Missing details are not filled from Korean."
+}

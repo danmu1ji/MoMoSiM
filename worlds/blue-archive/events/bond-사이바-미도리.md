@@ -1,0 +1,264 @@
+# 사이바 미도리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 사이바 미도리, 선생(샬레)
+
+1. **「사이바 미도리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「사이바 미도리 인연 스토리 2」**
+
+- **사이바 미도리**: Hmm, this isn't it.
+- **사이바 미도리**: Hmmm. This isn't it either...
+- **사이바 미도리**: Hmmm... None of these would work.
+- **사이바 미도리**: Oh, Sensei! Wh-When did you get here?!
+- **사이바 미도리**: Oh, right. Counseling. I texted you about that.
+- **사이바 미도리**: ...
+- **사이바 미도리**: Waaah, Sensei! I-I'm in trouble!
+- **사이바 미도리**: The deadline is just around the corner, but I can't think of anything!
+- **사이바 미도리**: Yes, I'm embarrassed about how I acted. I'm sorry.
+- **사이바 미도리**: I've been agonizing over this for a few days...
+- **사이바 미도리**: You know...in the Game Development Department...
+- **사이바 미도리**: We don't know when or how we'll get to make a new game.
+- **사이바 미도리**: So I've been brainstorming all sorts of different ideas.
+- **사이바 미도리**: The deadline for the next conference is fast approaching, so I was trying to come up with something new by then...
+- **사이바 미도리**: Yeah. The deadline is just around the corner, but I've got nothing...
+- **사이바 미도리**: Push back the deadline?
+- **사이바 미도리**: Sensei, a deadline is like a promise. Wouldn't it be irresponsible for me to ask it to be pushed back because I can't keep it?
+- **사이바 미도리**: As an illustrator, and the person in charge of all game visuals in the Game Development Department, I won't allow myself to do that!
+- **사이바 미도리**: U-Um, I didn't realize how worked up I got.
+- **사이바 미도리**: U-Um, I didn't realize how worked up I got.
+- **사이바 미도리**: Anyway, no. I can't push back the deadline. No way.
+- **사이바 미도리**: That's why I texted you, Sensei. I needed your advice.
+- **사이바 미도리**: Can you think of anything?
+- **사이바 미도리**: I mostly play puzzle games and casual games, like Tetness and Poyoyopo.
+- **사이바 미도리**: Oh, so shifting my perspective... You mean, I could stimulate my mind by playing games from genres I don't usually play.
+- **사이바 미도리**: Oh, so shifting my perspective... You mean, I could stimulate my mind by playing games from genres I don't usually play.
+- **사이바 미도리**: Hmm!
+- **사이바 미도리**: I think that's a good idea!
+- **사이바 미도리**: In that case...
+- **사이바 미도리**: Can you accompany me through the process?
+- **사이바 미도리**: Ah! Again, I can't go anywhere because my path is blocked by bombs!
+- **사이바 미도리**: Ugh! Again! Let's play again, Sensei!
+- **사이바 미도리**: Wha?! Why did I just die?!
+- **사이바 미도리**: I planted that bomb! Why did I die?!
+- **사이바 미도리**: No, not yet, Sensei! It's not over yet!
+- **사이바 미도리**: You just won that round, Sensei!
+- **사이바 미도리**: I hope you're not the kind of rude grown-up who bails after winning a single round!
+- **사이바 미도리**: It's not over till it's over!
+- **사이바 미도리**: The game is only over when I give up!
+- **사이바 미도리**: Be prepared, Sensei. You can't leave until I win.
+
+3. **「사이바 미도리 인연 스토리 3」**
+
+- **사이바 미도리**: The sandwich I made this morning...check.
+- **사이바 미도리**: I brought the oolong tea and snacks to share with Sensei...
+- **사이바 미도리**: I have the notepad and sketchbook... Did I forget anything?
+- **사이바 미도리**: Preparation is essential to clear a dungeon.
+- **사이바 미도리**: *inhale* *exhale* *inhale* *exhale*
+- **사이바 미도리**: This artwork exhibition is an opportunity for me to show Sensei just how mature I am.
+- **사이바 미도리**: Whoa! Y-You scared me!
+- **사이바 미도리**: S-Sensei, when did you get here? How much did you hear?
+- **사이바 미도리**: Y-You heard everything, then!
+- **사이바 미도리**: Y-You heard everything, then!
+- **사이바 미도리**: Th-That's because...it's a game artwork exhibition that only happens once a year.
+- **사이바 미도리**: I plan to take this opportunity to do a lot of research.
+- **사이바 미도리**: (Of course, that's not the only reason I was looking forward to today...)
+- **사이바 미도리**: We shouldn't just stand around here. Let's go, Sensei!
+- **사이바 미도리**: Um, it looks like the latest game booths are on the first floor of the exhibition, and each floor is divided by genre.
+- **사이바 미도리**: Oh, the classic game artwork exhibition starts on the third floor.
+- **사이바 미도리**: Yeah, I think this is the biggest attraction in gaming.
+- **사이바 미도리**: Everyone here played different genres of games in different places at different times in their lives.
+- **사이바 미도리**: In the end, we can gather in a place like this and share memories.
+- **사이바 미도리**: Oh, actually, we should go up to the third floor, Sensei. There must be lots of cool artwork.
+- **사이바 미도리**: (I came here with Sensei alone, which is a success in itself. Now, to complete this mission...)
+- **사이바 미도리**: We've been walking for a while, Sensei. Are you getting thirsty?
+- **사이바 미도리**: I brought some oolong tea from home...
+- **사이바 미도리**: (Now, let's approach Sensei with the tea!)
+- **사이바 미도리**: Huh? What is it...
+- **사이바 미도리**: Oh, it's a piece of art that conveys a strong sense of desolation, showing no signs of life...
+- **사이바 미도리**: This desert painting... Could it be...
+- **사이바 미도리**: Right! I knew it, Sensei!
+- **사이바 미도리**: A run-and-gun shooting game considered a masterpiece among the classics!
+- **사이바 미도리**: It's artwork of the wasteland map from Metal Snail 2! Awesome!
+- **사이바 미도리**: Oh, that's not all. Look at the artwork over there!
+- **사이바 미도리**: This one is the artwork of the infamous zombie city from Denizen Evil, Rodent City!
+- **사이바 미도리**: All of them are classic game masterpieces!
+- **사이바 미도리**: How can I stay calm right now?!
+- **사이바 미도리**: How can I stay calm right now?!
+- **사이바 미도리**: Oh!
+- **사이바 미도리**: That's the artwork from Stage 1-1 in the famous classic platforming game, Ultra Marine Sisters!
+- **사이바 미도리**: Sensei, Sensei! Did you know?
+- **사이바 미도리**: The bushes and clouds from Ultra Marine Sisters have the exact same pixel design!
+- **사이바 미도리**: Ah! I'm too excited! Ideas are filling my head...it's overload!
+- **사이바 미도리**: N-Notepad... Where did I put my notepad?! I have to sketch it...
+- **사이바 미도리**: I don't know what to say. I got too excited again...
+- **사이바 미도리**: Sensei, I'm sorry. I dragged you around everywhere without thinking about how you might feel...
+- **사이바 미도리**: (I got excited like a kid in a candy store. My plan to show Sensei my mature side went down the drain...)
+- **사이바 미도리**: Oh, yes! At first, I didn't understand why so many people played retro games.
+- **사이바 미도리**: Oh, yes! At first, I didn't understand why so many people played retro games.
+- **사이바 미도리**: I got curious about them.
+- **사이바 미도리**: I started playing them when I got into the Game Development Department, and discovered I like them a lot.
+- **사이바 미도리**: Some games have rules that are difficult to understand.
+- **사이바 미도리**: Like that one game where you climb while breaking ice!
+- **사이바 미도리**: Why do I die when I go off the screen?! Why doesn't it wait for me?!
+- **사이바 미도리**: Oh...
+- **사이바 미도리**: Sensei, you always say that kind of stuff...
+- **사이바 미도리**: Well, yes. I really enjoyed today.
+- **사이바 미도리**: Let's do this again sometime, Sensei.
+
+4. **「사이바 미도리 인연 스토리 4」**
+
+- **사이바 미도리**: Please be careful! If you don't pay attention, you'll get lost!
+- **사이바 미도리**: Please be careful! If you don't pay attention, you'll get lost!
+- **사이바 미도리**: Don't think of this new release as just another game.
+- **사이바 미도리**: Don't think of this new release as just another game.
+- **사이바 미도리**: It's a true masterpiece that came out about ten years ago, and it famously received perfect scores from reviewers on prominent gaming sites!
+- **사이바 미도리**: It's a new release in the Legend of Zinda series!
+- **사이바 미도리**: Gamers and collectors alike all have their eyes on the limited edition special bonus.
+- **사이바 미도리**: We're like hunters after rare prey...
+- **사이바 미도리**: No, I mean, heroes fighting our enemies!
+- **사이바 미도리**: The game will go on sale in one hour.
+- **사이바 미도리**: Since there aren't that many stores to visit, we must visit them strategically.
+- **사이바 미도리**: Of course. I've been waiting ages for today!
+- **사이바 미도리**: We have no time to waste, Sensei! Let's get this quest started!
+- **사이바 미도리**: I've chosen a hypermarket as our first destination. It only makes sense to start there.
+- **사이바 미도리**: Since it's the biggest store, it'll have the most copies. It'd be the best if we could get it here!
+- **사이바 미도리**: Out of...stock?
+- **사이바 미도리**: "All copies of the new Legend of Zinda scheduled to arrive today are already sold out."
+- **사이바 미도리**: B-Beaten to the punch?!
+- **사이바 미도리**: Are they really all sold out before even going on sale?!
+- **사이바 미도리**: We should submit a complaint! No, more importantly, we have to go someplace else to score a copy quickly!
+- **사이바 미도리**: We should submit a complaint! No, more importantly, we have to go someplace else to score a copy quickly!
+- **사이바 미도리**: Sensei! Run!
+- **사이바 미도리**: *pant* I can't believe it's out of stock everywhere...
+- **사이바 미도리**: No, I can't do that. I've been waiting so long for this day!
+- **사이바 미도리**: I can't just give up like this.
+- **사이바 미도리**: Let's go check one more place...
+- **사이바 미도리**: This is our last chance. If it's not here...
+- **사이바 미도리**: Oh.
+- **사이바 미도리**: S-Sensei. It's here! The new limited edition Legend of Zinda!
+- **Girl**: Oh, found it! The Legend of Zinda! It's the last copy!
+- **Girl**: Oh, found it! The Legend of Zinda! It's the last copy!
+- **사이바 미도리**: Oh...
+- **사이바 미도리**: Hmm... Well.
+- **Girl**: Sir! Please, give that to me!
+- **사이바 미도리**: Yes. I've been really wanting to play it, but...
+- **사이바 미도리**: Yes. I've been really wanting to play it, but...
+- **사이바 미도리**: But I want to give other people a chance to enjoy it!
+- **사이바 미도리**: I'll be okay, Sensei.
+- **사이바 미도리**: (I was pretending to be mature, but I really wanted to play it! Waah...)
+- **사이바 미도리**: Huh? Sensei, what are you doing here?
+- **사이바 미도리**: This is...
+- **사이바 미도리**: The limited edition Legend of Zinda!
+- **사이바 미도리**: H-How did you get this?
+- **사이바 미도리**: An adult can stay up all night...
+- **사이바 미도리**: ...You did this for me, Sensei?
+- **사이바 미도리**: Oh, it's nothing, Sensei.
+- **사이바 미도리**: I'm so happy. Thank you for the gift, Sensei!
+
+5. **「사이바 미도리 인연 스토리 5」**
+
+- **사이바 미도리**: Wow. Awesome! So many games gathered in one place!
+- **사이바 미도리**: I know. Of course, I think the classic games are the best, but there are so many other games I've never played before...
+- **사이바 미도리**: Huh?
+- **사이바 미도리**: Sensei, look. There are plushes in the arcade machine.
+- **사이바 미도리**: Wait, these plushes are...
+- **사이바 미도리**: Jellies, from the classic game Fruitjellies!
+- **사이바 미도리**: Why are they in here, though? Are they trapped?
+- **사이바 미도리**: Oh, wait. I think I just realized something.
+- **사이바 미도리**: There's a story that's been passed down for generations in the Game Development Department.
+- **사이바 미도리**: It tells of a game where you become a UFO pilot and attack a bunch of innocent plushes...
+- **사이바 미도리**: Could that story have something to do with this?
+- **사이바 미도리**: Wow... Amazing.
+- **사이바 미도리**: Wow... Amazing.
+- **사이바 미도리**: Huh? Try it myself?
+- **사이바 미도리**: D-Do you really think I can do it?
+- **사이바 미도리**: Th-Then, let me try...
+- **사이바 미도리**: ― I've never taken an interest in anything other than retro games before...
+- **사이바 미도리**: ― I guess the arcade has lots of different kinds of games.
+- **사이바 미도리**: — I feel like I'm broadening my horizons. This was a good learning opportunity.
+- **사이바 미도리**: ― Thank you, Sensei.
+- **사이바 미도리**: ― For bringing me here...
+- **사이바 미도리**: ― I'm having so much fun thanks to you.
+- **사이바 미도리**: ― Oh, right...
+- **사이바 미도리**: ― Can you keep what happened today a secret from my sister?
+- **사이바 미도리**: ― Seriously, you can't tell her!
+- **사이바 미도리**: Oh, S-Sensei! I got it!
+- **사이바 미도리**: Wh-What am I supposed to do with this?!
+- **사이바 미도리**: Oh...
+- **사이바 미도리**: Oh...
+- **사이바 미도리**: It's a plush representing my memories with you, Sensei...
+- **사이바 미도리**: Every time I come to the arcade or see this plush, I'll think of you, Sensei.
+- **사이바 미도리**: Thank you, Sensei.
+- **사이바 미도리**: I'll cherish this plush.
+
+6. **「사이바 미도리 인연 스토리 6」**
+
+- **사이바 미도리**: Now, Sensei! It's staggered! Attack its core and cast—
+- **사이바 미도리**: HUUUUH?!
+- **사이바 미도리**: I did! My console just turned off!
+- **Repair Center Staff**: Hmm... This will be rough. I haven't seen a model this old in a while.
+- **Repair Center Staff**: You need some replacement parts, and I don't think they even MAKE compatible ones anymore.
+- **사이바 미도리**: So, there's...nothing you can do?
+- **Repair Center Staff**: Let me call the warehouse and check the stock. I'll be right back.
+- **사이바 미도리**: Thank you...
+- **사이바 미도리**: Yes. I thought we were going to get it for sure this time.
+- **사이바 미도리**: And it was so fun to play, just you and me. It was going to be so special...
+- **Repair Center Staff**: Thank you for waiting. But...they told me they couldn't find the part.
+- **사이바 미도리**: A-Are you sure?!
+- **Repair Center Staff**: Perhaps I can interest you in a new model? Look at all these new features!
+- **사이바 미도리**: But...
+- **사이바 미도리**: Really? But...what if I found some parts at a second-hand store and brought them in? Or 3D-printed something?
+- **Repair Center Staff**: Miss, since we're a company-run store, we cannot provide "unauthorized modification" services...
+- **Repair Center Staff**: And even if we were to do such thing, we're not responsible for unforeseen damage that could result in data loss.
+- **사이바 미도리**: D-Data loss?! No, anything but that! We're so close!
+- **Repair Center Staff**: How about this?
+- **Repair Center Staff**: This new model's on sale right now. If you purchase it here, I'll transfer your data for free, and upgrade the memory!
+- **사이바 미도리**: ...
+- **사이바 미도리**: I guess it's the only way...
+- **사이바 미도리**: Okay. I'll do that.
+- **사이바 미도리**: Please send the invoice to the Millennium Science School Game Development Department.
+- **사이바 미도리**: That's okay? Because it's for research, it should come out of the activity fund, right? Seminar would understand!
+- **Repair Center Staff**: Thank you, Miss. We'll get started. The transfer will take a while, so please hang tight!
+- **사이바 미도리**: Sure. Thanks for your help.
+- **사이바 미도리**: Yes? H-How did you know?!
+- **사이바 미도리**: Well... Now that I think about it, I guess it was obvious...
+- **사이바 미도리**: She got the pink, and I got the green. We swapped controllers...
+- **사이바 미도리**: Of course, hers broke down a while ago. I was so careful with mine...
+- **사이바 미도리**: ...But that's how it goes...
+- **사이바 미도리**: Don't make that face. It's not a big deal. It's normal, in fact. Electronics grow obsolete, after all...
+- **사이바 미도리**: I'm sometimes disappointed with how QUICKLY they go obsolete, but still...
+- **사이바 미도리**: The thing is, Momoi worked hard to buy me this...
+- **사이바 미도리**: ...so that she could corrupt me.
+- **사이바 미도리**: It's true!
+- **사이바 미도리**: I was just an artist, initially. I didn't even game, and now look at me!
+- **사이바 미도리**: Still, I play less than her, so I guess I'm not fully corrupted.
+- **사이바 미도리**: And when we DO play together, I beat her more than half the time. So, who's the real winner?
+- **사이바 미도리**: ...Momoi still impresses me. She never gives up, and is always bursting with energy...
+- **사이바 미도리**: She's so curious and never shies away from a challenge. Everything she does becomes a part of her story...
+- **사이바 미도리**: It's a very admirable mindset, and especially valuable for a creator.
+- **사이바 미도리**: That said, she's always causing trouble and dragging me into it!
+- **사이바 미도리**: ...Still, I admire her courage. I used to be so envious of video games and subconsciously avoided them.
+- **사이바 미도리**: Yes.
+- **사이바 미도리**: How should I put it?
+- **사이바 미도리**: She'd play, and I'd see such incredible artwork out of the corner of my eye.
+- **사이바 미도리**: I tried not to, but I always compared my drawings to the professionals'.
+- **사이바 미도리**: And, because I was even more of an amateur back then, it hurt all the more.
+- **사이바 미도리**: I now know that it was all part of the journey.
+- **사이바 미도리**: But at the time I couldn't stop thinking about how mediocre I was!
+- **사이바 미도리**: ...My sister's never been like that.
+- **사이바 미도리**: She reads her old work and talks about things she likes, never dwelling on what she finds embarrassing.
+- **사이바 미도리**: She's like that naturally, too. She says that life is short, so we should focus on all the good things it has to offer.
+- **사이바 미도리**: Ah, I'm sorry, Sensei! What am I going on about? It's just an old console...
+- **사이바 미도리**: Y-You did?
+- **사이바 미도리**: That's a relief...
+- **Repair Center Staff**: Thank you for waiting! The data transfer is complete! Here's your old console, and I've re-boxed the new one!
+- **사이바 미도리**: Okay. Thank you so much.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/사이바 미도리
+- https://bluearchive.wiki (원문 스토리 스크립트)

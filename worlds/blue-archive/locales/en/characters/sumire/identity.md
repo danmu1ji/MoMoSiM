@@ -1,0 +1,1 @@
+# Sumire\n\nSumire is the leader of the Training Club at Millennium Science School. One who is typically working on her training, a muscle-brained girl who believes all matters in the world can be solved with muscles and exercise.\n\nSource: https://bluearchive.wiki/wiki/Sumire\nReview status: source extracted; pending editorial review.\n

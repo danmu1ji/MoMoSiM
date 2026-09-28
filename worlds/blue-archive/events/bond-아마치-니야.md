@@ -1,0 +1,289 @@
+# 아마치 니야 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아마치 니야, 선생(샬레)
+
+1. **「아마치 니야 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아마치 니야 인연 스토리 2」**
+
+- **아마치 니야**: Oh my, Sensei? That was fast.
+- **아마치 니야**: I thought you'd take longer to get all the way out here. You must've really been rushing.
+- **아마치 니야**: I'm grateful.
+- **아마치 니야**: Nyahaha... I'm fine. Thanks for worrying.
+- **아마치 니야**: I lost them for now, but they're still looking for me.
+- **아마치 니야**: Hm? Do I know anything about them?
+- **아마치 니야**: Mmm, well...
+- **아마치 니야**: Nyahah... Not a clue!
+- **아마치 니야**: I mean, I know who they COULD be, but there're so many possibilities!
+- **아마치 니야**: Being president of the Yin-Yang Club makes you lots of enemies, political and otherwise.
+- **아마치 니야**: But whoever's behind it, they're going to think twice when they see Schale's Sensei with me.
+- **아마치 니야**: With that in mind...could I ask you to stick with me until it's safe?
+- **아마치 니야**: Nyahaha! I like your enthusiasm! Glad I asked.
+- **아마치 니야**: Well, let's get a move on, then. I have a place in mind...
+- **Concert Actor A**: Oh, wow! So strong!
+- **Concert Actor B**: Date Meowsamune is invincible! Invincible! InnnnVINcible!!
+- **아마치 니야**: Nyahaha, I'm glad we came to watch this.
+- **아마치 니야**: The festival's grand finale. The merchant guild said they went all-out for it.
+- **아마치 니야**: And they weren't lying!
+- **아마치 니야**: ...Hm, Sensei? Did you...not like it?
+- **아마치 니야**: I thought it was pretty good, but...your face is a little hard to read right now.
+- **아마치 니야**: I mean, yeah, they took some liberties with the history, but it's kabuki! Dramatization's all part of the charm...
+- **아마치 니야**: ...which you might not know, if you haven't seen a kabuki play before.
+- **아마치 니야**: It's a little confusing to watch at first, but it's really good once you get a taste for it.
+- **아마치 니야**: Oh, I see. That's what you were worried about.
+- **아마치 니야**: Let me put it this way: have you ever heard the saying, "if you want to hide a tree, plant it in the forest"?
+- **아마치 니야**: Hyakkiyako is packed with people. In a crowd this big, we blend right in.
+- **Pursuer A**: Over here! She went this way!
+- **Pursuer B**: Let's get her before we lose her again!
+- **아마치 니야**: Ahaha... Then again, we might've stayed here too long.
+- **아마치 니야**: Moving right along, then...
+- **Attraction Actor**: Ha ha! Who's the next challenger?
+- **Tourist A**: Phew! I'd heard about this performance, but being part of it is a whole different thing.
+- **Tourist B**: Gotta love Hyakkiyako. This is worth the trip and then some.
+- **아마치 니야**: See, it's an interactive attraction. You could join in, Sensei. Show people how cool you are...
+- **아마치 니야**: There's a prize, though. It's a...super rare Mushiqueen card...?
+- **아마치 니야**: Oh, right, from that card game people seem to like...
+- **아마치 니야**: ...I mean, the amazingly popular card game trending across all demographics!
+- **아마치 니야**: Mmm, yeah, but that's probably not YOUR thing, Sensei...
+- **아마치 니야**: Nyahaha?!
+- **아마치 니야**: Oh, my...that was quite a reaction.
+- **아마치 니야**: Not what I expected, but...
+- **아마치 니야**: ...hey, might as well enjoy yourself, nyahaha!
+- **Pursuer A**: There, over there!
+- **아마치 니야**: Oops, we've gotta go, Sensei. This way.
+- **아마치 니야**: Ahh... What a nice breeze...
+- **아마치 니야**: Did you know? You can smell different flowers here depending on the season. Cherry blossoms in the spring, chrysanthemums in summer, and then in other seasons, it's...
+- **아마치 니야**: ...I'm ruining the mood, aren't I? Maybe I should just let you take in the experience!
+- **아마치 니야**: ...I don't know why I started talking like a tour guide.
+- **아마치 니야**: Something about this place just makes Hyakkiyako students a lot more talkative.
+- **아마치 니야**: And I guess I'm just another Hyakkiyako student, as far as that goes... Just saying... Nyahaha...
+- **아마치 니야**: Hmm? It's because people like Hyakkiyako...?
+- **아마치 니야**: Fufu, that's one explanation. Nyahaha! Great answer, actually!
+- **Pursuer A**: Found you!
+- **Pursuer B**: You're not getting away this time!
+- **아마치 니야**: Nyahaha! That's our Sensei! Ready with a cool one-liner...
+- **아마치 니야**: ...but you don't need one right now.
+- **아마치 니야**: Ahem, hello, my juniors from the Yin-Yang Club.
+- **아마치 니야**: As you can see here, I was guiding Sensei, who came to visit us in Hyakkiyako.
+- **아마치 니야**: I suppose you could say I was handling an external task.
+
+3. **「아마치 니야 인연 스토리 3」**
+
+- **Yin-Yang Club Member A**: Niya? She's fine, why?
+- **Yin-Yang Club Member A**: She's dealing with visitors inside, I can let you know once she's... Actually, would you like to come in and observe the club in session?
+- **Yin-Yang Club Member A**: Not even our president could slack off while you're watching, Sensei, heehee...
+- **아마치 니야**: Nyahaha! Everyone's telling me the festival was a great success, beyond expectations! I'm very impressed!
+- **Merchant Guild President**: Haha, it was nothing! Those videos on SNS really brought in the crowds!
+- **아마치 니야**: So, what brings a busy merchant guild member to the Yin-Yang Club?
+- **Merchant Guild President**: Ah, it's a bit embarrassing to say, but we're kind of victims of our own success here.
+- **Merchant Guild President**: The streets are a mess with all the leftover trash...and lots of decorations ended up damaged...
+- **아마치 니야**: So you want to borrow our club's resources to help clean up.
+- **Merchant Guild President**: Yes, exactly! Since the Yin-Yang Club helps people out, right?
+- **아마치 니야**: Mmm, I'd love to, but a merchant guild assignment, that'd be hard to budget for...
+- **Merchant Guild President**: Well, if you could be flexible with that part... We're very shorthanded right now. Even just a few club members would be a huge help.
+- **아마치 니야**: ...I really am sorry, but that's not in the scope of our business.
+- **Merchant Guild President**: *sigh* What are we going to do...?
+- **Origami Club Member A**: H-Hello! Are you the Yin-Yang Club President?
+- **아마치 니야**: Amachi Niya, yes. Despite what you may have heard, I'm still the president. And...wow, you're quite the honored guest, aren't you?
+- **아마치 니야**: They say the Origami Club is full of fine artisans, who focus on origami day and night in their mountain club room...
+- **Origami Club Member A**: H-Hmm? Artisans? Y-You flatter us. We just do origami because we like it... Ehehe.
+- **아마치 니야**: So, what brings a lady of your stature to the Yin-Yang Club?
+- **Origami Club Member A**: Ah, right! The thing is...we want to change our club room.
+- **Origami Club Member A**: Lately, we've been hearing strange noises there, and the outside is always so dark at night.
+- **Origami Club Member A**: There are even rumors of ghosts! The whole club is freaked out, and all our activities are on hold.
+- **아마치 니야**: I see, I see. That does sound troublesome.
+- **아마치 니야**: Well, let me spare you any false hope: we can't help you.
+- **Origami Club Member A**: Wh-Why not?!
+- **아마치 니야**: Let's put it this way: who do you want me to kick out of THEIR club room so that you can use it?
+- **Origami Club Member A**: W-Well, um...
+- **아마치 니야**: ...Yeah, see the problem?
+- **Origami Club Member A**: I do.
+- **아마치 니야**: The Yin-Yang Club can't just swap people's club rooms around.
+- **아마치 니야**: If there's another club that WANTS to trade with you, that'd be a different story, but it'd also be between you and them, not us.
+- **Origami Club Member A**: Now what do we do...?
+- **Extra Mouryo**: Hey! You've got some explaining to do!
+- **Extra Mouryo**: We worked our butts off for the festival, and you haven't paid us a dime yet!
+- **Extra Mouryo**: We're extras, yeah, but we still take pride in our work! You think you can just ignore us?
+- **아마치 니야**: ...Isn't your contract with the merchant guild, not us?
+- **Extra Mouryo**: H-Huh? But doesn't the Yin-Yang Club solve this sort of thing?
+- **아마치 니야**: We solve what's in our jurisdiction. That does not include collecting unpaid compensation for third-party contractors, unfortunately.
+- **아마치 니야**: Wow, sorry to make you wait.
+- **아마치 니야**: I didn't think you'd get here so fast. And, um, pardon me for everything you just saw.
+- **아마치 니야**: Hm? You mean work? Pretty much.
+- **아마치 니야**: Traditionally speaking, the Yin-Yang Club mediates conflicts in Hyakkiyako...
+- **아마치 니야**: Oh, are you asking about our process?
+- **아마치 니야**: Well, I'm sure you visited plenty of different schools.
+- **아마치 니야**: You must know all kinds of student councils. Maybe ours is a little bit different than what you're used to.
+- **아마치 니야**: Hmm, this is going to be a boring story.
+- **아마치 니야**: What do you say we go for a walk first?
+- **아마치 니야**: Maybe the scenery will help make the history lesson a little more interesting.
+- **아마치 니야**: I was stuck in a tragedy, to be precise. The story of a girl in her prime, trapped at work while the best years of her life all slipped away.
+- **아마치 니야**: But now that you're here, everything's fine. Nyahahaha!
+- **아마치 니야**: Nyaha...yeah, I'm sorry you had to see this.
+- **아마치 니야**: The festival was a huge success, bigger than anybody planned for. The cleaning staff couldn't keep up with the number of visitors.
+- **아마치 니야**: But they'll get it all cleaned up eventually.
+- **아마치 니야**: They all work so hard, after all. Nyahaha!
+- **아마치 니야**: Oh, right, the history lesson. Where to start...?
+- **아마치 니야**: Ah, I know. It's an old story, so let's start it like this...
+- **아마치 니야**: Once upon a time...
+- **아마치 니야**: ...when Hyakkiyako was not yet Hyakkiyako...
+- **아마치 니야**: ...there were countless academies, all of them embroiled in a cauldron of conflict.
+- **아마치 니야**: Until finally, they all stopped fighting and gathered to create the Hyakkiyako we know today. And peace ruled for generations.
+
+4. **「아마치 니야 인연 스토리 4」**
+
+- **Stall Merchant A**: I heard the Mouryos were causing trouble again.
+- **Stall Merchant B**: We've already got our hands full! What's their problem now?!
+- **Stall Merchant A**: I don't know. They're demanding money all of a sudden...
+- **Stall Merchant B**: What are they, trying to rob us? I thought they liked festivals, at least...
+- **Origami Club Member A**: Waaah! Why doesn't anybody want to change club rooms with us?
+- **Origami Club Member B**: Well, between being out in the middle of nowhere and all those ghost stories...
+- **Origami Club Member B**: We actually did get a couple of offers, but their rooms were too small to put up our origami works.
+- **Origami Club Member A**: We're screwed! Our club won't have anyplace to do anything. We'll have to disband! Waaah!
+- **Origami Club Member B**: Stop crying! You're going to make ME cry next!
+- **아마치 니야**: I see, I see... Hmm. A lot's happened while I stepped out.
+- **아마치 니야**: What do you mean, "What did I expect?"
+- **아마치 니야**: Nyaha, it's not like I can see the future, Sensei. Come on.
+- **아마치 니야**: Fufu... Okay, you want the truth?
+- **아마치 니야**: Yeah. That whole misunderstanding between Mouryo and the merchant guild...if I'd set up a meeting between them, they PROBABLY could have avoided that.
+- **아마치 니야**: And I already know a few clubs that might be willing to switch with the Origami Club.
+- **아마치 니야**: Those are solvable problems, I know.
+- **아마치 니야**: But I don't get involved, and I already told you why.
+- **아마치 니야**: The Yin-Yang Club is all about protecting harmony. If we start playing favorites, that's not harmonious.
+- **아마치 니야**: Plus, you know...
+- **아마치 니야**: ...it's more fun to have some commotion around, don't you think?
+- **아마치 니야**: Ah, about that...
+- **아마치 니야**: ...my problem is it's hard to keep coming up with excuses. But you make that a whole lot easier, Sensei.
+- **아마치 니야**: Huh?
+- **아마치 니야**: ― N-Nyahaha...
+- **아마치 니야**: ― Um, Sensei?
+- **아마치 니야**: ― Oh wow, that's a scary face...
+- **아마치 니야**: ― It doesn't suit you, you know?
+- **아마치 니야**: ― ...Are you actually angry?
+- **아마치 니야**: ― I mean, well,
+- **아마치 니야**: ― I can already tell but, aha...
+- **아마치 니야**: ― So, um...
+- **아마치 니야**: ― Yeah, I... I apologize...
+- **아마치 니야**: ― But still, how should I put this...?
+- **아마치 니야**: ― We all have our reasons for what we do...
+- **아마치 니야**: ― Eh?! No, no!
+- **아마치 니야**: ― I'm not making excuses!
+- **아마치 니야**: ― I'm self-reflecting! Uh-huh, uh-huh!
+- **아마치 니야**: ― Yeah... I'm totally self-reflecting right now.
+- **아마치 니야**: ― So, how about you forgive me this one time?
+
+5. **「아마치 니야 인연 스토리 5」**
+
+- **Extra Club Member A**: Hey, we're done installing this over here. We can leave it like this, right?
+- **Origami Club Member A**: R-Right! If you're sure it's okay!
+- **Origami Club Member A**: Putting our work in the street, where people are walking around... I hope it doesn't get in anybody's way...
+- **Merchant Guild President**: No, no, it's perfectly fine! We were stuck thinking about how to make this street look pretty again.
+- **Merchant Guild President**: Starting today, it's reborn as Origami Street! If word gets around and it becomes famous, we could even hold an origami festival sometime!
+- **Origami Club Member A**: An origami festival... Heehee, wow, I've never felt seen like this before.
+- **Extra Club Member A**: Sorry to butt in, guys, but about our compensation...
+- **Merchant Guild President**: Right, we'll pay it out, of course. For the cleanup you're doing now, AND for all your work back at the festival.
+- **Merchant Guild President**: I'm sorry our staff was so rude about that. They took you for random Mouryos. They didn't know you were part of an official club.
+- **Extra Club Member A**: Well, they weren't exactly wrong, seeing as how we used to be "random Mouryos."
+- **Extra Club Member A**: But now, of course, we're the Extra Club! And we appreciate you recognizing all our hard work.
+- **Merchant Guild President**: It's the least we can do to make up for your delayed payday!
+- **Merchant Guild President**: We look forward to working with you next time too!
+- **Extra Club Member A**: Of course!
+- **Origami Club Member B**: Um, are you sure you want to switch club rooms with us?
+- **Origami Club Member B**: It's way out in the middle of nowhere, and there are rumors of ghosts showing up...
+- **Extra Club Member B**: Bah, Mouryos like us aren't scared of ghosts! ...Wait we're not Mouryos anymore, are we? Anyway!
+- **Extra Club Member B**: We're looking for a place where we can be rowdy and loud, and not get complaints every time we practice!
+- **아마치 니야**: So that's what happened...
+- **아마치 니야**: See? Everything worked out great.
+- **아마치 니야**: Nope. I told you, I can't see the future or anything.
+- **아마치 니야**: You saw for yourself, I did absolutely nothing.
+- **아마치 니야**: So if everything worked out, that's just...what do you call it? Serendipity.
+- **아마치 니야**: Things happened to be at the right place at the right time, so it all just kind of came together on its own.
+- **아마치 니야**: I guess you could say that's the harmony of yin-yang, nyahaha...
+- **아마치 니야**: Hmm, you seem...unsatisfied with that answer.
+- **아마치 니야**: Let me ask you again, Sensei: what do you think of Hyakkiyako?
+- **아마치 니야**: Right? It's charming. That's what it is.
+- **아마치 니야**: Beautiful nature in all four seasons, fun festivals day after day, students focused on the things they want to do...
+- **아마치 니야**: How do you think it all came together?
+- **아마치 니야**: With a lot of luck, nyahaha!
+- **아마치 니야**: Just like what happened this time around, amazing coincidences piled up in our favor.
+- **아마치 니야**: ...You still don't quite believe me, do you?
+- **아마치 니야**: All right. If you want me to give credit to SOMEBODY...
+- **아마치 니야**: Let's say it's all thanks to everyone doing their part behind the scenes.
+- **아마치 니야**: ...All's well that ends well, right?
+- **아마치 니야**: Nyahaha... Aaanyway...
+- **아마치 니야**: Since everything's taken care of itself, and everybody's happy now...
+- **아마치 니야**: ...how about we skip the lecture for today...?
+- **아마치 니야**: Nyaha...?
+- **아마치 니야**: Nyaha?!
+
+6. **「아마치 니야 인연 스토리 6」**
+
+- **아마치 니야**: Sensei.
+- **아마치 니야**: I knew you'd come.
+- **아마치 니야**: Welcome back to Hyakkiyako.
+- **아마치 니야**: Oh, don't call it that. I'm just seizing an opportunity.
+- **아마치 니야**: And at the risk of ruining the moment, I'll go ahead and say it:
+- **아마치 니야**: I'm going to take over the world.
+- **아마치 니야**: I know. Sounds unrealistic, doesn't it? But I've made all kinds of preparations.
+- **아마치 니야**: For example...remember what I said? About how the Yin-Yang Club can't lead Hyakkiyako?
+- **아마치 니야**: About how we're irrelevant and have no real power?
+- **아마치 니야**: Even the Gehenna Prefect Team would agree with me on that, and they're flawless, aren't they?
+- **아마치 니야**: But where did that idea come from? Who first started saying it?
+- **아마치 니야**: Nyaha... I did.
+- **아마치 니야**: The most dangerous blade is the one you can't see.
+- **아마치 니야**: Show them that your sword is sheathed and peace-bonded, and they'll never even look for the dagger.
+- **아마치 니야**: I've been consolidating power under everyone's noses. Even yours, Sensei.
+- **아마치 니야**: All the power of Hyakkiyako, in one place. No one can stop us now.
+- **아마치 니야**: Gehenna and Trinity are busy fighting each other. Millennium is...heh, Millennium.
+- **아마치 니야**: The Black Dragon has locked its gate for fear of the storm, and the Red Bear is made up of bickering amateurs.
+- **아마치 니야**: Let's not even mention Valkyrie.
+- **아마치 니야**: The only possible obstacle I have is the General Student Council...or, to be more precise...
+- **아마치 니야**: Schale's [USERNAME] Sensei.
+- **아마치 니야**: Ah, there's that scary face again. Don't worry. I didn't bring you here to fight.
+- **아마치 니야**: Violence is crude and simple. The superior strategist wins without it.
+- **아마치 니야**: I've watched you for a long time, Sensei. I know how capable you are. There's no need for us to oppose each other, is there?
+- **아마치 니야**: Pardon the cliché, but wouldn't you rather join us instead? You'll find my terms quite reasonable, I assure you.
+- **아마치 니야**: ...Did you come all the way here to lecture me?
+- **아마치 니야**: I see. I must have blinded you with all this.
+- **아마치 니야**: Regardless, I'm no longer your student, and you're no longer Sensei to me.
+- **아마치 니야**: You and I are either partners or enemies now.
+- **아마치 니야**: And if you choose to be my enemy...
+- **아마치 니야**: ...I WILL pull this trigger. Does that clarify things?
+- **아마치 니야**: ...Very well. You seem sincere enough. I'll take you at your word.
+- **아마치 니야**: How disappointing...
+- **아마치 니야**: ...Ta-da!
+- **아마치 니야**: Did you like my act, Sensei? Nyahaha...
+- **아마치 니야**: Kind of shook you up, didn't it?
+- **아마치 니야**: Don't worry. It was all just a little skit I put together.
+- **아마치 니야**: I don't plan on taking over anything, and that video I showed you was fake.
+- **아마치 니야**: I wouldn't get anything out of a war. Hyakkiyako's main income is built on tourism. Who'd want to pay to tour a war zone?
+- **아마치 니야**: So I bet you're wondering why I said all that just now.
+- **아마치 니야**: Just for fun, basically. I knew you'd react to it.
+- **아마치 니야**: I've called you out here multiple times, and you've always come running. Even for the most trivial things.
+- **아마치 니야**: Wouldn't it be a huge twist if I'd just been using you the whole time, in some twisted game?
+- **아마치 니야**: Fun fact: if I'd wanted to, I COULD have done everything I just talked about.
+- **아마치 니야**: Nyahaha! True, I'm just speaking hypothetically.
+- **아마치 니야**: Or...am I?
+- **아마치 니야**: Am I REALLY not capable of all those things?
+- **아마치 니야**: ...I SAID "hypothetically," didn't I?
+- **아마치 니야**: Real talk, if I wanted to, I could have built the Yin-Yang Club into something more powerful.
+- **아마치 니야**: Maybe not "threat to Kivotos" powerful, but definitely enough to control all the other clubs here in Hyakkiyako.
+- **아마치 니야**: So there's no question of whether I COULD have or not. I could have, for sure.
+- **아마치 니야**: Nyaha...?
+- **아마치 니야**: ...You're saying, because I like Hyakkiyako, I'd never do anything to harm it...?
+- **아마치 니야**: And so you never bought the act in the first place...?
+- **아마치 니야**: ...
+- **아마치 니야**: Nyahaha! Well, good point!
+- **아마치 니야**: Wow, maybe I'm just dumb for trying to put one over on you.
+- **아마치 니야**: But I definitely got a reaction out of you, at least.
+- **아마치 니야**: Maybe I should be more on the level with you from here on out.
+- **아마치 니야**: *sigh* Now that I think about it, yeah, I'm sorry. I dragged you out here at this hour, just to watch me go back and forth about myself...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아마치 니야
+- https://bluearchive.wiki (원문 스토리 스크립트)

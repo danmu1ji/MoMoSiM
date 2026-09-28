@@ -1,0 +1,313 @@
+# 코사카 와카모 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 코사카 와카모, 선생(샬레)
+
+1. **「코사카 와카모 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「코사카 와카모 인연 스토리 2」**
+
+- **Helmet Gangster A**: Hey! What are you gonna do about my ice cream?!
+- **Citizen B**: Ahhh! Wh-What are yelling at me for?!
+- **Helmet Gangster B**: She dropped her ice cream because YOU sneezed out of nowhere!<br/>Do you have any idea how much she was looking forward to it?!
+- **Helmet Gangster A**: Take responsibility! You need to reimburse me for depriving me of my<br/>Vanilla Fruit Giga Jumbo Deluxe Soft Ice Cream Mk.02!
+- **Citizen B**: P-Please stop being so unreasonable! All I did was sneeze.
+- **Helmet Gangster A**: And who are you supposed to be?
+- **Helmet Gangster B**: Hold up. That's the Sensei person from Schale everyone talks about.
+- **Helmet Gangster A**: So you're that famous Sensei, huh? And now you're sticking your nose<br/>into our business?
+- **Helmet Gangster A**: Fine. Then YOU'LL be the one to pay for my ice cream!
+- **Helmet Gangster A**: Huh?! Don't play games with me. If you can't pay for it, then—
+- **Citizen B**: M-My hero! Thank you so much!
+- **Citizen B**: I was nearly assaulted just for sneezing.
+- **Citizen B**: I knew I could count on Schale's famous Sensei!
+- **Citizen B**: It must be my allergies acting up. It is that time of year...
+- **Citizen B**: Ah... Ah...
+- **Citizen B**: Achoo!
+- **Citizen B**: Not again! All I did was sneeze!
+- **Part-Timer A**: Hey, you can't go through here! This is a construction zone!
+- **Part-Timer A**: The place is rigged for controlled demolition, so—
+- **Part-Timer A**: What the...?! Did our explosives get set off?!
+- **Thug 2**: Well, well. If it isn't Schale's Sensei.
+- **Thug 3**: *giggle* Good seein' ya, Sensei!
+- **Thug 1**: You look so flustered. Something up?
+- **Thugs**: GAHHH!
+- **???**: Heehee. All the interlopers are finally out of our way.
+- **코사카 와카모**: Oh? You knew the entire time?
+- **코사카 와카모**: Oh? You knew the entire time?
+- **코사카 와카모**: Could that mean...
+- **코사카 와카모**: ...you were only leading me somewhere we could be alone?
+- **코사카 와카모**: I... I...can't hold myself back for another second!
+- **코사카 와카모**: ― I'm so happy!
+- **코사카 와카모**: ― I, Wakamo,
+- **코사카 와카모**: ― did everything I could to bring us together, my darling.
+- **코사카 와카모**: ― How I've longed to express
+- **코사카 와카모**: ― these feelings to you again...
+- **코사카 와카모**: ― Surely, we owe our reunion to
+- **코사카 와카모**: ― the red thread of fate that binds us together.
+- **코사카 와카모**: ― Ah... I... When you look at me like that,
+- **코사카 와카모**: ― even I can't help but blush...
+- **코사카 와카모**: ― I can't hold back my pent up desires
+- **코사카 와카모**: ― when I feel your gaze upon me.
+- **코사카 와카모**: ― However...if that is what you really want...then, okay. ♥
+- **코사카 와카모**: ― Come here. Closer...
+- **코사카 와카모**: ― Just a little closer. Right by my side. Heehee. ♥
+- **코사카 와카모**: That's it, Sensei. Just a little closer.
+- **코사카 와카모**: *gasp*!
+- **코사카 와카모**: Y-Yes, but...
+- **코사카 와카모**: All I wanted was to see you again!
+- **코사카 와카모**: B-But, the feelings in my heart...!
+- **코사카 와카모**: I felt like it was going to burst out of my chest.<br/>I had no other choice.
+- **코사카 와카모**: Please believe me...
+- **코사카 와카모**: ...!
+- **코사카 와카모**: No, Sensei! Anything but that!
+- **코사카 와카모**: I don't know what I would do with myself if you gave up on me...!
+- **코사카 와카모**: I'm sorry, I'm sorry, I'm sorry!<br/>Please forgive me, Sensei!
+- **코사카 와카모**: I'll never do anything to disappoint you again, so please!
+- **코사카 와카모**: Please forgive me. I'll do anything!
+- **코사카 와카모**: Sensei...
+- **코사카 와카모**: Ah. Here they come again to interrupt us.
+- **코사카 와카모**: Okay, Sensei. I vow to you that I will never do anything to disappoint you ever again.
+
+3. **「코사카 와카모 인연 스토리 3」**
+
+- **Clerk**: Hello! Thank you all for shopping with us today!
+- **Clerk**: To mark our store's 15th anniversary, we're offering a special discount on our highest-grade premium wagyu beef!
+- **Clerk**: We only have 100 packs in stock, and it's first come, first served.<br/>Don't miss out on this opportunity!
+- **Clerk**: The sale starts NOW!
+- **Clerk**: Next! Here you are. Thank you for shopping with us... Next!
+- **Clerk**: Here you are. Our very last pack!
+- **Suspicious Customer**: Hmph.
+- **Suspicious Customer**: I'll be taking that!
+- **Clerk**: Oh! B-But, sir...!
+- **Suspicious Customer**: "Cut," you say?
+- **Suspicious Customer**: No. I merely passed you because you were taking too long.
+- **Suspicious Customer**: So what if I started out behind you? It's first come, first served.<br/>You heard the manager.
+- **Suspicious Customer**: All's fair in beef and war.
+- **Suspicious Customer**: I don't need your remarks! I have my beef, and that's all I need!
+- **Suspicious Customer**: You needn't fear. This beef is much better off with me, where it will get the proper cooking it deserves! Ahahaha!
+- **Suspicious Customer**: Now, if you'll excuse me.
+- **Clerk**: Oh, no!
+- **Clerk**: A-Are you all right?
+- **Clerk**: Can you hear me?! Sir...!
+- **Clerk**: Someone call a doctor! He's completely out cold!
+- **Clerk**: We need a doctor over here!
+- **Clerk**: Phew. He should be in good hands now.
+- **Clerk**: It would be a shame to let the last pack go to waste.<br/>Would you still like it?
+- **Thug 3**: The food here is as great as I heard!
+- **Thug 2**: One more! I'll have another!
+- **Thug 1**: I'm gonna mix a jungle juice at the drink bar!
+- **Customer A**: Those three over there are so noisy.
+- **Customer B**: Shhh! Be quiet, or they'll hear you.
+- **Customer C**: This sucks. I came all the way here after I heard about this place,<br/>but I can't even eat in peace.
+- **Thug 3**: Hahahaha!
+- **Thug 2**: Heeheehee!
+- **Thug 1**: Ahahahaha!
+- **Clerk**: E-Excuse me, ladies. We've received complaints from our other customers.<br/>Would it be too much trouble to keep down ever so slightly?
+- **Thug 3**: Whaaat? You think we're being too loud?
+- **Thug 2**: How's about we stick your speakers where the sun don't shine,<br/>ya bucket of bolts.
+- **Thug 1**: Then we'll see who's REALLY loud when yer screamin' in pain!
+- **Clerk**: *gasp* P-Please! Anything but...
+- **Thug 3**: Huh?!
+- **Thug 3**: Aren't you that...?
+- **Thug 3**: Sensei from Schale!
+- **Thug 2**: You were there when we got blasted the other day!<br/>Don't think we've forgotten about that!
+- **Thug 1**: What do you say, ladies? Now's the perfect time to get our reven—
+- **Clerk**: Oh, my GOODNESS! Are you three all right?!
+- **Customer A**: Th-Those were gunshots...
+- **Customer B**: Where did they come from?
+- **Convenience Store Part-Timer**: Wh-What's going on?!
+- **Helmet Gangster A**: Hahaha! This is a stick up!
+- **Helmet Gangster B**: Empty the cash register, and do it now!
+- **Helmet Gangster A**: Ahhhhhh!
+- **Helmet Gangster B**: I-I've been hit!
+- **코사카 와카모**: Heehee. It's me, Sensei. Wakamo. I just couldn't keep myself away.
+- **코사카 와카모**: I had such a wonderful time with you yesterday, even if we didn't get to talk much.
+- **코사카 와카모**: Thinking back on it, I couldn't resist the urge to come see you again.<br/>Though I know you don't have the day off from work this time.
+- **코사카 와카모**: Nevertheless, I couldn't keep myself away! ♥
+- **코사카 와카모**: Hmm? Yes, I did.
+- **코사카 와카모**: Don't you remember?
+- **코사카 와카모**: I still get butterflies in my stomach thinking about how much time we spent together yesterday!
+- **코사카 와카모**: Ah, I see.
+- **코사카 와카모**: I'd be happy to. Anything for you, Sensei.
+- **코사카 와카모**: We had quite an eventful day yesterday, though it was nice to go on our first date on your much needed day off.
+
+4. **「코사카 와카모 인연 스토리 4」**
+
+- **???**: Heehee. You're here early, Sensei.
+- **???**: Why the confused look? It's as though you don't even recognize me.
+- **???**: *sigh* I should come to expect it by now, but every time I see you for the first time after a while, an indescribable pain grips my heart.
+- **???**: It feels like it could burst out of my chest at any moment, and butterflies fill my stomach.
+- **???**: I can hardly control myself or bear to be out of your arms for a moment longer.
+- **코사카 와카모**: Heehee. Yes, my darling. It's me: Your one and only. ♥
+- **코사카 와카모**: Do I?
+- **코사카 와카모**: I suppose this is different than my usual attire.
+- **코사카 와카모**: I wanted to wear something special for our second date.
+- **코사카 와카모**: Besides, I feared my usual attire would draw too much unwanted attention.
+- **코사카 와카모**: It wouldn't be an issue if I was only following your lead as I was last time.
+- **코사카 와카모**: However, if we'll be going everywhere today locked arm in arm, then it's only natural I'd want to look my best while I'm by your side.
+- **코사카 와카모**: Of course. I care about you more than anyone in this world. ♥
+- **코사카 와카모**: Now, we shouldn't waste a single moment together, Sensei.<br/>I want everything today to be perfect!
+- **코사카 와카모**: Shall we be off? I've been looking forward to this for so long.
+- **코사카 와카모**: Here we are. I booked a table for two just for us.
+- **코사카 와카모**: Are you surprised?
+- **코사카 와카모**: Maybe you were expecting something more traditional.
+- **코사카 와카모**: That kind of atmosphere may be good for our next date, then...
+- **코사카 와카모**: I got the idea to make a reservation here from a dating advice book I've been reading. It said bringing a love interest to high-end establishments like this shows how much you value them.
+- **코사카 와카모**: Never mind that, Sensei. Let's find our table.
+- **Manager**: Ah! I'm terribly sorry!
+- **코사카 와카모**: I beg your pardon?
+- **Manager**: I regret to inform you that we had to close early for the day due to unforeseen circumstances.
+- **코사카 와카모**: But...I already made a reservation.
+- **Manager**: M-My apologies. We received last-minute notice that a special guest would be visiting today, and...
+- **Manager**: Yes. Meat & Potatoes, the famous viral food critic, is visiting our establishment.
+- **Manager**: Our management has ordered us to provide the perfect meal to bolster our restaurant's reputation online.
+- **Manager**: This is our big chance to go viral as well!
+- **Manager**: I'm terribly sorry, but hopefully you can see why we had no choice but to close down early for the day and cancel all reservations.
+- **Manager**: N-Naturally, we don't intend to turn you away empty-handed.
+- **Manager**: Please accept this dining voucher!
+- **Manager**: Present this voucher next time you visit, and you'll be treated to the finest dining experience we have to offer—free of charge!
+- **코사카 와카모**: A-Ahem.
+- **코사카 와카모**: Our restaurant reservation may have gone awry...
+- **코사카 와카모**: ...but fear not, Sensei.
+- **코사카 와카모**: I thoroughly researched everything on today's itinerary and found the absolute best desserts for us to savor together.
+- **코사카 와카모**: I read in the local guidebook I'm holding that this cafe offers a special couples-only dessert menu.
+- **코사카 와카모**: Doesn't that sound lovely?
+- **Clerk**: Pardon me, but I couldn't help but overhearing.<br/>Did you say "couples-only dessert menu"?
+- **Clerk**: I'm sorry, but we stopped offering that menu sometime last year.<br/>May I take a look at that guidebook you have?
+- **Clerk**: Oh, this thing. I believe our owner wrote this last year for fun.
+- **Clerk**: Hahaha!
+- **Clerk**: H-Haha...ha. P-Please excuse me.
+- **Clerk**: I didn't think anyone still read guidebooks to decide where to go on dates.<br/>What a weird—er, I mean...interesting—way of doing things. Haha.
+- **Clerk**: Anyway, that menu has been discontinued. Sorry about the confusion.
+- **코사카 와카모**: Okay, then. Let's hurry, Sensei.
+- **코사카 와카모**: I'm sure this time...
+- **코사카 와카모**: ...NOTHING will impede us from enjoying ourselves!
+- **코사카 와카모**: All we have to do is board the train that arrives in two minutes and ride it to the nearby theme park. There, we'll catch the performance—
+- **코사카 와카모**: ...?
+- **Thug 3**: Watch where you're going!
+- **Thug 2**: Who the hell do you think you are, princess?<br/>You lookin' for a fight?!
+- **Thug 1**: Maybe we should teach you a lesson!
+- **Thug 3**: Huh? How am I supposed to stay calm when she nearly dislocated my shoulder?!
+- **Thug 2**: It was a close call!
+- **Thug 1**: Really close!
+- **Thugs**: Huh?
+- **코사카 와카모**: Pardon me. I should have paid closer attention to where I was going.
+- **코사카 와카모**: I HOPE you can forgive me...
+
+5. **「코사카 와카모 인연 스토리 5」**
+
+- **코사카 와카모**: How can you lie in front of a total stranger like that and expose your belly?
+- **코사카 와카모**: I'll just have to teach you a lesson and show you what happens when you let your guard down.
+- **코사카 와카모**: Take this! How do you like that, hmm...? How about here?<br/>Do you like it when I scratch you here?
+- **코사카 와카모**: Heehee. Well too bad.
+- **코사카 와카모**: I feel like scratching the back of your neck instead.
+- **코사카 와카모**: You can cry and pout all you want, but I'm the one who's in charge of the petting here.
+- **코사카 와카모**: What...?
+- **코사카 와카모**: S-Sensei?!
+- **코사카 와카모**: Oh. I was just...playing with this cat!
+- **코사카 와카모**: I-It's not what it looks like!
+- **코사카 와카모**: I-Is it?
+- **코사카 와카모**: Oh. I suppose I've never told you how much I like animals.
+- **코사카 와카모**: Heehee. The truth is, I adore them.
+- **코사카 와카모**: I find them a lot easier to get along with than other people.<br/>They don't talk, and can't say hurtful things...
+- **코사카 와카모**: They're never ungrateful for attention, nor are they quick to betray.
+- **코사카 와카모**: It's a little sad how easy it is for them to reciprocate that kindness compared to the rest of us.
+- **코사카 와카모**: I just can't help myself around them.
+- **코사카 와카모**: I love how pure they are. Heehee.
+- **코사카 와카모**: Hmm?
+- **코사카 와카모**: Hmm?
+- **코사카 와카모**: Why so glum? Is something wrong, Sensei?
+- **코사카 와카모**: You feel like you disappointed me?
+- **코사카 와카모**: You feel like you disappointed me?
+- **코사카 와카모**: Oh. Was I making you think I was referring to you?
+- **코사카 와카모**: Please, I would never do that! Of course I have complete trust in you.
+- **코사카 와카모**: I never even considered that you could betray me...<br/>The thought never crossed my mind!
+- **코사카 와카모**: The only thing I'm disappointed by is that you misunderstood me.
+- **코사카 와카모**: It's too painful, thinking of the possibility that I'd even consider you abandoning me like that.
+- **코사카 와카모**: You were late. So what? These things happen.<br/>It was only six hours, but who's counting?
+- **코사카 와카모**: Certainly not me! My heart has been pounding all day because I was so excited to spend time with you!
+- **코사카 와카모**: Nonsense. Come closer and stroke my cheek.<br/>Or would you rather I stroke yours?
+- **코사카 와카모**: Heehee. I don't mind waiting as long as I get to spend time with you.<br/>I can endure as long as it takes. ♥
+- **코사카 와카모**: How could I ever think you betrayed me? Please don't take what I said the wrong way.
+- **코사카 와카모**: I know such a tragedy could never happen. I don't know how to express my feelings right now.
+- **코사카 와카모**: Oh. You understand me? Are you sure?
+- **코사카 와카모**: I'm so relieved!
+- **코사카 와카모**: Do you mean, what if you never showed up?
+- **코사카 와카모**: Do you mean, what if you never showed up?
+- **코사카 와카모**: Why would you even worry about that? I know you'd never break a promise with me.
+- **코사카 와카모**: Even I had to wait for more than six hours...
+- **코사카 와카모**: ...I know you would never break your word. You never break my trust and are always there to guide my hand.
+- **코사카 와카모**: So whether it took six hours, days, weeks, or even months,<br/>I would keep on waiting.
+- **코사카 와카모**: So why would I worry about that? Heehee. You're so silly.
+- **코사카 와카모**: At least that's how I feel about the matter.
+- **코사카 와카모**: But I do still feel somewhat sad right now.
+- **코사카 와카모**: You thought I might lose faith in you because you were so late.<br/>How can I prove that would never happen?
+- **코사카 와카모**: Oh!
+- **코사카 와카모**: I have just the idea.
+- **코사카 와카모**: What if we spent tonight standing in the moonlight, and I whispered sweet nothings into your ears all night?
+- **코사카 와카모**: Things like how my heart will never change how it feels about you.
+- **코사카 와카모**: Simply imagining it brings me so much joy that I can hardly contain myself.<br/>I feel like I could explode at a moment's notice.
+- **코사카 와카모**: Something else...?
+- **코사카 와카모**: Goodness! You really want to spend time with me, don't you? ♥
+- **코사카 와카모**: That makes me overjoyed, but...
+- **코사카 와카모**: ...I shouldn't rashly jump at the opportunity to overwhelm you again.<br/>I'm too devoted for something like that.
+- **코사카 와카모**: I'll save your offer for the future.
+- **코사카 와카모**: Heehee. You're so adorable when you're nervous.
+- **코사카 와카모**: Okay. I can hold out for now—this time. Heehee.
+
+6. **「코사카 와카모 인연 스토리 6」**
+
+- **코사카 와카모**: Sensei? I'm thrilled beyond measure at your unexpected visit, but...
+- **코사카 와카모**: I don't want to be a bother to Sensei...
+- **코사카 와카모**: Your kindness knows no bounds.
+- **코사카 와카모**: The serendipity of us meeting on that fateful day never ceases to amaze me, no matter how much time has passed.
+- **코사카 와카모**: What would you like me to do?
+- **코사카 와카모**: I'm prepared in body and soul, in mind and resolve, to fulfill your every desire and request.
+- **코사카 와카모**: Just say the word, and—
+- **코사카 와카모**: Yes, Sensei?
+- **코사카 와카모**: Wh-What?!
+- **코사카 와카모**: C-Could it be I am currently in a beautiful dream...?!
+- **코사카 와카모**: Ah! AHHH!
+- **코사카 와카모**: This cannot be a dream, for this feeling exceeds even my wildest hopes! I am happy, but I am not yet prepared for such a request, Sensei!
+- **코사카 와카모**: O-One moment!
+- **코사카 와카모**: Wh-Why do you give chase?!
+- **코사카 와카모**: Y-You don't understand, Sensei! As I am right now...!
+- **코사카 와카모**: I just need more time, I beg of you!
+- **코사카 와카모**: You said it again?! From the deepest crevice in my soul, I feel only gratitude for your sentiment! But I cannot bear the weight of your feelings!
+- **코사카 와카모**: All I know is that I am not READYYY!
+- **코사카 와카모**: O-Oh, dear!
+- **코사카 와카모**: Oh, dear! Oh, DEAR! Are you injured? My precious Sensei! I'm sorry! So sorry! I'm sorry, I'm sorry, I'm sorry, I'm sorry! I may as well have tripped you myself!
+- **코사카 와카모**: Oh, no, no, no. Sensei, is that...is that b-b-b-blood?!
+- **코사카 와카모**: I...cannot... This kind of tragedy...should never have occurred...
+- **코사카 와카모**: If I could take every ounce of your pain for myself, if only I... No! I should never have allowed even the smallest scrape upon Sensei's body in the first place!
+- **코사카 와카모**: This is my cross to bear. I will atone with my very life, Sensei.
+- **코사카 와카모**: Yes...
+- **코사카 와카모**: ...!
+- **코사카 와카모**: I'm sorry, Sensei...
+- **코사카 와카모**: To think you approached me and asked me to stay by your side, forever and always, day in and day out... And this is how I react? I'm ashamed all the way to the tips of my ears...
+- **코사카 와카모**: How could I ruin such a momentous occasion...
+- **코사카 와카모**: *sob* I'm so sorry Sensei... This is all my fault...
+- **코사카 와카모**: I had fully steeled my resolve to remove my mask, to proudly display the parts of me I can only show to you!
+- **코사카 와카모**: But, instead, I was a coward. I hid my shame and embarrassment behind my mask, rather than facing you honestly.
+- **코사카 와카모**: ...
+- **코사카 와카모**: This mask is one of my most precious possessions.
+- **코사카 와카모**: It was my protection against the evil and tribulations of the world. But now...
+- **코사카 와카모**: ...!
+- **코사카 와카모**: You can be very straightforward you know. But alas, even that is a side of you I have come to adore...
+- **코사카 와카모**: Despite my many shortcomings, you never stop holding out your hand for me to take. You've always believed in me.
+- **코사카 와카모**: Not only that, you asked for nothing more than my company today. No task or mission, just me...
+- **코사카 와카모**: Y-You were concerned I would attempt to fulfill my duty at the cost of my own safety?
+- **코사카 와카모**: I had... I had just said that in the hopes of a fateful event occurring between you and I...
+- **코사카 와카모**: Heeheehee. You can be quite silly as well, Sensei.
+- **코사카 와카모**: Even the fact you were so concerned about me is overwhelming. I'm... Eek!
+- **코사카 와카모**: !
+- **코사카 와카모**: I see... So even this coincidental meeting was nothing short of a miracle! Fate itself!
+- **코사카 와카모**: I, Wakamo, will follow you everywhere... To the ends of the earth and the very mouth of hell, with nothing but joy in my heart...! Lead the way, Sensei!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/코사카 와카모
+- https://bluearchive.wiki (원문 스토리 스크립트)

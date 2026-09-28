@@ -1,0 +1,103 @@
+# Group Story / Genryumon / 2
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Genryumon/2
+Status: source-extracted-unreviewed
+
+
+- Kisaki (Genryumon): I must say, it's truly fortunate.
+- Kisaki (Genryumon): I've concluded the day's work before you arrived.
+- Kisaki (Genryumon): Fufu. I have very limited time. I can't afford to waste a moment of it.
+- Kisaki (Genryumon): Additionally, humans inherently are not existences that embrace "work" with open arms.
+- "Does that mean...you're actually a lazy person?!"
+- Kisaki (Genryumon): I wonder... I could not say I particularly like or dislike work.
+- Kisaki (Genryumon): I suppose the sentiment is more, "I do it because there is something that needs to be done."
+- Kisaki (Genryumon): And if it must be done, efficiency and speed are two tools at my disposal to reduce the work time.
+- Kisaki (Genryumon): Yes. I would say, "If you wish to not work, then do the work."
+- Kisaki (Genryumon): Hm? People in society may call such a mindset that of a "workaholic"?
+- Kisaki (Genryumon): What is that? Ah. People who are addicted to work itself?
+- Kisaki (Genryumon): One would expect that to be a boon upon any organization, but...
+- Kisaki (Genryumon): Did you know, Sensei?
+- Kisaki (Genryumon): A superior that's too diligent, too inflexible...they may tire out their employees.
+- Kisaki (Genryumon): With that in mind, me spending a moment of repose in the main room could potentially be seen as a benefit to Genryumon's future.
+- Kisaki (Genryumon): What do you think of that, Sensei?
+- Kisaki (Genryumon): I would, perhaps, say that you do quite enough of that already.
+- Genryumon Member (Genryumon): I-Instructor Kokona?! That is the president's room—
+- Kokona (Plum Blossom Garden): Madam, Madam! Uh, um! Is it true?
+- Kisaki (Genryumon): Oh? If it isn't Instructor Kokona.
+- Kokona (Plum Blossom Garden): Ah, I shouldn't be like this. I'm already a full-fledged lady and an instructor, so I need to follow proper etiquette.
+- Kokona (Plum Blossom Garden): Hello, Madam! Greetings from the Disciplinary Support Department, Plum Blossom Garden first-year instructor, Sunohara Kokona!
+- Kokona (Plum Blossom Garden): Sensei is here too? What's going on?
+- "Um... I was just getting some tea."
+- Kokona (Plum Blossom Garden): That's no good, Sensei! You shouldn't waste the president's time for no reason!
+- Kisaki (Genryumon): It's of no concern, Instructor Kokona. Well, what brings you here? I haven't seen you quite this frantic in a while.
+- Kokona (Plum Blossom Garden): Ah, right! There was something I wanted to ask!
+- Kokona (Plum Blossom Garden): Is it true that you've started doing banzai stretches again?
+- Kisaki (Genryumon): B-Banzai stretches...?
+- Kisaki (Genryumon): U-Um...
+- Kokona (Plum Blossom Garden): Madam?
+- Kisaki (Genryumon): Nothing. I'm just...curious as to where you heard this information from.
+- Kokona (Plum Blossom Garden): Oh, that! I was going to tell you! A lot of people in Shanhaijing are talking about it!
+- Kisaki (Genryumon): ...What?
+- Kokona (Plum Blossom Garden): On top of that, while I didn't really get them, there are a bunch of weird rumors going around.
+- Kisaki (Genryumon): Could you please tell me about these...rumors?
+- Kokona (Plum Blossom Garden): Of course! So there's stuff like, "As expected, the president didn't give up on banzai stretches!"
+- Kokona (Plum Blossom Garden): Oh, and, "the Genryumon president has been using every means possible to get taller, in secret."
+- Kokona (Plum Blossom Garden): Another one was, "Genryumon must have made a special 'request' to Saya of the Eastern Alchemy Society."
+- Kisaki (Genryumon): No, that's, uh...
+- Kokona (Plum Blossom Garden): I almost forgot! "Genryumon can always wipe out the Black Tortoise Promenade, but the reason why they don't do that...
+- Kokona (Plum Blossom Garden): ...is because the Promenade has been secretly making them food that encourages growth!"
+- Kokona (Plum Blossom Garden): There's also something like, "the day Madam grows taller is the day 'something' from Rikkagaku will be unleashed, which will make Shanhaijing the greatest academy in Kivotos".
+- Kokona (Plum Blossom Garden): By the way, is the last one true, Madam...?
+- Kisaki (Genryumon): U-Um... Instructor Kokona? When it comes to rumors and hearsay, you can generally assume them to be false...
+- Kokona (Plum Blossom Garden): Phew, okay! I'm glad that's what I told the children at Plum Blossom Garden!
+- Kokona (Plum Blossom Garden): But I also thought it might be awesome to see you make Shanhaijing the greatest academy in all of Kivotos!
+- Kisaki (Genryumon): I'll do my utmost to reach that goal, without relying on fantasy and disorderly rumors...
+- Kokona (Plum Blossom Garden): Okie dokie!
+- Kisaki (Genryumon): Oh, my. I feel agitated. There isn't a dark, ulterior motive behind my morning exercises.
+- Kisaki (Genryumon): To think that it sparked rumors about growing taller and strange, devious plots. Being the president can be exhausting.
+- Kisaki (Genryumon): Hm?
+- Kisaki (Genryumon): Do you...also believe that I will not grow, at all?
+- "Wh-What...?!"
+- Kisaki (Genryumon): In other words, you believe I'll stay like this, forevermore?
+- Kisaki (Genryumon): Is that okay to you, Sensei?
+- Kisaki (Genryumon): Shouldn't humans exist to resist fate, persistently and endlessly?
+- "It's nothing like that! I respect your growth, Kisaki!"
+- Kisaki (Genryumon): Fufu... Then I shall ask again.
+- Kisaki (Genryumon): Does that mean you, Sensei, believe in the rumors that I exercise in hopes of growing taller?
+- Kisaki (Genryumon): Furthermore, do you believe me to be an irrational person, one who follows such irrational thought processes?
+- Kisaki (Genryumon): You've piqued my curiosity. In your mind, what kind of student is Ryuuge Kisaki?
+- "Th-That is...!"
+- "I'm sorry! Please spare me!"
+- Kisaki (Genryumon): Fufu. Don't worry so much, Sensei. At this rate, you're going to make me want to apologize.
+- Kokona (Plum Blossom Garden): Excuse me...I feel like I've been forgotten.
+- Kisaki (Genryumon): My apologies, Instructor Kokona. By any chance, did you hear any more of these...stories?
+- Kokona (Plum Blossom Garden): Ah, about that! This is where the rumors get kinda weird, but...
+- Kokona (Plum Blossom Garden): But I heard there's a "Madam for Kung Fu" faction, led by Reijo from the Black Tortoise Promenade. The Martial Arts Research Club is part of it, too.
+- Kokona (Plum Blossom Garden): And then, a "Madam for Peking Opera" faction, organized by the Peking Opera Club. Apparently, there's a vicious fight going on in underground channels!
+- Kisaki (Genryumon): ?!
+- "'What does that even mean?!"
+- Kokona (Plum Blossom Garden): Like I said, I don't really get it!
+- Kisaki (Genryumon): ("Kung Fu Faction" and "Peking Opera Faction"? This sounds strange, yet somewhat familiar...)
+- Kisaki (Genryumon): (Why does this evoke such an apprehensive feeling in me?)
+- Kokona (Plum Blossom Garden): Anyways! If you're really just exercising in the morning...
+- Kokona (Plum Blossom Garden): The Plum Blossom Garden children and I want to join! May we...?
+- Kokona (Plum Blossom Garden): I kind of gave up on banzai stretches, after I found out that they don't actually help with growth...
+- Kokona (Plum Blossom Garden): ...but I think we'd all be motivated, if you joined! The children and I would definitely find the strength to wake up early!
+- "You're right! Exercise would be good for children's health!"
+- Kisaki (Genryumon): S-Sensei...?
+- Kisaki (Genryumon): ...
+- Kisaki (Genryumon): Fufu. I see. Both Instructor Kokona and Sensei are making excellent points.
+- Kisaki (Genryumon): Shanhaijing's future lies in the Plum Blossom Garden.
+- Kisaki (Genryumon): I see no drawbacks from greeting the morning with our bright future.
+- Kokona (Plum Blossom Garden): Really? Yay! Thank you, Madam!
+- Kisaki (Genryumon): Naturally, Sensei will join in as well.
+- "Huh...? M-Me too?!"
+- Kisaki (Genryumon): Of course. Exercise is good for your health.
+- Kisaki (Genryumon): The fresh morning air would provide even more benefits, don't you agree?
+- Kisaki (Genryumon): Not so fast. Just where are you scurrying off to, Sensei? There must be an EXTREMELY urgent matter you must attend to.
+- "I don't, but what if I say I'm probably going to have one?"
+- Kisaki (Genryumon): That won't do.
+- Kisaki (Genryumon): None of that pouting. Are you not an adult?
+> The story ended with us agreeing to do some morning exercises at the White Tiger Park...

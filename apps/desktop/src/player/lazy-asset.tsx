@@ -1,8 +1,8 @@
 /**
- * 지연 자산 로딩 UI — 이미지/음성은 **보이거나 재생할 때** 읽는다.
+ * 지연 자산 로딩 UI — 이미지는 **보일 때** 읽는다.
  *
- * 772MB 세계관에서 모든 배너·로비·음성을 즉시 objectURL로 만들면 메모리가 폭발한다.
- * 여기서는 IntersectionObserver로 화면에 들어온 자산만 요청하고, 사라지면 URL을 해제한다.
+ * 772MB 세계관에서 모든 배너·로비 이미지를 즉시 objectURL로 만들면 메모리가 커진다.
+ * 여기서는 IntersectionObserver로 화면에 들어온 자산만 요청한다.
  * (engine의 `assetUrlAsync`가 바이트 읽기 + LRU 캐시를 담당한다.)
  */
 import * as React from 'react';
@@ -82,73 +82,6 @@ export function LazyAssetImage({ data, assetId, alt, className, style, placehold
       decoding="async"
       data-placeholder={url ? 'false' : 'true'}
     />
-  );
-}
-
-/**
- * 음성. `autoPlay`면 화면에 나타나는 즉시 읽어서 재생한다(캐릭터가 음성을 고른 경우).
- * 브라우저가 자동 재생을 막으면(사용자 제스처 없음) 재생 버튼이 그대로 남아 눌러서 들을 수 있다.
- */
-export function LazyAudio({ data, assetId, label = '▶', autoPlay = false }: {
-  data: EngineData | undefined;
-  assetId: string | undefined;
-  label?: string;
-  autoPlay?: boolean;
-}): React.ReactElement | null {
-  const [requested, setRequested] = React.useState(autoPlay);
-  const [playing, setPlaying] = React.useState(false);
-  const [url, setUrl] = React.useState<string | undefined>(undefined);
-  const audio = React.useRef<HTMLAudioElement | null>(null);
-  const autoStarted = React.useRef(false);
-
-  React.useEffect(() => {
-    if (!requested || !data || !assetId) return undefined;
-    let cancelled = false;
-    void assetUrlAsync(data, assetId).then(next => {
-      if (!cancelled) setUrl(next);
-    });
-    return () => {
-      cancelled = true;
-    };
-  }, [requested, data, assetId]);
-
-  // 자산이 준비되면 한 번만 자동 재생을 시도한다.
-  React.useEffect(() => {
-    if (!autoPlay || !url || autoStarted.current) return undefined;
-    const node = audio.current;
-    if (!node) return undefined;
-    autoStarted.current = true;
-    node.play().then(() => setPlaying(true)).catch(() => setPlaying(false));
-    return undefined;
-  }, [autoPlay, url]);
-
-  if (!assetId) return null;
-  return (
-    <>
-      <button
-        type="button"
-        className="bubble-voice"
-        onClick={() => {
-          setRequested(true);
-          const node = audio.current;
-          if (node && url) {
-            if (playing) { node.pause(); setPlaying(false); } else { void node.play(); setPlaying(true); }
-          }
-        }}
-      >
-        {playing ? '❚❚' : label}
-      </button>
-      {url ? (
-        <audio
-          ref={audio}
-          src={url}
-          preload="none"
-          onEnded={() => setPlaying(false)}
-          onPlay={() => setPlaying(true)}
-          onPause={() => setPlaying(false)}
-        />
-      ) : null}
-    </>
   );
 }
 

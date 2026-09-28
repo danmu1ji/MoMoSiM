@@ -1,0 +1,6 @@
+# Marina — official English introduction
+
+Marina is the chairman of the security committee in charge of maintaining public order at Red Winter Federal Academy. She has a reputation for punishing violators of the school rules without question or mercy. Marina is fond of the word "charge" and will repeatedly charge at anything. Always the first to jump into the fray whenever there is a problem in Red Winter, she is certainly faithful to her duties, but she often gets lost as a result of her charges.
+
+Source: https://bluearchive.wiki/wiki/Marina
+Status: source-extracted-unreviewed

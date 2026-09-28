@@ -1,0 +1,242 @@
+# Kanna 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: Kanna, 선생(샬레)
+
+1. **「Kanna 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「Kanna 인연 스토리 2」**
+
+- **Kanna**: Hello, [USERNAME] Sensei.
+- **Kanna**: I'm Ogata Kanna. As discussed previously, I'll be working a shift at Schale today.
+- **Kanna**: This is my first time being assigned this duty, so I may be lacking in necessary skills. Nevertheless, I look forward to working with you.
+- **Kanna**: By the way, I have been informed that a number of Valkyrie Police School students have worked shifts at Schale in the past.
+- **Kanna**: Hm? Do you think I'm being too formal? It's natural considering our positions.
+- **Kanna**: By the way, I have been informed that a number of Valkyrie Police School students have worked shifts at Schale in the past.
+- **Kanna**: I have noticed a number of them engaging in conduct that does not conform with the duties of a police officer during these times.
+- **Kanna**: It would be regrettable if they're being an inconvenience when they should be helping.
+- **Kanna**: I hope they haven't said anything too stupid.
+- **Valkyrie Student**: E-Excuse me? You wanna know about Director Kanna?
+- **Valkyrie Student**: Um, don't tell anyone I said this...but she's basically the face of terror to Police School students.
+- **Valkyrie Student**: She's so strict, and she always looks angry...
+- **Valkyrie Student**: *whisper* She's even got a scary nickname. They call her the Feral Hound.
+- **Valkyrie Student**: So, no matter what you do, Sensei...
+- **Valkyrie Student**: Don't get on Director Kanna's bad side!
+- **Kanna**: That's a relief.
+- **Kanna**: You appear to be sweating quite profusely. Are you sick?
+- **Kanna**: Whatever you prefer.
+- **Kanna**: I'll be taking care of paperwork over there.
+- **Kanna**: Sensei, I'd like to go over the expenses for the joint public security training run by Valkyrie Police School and Schale last week.
+- **Kanna**: Where can I find Schale's receipts?
+- **Kanna**: Ah. Found them.
+- **Kanna**: Momo Friends limited edition Pinky-Paca backpack for 5,000 yen...
+- **Kanna**: Pre-paid mobile game store gift card for 10,000 yen...
+- **Kanna**: 3 boxes of "Return of the Giant Beetles" Mushiqueen booster packs for 5,000 yen...?
+- **Kanna**: Sensei, it seems your receipts...
+- **Kanna**: My recommendation is to have separate, dedicated storage solutions for personal and official expenses. That way, your receipts won't be mixed together by mistake.
+- **Kanna**: If it's absolutely necessary to store them in the same location, you might use different color labels to separate them.
+- **Kanna**: Excellent. I will continue carrying out my duties.
+- **Kanna**: Sensei, I've organized your list of witness accounts of notable wanted criminals.
+- **Kanna**: You can also see that I've marked the locations of the witnesses on this jurisdiction map for easy reference.
+- **Kanna**: This is quite simple, compared to my work at Valkyrie Police School.
+- **Kanna**: There's no need to individually approve each sheet, compare serial numbers, or forward copies to the records department...
+- **Kanna**: So, comparatively, Schale's paperwork is actually quite flexible. It makes it much easier.
+- **Kanna**: It's nothing. Ensuring protocol is followed is a police officer's duty.
+- **Kanna**: Also, the map markers aren't affixed to the map, so please take care when you're—
+- **Kanna**: ...Too late.
+- **Kanna**: Don't worry too much. I should've warned you earlier.
+- **Kanna**: I'll reorganize the markers.
+- **Kanna**: *sigh* It looks like all of the pressing tasks have been completed.
+- **Kanna**: Yes, please.
+- **Kanna**: An iced coffee, if you don't mind.
+- **Kanna**: Um, Sensei? I may be worrying too much, but...
+- **Kanna**: Keep an eye on those papers scattered on the ground when you—
+- **Kanna**: ...It's fine. I would like to change, though.
+- **Kanna**: Could you point me towards the changing room, Sensei?
+- **Kanna**: Excuse me.
+- **Kanna**: Yes? Did you have something to say?
+- **Kanna**: Angry? Did you do something I should be angry about?
+- **Kanna**: Mistakes may have been made today, but I don't think they were anything to be angry about.
+- **Kanna**: That reminds me. I did notice that you've seemed uncomfortable all day. Is that the reason why you couldn't focus on your work?
+- **Kanna**: Was the problem caused by me?
+- **Kanna**: Hah. Hahaha.
+- **Kanna**: So you've heard rumors about the Feral Hound.
+- **Kanna**: You don't need to worry. They're just rumors.
+- **Kanna**: Even the Feral Hound of the Public Peace Bureau must be able to control her emotions. Otherwise, there's no way I could call myself an officer of Valkyrie Police School, and be trusted to uphold the law.
+- **Kanna**: I'm aware others may find me uncomfortable to be around. It is true that I am strict with the underclassmen and that many are intimidated by my facial expressions.
+- **Kanna**: But even I wouldn't get angry with you over such trivial matters.
+- **Kanna**: And I don't give out rebukes for simple mistakes.
+- **Kanna**: Unlike crime, a mistake made without intent can be rectified through individual effort. If the individual is afraid of being rebuked, though, they may try to hide their mistake rather than fix it.
+
+3. **「Kanna 인연 스토리 3」**
+
+- **Kanna**: *chhhk* The aim of this operation is to apprehend a suspect accused of breaking into a parked Security Bureau vehicle, and stealing cash and classified documents from it.
+- **Kanna**: The amount of cash stolen was low, and the documents were relatively unimportant, but...
+- **Kanna**: If word gets out that a burglar can steal Security Bureau property and get away with it, the public's trust in Valkyrie Police School will be damaged.
+- **Kanna**: It's unusual for members of the Public Peace Bureau to be deployed for an incident like this.
+- **Kanna**: However, with a case that could affect the faith of the citizenry, it's essential to apprehend the suspect and recover the stolen goods before the public learns of the crime.
+- **Kanna**: The Public Peace Bureau has obtained intel that the suspect has a base around Sunaomachi St. We expect them to be using a false identity.
+- **Kanna**: The suspect is a calico cat with short whiskers, folded ears, a large scar across one eye— *chhk*
+- **Kanna**: [USERNAME] Sensei...?
+- **Kanna**: What brings you here so late at night?
+- **Kanna**: Thank you, but...
+- **Kanna**: Stakeouts don't require direct support. Given the time, it'd be best if you returned home.
+- **Kanna**: Not directly, no.
+- **Kanna**: However, your workload is large enough as it is. I wouldn't presume to drag you into a stakeout with no end in sight.
+- **Kanna**: I don't want to be liable for you falling ill.
+- **Kanna**: ...If you insist.
+- **Kanna**: As long as you don't push yourself too hard, you can stay.
+- **Kanna**: *chhk* The current time is 12:30AM. Visibility is clear. So far, no sightings of suspicious individuals in the area.
+- **Kanna**: Maintaining current position. Remaining alert— *chhk*
+- **Kanna**: It's fine. I haven't had dinner either.
+- **Kanna**: If you're hungry, there are several convenience stores in the immediate area.
+- **Kanna**: Or, since nothing else is open this late, you could go back to Schale—
+- **Kanna**: No. I never eat during a stakeout.
+- **Kanna**: We are given a budget for provisions, but I can't let a meal get in the way of proper surveillance.
+- **Kanna**: I have two cups of strong black coffee to keep me awake, and that's all I need.
+- **Kanna**: So don't worry about me. And take your time. If you need to rest—
+- **Kanna**: Of course.
+- **Kanna**: ...You're back sooner than expected.
+- **Kanna**: I'm certain you have a lot of work to do tomorrow. Why are you so insistent on helping?
+- **Kanna**: And what's with the plastic bag?
+- **Kanna**: Haha... Red bean buns?
+- **Kanna**: That is a classic stakeout food...
+- **Kanna**: But I'll decline. Help yourself.
+- **Kanna**: They're fine. It's not about personal preference.
+- **Kanna**: At this time of day, if I have a full stomach, I risk falling asleep.
+- **Kanna**: If I, a student of Valkyrie Police School, were to overeat, fall asleep, and lose a criminal, I'd be the laughingstock of Kivotos.
+- **Kanna**: So, while the gesture is appreciated, I'm still going to refuse.
+- **Kanna**: Sensei? I thought you were going home this time...
+- **Kanna**: What did you bring this time? Donuts, in case I get hungry?
+- **Kanna**: As I said, I don't eat during stakeouts.
+- **Kanna**: So I'm not going to accept that either.
+- **Kanna**: That smell... Did you buy something else?
+- **Kanna**: ...A hamburger? Just... Why?
+- **Kanna**: A movie? You saw a movie where detectives ate hamburgers on a stakeout?
+- **Kanna**: But that's fiction. Obviously. And, as I've said multiple times—
+- **Kanna**: I don't know what you're trying to accomplish, but please stop. If the suspect notices you coming and going too often, they could find it suspicious and flee.
+- **Kanna**: What is it this time?
+- **Kanna**: No way.
+- **Kanna**: There's no way I could eat something that greasy and fragrant on a stakeout.
+- **Kanna**: Sensei. Why do you persist in being a nuisance?
+- **Kanna**: If you continue to get in the way of this operation...
+- **Kanna**: I'll have no choice but to arrest you for obstruction of justice.
+- **Kanna**: It's one meal. It's not that important.
+- **Kanna**: Of course I understand the health detriments of not having regular meals, but once in a while, I must prioritize otherwise.
+- **Kanna**: As a police officer, there's nothing more important than making an arrest.
+- **Kanna**: Really?
+- **Kanna**: *sigh*
+- **Kanna**: As you're clearly not going to give up, I'll have a red bean bun.
+- **Kanna**: You truly are irritating, in more ways than one.
+- **Kanna**: Where did you even find all this food?
+- **Kanna**: This logo isn't from any of the nearby convenience stores. And the food looks like restaurant take-out.
+
+4. **「Kanna 인연 스토리 4」**
+
+- **Kanna**: ...I see. Good work.
+- **Kanna**: Attention, all officers. The smuggler was found attempting to escape via boat at Port 3, and was apprehended by students of the Security Bureau.
+- **Kanna**: Well done, everyone. Operation wraps up in one hour.
+- **Public Peace Bureau Student**: Good work!
+- **Kanna**: It wasn't a difficult assignment.
+- **Kanna**: Without the witness accounts you collected from nearby Schale students, it would have taken significantly longer, though.
+- **Kanna**: So, as a representative of the Public Peace Bureau, allow me to offer you our heartfelt thanks.
+- **Public Peace Bureau Student A**: Director Kanna! After the operation, would you like to have a drink with us?
+- **Kanna**: A drink? Where?
+- **Public Peace Bureau Student A**: Baizeriya, of course! You know, the family restaurant nearby?
+- **Public Peace Bureau Student B**: The drink bar has a new kind of root beer on tap.
+- **Public Peace Bureau Student B**: People have been making root beer floats with ice cream from the dessert bar. It's been all over social media lately.
+- **Public Peace Bureau Student A**: We want to get together and toast a job well done!
+- **Kanna**: ...I'm sorry. There's a great deal of work I still need to do this afternoon.
+- **Kanna**: Please go and enjoy yourselves. I'm sure having the director there would just bring the mood down.
+- **Public Peace Bureau Student A**: But... You say you have too much work whenever we invite you anywhere.
+- **Public Peace Bureau Student B**: We were really hoping to hang out with you today...
+- **Kanna**: It can't be that fun to hang out with your commanding officer.
+- **Kanna**: I'm sure there are other students you'd rather invite. I'm just too busy.
+- **Kanna**: Thanks, but I'm needed elsewhere after I finish work.
+- **Kanna**: Unfortunately, I'll have to go out with the others another time.
+- **Kanna**: Excuse me.
+- **Food Stall Worker**: Come one, come all! Menya Suzu, the traveling food stall, is open for business!
+- **Food Stall Worker**: We have ramen! We have oden!
+- **Food Stall Worker**: Welcome! Welcome to Menya Suzu!
+- **Food Stall Worker**: Can I take your order?
+- **Food Stall Worker**: Got it. There's a few customers waiting ahead of you, so it will be just a couple minutes.
+- **Kanna**: Ahhh, there's nothing better than a chicken skewer after a hard day's work...
+- **Kanna**: And nowhere else does them like they do here.
+- **Kanna**: And the tea that comes with it... I love the way the fresh taste of their oolong tea washes down the grease of the skewer and the day's exhaustion at the same time.
+- **Kanna**: Huh?
+- **Kanna**: S-Sensei?! What are you doing here?
+- **Kanna**: ― I didn't expect to run into you here...
+- **Kanna**: ― I lost my composure. Sorry.
+- **Kanna**: ― Is that so?
+- **Kanna**: ― I feel most at ease here.
+- **Kanna**: ― I can't ever take a day off from being the intimidating Public Peace Bureau Director, but...
+- **Kanna**: ― ...I need a place where I can lower my guard for a moment.
+- **Kanna**: ― So, today...
+- **Kanna**: ― Please pretend that you never saw me here.
+- **Kanna**: There's no point lying now that you've seen me here.
+- **Kanna**: You may have already guessed this, but it's not that I dislike going out with others.
+- **Kanna**: But as the Feral Hound of the Public Peace Bureau, I have to be aware of my image.
+- **Kanna**: If criminals learn that the feared Feral Hound has been seen going out to eat and having fun with other students...
+- **Kanna**: It could compromise the security of Kivotos.
+- **Kanna**: So, if there's a chance of being seen by civilians, I can't show my more...human side.
+- **Kanna**: But that's not something I can keep a secret from you, either.
+- **Kanna**: So please keep this between us.
+- **Kanna**: What? That's a change of subject.
+- **Kanna**: ...Haha. Well, that price is one I have no problem paying.
+- **Kanna**: I like their skewer sampler plate, but you can't go wrong with freshly boiled oden on a day like today.
+- **Kanna**: This stall starts boiling their oden stock well before they open every day, so it's suffused with the flavor of the beef tendon.
+- **Kanna**: Can we get two orders of oden, please?
+- **Kanna**: And the house special oolong.
+- **Food Stall Worker**: Coming right up!
+
+5. **「Kanna 인연 스토리 5」**
+
+- **Kanna**: Uh, Sensei? Sorry to bother you when you're busy, but...
+- **Kanna**: Could I ask for your help for just a moment?
+- **Kanna**: Yes, well. I'm facing an issue that's out of my control...
+- **???**: *sob* Wahhhhh....
+- **Kanna**: Yes, that's exactly the problem.
+- **Kanna**: I ran into a lost child on my way back to school from a mission.
+- **Lost Child**: WAHHHHH!
+- **Kanna**: Yes. That's right.
+- **Kanna**: The Public Peace Bureau rarely has a need to deal with small children...
+- **Kanna**: I was not attempting to be intimidating, but I believe I've unintentionally scared this child.
+- **Lost Child**: *sniffle* *sob*
+- **Kanna**: I've attempted to question the child a bit for information-gathering purposes, but no matter what I say, she won't stop crying. The talks are not proceeding well.
+- **Kanna**: I also tried to contact the Public Safety Bureau and hand her over to them, but they were all out on lunch...
+- **Kanna**: Do you have any suggestions to help calm her down?
+- **Kanna**: A smile?
+- **Kanna**: I'll give it a shot.
+- **Kanna**: Excuse me. Please look over here.
+- **Kanna**: (smile)
+- **Lost Child**: WAHHHHH!
+- **Kanna**: It was not successful.
+- **Kanna**: What? You want to come help in person?
+- **Kanna**: You don't have to. Protecting and guiding lost citizens is Valkyrie Police School's job.
+- **Kanna**: I can't ask for your help with basic Valkyrie responsibilities when you're already so busy—
+- **Lost Child**: WAHHHHHHHHHHHHH!
+- **Kanna**: ...I'll be waiting in front of the entrance to 5th Street in the north district of D.U. Shiba Town.
+- **Kanna**: ...Phew. I owe you one.
+- **Kanna**: If you hadn't stepped in, I may have panicked just as much as the child had. It would've been a mess.
+- **Kanna**: While I'm grateful for your help...I'm the director of Valkyrie Police School. It's an embarrassment that I can't take care of a single lost child on my own.
+- **Kanna**: At one point I considered joining the Public Safety Bureau, but some upperclassmen advised me not to. I'm glad I ended up heeding their advice.
+- **Kanna**: An unsociable Feral Hound at the Public Safety Bureau would only escalate bad situations.
+- **Kanna**: Well, anyway. It's a good thing we were able to find a Public Safety Bureau member in the end.
+- **Kanna**: Really?
+- **Kanna**: I don't see how. An officer who can't even properly calm a young child could hardly be expected to handle civil complaints.
+- **Kanna**: It's a talent that's often overlooked in Valkyrie, but greeting people with a smile and being reassuring is a talent that some are born with, and some aren't.
+- **Kanna**: I'm one of those that was not born with it.
+- **Kanna**: Hm...
+- **Kanna**: That might be. But there's not much point in thinking about it. It's not the path I went down.
+- **Kanna**: It would be a life for Ogata Kanna, not the Feral Hound...
+- **Kanna**: And I still think the Feral Hound suits me best.
+- **Kanna**: Anyway. Thanks again for your help.
+- **Kanna**: Until next time... I'll see you when I see you.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/Kanna
+- https://bluearchive.wiki (원문 스토리 스크립트)

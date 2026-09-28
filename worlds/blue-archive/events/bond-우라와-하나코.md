@@ -1,0 +1,289 @@
+# 우라와 하나코 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 우라와 하나코, 선생(샬레)
+
+1. **「우라와 하나코 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「우라와 하나코 인연 스토리 2」**
+
+- **???**: Sensei!
+- **???**: Over here, Sensei!
+- **우라와 하나코**: ― Welcome, Sensei.
+- **우라와 하나코**: ― Thanks for coming.
+- **우라와 하나코**: ― It's nice and cool here. I love it.
+- **우라와 하나코**: ― This is my super special place... Heehee...
+- **우라와 하나코**: ― What do you think, Sensei?
+- **우라와 하나코**: ― Shall we undress here?
+- **우라와 하나코**: ― Heeheehee... When you get undressed in broad daylight like this...
+- **우라와 하나코**: ― Heeheehee... When you get undressed in broad daylight like this...
+- **우라와 하나코**: ― ...doesn't it make you a little excited?
+- **우라와 하나코**: ― It feels like you're doing something you shouldn't be.
+- **우라와 하나코**: Heehee...
+- **우라와 하나코**: Don't you enjoy it, Sensei? Taking them off, I mean.
+- **우라와 하나코**: I love it. Sometimes I peel everything off and walk around campus, and whenever I do, I get this strange sensation...
+- **우라와 하나코**: Like, is it okay for me to be like this in a public space? I feel like I'm committing some kind of taboo...
+- **우라와 하나코**: I read in a book that it's good for you.
+- **우라와 하나코**: Do you want to try it, Sensei? Who knows, you might like it. You'll never know until you try.
+- **우라와 하나코**: ...Right. Yes, that's what I'm saying.
+- **우라와 하나코**: ...Right. Yes, that's what I'm saying.
+- **우라와 하나코**: I think they call it acupressure. It's supposed to be good for your health.
+- **우라와 하나코**: It would be neat if it caught on at Trinity.
+- **우라와 하나코**: Can you imagine all the students walking around with nothing on?
+- **우라와 하나코**: Heeheehee! Wouldn't that be something?
+- **우라와 하나코**: No! I'm talking about going to school naked! N! A! K! E! D!
+- **우라와 하나코**: Taking off all your clothes and ■■ while ■■ and ■■■■■■.
+- **우라와 하나코**: ...
+- **우라와 하나코**: Oh, come on. I'm just kidding, Sensei. There's no way something like that would catch on at Trinity.
+- **우라와 하나코**: But I'm sure it would be a lot of fun...
+- **우라와 하나코**: ...Oh, yes. That's right.
+- **우라와 하나코**: ...Oh, yes. That's right.
+- **우라와 하나코**: I contacted you because I had a question about remedial classes...and I was just having so much fun with you...
+- **우라와 하나코**: So, shall we head that way? I know a place that's perfect for studying.
+- **우라와 하나코**: You can teach me all kinds of things there...
+- **우라와 하나코**: Come on, let's go!
+- **우라와 하나코**: Huh? Sensei? Aren't you coming?
+- **우라와 하나코**: Huh? Well, obviously, if it's for an after-school remedial class...
+- **우라와 하나코**: Huh? Well, obviously, if it's for an after-school remedial class...
+- **우라와 하나코**: We should go to the dark gym storage that no one ever goes to! Look, I even borrowed the keys...
+- **우라와 하나코**: Oh, my...
+- **우라와 하나코**: Oh, my...
+- **우라와 하나코**: Then...do you want to do it here?
+- **우라와 하나코**: In the middle of the academy plaza, in broad daylight, surrounded by all these people? That might be a little hard for me...
+- **우라와 하나코**: But maybe I could try it just this once...
+- **우라와 하나코**: Yes, yes. Studying. Getting a private lesson from you...
+- **우라와 하나코**: Heeheehee... I was just joking. Sorry.
+- **우라와 하나코**: ...All right.
+- **우라와 하나코**: It's actually this way. There's a public library in the main building, so there will be a lot of people around... There's no need to worry.
+- **우라와 하나코**: Okay, let's go.
+
+3. **「우라와 하나코 인연 스토리 3」**
+
+- **???**: Oh, there you are. Over here, Sensei.
+- **우라와 하나코**: Hello, Sensei. What a coincidence that we would run into each other like this!
+- **우라와 하나코**: Now I can get out safely, thanks to you.
+- **우라와 하나코**: Heehee. What's with that look? Your eyes are the size of saucers.
+- **우라와 하나코**: You seem to be in shock...and you're so stiff!
+- **우라와 하나코**: ...Heehee.
+- **우라와 하나코**: What are you thinking about right now, I wonder...
+- **우라와 하나코**: ...Huh?
+- **우라와 하나코**: ...Huh?
+- **우라와 하나코**: Why? Do you have a problem with it?
+- **우라와 하나코**: Isn't this Trinity's school gym?
+- **우라와 하나코**: And what I'm wearing...
+- **우라와 하나코**: This is considered "athletic wear" by the administration. Am I wrong?
+- **우라와 하나코**: I just came in here to get something, and the door slammed shut behind me.
+- **우라와 하나코**: I don't know what you're thinking, but...I hope it's not what I think it is.
+- **우라와 하나코**: Hmm... It isn't?
+- **우라와 하나코**: Heehee... Or is it?
+- **우라와 하나코**: I guess I'll never know.
+- **우라와 하나코**: Well, I could find out, but only by asking you.
+- **우라와 하나코**: So, will you tell me what you were thinking just now?
+- **우라와 하나코**: Oh, my. Really? You're making me change? Right here?
+- **우라와 하나코**: Sensei... I didn't think you were like that. You're much more daring than I thought.
+- **우라와 하나코**: I don't know if I feel comfortable with you watching me in a dark place like this...
+- **우라와 하나코**: But, if it's up to me...
+- **우라와 하나코**: Now, then...
+- **우라와 하나코**: Heehee. All right. I'm sorry. You're just so fun to tease.
+- **우라와 하나코**: Heehee. All right. I'm sorry. You're just so fun to tease.
+- **우라와 하나코**: I'll knock it off. So can you turn around for a minute while I change?
+- **우라와 하나코**: La la la... La la la...
+- **우라와 하나코**: Mm... It's tighter than I thought. I can't get it off. Can you help me, Sensei?
+- **우라와 하나코**: Heehee... Fine. I'm almost done.
+- **우라와 하나코**: All done. You can turn around now.
+- **우라와 하나코**: ...Sensei?
+- **우라와 하나코**: See? I'm all dressed!
+- **우라와 하나코**: La la la... La la la...
+- **우라와 하나코**: Mm... It's tighter than I thought. I can't get it off. Can you help me, Sensei?
+- **우라와 하나코**: Heehee... Fine. I'm almost done.
+- **우라와 하나코**: All done. You can turn around now.
+- **우라와 하나코**: ...Sensei?
+- **우라와 하나코**: See? I'm all dressed!
+- **우라와 하나코**: Heehee. Today was pretty fun with you. Shall we get going?
+- **우라와 하나코**: Okay, okay. I'm sorry, Sensei. But I wasn't lying when I said you helped me.
+- **우라와 하나코**: Okay, okay. I'm sorry, Sensei. But I wasn't lying when I said you helped me.
+- **우라와 하나코**: You may not realize it, but...
+- **우라와 하나코**: ...this kind of fun is important for me.
+- **우라와 하나코**: ...What?
+- **우라와 하나코**: What do I mean?
+- **우라와 하나코**: Heehee. That's a secret. And a lady never reveals her secrets.
+- **우라와 하나코**: Now, then...
+- **우라와 하나코**: Huh?
+- **Security Guard**: *wooooooo*
+- **Security Guard**: You two! What are you doing over there? This area is off-limits!
+- **Security Guard**: You can only use the gym if you have a class or permission from the Student Council!
+- **Security Guard**: And you there!
+- **Security Guard**: Um... What's that in your hand?
+- **우라와 하나코**: ...Huh? Oh, this?
+- **우라와 하나코**: Heehee. That's right. This is...
+- **우라와 하나코**: The brand new swimsuit I just took off.
+- **Security Guard**: ...
+- **Security Guard**: ...?
+
+4. **「우라와 하나코 인연 스토리 4」**
+
+- **우라와 하나코**: I'm here, Sensei.
+- **우라와 하나코**: Were you waiting for me? Sorry. Cleaning took longer than I thought...
+- **우라와 하나코**: So, shall we go?
+- **우라와 하나코**: Huh? Sensei, aren't you coming?
+- **우라와 하나코**: Oh! I must have forgotten to tell you.
+- **우라와 하나코**: We're going to a shopping mall.
+- **우라와 하나코**: Um... It's a perfectly normal place that's always full of people.
+- **우라와 하나코**: ...Ahaha.
+- **우라와 하나코**: Maybe I get a little carried away with my jokes... You look so tense.
+- **우라와 하나코**: Mm, I'm sorry. I probably shouldn't have teased you.
+- **우라와 하나코**: I'm always in the mood to joke around whenever I see you...
+- **우라와 하나코**: But, that's just an excuse..
+- **우라와 하나코**: Please, allow me to apologize again.
+- **우라와 하나코**: I'm sorry for putting you through that, Sensei.
+- **우라와 하나코**: It's very kind of you to see it that way...
+- **우라와 하나코**: ...Heehee.
+- **우라와 하나코**: I'd like to get you something as an apology. So, let's go.
+- **우라와 하나코**: Oh, I see... I thought this might happen.
+- **우라와 하나코**: Oh, I see... I thought this might happen.
+- **우라와 하나코**: I wasn't sure if a pair of socks would be enough...
+- **우라와 하나코**: I've...heard it said that it takes ten times the effort to rebuild someone's trust once it's been lost...
+- **우라와 하나코**: Maybe it's already too late...
+- **우라와 하나코**: They were just jokes, but when I think about how uncomfortable I must have made you feel... I guess I deserve this...
+- **우라와 하나코**: If you hate me, then I have no one to blame but myself... I'm sorry, Sensei.
+- **우라와 하나코**: Well...I'll see you around.
+- **우라와 하나코**: ...Really?
+- **우라와 하나코**: ...You're very kind.
+- **우라와 하나코**: Heehee. Okay, let's go!
+- **우라와 하나코**: Sensei, what do you think of these?
+- **우라와 하나코**: Heeheehee! The design is so funny!
+- **우라와 하나코**: Um, but if I had to choose...
+- **우라와 하나코**: I'd go for white socks like these. They look nice. What do you think, Sensei?
+- **우라와 하나코**: Oh. Really?
+- **우라와 하나코**: Oh. Really?
+- **우라와 하나코**: But I like this style.
+- **우라와 하나코**: I'm going to wear them, so I'll buy the ones I like.
+- **우라와 하나코**: I'd like to buy these.
+- **Clerk**: Sure. That'll be 1,000 yen. Is this a gift? Would you like it wrapped?
+- **우라와 하나코**: No, they're for me.
+- **우라와 하나코**: I'd like to wear them now. Do you have a fitting room?
+- **Clerk**: Yes, you can use the one over there.
+- **우라와 하나코**: I'll be right back, Sensei.
+- **우라와 하나코**: Okay, I'm back! I really like these! And they fit just right.
+- **우라와 하나코**: Now, please wrap these for me.
+- **Clerk**: Huh? You...want them wrapped?
+- **Clerk**: But you...
+- **Clerk**: These?
+- **우라와 하나코**: Yes. I need them gift wrapped.
+- **우라와 하나코**: I was wearing these socks, and now I'm going to give them to Sensei as a gift. So, if you could wrap them in some pretty wrapping paper...
+- **우라와 하나코**: Huh? Sensei?
+- **우라와 하나코**: Didn't you say you'd take the socks?
+- **Clerk**: ...
+- **Clerk**: ...
+- **우라와 하나코**: Oh, my... Are socks not good enough for you?
+- **우라와 하나코**: I-In that case...I'll have to find something that's more to your liking...
+- **우라와 하나코**: E-Excuse me... Where is the nearest underwear store?
+- **Clerk**: ...
+
+5. **「우라와 하나코 인연 스토리 5」**
+
+- **우라와 하나코**: ...
+- **우라와 하나코**: *sigh*
+- **우라와 하나코**: ...?
+- **우라와 하나코**: ...?
+- **우라와 하나코**: ...Huh?
+- **우라와 하나코**: Sensei? How did you find me here?
+- **우라와 하나코**: ...
+- **우라와 하나코**: Ah... Heehee.
+- **우라와 하나코**: Well, I guess I'm not surprised. You're not one to be underestimated.
+- **우라와 하나코**: Still, I never told you where I was. I had no idea you'd work so hard to find me...
+- **우라와 하나코**: You didn't have to try so hard, you know. If you had just called me, I would have rushed straight to you...
+- **우라와 하나코**: ...?
+- **우라와 하나코**: ...Huh?
+- **우라와 하나코**: If I had anything important to say, I would have contacted you through MomoTalk.
+- **우라와 하나코**: Or...do I look like I'm hiding something?
+- **우라와 하나코**: ...
+- **우라와 하나코**: But...if you absolutely must know, someone I know contacted me.
+- **우라와 하나코**: It was nothing special. They were just saying hi to everyone they know. Just as a formality.
+- **우라와 하나코**: It was nothing special. They were just saying hi to everyone they know. Just as a formality.
+- **우라와 하나코**: But even though they were only saying hello...
+- **우라와 하나코**: it seemed like they were trying to hide behind a bunch of fancy rhetoric... It was a complicated, exhausting message.
+- **우라와 하나코**: If they've got something to say, why couldn't they just come out and say it?
+- **우라와 하나코**: It's like they can't communicate directly...
+- **우라와 하나코**: ...
+- **우라와 하나코**: Anyway, it's nothing bad or dangerous, so you don't have to worry.
+- **우라와 하나코**: It's just...kinda frustrating and annoying.
+- **우라와 하나코**: ...Heehee. It's weird, isn't it?
+- **우라와 하나코**: They're better off not bothering with a brat like me.
+- **우라와 하나코**: I'm in the Make-Up Work Club because I don't have good grades or special charm, and I'm constantly causing a scene. What do they have to gain by contacting me?
+- **우라와 하나코**: ...
+- **우라와 하나코**: ...
+- **우라와 하나코**: ...How did you figure me out so quickly?
+- **우라와 하나코**: I don't really like being alone. I like having someone to tease or pass the time with.
+- **우라와 하나코**: Like I said, I just hate feeling frustrated. Heeheehee.
+- **우라와 하나코**: ...
+- **우라와 하나코**: How interesting. Now that I think about it, I've never said that to anyone before...
+- **우라와 하나코**: I feel...strangely relieved.
+- **우라와 하나코**: Is it because of the rain? Huh, I don't hate this feeling at all.
+- **우라와 하나코**: ...Sensei.
+- **우라와 하나코**: If you're okay with it...
+- **우라와 하나코**: Can we chat about nothing like this every once in a while?
+- **우라와 하나코**: Heh. Heehee, heeheehee...
+- **우라와 하나코**: Heh. Heehee, heeheehee...
+- **우라와 하나코**: Oh, I'm sorry, Sensei.
+- **우라와 하나코**: But I don't think that's possible.
+- **우라와 하나코**: Heeheehee, my jokes are way too much fun for me to give up...
+- **우라와 하나코**: Hmm. Well...
+- **우라와 하나코**: I'm not sure if this will make up for it, but...I'll try to make sure you're more comfortable in the future, Sensei.
+- **우라와 하나코**: ...Yes.
+- **우라와 하나코**: It'll be my first time.
+
+6. **「우라와 하나코 인연 스토리 6」**
+
+- **???**: Oh my.
+- **???**: What a coincidence meeting you here.
+- **우라와 하나코**: Are you on your way back? Lucky me! If I had got held up any more, I'd have been too late.
+- **우라와 하나코**: Hm? What held me up? Oh, nothing too serious...
+- **우라와 하나코**: I was just getting my confiscated book back.
+- **우라와 하나코**: Heehee... Hm? What's the matter, Sensei? You look so red. ♡
+- **우라와 하나코**: Oh I see! Do you want to read my book? See if it's as good as the cover? Discover the big plot twist?
+- **우라와 하나코**: Don't worry. I'll read it to you right now.
+- **우라와 하나코**: And I'll make sure to be extra loud so you can hear everything.
+- **우라와 하나코**: Huh?
+- **우라와 하나코**: You're not into audiobooks? And what's that about public decency?
+- **우라와 하나코**: Eh?
+- **우라와 하나코**: Hmmm You think I'm messing with you? ♡
+- **우라와 하나코**: I mean I think about a lot of things. How Sensei might react to something I do is certainly one of them.
+- **우라와 하나코**: Maybe I think about that so much, you could call it a habit. But not today. I'm not thinking about that at all.
+- **우라와 하나코**: Heehee.
+- **우라와 하나코**: However, I'll forgive your baseless accusations.
+- **우라와 하나코**: You did say you'd put up with my mischief, so it's only fair I do the same.
+- **우라와 하나코**: I do have some social graces, you know?
+- **우라와 하나코**: Right now though, I was wondering if you'd walk with me to the bus?
+- **우라와 하나코**: Would that be all right?
+- **우라와 하나코**: Heehee. Sounds like it's decided then.
+- **우라와 하나코**: Shall we?
+- **우라와 하나코**: We're here.
+- **우라와 하나코**: Mm. That was pleasant, but a little boring.
+- **우라와 하나코**: I hope I'm not boring YOU, Sensei.
+- **우라와 하나코**: Maybe you were hoping this little outing would be more...exciting?
+- **우라와 하나코**: Shame on me. I should've read the room better.
+- **우라와 하나코**: Heehee... I see.
+- **우라와 하나코**: By the way, Sensei. Are you sure you're not curious about my book?
+- **우라와 하나코**: I can guess your thoughts on the cover.
+- **우라와 하나코**: But the inside could be completely different.
+- **우라와 하나코**: Maybe it's a sprawling space opera romance.
+- **우라와 하나코**: Then again, it could be a diary, a list of concerns, maybe even my Swimsuit Symposium manifesto.
+- **우라와 하나코**: Or maybe it's something very heartfelt and sincere.
+- **우라와 하나코**: Ah.
+- **우라와 하나코**: I should've known those kinds of things wouldn't win you over, Sensei.
+- **우라와 하나코**: I don't know why it slipped my mind. You've always been an open book in that way.
+- **우라와 하나코**: Heehee.
+- **우라와 하나코**: Well then. That's enough for today.
+- **우라와 하나코**: I will say, I wasn't lying about our meeting being a coincidence.
+- **우라와 하나코**: So technically I've done nothing wrong.
+- **우라와 하나코**: Yeah.
+- **우라와 하나코**: Guess I'll have to make up for it next time. ♡
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/우라와 하나코
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -61,13 +61,21 @@ credentials.json
 !/worlds/import-samples/**/*.md
 !/apps/desktop/public/fonts/FONTS.md
 
-# Blue Archive game-derived source assets are opt-in and excluded by default.
+# Keep local collection scripts and intermediate world fragments out of releases.
 /worlds/blue-archive/
 /worlds/blue-archive.😭
 /worlds/.parts/
 /tools/blue-archive/
-/apps/desktop/public/blue-archive-lite.worldpkg
-/apps/desktop/public/momo.jpg
+
+# Release-ready text-only world package and generated local-model files.
+!/worlds/blue-archive/
+!/worlds/blue-archive/**/
+!/worlds/blue-archive/**/*.md
+!/worlds/blue-archive/**/*.yaml
+!/worlds/blue-archive/**/*.json
+!/worlds/blue-archive.😭
+/local-models/
+*.gguf
 
 # SQLite 색인(FTS5) — 재생성 가능
 *.sqlite

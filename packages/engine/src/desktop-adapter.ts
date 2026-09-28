@@ -5,7 +5,7 @@ export { createLazyZipSource, createRemoteZipSource, listZipPaths } from './zip-
 export { bannerAssetId } from './banner.js';
 export { createMemorySource, createBinaryMemorySource, createArchiveSource, createZipSource, decodeZipSource, withLocaleOverlay, loadWorld, loadWorldDocuments, validateWorld, filterKnowledge, projectKnowledge, readDocument, searchWorld, searchProjected, buildPrompt, documentNodes, mediaDirectives, fogGrants, knowledgeLevels, resolveState, resolveNextSpeakers, resolveMedia, assetUrl, assetUrlAsync, readAssetBytes, releaseAssetUrls, mimeFor } from './core.js';
 export { buildEntityGraph, resolvableLinks, relatedEntities } from './graph.js';
-export { presentMessage, resolveChatImage, defaultVoice, lookupSpeaker } from './presentation.js';
+export { presentMessage, resolveChatImage, lookupSpeaker } from './presentation.js';
 export type { PresentedMessage } from './presentation.js';
 export { placeholderBanner, resolveBanner, danglingBanner, hasBanner } from './banner.js';
 export type { BannerKind } from './banner.js';

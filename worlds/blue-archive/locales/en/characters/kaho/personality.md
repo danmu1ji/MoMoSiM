@@ -1,0 +1,6 @@
+# Kaho — official English introduction
+
+Hyakkiyako Alliance Academy Deputy Director of the Yin-Yang club and Lead Strategist of the Cultural Tourism Industry Public Relations Support Department. Kaho loves Hyakkiyako culture more than anyone else and cares deeply about the students who contribute to it. Because of her appearance, some Hyakkiyako students have been known to refer to her as "Kaho-san, who is more of a department head than that actual department head". Incidentally, she is also a valued straight man of the Yin-Yang club.
+
+Source: https://bluearchive.wiki/wiki/Kaho
+Status: source-extracted-unreviewed

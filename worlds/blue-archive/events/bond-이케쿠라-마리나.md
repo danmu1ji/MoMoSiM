@@ -1,0 +1,235 @@
+# 이케쿠라 마리나 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 이케쿠라 마리나, 선생(샬레)
+
+1. **「이케쿠라 마리나 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「이케쿠라 마리나 인연 스토리 2」**
+
+- **이케쿠라 마리나**: A spy is an agent from an opposing organization tasked with secretly obtaining information and infiltration.
+- **이케쿠라 마리나**: Many other small academies in Kivotos are jealous of Red Winter Federal Academy, so we must always be vigilant of spies.
+- **이케쿠라 마리나**: Spies are masters at hiding their identities, so anyone can be suspect.
+- **이케쿠라 마리나**: At this very moment, spies could be scattered throughout our ranks, scheming to overthrow Red Winter Academy!
+- **이케쿠라 마리나**: Yes, and treason as well.
+- **이케쿠라 마리나**: The Security Council is compiling profiles of suspicious individuals to stymie their efforts.
+- **이케쿠라 마리나**: We have identified someone of great suspicion. In fact, perhaps the utmost threat to Red Winter Academy at this time.
+- **이케쿠라 마리나**: You, Sensei!
+- **이케쿠라 마리나**: There is no one better situated than you to carry out such an operation.
+- **이케쿠라 마리나**: Not only have you gained President Cherino's trust, you also have the absolute freedom to travel between academies.
+- **이케쿠라 마리나**: You have the access, the authority, and the wits to access our darkest secrets and sabotage our very organization.
+- **이케쿠라 마리나**: You would be the perfect target to bribe for information on the great Red Winter if I were Trinity or Gehenna.
+- **이케쿠라 마리나**: Therefore, you are our number one suspect!
+- **이케쿠라 마리나**: Exactly what a spy would say!
+- **이케쿠라 마리나**: However, I am benevolent just as our great President Cherino.<br/>You may have a stay of exile, IF you prove yourself.
+- **이케쿠라 마리나**: You will pass my test easily if you truly are a loyal follower of the president.
+- **이케쿠라 마리나**: Yes. A special test on Red Winter Academy's ideology and general knowledge.
+- **이케쿠라 마리나**: Any Red Winter Academy student could answer these questions in their sleep.
+- **이케쿠라 마리나**: Fail even one question, however...
+- **이케쿠라 마리나**: ...and you can prepare to live out the rest of your days in the Former Institute, Spec Ops!
+- **이케쿠라 마리나**: Only a spy would complain! Prepare yourself!
+- **이케쿠라 마리나**: Only a spy would complain! Prepare yourself!
+- **이케쿠라 마리나**: First question. What animal symbolizes Red Winter Federal Academy?
+- **이케쿠라 마리나**: Correct!
+- **이케쿠라 마리나**: Hmph. Anyone could have answered that.
+- **이케쿠라 마리나**: The symbol is right there on the emblem! How could you get this wrong?!
+- **이케쿠라 마리나**: But a dragon...is one of my favorite animals, so I'll let this one go.
+- **이케쿠라 마리나**: Next. What is Red Winter Academy's symbol of authority?<br/>It's also a physical characteristic that the president is proud of.
+- **이케쿠라 마리나**: Correct! The mustache affords us the great authority our President Cherino wields.
+- **이케쿠라 마리나**: Excellent, Sensei. You are proving yourself to be an ally of Red Winter.
+- **이케쿠라 마리나**: Hmm... I suppose the mustache can constitute part of the beard.
+- **이케쿠라 마리나**: I-It's a gray area, but not technically incorrect!
+- **이케쿠라 마리나**: Last question. What's the name of the honorable ally who is the Great Leader, Beautifier of Lands, Athletics Club Captain, and Chief of Sanitation?
+- **이케쿠라 마리나**: Correct! Excellent!
+- **이케쿠라 마리나**: Correct! Excellent!
+- **이케쿠라 마리나**: Correct! Excellent!
+- **이케쿠라 마리나**: I'm relieved I will not have to purge President Cherino's trusted ally.<br/>You've proved yourself trustworthy.
+- **이케쿠라 마리나**: I suppose I must go to the next suspect on my list.
+- **이케쿠라 마리나**: Huh? What questions?
+- **이케쿠라 마리나**: S-So now that you're cleared, you want to confirm that I'M not the spy?
+- **이케쿠라 마리나**: Hmm... I suppose by my own logic, even the most loyal officer could be a spy.
+- **이케쿠라 마리나**: Hah! Okay! I accept your interrogation. I'm confident in my knowledge of my beloved academy.
+- **이케쿠라 마리나**: Ha. That's easy: 5'11"!
+- **이케쿠라 마리나**: It's written in every Red Bear Newsletter, so naturally I memorized it!
+- **이케쿠라 마리나**: Y-You're right.
+- **이케쿠라 마리나**: And I'm 5'5"... I don't understand!
+- **이케쿠라 마리나**: Okay, fine! You won't get me again though, Sensei.
+- **이케쿠라 마리나**: The president is in her third year...so she's 17!
+- **이케쿠라 마리나**: Or perhaps 18...? Right?
+- **이케쿠라 마리나**: Why won't you answer me? How old is she?!
+- **이케쿠라 마리나**: Th-That's untrue! I know everything there is to know about Red Winter!
+- **이케쿠라 마리나**: I'm the Security Committee's chair, and yet I failed your test?!<br/>Does that mean...I'm truly the spy?
+- **이케쿠라 마리나**: I'm...a spy? What do I do, Sensei?!
+- **이케쿠라 마리나**: M-Must I turn myself in?! Sentence myself to execution?!
+
+3. **「이케쿠라 마리나 인연 스토리 3」**
+
+- **이케쿠라 마리나**: Sensei, you've arrived. Come, this is an urgent situation.
+- **이케쿠라 마리나**: This is the crime scene where the treacherous spy broke into the Secretariat and stole the pudding.
+- **이케쿠라 마리나**: For this spy to have the audacity to steal President Cherino's special pudding!
+- **이케쿠라 마리나**: Pudding is one of our most valued and cherished resources. By stealing something of such importance, they are attempting to create internal strife and cause the very fall of our academy!
+- **이케쿠라 마리나**: Unfortunately for them, I am the security chairman of Red Winter Academy.
+- **이케쿠라 마리나**: Do you see these scratches? The spy must have crawled in through the window.
+- **이케쿠라 마리나**: The footprints are small, so the spy has to be less than a meter tall.<br/>They snatched the pudding, and crawled out on all fours by holding it<br/>in their mouth.
+- **이케쿠라 마리나**: Appearances can be deceiving, Sensei!
+- **이케쿠라 마리나**: Appearances can be deceiving, Sensei!
+- **이케쿠라 마리나**: This spy must be a true master of disguise.
+- **이케쿠라 마리나**: They must have planted these clues in order to mislead us.
+- **이케쿠라 마리나**: Let us begin our investigation. Luckily, the spy didn't hide their trail.
+- **이케쿠라 마리나**: We'll follow their footprints, and hopefully find the spy before sundown.
+- **이케쿠라 마리나**: Red Winter Academy is one of the largest schools in Kivotos.
+- **이케쿠라 마리나**: So much so, you could end up lost and eaten by a bear if you're not cautious.
+- **이케쿠라 마리나**: What kind of incompetent student would end up lost in their own academy, though? I can't help but laugh at the thought.
+- **이케쿠라 마리나**: Don't worry about a thing, Sensei! I know Red Winter Academy like the back of my hand. Better, even! We could never get lost.
+- **이케쿠라 마리나**: Don't worry about a thing, Sensei! I know Red Winter Academy like the back of my hand. Better, even! We could never get lost.
+- **이케쿠라 마리나**: W-We may be lost.
+- **이케쿠라 마리나**: How could this happen? I was just following the suspect's trail!
+- **이케쿠라 마리나**: Haha! Hah! O-Of course! As Red Winter Academy's security chair,<br/>it is my duty to know the layout of the grounds.
+- **이케쿠라 마리나**: Th-There's definitely a trail I often take in the mornings somewhere around here...
+- **이케쿠라 마리나**: There's no trail at all? Not even a small trail?
+- **이케쿠라 마리나**: And now I've lost the footprints! How am I going to find the spy?!
+- **이케쿠라 마리나**: Th-They are?!
+- **이케쿠라 마리나**: A-ha! Right there!
+- **이케쿠라 마리나**: The trail leads to the storage we use to store President Cherino's special pudding.
+- **이케쿠라 마리나**: The spy must have thought it could cut off our supplies at the source.
+- **이케쿠라 마리나**: You have a discerning eye, Sensei. To think you found a clue I couldn't even see.
+- **이케쿠라 마리나**: I shall put in a recommendation for you to receive a special mustache medal!
+- **이케쿠라 마리나**: Now, let us go purge this spy!
+- **이케쿠라 마리나**: Hah!
+- **이케쿠라 마리나**: Hands in the air!
+- **이케쿠라 마리나**: I-Is this...?!
+- **이케쿠라 마리나**: ...
+- **이케쿠라 마리나**: The spy is a horrific beast?!
+- **이케쿠라 마리나**: Those sharp claws and teeth would rip through my uniform.
+- **이케쿠라 마리나**: We thought we found Red Winter's infiltrator, but now we're faced with an even greater threat.
+- **이케쿠라 마리나**: What should I report to President Cherino? That we tracked down the culprit, but they were chased valiantly away?
+- **이케쿠라 마리나**: The president doesn't tolerate failure. We would be purged immediately.<br/>Perhaps I could tranquilize it?
+- **이케쿠라 마리나**: What? How could the Red Winter Academy security chair be scared of a cat?!
+- **이케쿠라 마리나**: What? How could the Red Winter Academy security chair be scared of a cat?!
+- **이케쿠라 마리나**: I solely am responsible for the Secretariat's safety! Be it bear or cat or intruder, I would stand valiantly—
+- **이케쿠라 마리나**: AHHH!
+- **이케쿠라 마리나**: Okay, fine. Perhaps I am not the most comfortable around cats.
+- **이케쿠라 마리나**: I was scratched by a stray cat when I was a child. I just wanted to feed it.
+- **이케쿠라 마리나**: Since then, I've been wary of approaching the beasts.
+- **이케쿠라 마리나**: Start over?! D-Do you want me to pet it, Sensei?!
+- **이케쿠라 마리나**: I could easily wrestle a hungry bear to the ground before approaching this beast!
+- **이케쿠라 마리나**: Even under the president's order, I wouldn't be able to—
+- **이케쿠라 마리나**: G-Get away from me!
+- **이케쿠라 마리나**: Is it gone...?
+- **이케쿠라 마리나**: ...
+- **이케쿠라 마리나**: ...
+- **이케쿠라 마리나**: W-Well, congratulations on solving the case!
+- **이케쿠라 마리나**: Not only did we find out the identity of the pudding thief, we also put terror in the heart of the cat! It will never attack the Secretariat again!
+- **이케쿠라 마리나**: Hopefully, this means President Cherino will stop threatening to purge half the school if she doesn't get her pudding back.
+- **이케쿠라 마리나**: But, I think something fell off the shelf just now. Y-You don't think it was the cat, right?
+- **이케쿠라 마리나**: I-Is that a statue of President Cherino?!
+- **이케쿠라 마리나**: Why is this statue here? Who dares damage the visage of our great leader?
+
+4. **「이케쿠라 마리나 인연 스토리 4」**
+
+- **이케쿠라 마리나**: Late!
+- **이케쿠라 마리나**: Our scheduled time was not 7:10 or 7:05, was it? It was 7AM precisely!
+- **이케쿠라 마리나**: Ten minutes late is still late! We value punctuality here at Red Winter Academy!
+- **이케쿠라 마리나**: Your excuses are grounds for purging!
+- **이케쿠라 마리나**: Sensei, your foolishness knows no bounds this morning.<br/>Naturally, we must clean the bathrooms before the day begins.
+- **이케쿠라 마리나**: We would be constantly interrupted and unable to complete our job during regular school hours.
+- **이케쿠라 마리나**: So we must scrub, clean, and give everything enough time to dry before students arrive.
+- **이케쿠라 마리나**: And now we've wasted ten precious minutes from our strict schedule...
+- **이케쿠라 마리나**: Will you take responsibility if we're unable to complete our duties because of our lost time?
+- **이케쿠라 마리나**: What will you do if a student slips because the bathroom floors are still wet?
+- **이케쿠라 마리나**: I would have to report you immediately for sabotage against Red Winter Academy!
+- **이케쿠라 마리나**: A-As much as it pains me, I must agree with you.
+- **이케쿠라 마리나**: I'll postpone your punishment until we've finished cleaning the bathrooms.
+- **이케쿠라 마리나**: You should strive to make up for your mistake by cleaning extra vigorously!
+- **이케쿠라 마리나**: Now, let the Revolutionary Bathroom Cleaning begin!
+- **이케쿠라 마리나**: ― Tch... The stain in this crevice is quite stubborn.
+- **이케쿠라 마리나**: ― But how long can it withstand
+- **이케쿠라 마리나**: ― my relentless attack?
+- **이케쿠라 마리나**: ― Heh heh.
+- **이케쿠라 마리나**: ― Never underestimate the power of my new weapon.
+- **이케쿠라 마리나**: ― With this new cleaning agent I bought,
+- **이케쿠라 마리나**: ― there's no crevice that my hands can't clean!
+- **이케쿠라 마리나**: ― Wait, Sensei! You must remove the moisture completely.
+- **이케쿠라 마리나**: ― Get all the foam off the mirrors and windows!
+- **이케쿠라 마리나**: ― Then wipe it all again with newspaper.
+- **이케쿠라 마리나**: ― That'll give you a truly streak-free shine!
+- **이케쿠라 마리나**: ― Also, this kind of cleaning agent
+- **이케쿠라 마리나**: ― can be dangerous to use in a closed room.
+- **이케쿠라 마리나**: ― Don't forget you need proper ventilation!
+- **이케쿠라 마리나**: ― Safety first!
+- **이케쿠라 마리나**: ― Keep your wits about you when you're fighting contaminants!
+- **이케쿠라 마리나**: ― Protect the hygiene of Red Winter Academy!
+- **이케쿠라 마리나**: Fortunately, we completed our cleaning duties on time.
+- **이케쿠라 마리나**: Your performance was acceptable. Therefore, you will not be punished for your misdemeanor this morning. Be grateful!
+- **이케쿠라 마리나**: Wasn't the act of cleaning simply...exhilarating?
+- **이케쿠라 마리나**: A sense of peace and tranquility washes over me at the sight of a squeaky clean toilet.
+- **이케쿠라 마리나**: Is something the matter, Sensei?
+- **이케쿠라 마리나**: Haha. Naturally!
+- **이케쿠라 마리나**: Haha. Naturally!
+- **이케쿠라 마리나**: I am the great security chairman of the Red Winter Office!
+- **이케쿠라 마리나**: Compared to eliminating the Secretariat's enemies, cleaning the bathroom is a piece of cake!
+- **이케쿠라 마리나**: Ch-Chief of S-Sanitation?!
+- **이케쿠라 마리나**: How... How DARE you?! How dare you disrespect me, the security chair of Red Winter Academy!
+- **이케쿠라 마리나**: I am going to become the next Student Council president! Not some measly Chief of Sanitation.
+- **이케쿠라 마리나**: Although, I do find a lot of joy in the labors of bathroom cleaning...
+- **이케쿠라 마리나**: Maybe I can think about serving as both security chairman and Chief of Sanitation.
+- **이케쿠라 마리나**: But, currently, President Cherino is Chief of Sanitation. If I wanted that position...
+- **이케쿠라 마리나**: ...would I have to stage another coup?
+
+5. **「이케쿠라 마리나 인연 스토리 5」**
+
+- **이케쿠라 마리나**: Do you really think you'll get away with this?!
+- **이케쿠라 마리나**: I'll purge every single one of you once I get back to the Secretariat!
+- **Security Council**: Silence! You were trespassing in a restricted area.
+- **Security Council**: Behave yourself!
+- **이케쿠라 마리나**: I'm never leaving my house without my student ID again...
+- **Security Council**: Huh? Who are you?
+- **Security Council**: This is the forefront of Red Winter Academy. Only fools and spies tread here, so which one are you?
+- **Security Council**: If you don't have proper identification, I'll arrest you as a spy too!
+- **Security Council**: This ID says...you're that Sensei from Schale? The comrade who has garnered the Great Leader's utmost trust?
+- **Security Council**: I'm sorry I didn't recognize you. This place is so remote that photo records take forever to get here.
+- **Security Council**: But I've heard about your achievements through the Red Bear newspaper.<br/>It's an honor to meet you!
+- **Security Council**: Oh, you mean this spy who is impersonating the security chair?
+- **Security Council**: Oh, you mean this spy who is impersonating the security chair?
+- **Security Council**: She tried to enter a restricted area under the protection of the Security Council with no identification!
+- **Security Council**: And she had the audacity to claim she was the security chair herself.
+- **이케쿠라 마리나**: What do I have to do for you to believe me?!
+- **Security Council**: Shut up, spy! There's no way you're the security chair!
+- **Security Council**: According to the Red Bear...Security Chair Marina is petite, but terrifying in ways an average student can't even imagine. Not even the most ferocious beast could take her.
+- **Security Council**: And then this bumbling fool, who got lost on her walk while running from a stray cat, says she's the security chairman. Ha!
+- **이케쿠라 마리나**: O-Oh. Well, that's because...
+- **Security Council**: Also, the security chair is a close assistant to President Cherino, responsible for the Great Leader's safety...
+- **Security Council**: And you don't even know how tall she is!
+- **Security Council**: How dare you impersonate the great Marina?! You're shameless!
+- **Security Council**: The real Security Chair Marina is an admirable and respected person!
+- **이케쿠라 마리나**: ...
+- **이케쿠라 마리나**: No, Sensei. I'm not the security chair.
+- **이케쿠라 마리나**: Hearing the way she described me... I don't want to disappoint the Security Council members who admire an ideal of me I can't live up to.
+- **이케쿠라 마리나**: So it would be best to pretend you don't know who I am.
+- **이케쿠라 마리나**: I'm so ashamed... I can't go back to the Secretariat like this.
+- **이케쿠라 마리나**: Rather than being a role model to my members, I humiliated myself and needed help from you, Sensei.
+- **이케쿠라 마리나**: I don't deserve the title of the Red Winter Academy security chair.
+- **이케쿠라 마리나**: I'll submit my letter of resignation to President Cherino immediately.
+- **이케쿠라 마리나**: What do you mean, Sensei?
+- **이케쿠라 마리나**: What do you mean, Sensei?
+- **이케쿠라 마리나**: I'm afraid of stray cats and can't even memorize the president's profile information...
+- **이케쿠라 마리나**: How can I deserve my role?
+- **이케쿠라 마리나**: What's that supposed to mean?!
+- **이케쿠라 마리나**: If you're going to encourage me, do it properly!
+- **이케쿠라 마리나**: What does trusting people have to do with anything?
+- **이케쿠라 마리나**: Because I trust my subordinates without suspicion, they return that trust?
+- **이케쿠라 마리나**: Well... Come to think of it, the Security Council members have always followed me whenever I staged a coup.
+- **이케쿠라 마리나**: Cleaning the bathroom? What does that have to do with anything?
+- **이케쿠라 마리나**: My dedication to protect students from bacteria is admirable?
+- **이케쿠라 마리나**: Come to think of it...there have never been any issues due to poor sanitation.
+- **이케쿠라 마리나**: Well, if you insist. I'll reconsider my resignation.
+- **이케쿠라 마리나**: No one is talented enough to take over my position! And there's a saying that a stumble may prevent a fall!
+- **이케쿠라 마리나**: I'm going to make up for today's mistake by continuing to exemplify greatness!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/이케쿠라 마리나
+- https://bluearchive.wiki (원문 스토리 스크립트)

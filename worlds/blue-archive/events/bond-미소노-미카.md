@@ -1,0 +1,231 @@
+# 미소노 미카 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 미소노 미카, 선생(샬레)
+
+1. **「미소노 미카 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「미소노 미카 인연 스토리 2」**
+
+- **미소노 미카**: Whoa! It's Sensei! You're here!
+- **미소노 미카**: I've been waiting for you!
+- **미소노 미카**: Ready to go? That way!
+- **미소노 미카**: Shopping, of course! There's a ton of things to buy!
+- **미소노 미카**: Wow! How about that fresh air, huh?
+- **미소노 미카**: It's so nice out!
+- **미소노 미카**: Do I? Well, it feels amazing to finally be out and about.
+- **미소노 미카**: It's pretty different from my old life, so it'll take some getting used to.
+- **미소노 미카**: But it's okay.
+- **미소노 미카**: Well, now I have to study in a classroom with other students instead of by myself.
+- **미소노 미카**: I have to eat in the school cafeteria...
+- **미소노 미카**: I have to dry my hair by myself... You know, stuff like that.
+- **미소노 미카**: More importantly, I'm living in the student dorms now...
+- **미소노 미카**: So, I have to do all of my own laundry and ironing. And I have to finish things like eating or showering by a set time.
+- **미소노 미카**: But the strict lights out rules are the worst! They're forcing me to sleep on a schedule!
+- **미소노 미카**: If you say so, Sensei...
+- **미소노 미카**: But Trinity's other dorms were so much more relaxed... Maybe it was just bad luck?
+- **미소노 미카**: But that's okay. ☆ I'll get used to that too.
+- **미소노 미카**: All right then!
+- **미소노 미카**: Shopping! Let's go shopping!
+- **미소노 미카**: Yeah, for class. I still need to buy things like dictionaries and reference texts in places like this.
+- **미소노 미카**: I lost everything I was using before.
+- **미소노 미카**: Hang on, Sensei! I'll go pick some out. Back in a jif!
+- **미소노 미카**: I hope I didn't keep you waiting too long.
+- **미소노 미카**: I needed to buy more than I thought.
+- **미소노 미카**: Yeah, I ended up finding a few interesting novels and magazines.
+- **미소노 미카**: But I'm going to have to learn not to make impulse purchases like this too now.
+- **미소노 미카**: It'll be okay. ☆
+- **미소노 미카**: Now, let's go somewhere else, Sensei! There's still more to buy!
+- **미소노 미카**: Yup! I need something here too!
+- **미소노 미카**: Wait for a bit, Sensei!
+- **미소노 미카**: I won't be long.
+- **Clerk**: I can help you check out.
+- **Clerk**: One pair of school sneakers, one pair of indoor slippers, one gym uniform...
+- **Clerk**: ...two handkerchiefs, one school swimsuit, two gym towels...
+- **미소노 미카**: Uh, yeah...
+- **미소노 미카**: I can't find any of my old stuff, so...
+- **미소노 미카**: Don't worry! It's a good thing! The old stuff was all worn out. I wanted to get new ones anyway!
+- **Clerk**: How would you like to pay?
+- **미소노 미카**: Oh, with this! Here you go!
+- **Clerk**: Thank you for your card...
+- **Clerk**: I'm sorry. It's been declined...
+- **미소노 미카**: H-Huh?!
+- **미소노 미카**: Wait, um...
+- **미소노 미카**: ...
+- **미소노 미카**: I'll just... I'll just get one towel and one handkerchief for now, and... I'll skip the slippers too!
+- **Clerk**: All right... No, I'm sorry. It's still declined.
+- **미소노 미카**: Ah, uh...
+- **미소노 미카**: I-I'll take the swimsuit out...
+- **미소노 미카**: It’s all right!
+- **미소노 미카**: I actually have a swimsuit. I was just hoping to get a new one. That's all.
+- **미소노 미카**: Here, take this out too.
+- **Clerk**: Declined...
+- **미소노 미카**: Th-Then the gym uniform too...
+- **Clerk**: Do you have any other cards?
+- **Clerk**: Yes, that payment went through.
+- **미소노 미카**: S-Sensei?! W-Why did you do that?
+- **미소노 미카**: ...
+- **미소노 미카**: ...
+- **미소노 미카**: This didn't turn out at all the way I'd hoped.
+
+3. **「미소노 미카 인연 스토리 3」**
+
+- **미소노 미카**: I guess I'm here now...
+- **미소노 미카**: Uh, nothing really...
+- **미소노 미카**: As you can see, I'm just volunteering.
+- **미소노 미카**: Oh, well, part of my punishment was 300 hours of community service work.
+- **미소노 미카**: So I'm here on my day off weeding this field.
+- **미소노 미카**: Yeah.
+- **미소노 미카**: I can't believe they expect me to get the whole thing done today... Don't you think that's too much?
+- **미소노 미카**: It's hot. I'm all by myself. The work is really hard and boring. And even the slightest mistake gets my nice clothes dirty.
+- **미소노 미카**: My back hurts. My hands are getting rough... And I can't afford lotion right now, let alone sunscreen!
+- **미소노 미카**: Oh, uh... It's not that bad, really...
+- **미소노 미카**: N-No! You don't have to do that, Sensei! I'm just not used to it is all!
+- **미소노 미카**: My gym clothes? Really?
+- **미소노 미카**: B-But you bought me that gym uniform. I was saving it for a special day.
+- **미소노 미카**: I guess you're right...technically.
+- **미소노 미카**: All right.
+- **미소노 미카**: Okay, I changed and brought everything you told me to, Sensei.
+- **미소노 미카**: I'm a little embarrassed to be seen in this uniform. It's not exactly cute...
+- **미소노 미카**: I don't know. What do you think?
+- **미소노 미카**: Okay.
+- **미소노 미카**: This is hard... My back hurts... There's dirt everywhere...
+- **미소노 미카**: Yeah, it looks like it...
+- **미소노 미카**: This was supposed to be my volunteer work. I hope getting help from Sensei doesn't cause any trouble... Well, even if it does, I don't care. ☆
+- **미소노 미카**: Heehee...
+- **미소노 미카**: Hey, Sensei...
+- **미소노 미카**: Huh? O-Okay...
+
+4. **「미소노 미카 인연 스토리 4」**
+
+- **미소노 미카**: Wow! ☆ It's Sensei!
+- **미소노 미카**: Hmm? No, no. It's okay. I know you're really busy, Sensei. Me on the other hand, I've been free lately.
+- **미소노 미카**: Hmm? Well... Um...
+- **미소노 미카**: Really, nothing actually happened...
+- **미소노 미카**: I just thought it would be nice to have some tea and dessert together. If you're okay with that, of course.
+- **미소노 미카**: B-But the stores are closing early today, since it's a holiday.
+- **미소노 미카**: It's so late that I'm not sure anything local will be open...
+- **미소노 미카**: What should we do? I don't want you to have come all this way for nothing.
+- **미소노 미카**: But I don't want to take up more of your time either, Sensei. Do you just want to go back to Schale?
+- **미소노 미카**: It's probably better for you if people don't keep seeing you with a miscreant like me anyway...
+- **미소노 미카**: O-Okay.
+- **미소노 미카**: Somewhere to sit?
+- **미소노 미카**: You mean like my room?
+- **미소노 미카**: Yes.
+- **미소노 미카**: I don't mean to be weird or anything! And it's just a dorm room, nothing fancy...
+- **미소노 미카**: But because it's a holiday, lights out is later than usual.
+- **미소노 미카**: And I've got some roll cakes and tea to share. If I'm being honest, I'm tired of the roll cakes, but they're going to go bad soon, so...
+- **미소노 미카**: In fact, you could take it home with you if you want, Sensei! It's better than wasting food!
+- **미소노 미카**: Ah, yeah, I thought you wouldn't have too much time to spare.
+- **미소노 미카**: Come on! The dorm is this way!
+- **미소노 미카**: Depressing, isn't it? It's an old building, so it's not very popular. Hardly any students stay here.
+- **미소노 미카**: Ugh! Last time I was here, I even saw a rat! Kinda makes me miss the prison cell, you know?
+- **미소노 미카**: Ahahaha! ☆ No, it's not that bad. The management here is great!
+- **미소노 미카**: Anyway my room is at the top floor, so we can take the emergency stairs here.
+- **미소노 미카**: Don't worry. It's just because I'm a special case with an unusual history.
+- **미소노 미카**: Be careful now. The stairs are steep.
+- **미소노 미카**: We're here! It's the room at the end!
+- **미소노 미카**: Yeah...
+- **미소노 미카**: Right... Attic...
+- **미소노 미카**: Let's see...
+- **미소노 미카**: It's just about time for...
+- **Student RA**: Roll call!
+- **Student RA**: The main entrance is now closed! No exceptions! Every student needs to line up outside their door!
+- **Student RA**: Roll call will begin from the top floor!
+- **미소노 미카**: Oh no! This is no good at all, Sensei. The inspector is coming this way!
+- **미소노 미카**: Go in my room and hide under the blankets! Quick! You'll be in so much trouble if you get caught in here!
+- **Student RA**: Mika? What's with all the noise? Is something going on?
+- **미소노 미카**: Huh? No. Not really.
+- **Student RA**: I thought I heard somebody talking to you...
+- **미소노 미카**: Ahaha! ☆ What do you mean? It's just me here. You must've heard wrong.
+- **Student RA**: Mm hm... Would you step aside for a moment? I want to inspect your room.
+- **미소노 미카**: Whoa! Don't you trust me?!
+- **미소노 미카**: I mean... Whatever. Do whatever you want.
+- **Student RA**: Then, please excuse me.
+- **Student RA**: ...
+- **Student RA**: Hmm... I suppose I did just hear wrong...
+- **Student RA**: Well, keep the noise down, okay, Mika? This is an old building, so the walls are very thin.
+- **Student RA**: Get some rest.
+- **미소노 미카**: Of course. Thank you! ☆
+- **미소노 미카**: Wow. Success!
+- **미소노 미카**: Sensei. It's fine. You can come out now.
+- **미소노 미카**: ― Shhh!!!
+- **미소노 미카**: ― ...Sensei, I tricked you.
+- **미소노 미카**: ― What should we do now?
+- **미소노 미카**: ― It looks like we're stuck here until morning.
+- **미소노 미카**: ― You trusted me so easily.
+- **미소노 미카**: ― Really, Sensei... I told you...
+- **미소노 미카**: ― so many times not to trust me...
+- **미소노 미카**: ― Hmm? If you cause a scene here,
+- **미소노 미카**: ― everyone will find out. Are you sure you want that to happen?
+
+5. **「미소노 미카 인연 스토리 5」**
+
+- **Trinity Adminstrator**: ...Mika is in the Self-Reflection Room, serving her detention for committing an act of violence on academy grounds.
+- **Trinity Adminstrator**: Yes. There was an incident today wherein Mika struck another student.
+- **Trinity Adminstrator**: W-We are still investigating the details.
+- **Trinity Adminstrator**: But it appears Mika didn't bring a swimsuit for her P.E. class today, despite knowing it was a swim day. She instead sat out and watched.
+- **Trinity Adminstrator**: Yes. She was incredibly tardy to begin with, and then wandered around the pool rather than participating.
+- **Trinity Adminstrator**: Mika's classroom behavior was inappropriate and disrespectful.
+- **Trinity Adminstrator**: There were students who observed this behavior and, finding it distasteful, complained. That was when Mika reacted violently, striking the student.
+- **Trinity Adminstrator**: Thankfully, the student sustained no injuries and Mika herself turned herself over for punishment. So the issue was resolved peacefully.
+- **Trinity Adminstrator**: However, you are well aware that Mika's circumstances as a student are...complex. We hope this issue does not turn into a larger issue.
+- **Trinity Adminstrator**: In conclusion, we were hoping that you, as Schale's representative, could oversee Mika's punishment.
+- **Trinity Adminstrator**: Thank you!
+- **Trinity Adminstrator**: I have other tasks to attend to, so please excuse me!
+- **미소노 미카**: Look at that. In the end, things ended up like this...
+- **미소노 미카**: Are you disappointed? But you already knew I'm a bad student.
+- **미소노 미카**: I'm a troublemaker that ruins everything if left unsupervised.
+- **미소노 미카**: I just cause problems everywhere I go, so I'll probably...
+- **미소노 미카**: Wh-What?!
+- **미소노 미카**: I-I...
+- **미소노 미카**: You bought me that swimsuit, Sensei...
+- **미소노 미카**: Wh-What?!
+- **미소노 미카**: My swimsuit is gone? Did I misplace it somewhere?
+- **Suspicious Student A**: Heehee. The all-superior lady of the Tea Party can't even manage her own locker.
+- **Suspicious Student B**: Well, maybe she's just so used to having people take care of her every need for her she doesn't know how.
+- **Suspicious Student C**: She's so noble and high-class compared to us, maybe she just didn't want to be in the same pool as us commoners, right?
+- **Suspicious Student A**: Oh the trash bin seems to be full today. Is it because there is a lot to throw away? Heeheehee!
+- **미소노 미카**: ...
+- **미소노 미카**: It's not there... I checked the trash bin and even the incinerator, but...
+- **미소노 미카**: I can't find it anywhere! Why is this happening? That swimsuit's really important to me...
+- **Suspicious Student A**: Oh my, why is there trash here?
+- **미소노 미카**: ...!
+- **Suspicious Student B**: Oh! This isn't trash! It's just a disgusting, cut up swimsuit, isn't it?
+- **Suspicious Student B**: Well, it's more or less trash at this point.
+- **미소노 미카**: How dare you...
+- **Suspicious Student A**: E-Eek?!
+- **Suspicious Student B**: What's she doing?! I thought Mika wasn't allowed to fight back anymore! She's supposed to be a shackled paper tiger!
+- **Suspicious Student C**: A-Are we going to die?
+- **미소노 미카**: (No...)
+- **미소노 미카**: (I can't do this again... I'm...)
+- **Suspicious Student C**: A witch! She's a witch! S-Save me!
+- **Suspicious Student A**: W-Wait! Don't leave me behind!
+- **Suspicious Student B**: Hey! Let me go! Wh-Whoa!
+- **Suspicious Student B**: O-Ouch... Ah...!
+- **미소노 미카**: My swimsuit... Sensei...
+- **미소노 미카**: ...
+- **미소노 미카**: I'm so sorry, Sensei. You got me that swimsuit as a gift, and it's completely ruined... I don't even think it's fixable.
+- **미소노 미카**: It's all my fault though. This is what I get for all the horrible things I've done... If I had just been a good girl, things like this wouldn't be happening to me...
+- **미소노 미카**: I promise I was really, really trying to be good this time... But, I messed it up again.
+- **미소노 미카**: I'm always just ruining everything for you, Sensei! I was really excited to go to P.E. in the new swimsuit you got me...
+- **미소노 미카**: I'm just not meant to be good, I guess...
+- **미소노 미카**: I wanted to turn things around, and I tried so hard...
+- **미소노 미카**: Huh?
+- **미소노 미카**: That came out of nowhere... Well, I do have a lot of time until my dorm's curfew, but...
+- **미소노 미카**: ...What?
+- **Clerk**: I see. The damage is severe, but it's actually not beyond repair.
+- **미소노 미카**: ...
+- **Clerk**: It'll obviously be a little bit patchy, but it'll be perfectly fine to swim in. Since it's within its warranty period, I'll do it for free.
+- **Clerk**: Of course. It shouldn't take too long, so please wait here.
+- **Clerk**: And all patched up. Here you go!
+- **미소노 미카**: ...
+- **미소노 미카**: So you can get clothes fixed up like this...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/미소노 미카
+- https://bluearchive.wiki (원문 스토리 스크립트)

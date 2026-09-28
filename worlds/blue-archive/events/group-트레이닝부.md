@@ -1,0 +1,206 @@
+# 트레이닝부 그룹 스토리
+
+원문(bluearchive.wiki) 그룹 스토리 스크립트 4화를 한국어 정본 이름으로 옮긴 기록이다.
+
+- 등장: Everyone, Millennium Baseball Club Manager, Millennium Baseball Club Member A, Millennium Baseball Club Member B, Millennium Baseball Club Member C, Millennium Baseball Club Member D, Robot Umpire, Studio Announcer, 노마사 레이, 오토하나 스미레
+
+1. **「트레이닝부 스토리 1화」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「트레이닝부 스토리 2화」**
+
+- **Robot Umpire**: Let's play ball!
+- **Millennium Baseball Club Manager**: All right, everyone!
+- **Millennium Baseball Club Manager**: This is a practice match, so no need to be nervous.
+- **Millennium Baseball Club Manager**: The opposing team is just a bunch of robots... Don't worry about getting booed or hit by a pitch.
+- **Millennium Baseball Club Member A**: Wait, the Engineering Department made these?! That's super dangerous!
+- **Millennium Baseball Club Member A**: The pitching machine we got from them was merciless! It kept throwing balls as fast as the pros!
+- **Millennium Baseball Club Member B**: That darn robot would even taunt us before pitching!
+- **Millennium Baseball Club Manager**: Mmm, I know all of us are traumatized from that game...
+- **Millennium Baseball Club Manager**: But Seminar said they fixed all the bugs. We have nothing to fear this time.
+- **Millennium Baseball Club Manager**: Now let's go play some good old baseball.
+- **Robot Umpire**: Strike three! You're out!
+- **Millennium Baseball Club Member A**: Ugh... Struck out again.
+- **Millennium Baseball Club Member B**: The pitching's too fast.
+- **Robot Umpire**: Next up, Millennium Baseball Club's cleanup batter, Nomasa Rei.
+- **Millennium Baseball Club Member A**: Hey, isn't she the rookie who just joined?
+- **Millennium Baseball Club Member B**: I heard she's an ace with an incredible 0.08 batting average...
+- **Millennium Baseball Club Member A**: Wait, she hits 8 out of every 100 balls? I can't even hit 1...
+- **노마사 레이**: Aw, come on, girls. You're making me blush. Heeheehee...
+- **Millennium Baseball Club Member A**: Rei! Look out! The pitcher—
+- **Robot Umpire**: (Wind it up and—)
+- **노마사 레이**: Here it comes!
+- **Millennium Baseball Club Member A**: She hit it!
+- **Millennium Baseball Club Member B**: At that speed?!
+- **Millennium Baseball Club Member A**: Look at it go!
+- **Millennium Baseball Club Member A**: No way! Is this the first home run of the season?
+- **Robot Umpire**: ...Flyout!
+- **노마사 레이**: *sigh*
+- **Robot Umpire**: Inning complete. Defense team, take positions!
+- **Millennium Baseball Club Manager**: ...And that's game. Good work, everyone!
+- **Everyone**: Good game!
+- **Millennium Baseball Club Member A**: You were on fire today, Rei!
+- **노마사 레이**: Same to you. Good job out there!
+- **Millennium Baseball Club Member A**: I really thought we were gonna see a home run today...
+- **Millennium Baseball Club Member B**: Yeah. There was some real power behind that swing.
+- **노마사 레이**: Thanks...but...
+- **노마사 레이**: That was no home run. I knew it the moment I hit the ball...
+- **Millennium Baseball Club Member A**: You could tell just from feeling the hit?
+- **노마사 레이**: N-Not quite. I mean I've never ever landed a home run before.
+- **노마사 레이**: ...It just didn't have that "kablam" feeling that comes from a real home run.
+- **Millennium Baseball Club Member A**: Uhh...if you say so...
+- **노마사 레이**: Well, I still have plenty of games left to bat a real one.
+- **노마사 레이**: You gals wouldn't happen to have any tips for hitting home runs would you?
+- **Millennium Baseball Club Member A**: Home run tips? I think launch angles are important?
+- **Millennium Baseball Club Member A**: A flying ball has constant acceleration movement vertically, and uniform linear motion horizontally. It reaches its maximum distance when struck at an angle of 45 degrees.
+- **Millennium Baseball Club Member B**: No way! That ballistic equation only works in a vacuum. It's only considering the force of gravity. There are many other factors!
+- **Millennium Baseball Club Member B**: For a more accurate calculation, we need to consider drag and lift.
+- **Millennium Baseball Club Member C**: The material of the bat is also important. You can get a faster swing if the bat is light with a lot of repulsive force.
+- **Millennium Baseball Club Member C**: I heard the New Material Development Club did a report on the bat they made—
+- **Millennium Baseball Club Member D**: Maybe if you position yourself according to the golden rectangle, you can use the "spin" on the bat to—
+- **노마사 레이**: I guess there's no magic formula to land a home run...
+- **노마사 레이**: Maybe I just need some more muscle training?
+- **Millennium Baseball Club Member A**: M-Muscle training?
+- **Millennium Baseball Club Member B**: But muscle training is... *gasp* exercise.
+- **Millennium Baseball Club Member C**: Don't do it! The Millennium Baseball Club is a theoretical one. Our focus is on equipment, record keeping, and theory! Not training!
+- **Millennium Baseball Club Member D**: Besides...you don't NEED to land home runs, right? Just get some good hits in and score some points.
+- **노마사 레이**: Right. The number of successful hits is more important than home runs when it comes to winning games.
+- **노마사 레이**: I know that, but I still want to land a home run!
+- **Millennium Baseball Club Manager**: Sorry, Rei. Our club can't really help when it comes to getting better at the game itself.
+- **Millennium Baseball Club Manager**: I'm the president, and even I'm not in very competitive shape. All I've got for you is theory on how to score more hits.
+- **노마사 레이**: ...I see.
+
+3. **「트레이닝부 스토리 3화」**
+
+- **노마사 레이**: *pant* *pant* Four...teen!
+- **오토하나 스미레**: Come on, Rei. Just a little bit more.
+- **오토하나 스미레**: Just one more. One more, and you've cleared this set!
+- **노마사 레이**: *pant* Hold it for three, two, one...
+- **노마사 레이**: ...That makes fifteen!
+- **오토하나 스미레**: Very good!
+- **오토하나 스미레**: One more!
+- **노마사 레이**: Wait a second! I thought you said that was the last one!
+- **노마사 레이**: Why is there still one left?
+- **오토하나 스미레**: You say you're tired, but I know you've still got one more in you.
+- **오토하나 스미레**: Today's pain is what leads to tomorrow's gains.
+- **오토하나 스미레**: Imagine the amazing tone and definition you'll have tomorrow. It's just beyond this last burpee!
+- **노마사 레이**: You said that earlier!
+- **노마사 레이**: Now that I think about it, you even snuck an extra set...
+- **노마사 레이**: I...give up...
+- **오토하나 스미레**: All right. Break time!
+- **오토하나 스미레**: Let's hydrate then move on to the next exercise before your muscles cool down!
+- **노마사 레이**: Phew...
+- **노마사 레이**: By the way, these exercises are supposed to help with baseball, right?
+- **노마사 레이**: It feels like I'm working my thighs and calves rather than my arms and shoulders...
+- **오토하나 스미레**: Don't worry. Burpees are meant to train your whole body. Arms, legs, even your core muscles that keep you upright.
+- **오토하나 스미레**: You can build muscles and even enhance your cardiorespiratory endurance, all through burpees alone!
+- **오토하나 스미레**: Especially for someone like you, who hasn't done a whole lot of fitness, stimulating the entire body is more effective than focusing on a few arbitrary body parts.
+- **노마사 레이**: But...
+- **노마사 레이**: I'm trying to be a home run queen not a bodybuilder.
+- **노마사 레이**: There are famous sluggers who focused only on their arm muscles. They may have had more cardio endurance than the average person...but they didn't need it!
+- **오토하나 스미레**: ...Rei.
+- **오토하나 스미레**: Why do you want to hit a home run so badly?
+- **노마사 레이**: Because it's cool! Obviously...
+- **노마사 레이**: A home run is like the gilded lily of a baseball game, don't you think?
+- **노마사 레이**: Most ordinary hits never lead to a single point. But with a single swing, you can turn the tables of an entire game...
+- **노마사 레이**: It's only natural for a batter to yearn for a home run.
+- **노마사 레이**: I've been thinking about them ever since I decided to join the baseball club.
+- **노마사 레이**: I know that one day, I will hit a radiant home run that leads my team to victory!
+- **오토하나 스미레**: When was the last time you saw someone land a home run?
+- **노마사 레이**: I think it was at the public baseball field. I went with my friends at the end of last year's season.
+- **노마사 레이**: I could never forget the beautiful arc the ball drew over the fences.
+- **노마사 레이**: Thanks to that swing, the home team was able to take back a game they were losing badly and emerge victorious...
+- **노마사 레이**: ...Wait. Were you rooting for the home team, or the away team?
+- **노마사 레이**: (It was... Wait, which team was it?!)
+- **노마사 레이**: (I remember the field, I remember the final score. But everything else is fuzzy...)
+- **노마사 레이**: (There was that shooting star of a home run. What happened during the rest of the game, Rei?!)
+- **오토하나 스미레**: ...How about we call it a day.
+- **노마사 레이**: Right. Thank you for your help today.
+- **오토하나 스미레**: By the way... Is there a baseball game tonight, Rei?
+- **노마사 레이**: Mmm. There's no regular season games on Mondays. But there is a minor league game playing on the outskirts of Gehenna.
+- **오토하나 스미레**: Let's go watch a game then!
+- **노마사 레이**: Huh? Right now?!
+- **오토하나 스미레**: We have a lot of extra time from cutting the training schedule short.
+- **오토하나 스미레**: So how about we make up for it with a field trip!
+- **오토하나 스미레**: Up for a brisk jog to the Gehenna district?
+- **노마사 레이**: From here?! On foot?! We'll never make it in time!
+
+4. **「트레이닝부 스토리 4화」**
+
+- **오토하나 스미레**: It's...
+- **오토하나 스미레**: ...less crowded in the stadium than I expected.
+- **노마사 레이**: Yep. It's only a minor league game for rookies, on top of being a Monday.
+- **노마사 레이**: Don't make that face. You were the one who ran us out to the first game you could find...
+- **노마사 레이**: ...That said, it does feel nice to be back in the stands.
+- **노마사 레이**: Especially at a minor league game. The crowd's small. You can sit right up next to the players.
+- **노마사 레이**: Quite a few baseball fans only go to minor league games for those reasons alone.
+- **오토하나 스미레**: ...I see.
+- **오토하나 스미레**: Anyway, about that food in your hand...
+- **노마사 레이**: Hm? It's a hot dog.
+- **오토하나 스미레**: Now Rei... I don't want to enforce a strict diet on you. But processed food with lots of fat can block up your digestive system and significantly lessen the effectiveness of our training.
+- **오토하나 스미레**: If you're feeling peckish, a protein bar is a much better choice. It has a great balance of protein and carbohydrates—
+- **노마사 레이**: No way! We can't come all the way to Gehenna and skip out on their trademark scorching hell hot dogs!
+- **오토하나 스미레**: A scorching hell hot dog?
+- **노마사 레이**: Yes. See, every stadium sells snacks and drinks so you can have something to eat while watching the game.
+- **노마사 레이**: They're usually pretty generic, but some stadiums sell delicious treats based on the home team!
+- **노마사 레이**: Here in Gehenna, they have scorching hell hot dogs. They're made from a rare, super spicy sausage. They're so good!
+- **노마사 레이**: Each academy's stadium has their own delicacy. So not only do you get to see an exciting game, you get to have yummy food too!
+- **오토하나 스미레**: Well... All right. But try to only have one.
+- **노마사 레이**: Oh! I forgot to put on some chili sauce.
+- **노마사 레이**: Although, the sausage is pretty well seasoned, so with the chili, it's extra spicy.
+- **노마사 레이**: Then after a bite, I wash it all down with a nice ginger ale...
+- **노마사 레이**: Mmm bmm... Now this is baseball!
+- **노마사 레이**: Oh, feel free to order whatever you want, Sumire. I'll treat you!
+- **오토하나 스미레**: ...One unsalted chicken breast salad please.
+- **노마사 레이**: Do they even have healthy food like that at a stadium?
+- **오토하나 스미레**: ...It seems that the game's begun.
+- **오토하나 스미레**: This is my first time watching Gehenna players on the field. Is their club any good?
+- **노마사 레이**: Well... With a motto like "Freedom, chaos, and trouble!", as good as they can be.
+- **노마사 레이**: They have talented players, but they lack strong teamwork.
+- **노마사 레이**: That said, even their minor league team is way better than the Millennium Baseball Club...
+- **노마사 레이**: But we're not here to play, we're here to watch. So let's forget our affiliations and focus on cheering!
+- **노마사 레이**: Let's go, Gehenna! Break a leg!
+- **Studio Announcer**: The second hitter of Gehenna is at bat. Looks like it's gonna be a fastball...and that's a hit!
+- **Studio Announcer**: The ball's all the way in the middle of the outfield! The batter nabs first base. She's gunning for second...
+- **Studio Announcer**: ...Oh no too greedy! She's out!
+- **노마사 레이**: Ugh, that was a chance for a nice two-bagger... What a shame.
+- **오토하나 스미레**: If you need to step on the base before the defender's hand tags you...
+- **오토하나 스미레**: Can't you just kick the second baseman with a spinning slide kick?
+- **노마사 레이**: Of course not!
+- **노마사 레이**: ...What a downer of a game. They could've won if the opposing team didn't land that super save at the end.
+- **오토하나 스미레**: I agree.
+- **오토하나 스미레**: If I was the runner, I would have gone past the defender with a shoulder charge and sprinted towards the base.
+- **오토하나 스미레**: And that one Gehenna batter should build up her deltoids more.
+- **노마사 레이**: Are you sure you understand how baseball works, Sumire?
+- **오토하나 스미레**: That said, it's been a while since I got to enjoy a game with someone. It feels nice.
+- **오토하나 스미레**: Training is important for a fitness club. But watching sports, seeing others compete with the fruits of their training is great for your own motivation as well.
+- **노마사 레이**: Is it always training day inside that head of yours?
+- **오토하나 스미레**: I'm serious, Rei.
+- **오토하나 스미레**: Do you remember that home run you saw?
+- **노마사 레이**: ...Yes.
+- **노마사 레이**: The stadium wasn't too crowded then...just like today.
+- **노마사 레이**: Some folks came for food. Others wanted to take photos with their favorite players. A few were scouting new talent for their teams. Everyone had a different reason to come to the stadium.
+- **노마사 레이**: But in the end, all eyes were on the batter when she made that home run.
+- **노마사 레이**: The arc the ball drew across the sky was beautiful. But that moment of the batter jogging around the field with nothing in her way? It was so cool.
+- **노마사 레이**: It's funny. I had forgotten most of that entire game, despite how much I talked about the home run.
+- **오토하나 스미레**: Having an end goal for your training is important.
+- **오토하나 스미레**: It could be lifting 100 kg or hitting a homerun. But without a goal, exercise is nothing more than self-inflicted pain.
+- **오토하나 스미레**: There has to be a reason for each lift, each swing. Something that drives you to struggle for each step, when common sense begs you to take the easy road.
+- **오토하나 스미레**: Just like how the person who wants to deadlift 100 kg isn't just trying to pick up a number, your goal must be more than simply swatting a ball far away. Otherwise, you won't fight for it.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/트레이닝부
+- https://namu.wiki/w/트레이닝부(블루 아카이브)
+- https://namu.wiki/w/Everyone
+- https://namu.wiki/w/Millennium Baseball Club Manager
+- https://namu.wiki/w/Millennium Baseball Club Member A
+- https://namu.wiki/w/Millennium Baseball Club Member B
+- https://namu.wiki/w/Millennium Baseball Club Member C
+- https://namu.wiki/w/Millennium Baseball Club Member D
+- https://namu.wiki/w/Robot Umpire
+- https://namu.wiki/w/Studio Announcer
+- https://namu.wiki/w/노마사 레이
+- https://namu.wiki/w/오토하나 스미레
+- https://bluearchive.wiki (원문 스토리 스크립트)

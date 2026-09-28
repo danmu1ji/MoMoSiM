@@ -1,0 +1,316 @@
+# 미카모 네루 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 미카모 네루, 선생(샬레)
+
+1. **「미카모 네루 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「미카모 네루 인연 스토리 2」**
+
+- **미카모 네루**: *yawn*
+- **미카모 네루**: Crap. I overslept again.
+- **미카모 네루**: I'm definitely cutting it close here... I'm gonna be late if I don't hurry.
+- **미카모 네루**: Maybe I can make it if I sprint the whole way.
+- **미카모 네루**: What do we have here...?
+- **미카모 네루**: Who could have done this?
+- **미카모 네루**: Sheesh, this road is a mess... Did a biker crash into a garbage bin or something?
+- **미카모 네루**: ...
+- **미카모 네루**: *sigh* Guess there's no way around it...
+- **미카모 네루**: ...That should do it.
+- **미카모 네루**: Geez... What a pain in the ass.
+- **미카모 네루**: I could always use CCTV to find out who's responsible and show them what real hell is like.
+- **미카모 네루**: Hold up. What the...? This can...
+- **미카모 네루**: I could easily just kick this into the trash...
+- **미카모 네루**: Huh? I missed...
+- **미카모 네루**: Heh. This is fun!
+- **미카모 네루**: Right. Let's give it another try...
+- **미카모 네루**: Ah! So close!
+- **미카모 네루**: Okay! I'll make it this time for sure...
+- **미카모 네루**: Eeek! Wh-What?
+- **미카모 네루**: Huh? Sensei?! What are you doing here?!
+- **미카모 네루**: H-How long have you been watching?
+- **미카모 네루**: That's literally when I woke up! Damn it!
+- **미카모 네루**: If you tell anyone what you saw here today, there's going to be hell to pay, Sensei!
+- **미카모 네루**: Huh? Oh, that's because...
+- **미카모 네루**: Huh? Oh, that's because...
+- **미카모 네루**: I'm a Millennium agent of the C&C.
+- **미카모 네루**: And...well...
+- **미카모 네루**: If, uh...word got out that the head agent was cleaning...
+- **미카모 네루**: If word got out that I like playing Kick the Can...
+- **미카모 네루**: I... I'm not embarrassed, I swear!
+- **미카모 네루**: S-Secret?
+- **미카모 네루**: Well...uh...a secret between us.
+- **미카모 네루**: Haha. That sounds good to me.
+- **미카모 네루**: Right, Sensei? You'll keep your promise since it's our secret, right?
+- **미카모 네루**: I'll be keeping an eye on you, got it?
+
+3. **「미카모 네루 인연 스토리 3」**
+
+- **미카모 네루**: ...
+- **미카모 네루**: Urgh.
+- **미카모 네루**: Achooooo!
+- **미카모 네루**: *sigh* Damn it.
+- **미카모 네루**: A cold... I haven't caught a cold since, like, elementary school.
+- **미카모 네루**: Achooooo!
+- **미카모 네루**: Ugh... This sucks!
+- **미카모 네루**: This is bad. My attendance is bad enough as is.
+- **미카모 네루**: Ugh...
+- **미카모 네루**: Who is it...? I'm too sick right now.
+- **미카모 네루**: Go away!
+- **미카모 네루**: If it's the newspaper or a solicitor, then you can get lost!
+- **미카모 네루**: ...Well, then.
+- **미카모 네루**: Whoever you are, you've got some guts.
+- **미카모 네루**: All right. This means war.
+- **미카모 네루**: Don't move a muscle! It's time to take out the trash!
+- **미카모 네루**: Let's see that face before I beat it to a... What the?!
+- **미카모 네루**: S-Sensei! What are you doing here?
+- **미카모 네루**: Huh? You heard about me being under the weather?!
+- **미카모 네루**: That message was supposed to be for Akane! Did I send it to you by mistake? Crap!
+- **미카모 네루**: Ugh, I screwed up... The cold has got me all kinds of messed up!
+- **미카모 네루**: ...
+- **미카모 네루**: (*sigh* I can't believe I'm letting Sensei see me like this.)
+- **미카모 네루**: (Luckily, I'm not in my pajamas, since I passed out first thing yesterday...)
+- **미카모 네루**: W-Well, you're already here. Don't just stand there.
+- **미카모 네루**: ...Come in.
+- **미카모 네루**: *sigh*
+- **미카모 네루**: You don't need a full explanation.
+- **미카모 네루**: I mean, we went over this once before, so I'll keep it short.
+- **미카모 네루**: Sensei, if a single word slips out that I came down with a cold...
+- **미카모 네루**: R-Right. Good. You're catching on.
+- **미카모 네루**: The reason I don't want word to get out is...
+- **미카모 네루**: ...
+- **미카모 네루**: Th-That's not true! Well, it's something like that, but it's different! Totally different!
+- **미카모 네루**: I'm Millennium's top secret agent.
+- **미카모 네루**: Um... W-Well...
+- **미카모 네루**: ...
+- **미카모 네루**: ...
+- **미카모 네루**: U-Ugh... This is so annoying!
+- **미카모 네루**: I don't know why, but it's really getting on my nerves! Arrrggghhh!
+- **미카모 네루**: Huh? What's this?
+- **미카모 네루**: Medicine and porridge...
+- **미카모 네루**: Heh. O-Of course, Sensei. You've come to take care of me.
+- **미카모 네루**: I never catch colds, so it's not like I had any medicine lying around.
+- **미카모 네루**: Thanks for grabbing me some. I'll take it off your hands.
+- **미카모 네루**: So after I down this and take a short nap, I can go back to school, yeah...?
+- **미카모 네루**: Wait.
+- **미카모 네루**: This is strawberry-flavored cold medicine for little kids!
+- **미카모 네루**: That's not the problem here!
+- **미카모 네루**: Ugh. My fever is acting up again... Breathe in. Breathe out. Calm down.
+- **미카모 네루**: The effects are probably...the same, even if it is for children.
+- **미카모 네루**: Yuck... What do they put in this stuff?
+- **미카모 네루**: ...I'm gonna lie down for a bit.
+- **미카모 네루**: I'll eat the porridge later. Put it in the fridge.
+- **미카모 네루**: And...
+- **미카모 네루**: (I'm the patient here. I should be able to ask whatever I want...)
+- **미카모 네루**: ...c-could you stay by my side...until I fall asleep?
+- **미카모 네루**: Like I said. Not a single word about this.
+- **미카모 네루**: Do...
+- **미카모 네루**: ...you...
+
+4. **「미카모 네루 인연 스토리 4」**
+
+- **???**: Heh. Here you are.
+- **???**: Hey, Sensei.
+- **미카모 네루**: I heard you were sick! I booked it over here as fast as I could.
+- **미카모 네루**: Meh. Don't worry about it.
+- **미카모 네루**: Meh. Don't worry about it.
+- **미카모 네루**: So what if my attendance isn't doing so hot?
+- **미카모 네루**: I can't just sit in class when I know you're sick.
+- **미카모 네루**: Anyway, here. Some medicine and food.
+- **미카모 네루**: I told you I'd pay you back.
+- **미카모 네루**: Today is that day!
+- **미카모 네루**: Only the weak catch colds, Sensei.
+- **미카모 네루**: ...Me? Catch a cold just last week?
+- **미카모 네루**: I have no idea what you're talking about.
+- **미카모 네루**: Never mind that. Put everything else out of your head.
+- **미카모 네루**: I'm here to get you back on your feet!
+- **미카모 네루**: Oh, come on! Just trust me.
+- **미카모 네루**: Oh, come on! Just trust me.
+- **미카모 네루**: Don't you know I'm the president of the Maid Club?
+- **미카모 네루**: My maid skills are unparalleled at Millennium.
+- **미카모 네루**: That means my bedside manners are the best in the biz!
+- **미카모 네루**: I mean, yeah, I don't have any practical experience... Actually, I've only done a single simulation.
+- **미카모 네루**: First up, let's make you some porridge.
+- **미카모 네루**: First up, let's make you some porridge.
+- **미카모 네루**: Here! All done!
+- **미카모 네루**: I didn't make you wait too long, did I?
+- **미카모 네루**: This is Mikamo Neru's patented Power-up Porridge!
+- **미카모 네루**: It's a surefire cure for your cold.
+- **미카모 네루**: Hahaha! I added lots of special pepper into it!
+- **미카모 네루**: I can't share everything about the recipe, but I guarantee it has calories to spare.
+- **미카모 네루**: Quit your whining! Only little kids get this picky about their food. You're supposed to be the adult here, Sensei!
+- **미카모 네루**: Besides, I've tested this recipe on one of my clubmates before and they loved the stuff.
+- **미카모 네루**: Haha! I told you it was good, didn't I?
+- **미카모 네루**: Haha! I told you it was good, didn't I?
+- **미카모 네루**: My title as Maid Club president isn't just for show.
+
+5. **「미카모 네루 인연 스토리 5」**
+
+- **Thug 1**: ...
+- **Thug 2**: ...
+- **Thug 1**: ...Did you hear?
+- **Thug 1**: Rumor has it...
+- **Thug 1**: Mikamo Neru has missed so much class that...
+- **Thug 1**: ...her attendance is pushing it.
+- **Thug 2**: You're kidding me...
+- **Thug 2**: She'll be held back a year or face disciplinary action if she misses another class or is tardy to one?
+- **Thug 1**: That's right.
+- **Thug 1**: If she's flunked or worse, it could mean the end of her career as an agent.
+- **Thug 2**: Yep. That's right.
+- **Thug 1**: All we have to do is make Neru late for class. Do whatever it takes!
+- **미카모 네루**: Good morning, Sensei!
+- **미카모 네루**: You want to talk to me about my attendance?
+- **미카모 네루**: Hahaha. Save your breath—I know the position I'm in already. I'll be screwed if I miss any more class.
+- **미카모 네루**: I don't know how it keeps happening. I always leave on time, but wind up being late.
+- **미카모 네루**: With that in mind, we should get a move on. Walk and talk with me.
+- **미카모 네루**: I'm gonna make sure I make it to school on time today!
+- **Mysterious Patissier**: Hey, you there! The teacher and the little maid!
+- **미카모 네루**: Who are you calling little?!
+- **미카모 네루**: *clank*
+- **Mysterious Patissier**: Eek! Forgive me!
+- **Mysterious Patissier**: I just wanted to know if you'd like to try our shop's new menu...
+- **미카모 네루**: Well, I did skip out on breakfast this morning.
+- **미카모 네루**: What do you think, Sensei?
+- **미카모 네루**: It'll be cutting it close, but if it's just one bite...
+- **미카모 네루**: ...
+- **미카모 네루**: *sigh* No. I need to stay focused... I just said I was gonna give it everything I've got today.
+- **미카모 네루**: Sorry, but I'll have to pass this time.
+- **미카모 네루**: All right. Let's go, Sensei.
+- **Mysterious Patissier**: ...
+- **Mysterious Patissier**: You have to be kidding—she didn't fall for it? So much for the laxative plan.
+- **Mysterious Patissier**: Okay, time for Plan B!
+- **Mysterious Hawker**: Well, hello and welcome! We're holding some special sales today.
+- **Mysterious Hawker**: This regent wig will make you look like a real badass. And it's 90 percent off, but only for the next five minutes!
+- **미카모 네루**: ...
+- **미카모 네루**: (Th-That regent wig looks so COOL! I want it!)
+- **미카모 네루**: (And it's 90 percent off? Even I know that's a really good deal.)
+- **Mysterious Hawker**: How about it, miss? What do you think? It would look fantastic on you!
+- **미카모 네루**: W-Would it...?
+- **Mysterious Hawker**: You'll look gutsy just by wearing this trendy number. And our shop has everything you could want to complete the look! We even have a wig that's almost a meter long!
+- **미카모 네루**: A whole meter?
+- **Mysterious Hawker**: Here, right this way. You don't want to let this opportunity go to waste, do you?
+- **미카모 네루**: W-Well...
+- **미카모 네루**: This is so not good!! U-Ugh
+- **미카모 네루**: Sorry, but I'll pass! We need to get moving, Sensei!
+- **Mysterious Hawker**: ...
+- **Thug 1**: How did she resist coming inside? I set up all the traps and everything...
+- **Mysterious Hawker**: Drat. She got away again! Time to move on to Plan C.
+- **미카모 네루**: ...
+- **미카모 네루**: ...Maybe. That clerk, though... Weren't they the same person who wanted us to try that shop's new menu?
+- **미카모 네루**: Hmm... Something's fishy.
+- **미카모 네루**: Hmm... Something's fishy.
+- **Thug 1**: What should we do now?
+- **Thug 2**: Our last option is to attack her head-on. We can ambush her in the next alley!
+- **Thug 1**: Attack Neru directly? I have a bad feeling about that idea...
+- **Thug 2**: All we have to do is stall for time! Neru should be arriving at the next alley in one minute by my estimation.
+- **Thug 2**: So if we can keep her busy for 15 minutes, Neru will definitely be late to class!
+- **Thug 1**: Hmm... Yeah, 15 minutes should be doable if we get the jump on her.
+- **Thug 2**: We've got this!
+
+6. **「미카모 네루 인연 스토리 6」**
+
+- **미카모 네루**: Hey, Sensei. Thanks for coming out so late.
+- **미카모 네루**: The place I wanted to show you is kind of a secret.
+- **미카모 네루**: I've never told anyone else about it before...
+- **미카모 네루**: This is where I go when I'm cutting class.
+- **미카모 네루**: So only you can know about this place.
+- **미카모 네루**: All right, Sensei.
+- **미카모 네루**: Close your eyes.
+- **미카모 네루**: Come on.
+- **미카모 네루**: Grab my hand.
+- **미카모 네루**: Hey! That's not my hand!
+- **미카모 네루**: *sigh* Don't surprise me like that.
+- **미카모 네루**: Come on. This way.
+- **미카모 네루**: Heh. Figure it out yet? It's an elevator!
+- **미카모 네루**: Of course we're heading up.
+- **미카모 네루**: Better brace yourself. This thing goes 2000 meters per minute.
+- **미카모 네루**: Here we are. Our stop.
+- **미카모 네루**: I'd recommend watching your step.
+- **미카모 네루**: You can open your eyes now, Sensei.
+- **미카모 네루**: ― Welcome, Sensei. To my favorite spot in the world.
+- **미카모 네루**: ― I love this school. And...moments like this.
+- **미카모 네루**: ― Aren't I scared of heights? Not really. I get a rush when I'm up here.
+- **미카모 네루**: ― Well, I guess you can see why I cut class sometimes. Hahaha!
+- **미카모 네루**: Ah... I needed that.
+- **미카모 네루**: But now that you know about this spot, it's not a secret anymore. Maybe it's time I let it go.
+- **미카모 네루**: ...
+- **미카모 네루**: Our little secret...
+- **미카모 네루**: We always seem to be keeping secrets between us...or at least that's how I see it.
+- **미카모 네루**: Not that I mind or anything!
+- **미카모 네루**: ...
+- **미카모 네루**: Honestly, I really treasure it.
+- **미카모 네루**: ...
+- **미카모 네루**: S-So...
+- **미카모 네루**: ...I hope you'll continue to trust in me, Sensei.
+- **미카모 네루**: As long as I'm with you, Sensei... I don't mind keeping little secrets just between us.
+
+7. **「미카모 네루 인연 스토리 7」**
+
+- **Millennium Student A**: B-but... We need to go th-that way...
+- **Millennium Student B**: Don't be stupid! Don't you see her? We'd better just turn around.
+- **Millennium Student A**: Yeah... The C&C President is so scary. She uh... She definitely stands out in a crowd.
+- **Millennium Student B**: We're lucky that she stands out like that. It makes it easy to avoid her. Actually, do you think that's why she dresses like that?
+- **Millennium Student A**: Oh...I see. Maybe. Like a "don't bother me" thing...
+- **Millennium Student B**: That's gotta be it. So we'd better do what she wants and go the other way.
+- **미카모 네루**: ...?
+- **미카모 네루**: ...Oh, Sensei! I wasn't expecting you to get here so fast.
+- **미카모 네루**: You could've said something. What were you doing just standing there?
+- **미카모 네루**: Huh? Something wrong? Oh, no, I didn't call you about anything like that. Like I said, there's not really anything going on.
+- **미카모 네루**: Hey! You're not thinking some crap like, "If there's nothing going on, then why did you call," right? You wouldn't do that after everything...
+- **미카모 네루**: Eh? What?
+- **미카모 네루**: ...Why d'you wanna know about bomber jackets all of a sudden?
+- **미카모 네루**: Oh, this one? My jacket? What about it?
+- **미카모 네루**: Unless...
+- **미카모 네루**: I knew you had good taste, Sensei! Do you need one!? Do you need me to get one for you!?
+- **미카모 네루**: Well, they're not easy to find, let me tell you, but for you, Sensei, I'll do whatever it takes...
+- **미카모 네루**: ...Hm?
+- **미카모 네루**: Is that not what you meant? Then what is it?
+- **미카모 네루**: ...Why do I wear it?
+- **미카모 네루**: My bomber jacket...
+- **미카모 네루**: ...
+- **미카모 네루**: Ah.
+- **미카모 네루**: Ahah. Ah. Ha.
+- **미카모 네루**: Nothing, it's nothing. Sorry, my bad!
+- **미카모 네루**: You're Sensei, not anyone else. I thought you meant...but you don't. I just flinched for a moment, is all.
+- **미카모 네루**: Usually when people ask me why I wear this, they're trying to start a fight.
+- **미카모 네루**: So that's why I tensed up. But you're definitely not doing that.
+- **미카모 네루**: So, anyway. Back to your question...
+- **미카모 네루**: The bomber jacket... Why do I wear it... Well...
+- **미카모 네루**: But, hang on, why ask now? Did something happen to make you think about it, or...
+- **미카모 네루**: ...Oh...hm...
+- **미카모 네루**: When you put it like that, it's hard to come up with an answer.
+- **미카모 네루**: If I say, "No reason," you won't believe me, right? You'll just think I'm hiding something.
+- **미카모 네루**: That's the type of person you are, Sensei. Overly kind, pointlessly considerate. It's a pain.
+- **미카모 네루**: So, how should I explain it?
+- **미카모 네루**: Hm?
+- **미카모 네루**: Just tell you honestly? Are you sure?
+- **미카모 네루**: No, it's not a secret, or really anything special. Honestly, I thought no one would believe me because the reason is so simple.
+- **미카모 네루**: But, if you really want to know, Sensei, I'll tell you.
+- **미카모 네루**: I wear it because...
+- **미카모 네루**: ...it's freaking cool.
+- **미카모 네루**: So?
+- **미카모 네루**: Was that what you were looking for?
+- **미카모 네루**: Hahaha! What's with that face? I knew you'd get all weird about it.
+- **미카모 네루**: Well, I guess I can imagine what you were thinking.
+- **미카모 네루**: You thought it was to make up for being short, or...
+- **미카모 네루**: Or that I want to get people to leave me alone, or to think I'm scary.
+- **미카모 네루**: People usually say something like that to me. Well, that's their opinion. I don't care.
+- **미카모 네루**: Sometimes, people with too much imagination will come up with some nonsense about how it was a hand-me-down or a gift.
+- **미카모 네루**: But the truth is, I just saw it in a shop and I thought it looked cool. I bought it on the spot.
+- **미카모 네루**: Sorry if that's boring, but you wanted the truth.
+- **미카모 네루**: What?
+- **미카모 네루**: No, I've never told anyone else that. You're the first one to ask me who really wanted to know.
+- **미카모 네루**: Usually they're trying to get into a fight, so they're not listening to the answer, or they don't want to push me when I say there's no reason.
+- **미카모 네루**: ...The truth must be pretty disappointing, though, huh?
+- **미카모 네루**: ...Oh!
+- **미카모 네루**: I'm...surprised. You'd really rather that answer than whatever wild story people make up?
+- **미카모 네루**: I literally just told you there was no meaning. Why would that be better?
+- **미카모 네루**: *sigh*
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/미카모 네루
+- https://bluearchive.wiki (원문 스토리 스크립트)

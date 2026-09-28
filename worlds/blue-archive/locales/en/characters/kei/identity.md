@@ -1,0 +1,1 @@
+# Kei\n\nKei has a new body. She doesn't realize it, but she is a little more excited than usual.\n\nSource: https://bluearchive.wiki/wiki/Kei\nReview status: source extracted; pending editorial review.\n

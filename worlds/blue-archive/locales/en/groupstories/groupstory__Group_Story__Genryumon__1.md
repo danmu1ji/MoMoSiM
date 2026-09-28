@@ -1,0 +1,99 @@
+# Group Story / Genryumon / 1
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Genryumon/1
+Status: source-extracted-unreviewed
+
+
+- Kisaki (Genryumon): One, two, three, four...
+- Kisaki (Genryumon): Phew. At this hour, even White Tiger Park is deserted.
+- Kisaki (Genryumon): Mm. It's the only time I can perform my morning stretches without being seen.
+- Kisaki (Genryumon): Fufu. The movement wakes up my mind, and my body reaps the benefits as well.
+- Kisaki (Genryumon): The freedom of operating without the constant surveillance of my bodyguards, or other attendants, is exhilarating as well.
+- Kisaki (Genryumon): Although... I suppose it'd be pleasant to sleep in from time to time.
+- Kisaki (Genryumon): ...
+- Kisaki (Genryumon): Enough sentimental daydreams. I must return soon.
+- Reijo (Black Tortoise Promenade): Just now...
+- Reijo (Black Tortoise Promenade): I hid, so I'd have a chance to confirm that I was really seeing what I was seeing!
+- Reijo (Black Tortoise Promenade): Was the president...practicing kung fu?!
+- Kaguya (Peking Opera Club): I, Urushibara Kaguya, have witnessed something unbelievable...
+- Kaguya (Peking Opera Club): I was sure I must have been utterly mistaken, as I've heard not a whisper of rumor or gossip pertaining to this topic!
+- Kaguya (Peking Opera Club): They say that no matter how far apart two souls are, you need only come to a mutual understanding to feel like old neighbors.
+- Kaguya (Peking Opera Club): And the president has finally understood our loyalty and passion for the Peking opera and is partaking herself!
+- Reijo (Black Tortoise Promenade): Honestly, I never liked the people of Genryumon.
+- Reijo (Black Tortoise Promenade): They're loud, rude, and arrogant, and think they make all the rules...
+- Reijo (Black Tortoise Promenade): ...To be fair, they're a necessary evil, at times.
+- Reijo (Black Tortoise Promenade): But Madam has always been a bit of an exception. For starters, I can reason with her, and she shows mercy here and there.
+- Reijo (Black Tortoise Promenade): For THAT president to be secretly practicing kung fu...!
+- Reijo (Black Tortoise Promenade): I'm so glad I didn't skip morning training. I knew there was a reason I woke up earlier than usual today, too!
+- Reijo (Black Tortoise Promenade): In that case, I've gotta take the opportunity and go to President Rumi...!
+- Reijo (Black Tortoise Promenade): Yeah, I can't lose this chance! I need to tell everyone. Okay, I'll start with our president! That's the best move!
+- Kaguya (Peking Opera Club): ...The Peking Opera Club has had to operate inconspicuously recently, due to...an unfortunate incident.
+- Kaguya (Peking Opera Club): Naturally, we never once questioned the president's decision!
+- Kaguya (Peking Opera Club): But we feared deeply that we at the Peking Opera Club had lost her trust entirely, and we would never again happen upon another chance to prove our loyalty!
+- Kaguya (Peking Opera Club): But, by practicing Peking opera dances herself, Madam has shown that, deep inside, she has not abandoned us at all!
+- Kaguya (Peking Opera Club): How could one say that this is not the most exhilarating of news?
+- Kaguya (Peking Opera Club): With this, the Peking Opera Club's budget will be set free! We shall put on the flashiest, most exquisite Peking opera performances yet! Yes!
+- Kaguya (Peking Opera Club): The Peking Opera Club's overall atmosphere also happened to be a bit gloomy as of late, so I must spread this good news throughout the entire club!
+- Rumi (Black Tortoise Promenade): So, Kisaki was practicing kung fu early in the morning?
+- Reijo (Black Tortoise Promenade): That's right, President! For there to be someone, other than me, who appreciates the beauty of kung fu, and for it to be Madam President, of all people...
+- Reijo (Black Tortoise Promenade): As a trainee, I can't help but be happy about this!
+- Rumi (Black Tortoise Promenade): Um... That's uh...
+- Rumi (Black Tortoise Promenade): ...
+- Rumi (Black Tortoise Promenade): Yeah. I suppose.
+- Reijo (Black Tortoise Promenade): Is something bothering you, President?
+- Rumi (Black Tortoise Promenade): No, it's nothing.
+- Rumi (Black Tortoise Promenade): (It's just weird. The Kisaki I know isn't exactly the type to be gung-ho about kung fu.)
+- Rumi (Black Tortoise Promenade): So... What's your plan, Reijo?
+- Reijo (Black Tortoise Promenade): Hm? Well, uh... I think I should spread the news far and wide, to all the other trainees.
+- Reijo (Black Tortoise Promenade): The number of students who train in martial arts is really low, not only in Shanhaijing, but also throughout Kivotos as a whole.
+- Reijo (Black Tortoise Promenade): Having even one more person join us is something for all of us to gather around and celebrate!
+- Reijo (Black Tortoise Promenade): That said, President! I'll be taking some time off today to address this!
+- Rumi (Black Tortoise Promenade): It's nice to show enthusiasm and all, but...
+- Rumi (Black Tortoise Promenade): Ah, well, it's a rare sight to see Reijo so pumped up.
+- Rumi (Black Tortoise Promenade): But, Kisaki, well... Seems a bit odd.
+- Rumi (Black Tortoise Promenade): I guess if Kisaki is actually secretly practicing kung fu...
+- Rumi (Black Tortoise Promenade): ...maybe I'll give her some secret encouragement, in the form of snacks!
+- Peking Opera Club Member (Peking Opera Club): Is that really true, President?
+- Kaguya (Peking Opera Club): Of course! I saw it with my very own eyes!
+- Kaguya (Peking Opera Club): I did keep my distance, as to not get caught, so some may question my testimony...
+- Kaguya (Peking Opera Club): But I could see through the truth! With none other than my very own eyes!
+- Kaguya (Peking Opera Club): That movement, her arm drawing an elegant circle, the postures pointing towards the sky! There can be no other conclusion! She was performing...
+- Kaguya (Peking Opera Club): ...the Peking Opera Club's "Peking opera dance" itself!
+- Peking Opera Club Member (Peking Opera Club): The Peking opera dance... The final culmination of all the Peking opera performance moves...
+- Peking Opera Club Member (Peking Opera Club): The Peking Opera Club's unique dance!
+- Peking Opera Club Member (Peking Opera Club): But President, isn't that kinda weird? How does Madam know about the club's secret dance? Considering it's a secret and all?
+- Kaguya (Peking Opera Club): It isn't strange at all! The answer is perfectly obvious!
+- Kaguya (Peking Opera Club): Madam knows everything!
+- Peking Opera Club Member (Peking Opera Club): When you put it that way, it totally makes sense!
+- Kaguya (Peking Opera Club): But even the smoothest and purest of jades can have a flaw...
+- Kaguya (Peking Opera Club): Madam's Peking opera dance, while undoubtedly emulating its beautiful flow, had some...unpolished and imperfect moves here and there.
+- Kaguya (Peking Opera Club): Therefore, this is the time for the Peking Opera Club to make their move!
+- Peking Opera Club Member (Peking Opera Club): I see! Hearing you say that really makes me feel like we should!
+- Shanhaijing Student A: Did you hear? Did you hear? Madam has been—
+- Shanhaijing Student B: Ah, that? Yeah. I heard too! Ah, we might get scolded by Genryumon members, if they hear us talking about it...
+- Shanhaijing Student A: But isn't that incredible? THAT president, doing that kind of practice, and so early in the morning...
+- Shanhaijing Student B: I kind of get it. After all, if people found it, it could cause her problems.
+- Reijo (Black Tortoise Promenade): Huh, aren't you Martial Arts Research Club members? What's going on?
+- Martial Arts Research Club Member: Ah! What a coincidence! I'm glad we ran into you!
+- Martial Arts Research Club Member: You probably know better than anyone, but it's about "that" regarding Madam...
+- Martial Arts Research Club Member: Even if it's a temporary alliance, we were wondering if you'd want to collaborate with the Martial Arts Research Club!
+- Reijo (Black Tortoise Promenade): ...
+- Reijo (Black Tortoise Promenade): Well, you've helped me out a lot in the past.
+- Reijo (Black Tortoise Promenade): Let's do it. Honestly, under the circumstances, I would've done the same thing.
+- Reijo (Black Tortoise Promenade): I'll be under your care, for discipline and training!
+- Martial Arts Research Club Member: Yes! For discipline and training!
+- Martial Arts Research Club Member: While we're on the topic...
+- Martial Arts Research Club Member: Would you be interested in becoming an honorary member of the Martial Arts Research Club?
+- Reijo (Black Tortoise Promenade): Ah...that might be a bit too much. I apologize. Promenade work keeps my schedule busy.
+- Martial Arts Research Club Member: I see...
+- Kaguya (Peking Opera Club): Is everyone present?
+- Peking Opera Club Members (Peking Opera Club): Yes, President!
+- Kaguya (Peking Opera Club): This is the White Tiger Park, where Madam comes to practice her Peking opera dance in the early hours of the morning.
+- Kaguya (Peking Opera Club): Naturally, us members of the Peking Opera Club are already very familiar with this place, since we often use it as an outdoor stage.
+- Kaguya (Peking Opera Club): It matters not if it's familiar to us! For the moment a different person takes the stage, its very existence changes!
+- Kaguya (Peking Opera Club): They say that to reach high, you must first climb from low places.
+- Kaguya (Peking Opera Club): And so, from this very place...
+- Kaguya (Peking Opera Club): We shall perform our sophisticated Peking opera dance for Madam! We shall honor her wishes!
+- Peking Opera Club Members (Peking Opera Club): We'll follow you anywhere, President!

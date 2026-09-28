@@ -60,8 +60,7 @@ const server = createServer((request, response) => {
       const next = args.next ?? '';
       const directive = hit >= hop ? '[[next:end]]' : next ? `[[next:${next}]]` : '[[next:end]]';
       hit += 1;
-      const clip = args.audio ? `[[audio:${args.audio}]]\n` : '';
-      const reply = `${clip}${speaker} 응답 (turns=${turns})\n아는 지식: ${knowledge}\n${directive}`;
+      const reply = `${speaker} 응답 (turns=${turns})\n아는 지식: ${knowledge}\n${directive}`;
       if (body.stream) {
         response.writeHead(200, { ...headers, 'Content-Type': 'text/event-stream', 'Cache-Control': 'no-cache', Connection: 'keep-alive' });
         for (const piece of reply.match(/[\s\S]{1,12}/g) ?? []) response.write(`data: ${JSON.stringify({ choices: [{ delta: { content: piece } }] })}\n\n`);

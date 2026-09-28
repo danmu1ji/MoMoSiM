@@ -1,0 +1,251 @@
+# 카야마 레이죠 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카야마 레이죠, 선생(샬레)
+
+1. **「카야마 레이죠 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카야마 레이죠 인연 스토리 2」**
+
+- **카야마 레이죠**: ― Ah. You're here.
+- **카야마 레이죠**: ― I'm almost done with my morning training, so please wait.
+- **카야마 레이죠**: ― You see, this is an aspect of continuous movement as well.
+- **카야마 레이죠**: ― Stopping the flow, maintaining poses...
+- **카야마 레이죠**: ― It also helps with training the mind.
+- **카야마 레이죠**: ― ...But why are you just standing there, Sensei?
+- **카야마 레이죠**: ― Huh? If I'm training...
+- **카야마 레이죠**: ― ...I shouldn't be getting distracted? I need to maintain my composure?
+- **카야마 레이죠**: ― Yes, that's true, but...
+- **카야마 레이죠**: ― ...B-But this is way too much!
+- **카야마 레이죠**: It really is embarrassing to show someone my kung fu.
+- **카야마 레이죠**: ...Although the reason for today's embarrassment had an entirely different factor mixed into it!
+- **카야마 레이죠**: Why do I feel like you're trying to subtly change the subject?
+- **카야마 레이죠**: What? I'm imagining things? Just as you believe in me, I should also believe in you...?
+- **카야마 레이죠**: All right, Sensei. If you say so.
+- **카야마 레이죠**: I guess I was the one who told you about this spot.
+- **카야마 레이죠**: Huh? No. Even I don't train every single morning.
+- **카야마 레이죠**: I rest my body on the weekends. And I have no choice but to skip when it rains or snows.
+- **카야마 레이죠**: Something I'm passionate about...
+- **카야마 레이죠**: N-No, it's nothing. It's just...
+- **카야마 레이죠**: You don't seem to think it's strange, me doing kung fu training.
+- **카야마 레이죠**: What? Oh... You did technically come from outside of Kivotos...
+- **카야마 레이죠**: Yes... Here, people view honing your martial arts skills as a little eccentric.
+- **카야마 레이죠**: After all, it won't help you much in a fight. Things are usually solved with a few gun shots.
+- **카야마 레이죠**: It's more or less just some morning calisthenics, at this point.
+- **카야마 레이죠**: Well, if you forced me to choose, I suppose I'd say yes.
+- **카야마 레이죠**: I pursue kung fu training for a few reasons...
+- **카야마 레이죠**: First, it benefits both your mind and body.
+- **카야마 레이죠**: Moving your body helps center yourself, allowing you to clear your head and calm your thoughts. And, of course, the training increases your stamina.
+- **카야마 레이죠**: Work for the Promenade is more difficult than you'd think. On top of that, I have to keep up with studying, and exams feel never ending...
+- **카야마 레이죠**: Huh? My grades...?
+- **카야마 레이죠**: Do you really need to ask me that right now?
+- **카야마 레이죠**: Well, that sums it up. Kung fu has a lot of great benefits.
+- **카야마 레이죠**: Additionally, I love the proverbs that it teaches!
+- **카야마 레이죠**: For example, "Patience is not passive nor idle, but proactive and intense."
+- **카야마 레이죠**: Only someone who's had their patience truly tested can relate to that. Like when I have to deal with Genryumon members throwing tantrums over inconsequential details!
+- **카야마 레이죠**: Another great saying is, "Face your mistakes, and they will hold no power over you."
+- **카야마 레이죠**: Um. Sorry, Sensei. I've embarrassed myself again, making you listen to me ramble...
+- **카야마 레이죠**: Huh? You mean like the Martial Arts Research Club or the Modern Martial Arts Club? I do remember seeing those names around.
+- **카야마 레이죠**: But that's a strange thing to say, Sensei.
+- **카야마 레이죠**: The first rule of kung fu is that it must be performed by a waiter or a chef!
+- **카야마 레이죠**: Yes! And there should be a second floor!
+- **카야마 레이죠**: Exactly, Sensei! A huge fight breaks out as people come rushing down the stairs!
+- **카야마 레이죠**: But then they provoke the main character into joining the fight!
+- **카야마 레이죠**: Yes! It's perfect! The strongest chef handles everything!
+
+3. **「카야마 레이죠 인연 스토리 3」**
+
+- **카야마 레이죠**: Was the food to your taste, Sensei?
+- **카야마 레이죠**: Is that so? I'm glad. I know this is just the standard script, but...
+- **카야마 레이죠**: ...I truly do hope you return to the Black Tortoise Promenade.
+- **카야마 레이죠**: Did you say...my cooking?
+- **카야마 레이죠**: I've been working as a manager for the Black Tortoise Promenade, rather than as a chef, for a while now...
+- **카야마 레이죠**: Okay. One day, I'll find the opportunity to cook you a meal at Schale.
+- **Black Tortoise Promenade Member**: E-Emergency! One of our shops hasn't received today's ingredients yet!
+- **카야마 레이죠**: Which shop?
+- **Black Tortoise Promenade Member**: Jinghua Garden of Huo Tui West!
+- **카야마 레이죠**: Jinghua Garden... I know where that is. Okay.
+- **Black Tortoise Promenade Member**: Wh-What should we do? They say that there's no way they'll be ready for the afternoon shift, not at this rate!
+- **카야마 레이죠**: For now, we'll get them emergency supplies from the main restaurant's storage.
+- **카야마 레이죠**: Of course that'll only buy us a little time, three...probably two hours at most.
+- **카야마 레이죠**: I'm rerouting all remaining transport personnel to Xinxinglou 3rd, on Hong Jing Road. There should be two trucks available. I'll handle the communications.
+- **카야마 레이죠**: Since Xinxinglou is on holiday, they'll be able to help out with extra ingredients.
+- **카야마 레이죠**: Since it's an emergency, the main restaurant will cover the cost, for now. But collect their payment after business hours.
+- **Black Tortoise Promenade Member**: Yes! Understood!
+- **카야마 레이죠**: *sigh* That's sorted out, somehow.
+- **Diner**: Is this Black Tortoise Promenade of Shanhaijing?
+- **Diner**: Now, I don't care what it is, just bring me the most delicious dish you have to offer!
+- **Black Tortoise Promenade Member**: Wh-What? Well, that's...
+- **카야마 레이죠**: Absolutely. Let's get you seated first. Right this way.
+- **카야마 레이죠**: Thank you very much for visiting the Black Tortoise Promenade today.
+- **카야마 레이죠**: Since you've requested something a little special, I'd like to recommend our chef's special. Would that be to your liking?
+- **Diner**: That's a menu item? I didn't see it anywhere!
+- **카야마 레이죠**: That's why it's extra-special, just for you.
+- **Black Tortoise Promenade Member**: W-We have something like that?
+- **카야마 레이죠**: Nope. But satisfying a customer's needs is part of running a restaurant.
+- **Diner**: Hm? Is there a problem?
+- **카야마 레이죠**: Not at all. The chef has informed me that their special today is the abalone course.
+- **Diner**: Abalone! And a whole course at that! I look forward to it!
+- **Black Tortoise Promenade Member**: W-Wouldn't that be a bit expensive?!
+- **카야마 레이죠**: The guest stated from the beginning that they only want the best of the best.
+- **카야마 레이죠**: These kinds of customers want to feel like they're in the lap of luxury. They'll be offended by an "affordable" dish.
+- **카야마 레이죠**: We'll bring the course out to you right away, honored guest.
+- **카야마 레이죠**: Hurry and inform the kitchen.
+- **Black Tortoise Promenade Member**: Yes! Understood!
+- **카야마 레이죠**: Ah, geez. It's more chaotic than usual. With Sensei here, too.
+- **???**: I told you I already paid!
+- **Black Tortoise Promenade Member**: But...
+- **Diner B**: I see what you're doing! You're trying to scam me!
+- **카야마 레이죠**: What seems to be the problem here?
+- **Diner B**: I already paid through your payment app, but the waiter's saying that it didn't go through! She's trying to make me pay twice!
+- **Diner B**: What happened to the famous Black Tortoise Promenade service?
+- **Black Tortoise Promenade Member**: But we—
+- **카야마 레이죠**: I absolutely understand your frustration. If a mistake was made, I sincerely apologize on everyone's behalf.
+- **카야마 레이죠**: Per our standard procedure, do you mind waiting a moment while I check our CCTV and confirm with the e-payment company?
+- **카야마 레이죠**: It's always best to confirm the details, so all parties feel comfortable and confident.
+- **Diner B**: Huh...? CCTV...? Transaction details...?
+- **카야마 레이죠**: To ensure the best service to all our customers, the Black Tortoise Promenade's main restaurant has CCTV installed throughout the premises.
+- **카야마 레이죠**: It should only take around five minutes. I'll go ahead and confirm the transaction details as well.
+- **Diner B**: Um. Now that you mention it...maybe I just didn't open the payment app properly...or something...
+- **Diner B**: I would hate for you to go to all that trouble...
+- **카야마 레이죠**: Oh, no. It's nothing of the sort. It's our duty to ensure that these kinds of situations are handled correctly.
+- **카야마 레이죠**: Of course, all of our CCTVs include a built-in recording function. In case that matters.
+- **Diner B**: R-Recording?!
+- **카야마 레이죠**: Yes, I just thought I'd mention it. Just in case. Are you feeling well, honored guest? Is something wrong?
+- **Diner B**: A-Ah it's nothing! It's really nothing!
+- **카야마 레이죠**: I'm sorry, Sensei. It's so hectic today.
+- **카야마 레이죠**: Wh-What?! What are you talking about?
+
+4. **「카야마 레이죠 인연 스토리 4」**
+
+- **Genryumon Member**: What's with the Black Tortoise Promenade?! A Genryumon member personally comes all the way here for an inspection, and you don't even serve her tea?
+- **Genryumon Member**: Or, don't tell me, you're trying to spring another trap on me, the esteemed inspector? I haven't forgotten about last time!
+- **Genryumon Member**: You'll really face the consequences, if something like that happens again!
+- **카야마 레이죠**: ...To begin, I would like to sincerely apologize for that unfortunate incident.
+- **카야마 레이죠**: And of course we can serve you tea. But are you sure that's okay?
+- **Genryumon Member**: What're you saying?
+- **카야마 레이죠**: If we boil the tea, we'll have to use the utensils that we prepared for the hygiene inspection.
+- **카야마 레이죠**: Then you'll have to start the inspection from the top, or reschedule entirely.
+- **Genryumon Member**: ...!
+- **Genryumon Member**: F-Fine. I'm busy, so I don't have time for your stupid tea, anyway.
+- **Genryumon Member**: I'll reveal every last dirty secret the Black Tortoise Promenade is hiding!
+- **카야마 레이죠**: They're just looking for problems.
+- **카야마 레이죠**: No matter what we say or do, the inspector is going to nitpick every little detail.
+- **Genryumon Member**: First, individual hygiene! Show me your hands!
+- **카야마 레이죠**: Here. Everyone, show your hands.
+- **Black Tortoise Promenade Member**: ...Yes. Look to your heart's content.
+- **Genryumon Member**: ...They're clean. And the nails all cleanly cut.
+- **Genryumon Member**: Cooking gloves are present, and contaminants are separated... Tsk.
+- **Genryumon Member**: Right! What about the back door? You're not leaving it open, are you?!
+- **Genryumon Member**: If you're carelessly leaving it open to air out the heat, unsanitary air or even BUGS can come through!
+- **카야마 레이죠**: Naturally. We at the Black Tortoise Promenade have installed a state-of-the-art ventilation system to circumvent any such concerns.
+- **카야마 레이죠**: If you activate the system, like so...
+- **Genryumon Member**: Wh-Who told you to activate it here! My hair!
+- **카야마 레이죠**: Trust and confirmation are important parts of inspections.
+- **Genryumon Member**: ...Fine. Next is facility and utensil hygiene!
+- **Genryumon Member**: Expiration dates of ingredients...!
+- **Genryumon Member**: Managing cross contamination...!
+- **Genryumon Member**: U-Unhygienic behaviors, like cigarettes or alcohol...!
+- **Genryumon Member**: (Why...is everything up-to-code?!)
+- **카야마 레이죠**: Are you done with your inspection? This might be a little presumptuous of me...
+- **카야마 레이죠**: ...but I don't think you're going to find any infractions.
+- **Genryumon Member**: Hmph! It's not over yet! Don't look down on Genryumon!
+- **Genryumon Member**: For now... I know! Guess the menu item I'm thinking of right now!
+- **카야마 레이죠**: Excuse me?
+- **Genryumon Member**: You can't even manage that, and you call yourself a restaurant?!
+- **Genryumon Member**: How can you satisfy your customers, heart and soul, if you can't anticipate their every want and need?
+- **카야마 레이죠**: ...
+- **Genryumon Member**: In addition! Why isn't the Genryumon emblem proudly displayed on the main doors of the restaurant?
+- **Genryumon Member**: You're exposing your rebellious feelings towards Genryumon! That's exactly what it is!
+- **Genryumon Member**: Upon my return, I will immediately report the Black Tortoise Promenade's traitorous intentions towards Genryumon! No, towards Shanhaijing itself!
+- **카야마 레이죠**: Please hear me out. This is Black Tortoise Promenade, so we naturally display our symbol—
+- **Genryumon Member**: I don't want to hear your paltry excuses! My objective here is to determine whether the Black Tortoise Promenade proudly carries the responsibilities of the service industry!
+- **Genryumon Member**: I must confirm if you have the will to uphold Shanhaijing's illustrious tradition and culture!
+- **카야마 레이죠**: Actually, wasn't this just supposed to be a hygiene inspection?
+- **Genryumon Member**: That statement betrays your shortsightedness! This takes priority over hygiene!
+- **카야마 레이죠**: ...What do I do here, Sensei?
+- **카야마 레이죠**: K-Kung fu?
+- **카야마 레이죠**: (Kung fu lessons...)
+- **카야마 레이죠**: (I remember the teaching, "Don't think, feel.")
+- **카야마 레이죠**: (What am I feeling?)
+- **카야마 레이죠**: (Extreme injustice...and rage!)
+- **카야마 레이죠**: (But you can't solve problems with rage.)
+- **카야마 레이죠**: (Then what can I use to overcome rage?)
+- **카야마 레이죠**: (That's...even more rage!)
+- **카야마 레이죠**: I understand. You're right. How could an organization as terrible as the Black Tortoise Promenade be so audacious as to distribute food throughout Shanhaijing?
+- **Genryumon Member**: H-Hmph! That's right! So you finally understand your position!
+- **카야마 레이죠**: Yes. That's why, from now on, we of the Black Tortoise Promenade...
+- **카야마 레이죠**: ...will no longer deliver snacks to Genryumon.
+- **Genryumon Member**: Wh-What?!
+- **카야마 레이죠**: Specifically, snacks you can only find in Shanhaijing... Genryumon really like fruit jelly, injeolmi crackers, and chocolate cream cookies, right? I can think of a few more.
+
+5. **「카야마 레이죠 인연 스토리 5」**
+
+- **카야마 레이죠**: Wh-What's wrong? Why are you so panicked, Sensei?
+- **카야마 레이죠**: Ah, something came up...
+- **카야마 레이죠**: You're worried about leaving me alone?
+- **카야마 레이죠**: Hm...
+- **카야마 레이죠**: Understood. Then let's go together, Sensei.
+- **카야마 레이죠**: That's right. I'm on Schale's student rep duty today.
+- **카야마 레이죠**: From a certain perspective, helping you with your business can be considered an extension of my duties, right?
+- **카야마 레이죠**: It's not entirely wrong? Exactly. I think it makes sense.
+- **카야마 레이죠**: So, for the rest of the day...
+- **카야마 레이죠**: ...you can count on me, Sensei.
+- **카야마 레이죠**: Good work, Sensei.
+- **카야마 레이죠**: Schale's range of responsibilities...is truly vast. Is there anywhere Schale doesn't have jurisdiction?
+- **카야마 레이죠**: Huh? You wish you could offload some tasks, but you can't when it comes to your students?
+- **카야마 레이죠**: ...
+- **카야마 레이죠**: What do you think about "Budo," the way of martial arts?
+- **카야마 레이죠**: I know that came seemingly out of nowhere. I'm sorry if my approach seemed confusing.
+- **카야마 레이죠**: But I was just thinking. Budo is the idea of traveling the path of martial arts through self-reflection and realization.
+- **카야마 레이죠**: In some ways, you could say it's cultivating the mind through physical training.
+- **카야마 레이죠**: Traveling this path means protecting the weak...
+- **카야마 레이죠**: ...and ensuring they're not oppressed by the strong. It's a duty and a responsibility.
+- **카야마 레이죠**: Perhaps there's some connection to the "justice and chivalry" Genryumon is always blabbing about.
+- **카야마 레이죠**: So, Sensei...
+- **카야마 레이죠**: From now on, Sensei should protect me.
+- **카야마 레이죠**: Oh... An educator, of mature body and mind, plans on just abandoning this immature high schooler?
+- **카야마 레이죠**: I thought you said you can't give up on your students...
+- **카야마 레이죠**: That's right!
+- **카야마 레이죠**: Then, I'll be under your protection today, Sensei.
+- **???**: Ha? Who's there! Hey, aren't you from that Bling Bling family? This is our turf! Shove off!
+- **Thug 2**: I was wondering who was yapping. You're that small fry from Squish Squish family. You're all washed up nobodies now, so stop yapping!
+- **Thug 1**: You wanna say that again?
+- **Thug 2**: I can go all day!
+- **카야마 레이죠**: Sensei!
+- **카야마 레이죠**: Hm... Okay. We're safely hidden.
+- **카야마 레이죠**: Though the gun fight is escalating.
+- **카야마 레이죠**: Something just occurred to me, Sensei.
+- **카야마 레이죠**: Didn't you say you would protect me?
+- **카야마 레이죠**: Hm? Making sure I'm not hurt is part of protecting me?
+- **카야마 레이죠**: ...Fighting isn't the only way to keep someone safe?
+- **카야마 레이죠**: Sometimes, learning to flow with the river's current and not be tied down by circumstances...
+- **카야마 레이죠**: ...is its own kind of strength?
+- **카야마 레이죠**: ...
+- **카야마 레이죠**: Hm. I see. This, too, was a lesson, Sensei.
+- **카야마 레이죠**: What's wrong, Sensei?
+- **카야마 레이죠**: In order to ensure we're not discovered, should we not be as close together as possible?
+- **카야마 레이죠**: Naturally.
+- **카야마 레이죠**: ...
+- **카야마 레이죠**: I do feel very safe. It's comfortable. Cozy.
+- **카야마 레이죠**: ...Though the ruckus outside is the complete opposite.
+- **카야마 레이죠**: Maybe it's because you're by my side, Sensei...
+- **카야마 레이죠**: ...but even times like this, aren't all that bad.
+- **카야마 레이죠**: That ate up a lot of our time.
+- **카야마 레이죠**: Still...
+- **카야마 레이죠**: I'm sorry, Sensei.
+- **카야마 레이죠**: To tell you the truth...
+- **카야마 레이죠**: I just wanted to be the one being protected, for once.
+- **카야마 레이죠**: I think my stubbornness on that front might've caused all this trouble.
+- **카야마 레이죠**: Really? But...
+- **카야마 레이죠**: Huh? That's...
+- **카야마 레이죠**: ...
+- **카야마 레이죠**: I see. If that's the case...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카야마 레이죠
+- https://bluearchive.wiki (원문 스토리 스크립트)

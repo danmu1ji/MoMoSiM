@@ -1,0 +1,105 @@
+# Group Story / HotSpringsDepartment / 2
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/HotSpringsDepartment/2
+Status: source-extracted-unreviewed
+
+
+- Megu (Hot Springs Department): Urgh... It's hot...
+- Megu (Hot Springs Department): But Morimori... There's Morimori out here...
+- Megu (Hot Springs Department): Today's after-lunch treat is Morimori...
+- Megu (Hot Springs Department): ...Hm? Huh...?
+- Megu (Hot Springs Department): ...Head Prefect?!
+- Hina (Prefect Team): ...Hmm?
+- Hina (Prefect Team): Ah, I wondered who was doing all that mumbling. What are you doing here, Megu?
+- Hina (Prefect Team): ...Something to do with hot springs?
+- Megu (Hot Springs Department): Huh? Oh, no, not right now. I'm just here to buy Morimori for dessert!
+- Hina (Prefect Team): Morimori...?
+- Hina (Prefect Team): Oh, right, the convenience store has ice cream with that name.
+- Hina (Prefect Team): So you're not digging any hot springs nearby today?
+- Megu (Hot Springs Department): Um, well...
+- Megu (Hot Springs Department): ...Ah! Wait!
+- Megu (Hot Springs Department): President Kasumi told me what to say when I meet the Prefect Team or a Valkyrie. And you're the head prefect, so...
+- Hina (Prefect Team): ...What are you doing?
+- Megu (Hot Springs Department): Well... Um... Give me a minute to remember...
+- Hina (Prefect Team): ...Do you remember yet?
+- Megu (Hot Springs Department): ...Aha!
+- Megu (Hot Springs Department): Yeah! I remember. First, I give you this...
+- Megu (Hot Springs Department): ...Um... Oh, here it is! Ta-da! Here, take it!
+- Megu (Hot Springs Department): And now... Ahem!
+- Megu (Hot Springs Department): "Thanks for all your hard work. This isn't much, but it's a small token of our gratitude. Please keep taking good care of us."
+- Hina (Prefect Team): ...
+- Hina (Prefect Team): ......
+- Megu (Hot Springs Department): And...that's it!
+- Megu (Hot Springs Department): That's everything I needed to do. Hey, why'd you ask if I was digging hot springs?
+- Megu (Hot Springs Department): The president hasn't said to do that yet, but I'm sure she'll tell me when it's time!
+- Hina (Prefect Team): I see... Then this is...
+- Hina (Prefect Team): *sigh*
+- Hina (Prefect Team): ...Megu?
+- Hina (Prefect Team): This thing Kasumi told you to do... Have you done it to anyone else?
+- Megu (Hot Springs Department): ...Huh? No, not yet.
+- Megu (Hot Springs Department): You're the first. Why do you ask?
+- Hina (Prefect Team): All right. At least that's a relief.
+- Hina (Prefect Team): Then I have one request. Hear me out, please.
+- Megu (Hot Springs Department): Request? ...What is it?
+- Megu (Hot Springs Department): I mean, sure, I'm listening. Go ahead!
+- Hina (Prefect Team): Thank you. So...
+- Hina (Prefect Team): Please pass this message back to Kasumi, word for word.
+- Megu (Hot Springs Department): *gasp*
+- Megu (Hot Springs Department): You just ripped up the present...!
+- Hina (Prefect Team): Kasumi will understand. She won't need an explanation. But if I must put it into words...
+- Hina (Prefect Team): Tell her, "If I find out you're doing something like this again, I will handle it personally."
+- Hina (Prefect Team): "I'm warning you. Get rid of your old habits while you're inside Gehenna."
+- Hina (Prefect Team): ...That is all. Did you get that?
+- Megu (Hot Springs Department): Uh... What? Okay, so I gave you a gift, and then you ruined the gift...and now I tell the president you ruined the gift...
+- Megu (Hot Springs Department): Umm, I don't really understand...
+- Megu (Hot Springs Department): But okay. You and the president are both smart, so I'm sure there's a good reason. Sure, I'll tell her!
+- Hina (Prefect Team): Heehee. Thank you.
+- Megu (Hot Springs Department): ...Oh, actually...!
+- Megu (Hot Springs Department): Head Prefect!! Wait right there!! I'll be back real soon!
+- Megu (Hot Springs Department): ...Okay, I'm back!
+- Megu (Hot Springs Department): You've been waiting a while, huh? Here, take this!
+- Hina (Prefect Team): This is...ice cream?
+- Hina (Prefect Team): ...Morimori? You're giving this to me?
+- Megu (Hot Springs Department): Yeah! I wanted to buy a lot and then share them with everyone. So you should have one too!
+- Megu (Hot Springs Department): It's a hot day today. Morimori's great for cooling down!
+- Megu (Hot Springs Department): ...Oh, wait.
+- Megu (Hot Springs Department): You don't want gifts from us, do you? I mean, you ripped up the last one...
+- Megu (Hot Springs Department): Sorry, sorry! I just bought it 'cause, you know, force of habit.
+- Hina (Prefect Team): ...No, it's fine.
+- Hina (Prefect Team): Thanks, Megu. I'll be sure to enjoy it.
+- Megu (Hot Springs Department): ...Huh? It's fine? How is it different...?
+- Hina (Prefect Team): Oh, I'm sure Kasumi will explain it to you if you ask.
+- Hina (Prefect Team): ...
+- Hina (Prefect Team): ...Megu?
+- Megu (Hot Springs Department): Huh? Me?
+- Hina (Prefect Team): You're a third-year, right? You seem to be close to Kasumi...
+- Hina (Prefect Team): Now, I know there was an earlier version of the Hot Springs Department. Though it only had around ten people at the time...
+- Hina (Prefect Team): You were the president back then, weren't you? And Kasumi came later.
+- Megu (Hot Springs Department): Huh? Oh, that's right! After President Kasumi came on, she said she'd take over the president role, so I handed it to her.
+- Megu (Hot Springs Department): Wow! You really do know everything, Head Prefect!
+- Hina (Prefect Team): Oh, I wouldn't say that...
+- Hina (Prefect Team): Hm...
+- Hina (Prefect Team): My question is, was Kasumi the one to suggest that? Did she say, "I'll take the president spot for you"?
+- Megu (Hot Springs Department): Yup.
+- Hina (Prefect Team): ...All right, then.
+- Megu (Hot Springs Department): ...Well, maybe not exactly.
+- Hina (Prefect Team): Huh?
+- Megu (Hot Springs Department): Actually, she asked, "What do you want to do?" So I said, "I just want to keep digging hot springs!"
+- Megu (Hot Springs Department): And then she said, "Then I'll make sure you can do that."
+- Megu (Hot Springs Department): So now I get to just dig hot springs, and there's a lot of new people to help me!
+- Hina (Prefect Team): ...I see.
+- Hina (Prefect Team): I thought that might be the case. People with...her background do tend to keep their word, at least.
+- Megu (Hot Springs Department): ...Huh? What do you mean?
+- Hina (Prefect Team): Nothing at all. Just seeing another side of the story.
+- Hina (Prefect Team): Now, I have something I have to finish, so I'd best get going. Take care in the heat, Megu. And as for Kasumi...
+- Hina (Prefect Team): ...Tell her something else, too. Tell her, "Don't make too much trouble."
+- Megu (Hot Springs Department): Ok! Bye, Head Prefect!
+- Megu (Hot Springs Department): I'd better get going too.
+- Megu (Hot Springs Department): ...And that's what happened!
+- Megu (Hot Springs Department): And the Head Prefect wanted me to tell you...
+- Megu (Hot Springs Department): "If I find out you're doing something like this again, I will handle it personally."
+- Megu (Hot Springs Department): "I'm warning you. Get rid of your old habits while you're inside Gehenna."
+- Kasumi (Hot Springs Department): Eeeeek!!
+> Gift and Gift

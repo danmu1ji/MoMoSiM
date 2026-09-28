@@ -1,0 +1,152 @@
+# Group Story / MatsuriOffice / 2
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/MatsuriOffice/2
+Status: source-extracted-unreviewed
+
+
+> On a peaceful holiday afternoon, the members of the Festival Operations Department gathered together at Momoyodou.
+> Screen shakes
+- Shizuko (Festival Operations Department): Whiteboard, check. Dry erase marker, check. All good to go!
+- Shizuko (Festival Operations Department): The stage is yours, Pina!
+- Pina (Festival Operations Department): Yes, ma'am! We've received the president's blessing, so it's time!
+> Screen shakes
+- Pina (Festival Operations Department): Let us commence with the meeting of the Festival Operations Department!
+- Shizuko (Festival Operations Department): Heehee. Heeheehee!
+- Shizuko (Festival Operations Department): We may have been thwarted by the Inner Discipline Club's unwelcome intrusion last time...
+- Shizuko (Festival Operations Department): But things will not be the same this round! No, indeed!
+- Shizuko (Festival Operations Department): Why you ask? Because this time we have an ace up our sleeve.
+- Shizuko (Festival Operations Department): The one and the only, Umika has returned!
+- Pina (Festival Operations Department): Yes! The best ace up our sleeve we could ask for!
+- Pina (Festival Operations Department): Welcome, Umika! I've eagerly awaited your return!
+- Umika (Festival Operations Department): It's good to be back, Boss!
+- Umika (Festival Operations Department): I've missed you too, Pina!
+- Shizuko (Festival Operations Department): Call me president, not boss!
+- Shizuko (Festival Operations Department): *sigh*
+- Shizuko (Festival Operations Department): Just how many times do I need to hammer that into your head?!
+- Shizuko (Festival Operations Department): Moving on to business! We are scheduled to host a festival in the Foxy Shopping District next month!
+- Shizuko (Festival Operations Department): Now, Our dearest Umika embarked on a grand festival expedition to learn more about the trade!
+- Shizuko (Festival Operations Department): If you will, please share the stories of your exploits and the lessons you've learned! Armed with your new business acumen, we'll storm the shopping district and bring about a festival renaissance!
+- Pina (Festival Operations Department): A renaissance!
+- Umika (Festival Operations Department): Yes, yes! I have returned with many proposals.
+- Umika (Festival Operations Department): To begin, I learned about the Bloody Crimson Festival of Gehenna and found a treasure trove of inspiration.
+- Shizuko (Festival Operations Department): (Bloody crimson sounds... Oh. She means the Gehenna Tomato Festival.)
+- Shizuko (Festival Operations Department): (I've only read about it, but the students gather together and throw tomatoes at each other to create the impression of a blood bath. It suits Gehenna.)
+- Shizuko (Festival Operations Department): (A festival of that scale... I wonder...)
+- Shizuko (Festival Operations Department): W-Wonderful!
+- Shizuko (Festival Operations Department): Please enlighten us on what this treasure trove you discovered is.
+- Umika (Festival Operations Department): Yes, it's very enlightening.
+- Umika (Festival Operations Department): The origins of this festival can be traced far back in time. To call it a "bloody history" is rather apt, as the participants would shoot each other with live rounds until their bodies were soaked crimson red with blood!
+- Shizuko (Festival Operations Department): What?!
+- Pina (Festival Operations Department): That... That sounds like a violent conflict between two warring organizations...
+- Pina (Festival Operations Department): As expected of Gehenna! How horrifying!
+- Shizuko (Festival Operations Department): No, no, no. There's no way that's the actual origin! Who told you that?!
+- Umika (Festival Operations Department): Hm? It was a kind member of the Helmet Gangsters I happened to meet.
+- Umika (Festival Operations Department): They offered to tell me the story of the secret, unknown origins of the bloody crimson festival for just 1,000 yen. It was rather generous of them.
+- Shizuko (Festival Operations Department): Umika! That was the most obvious scam of the century. Didn't I tell you to be careful of tourist traps?
+- Umika (Festival Operations Department): Yes? And I was?
+- Umika (Festival Operations Department): To return to my story, this bloody practice was eventually replaced with today's more peaceful iteration.
+- Umika (Festival Operations Department): It's become a wonderful festival where they throw tomatoes instead of bullets, but with the Gehenna touch of course!
+- Umika (Festival Operations Department): They implement all kinds of throwing devices, such as tomato catapults, tomato launchers, tomato grenades, armor-piercing fin-stabilized discarding tomato sabots...
+- Umika (Festival Operations Department): I was truly inspired by their limitless imagination.
+- Umika (Festival Operations Department): I could wile away weeks, no, months watching the different ways they project tomatoes at each other!
+- Shizuko (Festival Operations Department): What in the world are armor-piercing fin-stabilized discarding tomato sabots?!
+- Umika (Festival Operations Department): There are even rumors that the massive scale of this festival is so impressive that Millennium is entering into a partnership with them!
+- Umika (Festival Operations Department): And thus, I would like to propose that we recreate the very same Bloody Crimson Festival in Hyakkiyako, Boss!
+- Shizuko (Festival Operations Department): R-Recreate it?! Here?
+- Umika (Festival Operations Department): You see, there is much more to the Gehenna Tomato Festival than throwing tomatoes.
+- Umika (Festival Operations Department): It's also environmentally friendly, as it is a chance to use up surplus tomatoes in a culturally enriching, non-wasteful method.
+- Umika (Festival Operations Department): Just imagine the possibilities, Boss!
+- Umika (Festival Operations Department): If we can recreate it here...
+- Umika (Festival Operations Department): Hyakkiyako will purchase all the surplus tomatoes from surrounding farms...
+- Umika (Festival Operations Department): And the Festival Operations Department will be the leading force in revitalizing our markets!
+- Umika (Festival Operations Department): It'll also be an opportunity to expand our traditional cuisine and discover new tomato dishes. Don't you think so?
+- Umika (Festival Operations Department): This way, surplus tomatoes won't be left to simply rot in the fields.
+- Umika (Festival Operations Department): We'll cooperate with local restaurants to introduce these new tomato dishes to festival attendees.
+- Umika (Festival Operations Department): And Hyakkiyako will consume even more tomatoes!
+- Umika (Festival Operations Department): As an added bonus, the clean-up for the festival will require professional cleaners and laundromat services.
+- Umika (Festival Operations Department): These local industries will generate more business, which in turn will boost our economy.
+- Pina (Festival Operations Department): Umika, you're truly an inspiration!
+- Pina (Festival Operations Department): Your journeys have proven fruitful in broadening your knowledge of our trade!
+- Pina (Festival Operations Department): None of these wonderful possibilities even occurred to me.
+- Shizuko (Festival Operations Department): I-Is that so?
+- Shizuko (Festival Operations Department): Revitalizing the local economy is a definite benefit, so maybe it would be...
+- Shizuko (Festival Operations Department): No! I almost got pulled in! We don't have the budget for any of this!
+- Shizuko (Festival Operations Department): And there's way too much liability. People could get injured! Rejected!
+- Umika (Festival Operations Department): That's okay. I observed the festival practices of many different places!
+- Umika (Festival Operations Department): The Wildhunt Art Academy holds an academy-wide festival that's unique to their district.
+- Shizuko (Festival Operations Department): I like the sound of that. No blood or sabot things.
+- Umika (Festival Operations Department): Right? Right?
+- Umika (Festival Operations Department): And, as I said, it has a very unique twist with the performance they hold. When one thinks of a play...
+- Pina (Festival Operations Department): I'm at the edge of my seat! Yes? Yes?
+- Umika (Festival Operations Department): They want a sense of realism, to create true immersion!
+- Umika (Festival Operations Department): So they implement an MG5 right on the stage! And they use all one hundred rounds!
+- Umika (Festival Operations Department): In retaliation, the opposing force utilizes incendiary munitions! Flames! Fire!
+- Umika (Festival Operations Department): In a dramatic finish, the stages collapses as it burns to the ground, and explodes just as the play ends!
+- Umika (Festival Operations Department): The clubs are given free reign to express art in whatever medium they wish!
+- Umika (Festival Operations Department): It all comes together in a beautiful menagerie of explosion! Destruction and chaos! Dismantle the institution!
+- Pina (Festival Operations Department): I love it! Explosions are the true essence of art, after all!
+- Pina (Festival Operations Department): Or...was it destruction?
+- Shizuko (Festival Operations Department): I don't think any of those words and festival should even be in the same sentence!
+- Shizuko (Festival Operations Department): What...was your source for all this?
+- Umika (Festival Operations Department): The internet!
+- Shizuko (Festival Operations Department): For the last time! Not everything you read on the internet is true, Umika.
+- Umika (Festival Operations Department): Ah. I do remember you telling me that. Okay, how about a rural academy's racing festival?
+- Shizuko (Festival Operations Department): A peaceful, rural academy... It sounds very healing. Tell me more. Is it like a track and field race?
+- Umika (Festival Operations Department): To be precise, it's a technical race festival.
+- Shizuko (Festival Operations Department): Wh-What do you mean by technical?!
+- Umika (Festival Operations Department): Exactly that! They race with modified vehicles, outfitted with any weapon they can think of: antiaircraft cannons, rocket launchers, automatic machine guns, whatever will fit!
+- Umika (Festival Operations Department): It requires great technical skill to drive a vehicle with such an unstable center of gravity, pushing speed to its limits with their unauthorized V8 engines...!
+- Umika (Festival Operations Department): It opened my eyes to a whole new world!
+- Umika (Festival Operations Department): It'll breathe a new kind of energy into our streets! This race is the epitome of living life to its fullest.
+- Pina (Festival Operations Department): I want to absorb this energy!
+- Pina (Festival Operations Department): This is exactly what we need to excite the student body here!
+- Shizuko (Festival Operations Department): No, no, no! Absolutely not! Hyakkiyako is way too regulated for illegally modified vehicles, especially with that kind of weaponry.
+> Screen shakes
+- Shizuko (Festival Operations Department): Rejected!
+- Shizuko (Festival Operations Department): I'm begging you, Umika... Do you have anything that's in line with the Momoyodou brand? I'll take anything at all at this point...
+- Umika (Festival Operations Department): In line with our brand... Hm. There is one festival. But it's rather underwhelming...
+- Umika (Festival Operations Department): I don't really see the benefit behind it...and it's not nearly as exciting as illegal car racing...
+- Umika (Festival Operations Department): It doesn't hold nearly the same amount of potential to revitalize the shopping district, but...
+- Umika (Festival Operations Department): During my travels, there was a smaller festival that did catch my eye momentarily.
+- Umika (Festival Operations Department): It was called the Willow Tree Festival.
+- Pina (Festival Operations Department): What do they do in this one? Do they maybe swing around from the branches of a willow tree?
+- Umika (Festival Operations Department): Nothing like that. They simply come together and create decorations resembling willow tree branches. Then, the participants all walk along the river bank while holding them.
+- Umika (Festival Operations Department): Their feelings and good intentions come together as they observe the branches swaying in the wind or flowing in the water.
+- Umika (Festival Operations Department): It's a festival celebrating the tranquility of life.
+- Umika (Festival Operations Department): The vendors prepare festival foods shaped like willow trees, such as candies or baked goods.
+- Umika (Festival Operations Department): According to legend, the positive energy stored within the willow tree branches protect and deliver good blessings to the locals.
+- Umika (Festival Operations Department): The festival then blossomed from this legend.
+- Pina (Festival Operations Department): How wonderful! I didn't know about the significance of willow trees!
+- Umika (Festival Operations Department): It's quite beautiful! The legend likely stemmed from the fact that willow trees are capable of purifying nearby water sources.
+- Umika (Festival Operations Department): The bark and leaves of the willow tree also have medicinal properties, as they're filled with salicylic acid.
+- Umika (Festival Operations Department): When mixed with acetic acid, it can create acetylsalicylic acid. In other words, an antipyretic analgesic the local people have used for centuries.
+- Umika (Festival Operations Department): I also heard a story of a weary traveler who passed through the town, desperate for water. The residents added willow leaves both to revitalize the traveler and to ensure they didn't drink too quickly and harm themselves.
+- Pina (Festival Operations Department): What a romantic story!
+- Umika (Festival Operations Department): I thought it was beautiful as well!
+- Umika (Festival Operations Department): When the festival originally began, people would use actual willow tree branches...
+- Umika (Festival Operations Department): But the locals didn't want to harm the trees, so they instead began creating their own decorative branches!
+- Shizuko (Festival Operations Department): That's exactly what we needed, Umika!
+- Shizuko (Festival Operations Department): You're amazing! I expected nothing less.
+- Pina (Festival Operations Department): I agree with the president! I was really moved by both the origins and the stories that came with it. That's our Umika for you.
+- Umika (Festival Operations Department): R-Really?
+- Umika (Festival Operations Department): I'm surprised! But very happy. As long as you like it, Boss!
+- Umika (Festival Operations Department): I know! We'll use all of our budget to create a large scale model of a willow tree instead of just branches!
+- Shizuko (Festival Operations Department): Stop right there!
+- Umika (Festival Operations Department): H-Huh?
+- Umika (Festival Operations Department): But...
+> Screen shakes
+- Shizuko (Festival Operations Department): The original idea is plenty!
+- Umika (Festival Operations Department): It's a little lackluster, but if you say so, Boss.
+- Shizuko (Festival Operations Department): Then that concludes today's meeting!
+- Pina (Festival Operations Department): Yes! Umika's idea will be the perfect foundation for the shopping district's festival!
+- Umika (Festival Operations Department): R-Really?! I suppose I did do most of the presenting, but I'm sure the boss has—
+- Pina (Festival Operations Department): But your idea is good, Umika. And there's nothing to worry about. You're not doing it alone, after all!
+- Pina (Festival Operations Department): The Festival Operations Department are loyal to each other, through blood, sweat, and tears!
+- Shizuko (Festival Operations Department): Exactly! Festivals are meant for anyone and everyone!
+- Shizuko (Festival Operations Department): So, let's go! We're going to prove just why we're called the Festival Operations Department!
+- Pina (Festival Operations Department): Yes, ma'am! Come on, Umika!
+- Umika (Festival Operations Department): Y-Yes! Boss! Pina!
+> And so began the Festival Operations Department's brilliant performance!
+> Once Again! The Festival Department's Meeting!

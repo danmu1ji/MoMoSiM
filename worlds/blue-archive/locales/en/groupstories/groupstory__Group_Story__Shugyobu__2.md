@@ -1,0 +1,104 @@
+# Group Story / Shugyobu / 2
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Shugyobu/2
+Status: source-extracted-unreviewed
+
+
+- Kaede (Inner Discipline Club): Okay, testing the camera. Testing... One, two...
+- Kaede (Inner Discipline Club): Let's test the mic while we're at it! Can you see me? Can you hear me?
+- Kaede (Inner Discipline Club): All right, let's get this promo rolling!
+- Kaede (Inner Discipline Club): This is the Inner Discipline Club! And right now we're at the side of Red Panda River, the club president's favorite spot!
+- Kaede (Inner Discipline Club): We're here because...
+- Kaede (Inner Discipline Club): Tsubaki, the president of the Inner Discipline Club, loves to train here!
+- Kaede (Inner Discipline Club): Ah, speak of the devil!
+- Tsubaki (Inner Discipline Club): *snoring*
+- Kaede (Inner Discipline Club): Allow me to introduce her!
+- Kaede (Inner Discipline Club): This is Kasuga Tsubaki! Second-year student! Sixteen years old! Also known as the Sleeping Beauty and president of the Inner Discipline Club!
+- Kaede (Inner Discipline Club): Now, to help you understand how amazing Tsubaki is...
+- Kaede (Inner Discipline Club): Huh?
+- Kaede (Inner Discipline Club): Wait... A cat just showed up right by Tsubaki!
+- Kaede (Inner Discipline Club): Make that two!
+- Kaede (Inner Discipline Club): Now there's a puppy...and a rabbit? ...And now a pigeon, a deer, and even more animals?
+- Kaede (Inner Discipline Club): They just keep coming!
+- Kaede (Inner Discipline Club): I bet all of them are mesmerized by the sight of Tsubaki sleeping so peacefully!
+- Tsubaki (Inner Discipline Club): *snoring*
+- Kaede (Inner Discipline Club): Amazing! Look at her sleep, undisturbed by the huge flock of animals around her!
+- Kaede (Inner Discipline Club): She didn't falter even the slightest bit. Such is the beauty of an exemplary lady!
+- Kaede (Inner Discipline Club): Right, I can't fall behind!
+- Kaede (Inner Discipline Club): As the adorable mascot of the Inner Discipline Club and such an aspiring awesome lady, I will hone my skills to reach her level of greatness!
+- Kaede (Inner Discipline Club): Um, excuse me!
+- Kaede (Inner Discipline Club): Whoa...
+- Kaede (Inner Discipline Club): So this is what Tsubaki sees when she's lying down...
+- Kaede (Inner Discipline Club): Falling asleep with this kind of view...
+- Kaede (Inner Discipline Club): This must be the kind of training that awesome ladies do...
+- Kaede (Inner Discipline Club): In that case, I'm gonna close my eyes, just like Tsubaki...
+- Kaede (Inner Discipline Club): ...
+- Kaede (Inner Discipline Club): Ah, it tickles!
+- Kaede (Inner Discipline Club): Stop it! Don't lick my cheek like that! I can't sleep!
+- Kaede (Inner Discipline Club): Mmm!
+- Kaede (Inner Discipline Club): Ugh! Seriously!
+- Kaede (Inner Discipline Club): Here, have Tsubaki to lick!
+- Tsubaki (Inner Discipline Club): ...
+- Kaede (Inner Discipline Club): Whew! That was some rewarding training! On to the next bit!
+- Tsubaki (Inner Discipline Club): *still snoring*
+- Kaede (Inner Discipline Club): Next up is the vice president of the Inner Discipline Club...
+- Kaede (Inner Discipline Club): ...the living example of a beautiful lady, Mimori!
+- Kaede (Inner Discipline Club): At this hour, Mimori must be making dinner...
+- Mimori (Inner Discipline Club): Oh, Kaede? What's going on?
+- Kaede (Inner Discipline Club): Mimori!
+- Mimori (Inner Discipline Club): Is that...a camera?
+- Kaede (Inner Discipline Club): Yup! I'm recording a day in the life of the Inner Discipline Club!
+- Mimori (Inner Discipline Club): A day in the life of the Inner Discipline Club?
+- Mimori (Inner Discipline Club): I'm not so sure what's going on... Is this part of the training you mentioned?
+- Kaede (Inner Discipline Club): That's right! With this training, I'll become an amazing lady and take down the Yin-Yang Club!
+- Mimori (Inner Discipline Club): I beg your pardon?
+- Mimori (Inner Discipline Club): Anyways, good luck with your training. Tonight's dinner is curry!
+- Mimori (Inner Discipline Club): Make sure to come back to the club room for dinner before it gets cold, okay?
+- Kaede (Inner Discipline Club): Sure thing!
+- Kaede (Inner Discipline Club): See that? Mimori is the vice president of the Inner Discipline Club. She takes care of many things for us, not just our meals!
+- Kaede (Inner Discipline Club): Mimori's dream is to become a fine and elegant lady! That's what she's training for!
+- Kaede (Inner Discipline Club): Mimori is no less of an elegant lady than Tsubaki...
+- Kaede (Inner Discipline Club): So I can't fall behind! If I want to be like Mimori, I should be doing the same kinds of training as her...
+- Kaede (Inner Discipline Club): Ah! I got an idea!
+- Kaede (Inner Discipline Club): Mmm... That's the smell of Mimori's famous curry! Yummy!
+- Kaede (Inner Discipline Club): Let me have just a bit... Nom, nom. *slurp*
+- Kaede (Inner Discipline Club): Mmm! So tasty!
+- Kaede (Inner Discipline Club): But I can't be like Mimori if I just keep on eating her cooking!
+- Kaede (Inner Discipline Club): So, watch me carefully, dear viewer!
+- Kaede (Inner Discipline Club): I think I'll improve the curry myself to be just like Mimori!
+- Kaede (Inner Discipline Club): The curry already tastes amazing, but if I can make it even better with my own cooking skills somehow...
+- Mimori (Inner Discipline Club): Kaede! This is brilliant! I can't believe you made my curry twice as delicious!
+- Tsubaki (Inner Discipline Club): You're amazing, Kaede! I'm going to have seconds...
+- Kaede (Inner Discipline Club): Heehee.
+- Kaede (Inner Discipline Club): Mmm, this curry tastes pretty great, but I think it could be a touch sweeter...
+- Kaede (Inner Discipline Club): So, I'll just add some sugar...
+- Kaede (Inner Discipline Club): Oh no, the lid fell off! I put in way too much sugar!
+- Kaede (Inner Discipline Club): What do I do?!
+- Kaede (Inner Discipline Club): Ah!
+- Kaede (Inner Discipline Club): Okay! Well, if I wanna tone down some of this sweetness... I guess should make it saltier!
+- Kaede (Inner Discipline Club): I mean, that's how you offset damage in most card games, right?
+- Kaede (Inner Discipline Club): Let's add some more salt...
+- Kaede (Inner Discipline Club): Yup! That's perfect! I feel like I accomplished something today!
+- Kaede (Inner Discipline Club): And that concludes my Mimori training!
+- Kaede (Inner Discipline Club): There, I finished it, Sensei! The promo video is done!
+- Kaede (Inner Discipline Club): The entirety of the Inner Discipline Club, its very essence, is captured here!
+- "Ah... Is that so?"
+- Kaede (Inner Discipline Club): Once I submit this, the Inner Discipline Club's victory is likely...no, it's guaranteed! This will mark my debut as a true lady!
+- Kaede (Inner Discipline Club): *gasp* But what if the video goes viral after the reveal...?!
+- Kaede (Inner Discipline Club): ...and we get a tidal wave of new people hoping to join the club?!
+- Kaede (Inner Discipline Club): Hmm... No matter! It's already decided! I have no choice but to take on the role of an elegant lady and guide the young new recruits! Heeheehee!
+- Kaede (Inner Discipline Club): What? Behind me? Why?
+- Kaede (Inner Discipline Club): What? Behind me? Why?
+- Tsubaki (Inner Discipline Club): *licking* *slurping* *lap* Cats... Puppies... I feel like I've been in some sort of licking hell...
+- Tsubaki (Inner Discipline Club): Oh, Kaede!
+- Mimori (Inner Discipline Club): Kaede, are you the one who touched the curry in our club room kitchen?
+- Mimori (Inner Discipline Club): Come over here and take a seat. It goes without saying that I'm a little mad...
+- Kaede (Inner Discipline Club): Uh-oh! That's the face that Tsubaki and Mimori make when they're really mad!
+- Kaede (Inner Discipline Club): At this rate, I'm in for a difficult five-hour lecture!
+- Kaede (Inner Discipline Club): Ugh. H-Help me, Sensei!
+- "Well, you brought this on yourself."
+- Kaede (Inner Discipline Club): A-Aaagh!
+> (So begins the five-hour lecture of the Inner Discipline Club.)
+> Filming a Club Promo!

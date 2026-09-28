@@ -1,0 +1,115 @@
+# Group Story / HotSpringsDepartment / 1
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/HotSpringsDepartment/1
+Status: source-extracted-unreviewed
+
+
+- ???: And...finished!!
+- ???: Nice! Another job well done! I think everyone's going to like it here. Right, Megu?
+- Megu (Hot Springs Department): Whoa!! Very nice!! I think this is the prettiest hot spring we've built this week!!
+- Megu (Hot Springs Department): Yeah, they're gonna love it. I can't wait to show it off!
+- Hot Springs Department Member A (Hot Springs Department): Urgh... I'm starting to feel pretty sore, though. We've been working since, what, sundown yesterday?
+- Hot Springs Department Member B (Hot Springs Department): Yeah, it wasn't easy hauling the materials all the way out here.
+- Hot Springs Department Member B (Hot Springs Department): For sure. Speaking of, since this place IS so far out, do you think enough people can make it here?
+- Hot Springs Department Member A (Hot Springs Department): Hm. Now that you mention it...
+- Hot Springs Department Member A (Hot Springs Department): ...what should we do about that?
+- Megu (Hot Springs Department): Oh!
+- Megu (Hot Springs Department): Why are WE worrying? We can just ask President Kasumi, right?
+- Megu (Hot Springs Department): She'll know what to do. She probably ALREADY knows what to do!
+- Hot Springs Department Member A (Hot Springs Department): Haha! You're right! Yeah, it's not our job to think about that stuff.
+- Hot Springs Department Member B (Hot Springs Department): For real, leave the thinking to her. Who are we to worry about it?
+- Hot Springs Department Member B (Hot Springs Department): Where is she, though? Didn't she come here with you, Foreman Megu?
+- Megu (Hot Springs Department): She's here, she's here. I saw her in the back earlier.
+- Megu (Hot Springs Department): Why don't I go ask her? You two rest here.
+- Hot Springs Department Member B (Hot Springs Department): Uh... Just you, Megu?
+- Hot Springs Department Member A (Hot Springs Department): We all worked hard together to make this. It's kind of awkward for just us to go inside and rest...
+- Megu (Hot Springs Department): Aw, don't worry about it! I'm still rarin' to go! Not tired at all!
+- Megu (Hot Springs Department): You two are legit exhausted, though, and that's a perfectly good reason to enjoy some hot springs!
+- Megu (Hot Springs Department): Go on, take a load off! I'll talk to the president.
+- Megu (Hot Springs Department): And I'm off!
+- Hot Springs Department Member A (Hot Springs Department): She never runs out of energy, does she?
+- Hot Springs Department Member B (Hot Springs Department): Even though she worked the hardest. I've heard she can build a whole hot spring site all by herself. A little one, at least.
+- Hot Springs Department Member A (Hot Springs Department): Eh?! All alone...? For real? That has to be a joke, right?
+- Hot Springs Department Member B (Hot Springs Department): Who knows? But, seeing how much she got done last night...
+- Hot Springs Department Member A (Hot Springs Department): ...I think the foreman could pull it off.
+- Hot Springs Department Member A (Hot Springs Department): Wow, she's something.
+- Hot Springs Department Member B (Hot Springs Department): Right? Right? There's a reason she used to be the president.
+- Hot Springs Department Member A (Hot Springs Department): ...Huh?
+- Hot Springs Department Member A (Hot Springs Department): ...Wait, she used to be the president?
+- Hot Springs Department Member B (Hot Springs Department): Oh, you didn't know?
+- Hot Springs Department Member B (Hot Springs Department): Ah, I guess it hasn't been that long since you joined. ...Actually, a lot of people might not know. We've disbanded and gotten back together multiple times.
+- Hot Springs Department Member B (Hot Springs Department): Well, Megu used to be the president here. Then, you know, now-President Kasumi came along, and Megu handed off the position.
+- Hot Springs Department Member A (Hot Springs Department): Why'd she do that?
+- Hot Springs Department Member B (Hot Springs Department): I don't know. I didn't ask for the details.
+- Hot Springs Department Member B (Hot Springs Department): Maybe just 'cause Kasumi's smart and super-qualified? Plus Megu doesn't really seem to care about power.
+- Hot Springs Department Member A (Hot Springs Department): ...Yeah, that sounds like our foreman, all right.
+- Hot Springs Department Member B (Hot Springs Department): Haha! Well...
+- Hot Springs Department Member B (Hot Springs Department): ...I guess it doesn't really matter now. Haha.
+- Megu (Hot Springs Department): President!! President Kasumi!!
+- Kasumi (Hot Springs Department): ...Hmm?
+- Kasumi (Hot Springs Department): Megu, whoa!! Why are you being so loud?
+- Megu (Hot Springs Department): President!!
+- Megu (Hot Springs Department): Oh, you're already taking a dip? I thought you were usually the last one in.
+- Kasumi (Hot Springs Department): Haha, well, I just felt like it. No particular reason.
+- Kasumi (Hot Springs Department): I was thinking back to...well, something that motivated me. Let's put it that way.
+- Kasumi (Hot Springs Department): So what's going on? And...where's everybody else? You don't usually come out to talk to me alone.
+- Kasumi (Hot Springs Department): Is there a problem?
+- Megu (Hot Springs Department): Hm? No. Or...yes, maybe...
+- Megu (Hot Springs Department): The team pointed out that this place is really far from civilization.
+- Megu (Hot Springs Department): I mean, we had to haul those materials REALLY far. Is anyone else gonna want to make that trip?
+- Kasumi (Hot Springs Department): Wahahahaha!! I was wondering what you were going to say.
+- Kasumi (Hot Springs Department): No need to worry. Remember, they're not going to be hauling materials like we were. They're just going to ride a shuttle bus.
+- Kasumi (Hot Springs Department): Uphill on a winding road, sure, but the road's clear. A couple of buses, and problem solved.
+- Megu (Hot Springs Department): Ooh! You're always on top of things, President.
+- Megu (Hot Springs Department): ...Wait, we have buses?
+- Kasumi (Hot Springs Department): Wahahahaha!
+- Kasumi (Hot Springs Department): ...No.
+- Kasumi (Hot Springs Department): But we can hit up the Black Market for a couple of big vans, or buy some old troop transports from a PMC, and then touch them up to LOOK like buses.
+- Kasumi (Hot Springs Department): The point is, it's all been thought out. That's the point, you got it?
+- Kasumi (Hot Springs Department): So tell the others if they've got time to worry, they've got time to rest up and recharge!
+- Kasumi (Hot Springs Department): Hot springs aren't done just because you finish the buildings, you know! They don't count as hot springs until you use them!
+- Megu (Hot Springs Department): I see! Okay! I'll make sure to tell everyone!
+- Megu (Hot Springs Department): I'll tell them, "I don't really get it, but rest well, and everything will somehow work out tomorrow!!"
+- Kasumi (Hot Springs Department): Wahahaha!! Smart! That's perfect, Megu! You really do get it!!
+- Megu (Hot Springs Department): Heehee... Smart, huh? It's strange to hear you say that, President...
+- Kasumi (Hot Springs Department): Hm? Megu?
+- Kasumi (Hot Springs Department): Huh. I wasn't expecting you to do that. You like this hot spring better than the other ones? They're bigger and warmer...
+- Megu (Hot Springs Department): I know, but you said something that reminded me of something else.
+- Kasumi (Hot Springs Department): What'd I say?
+- Kasumi (Hot Springs Department): ...Was it the part about thinking back?
+- Megu (Hot Springs Department): That's right! It reminded me that you like snow, and that you like hot springs in the snow even better!
+- Kasumi (Hot Springs Department): Haha...
+- Kasumi (Hot Springs Department): ...Wait, what?
+- Kasumi (Hot Springs Department): What are you talking about? I don't think I ever told you that.
+- Megu (Hot Springs Department): Well, you didn't. Not directly.
+- Megu (Hot Springs Department): But the first time we met, you were sleeping in the snow, remember?
+- Megu (Hot Springs Department): And then, when I made a hot spring and put you in it, your frown turned into a happy smile!
+- Kasumi (Hot Springs Department): I was frowning in my sleep...? In the snow...?
+- Kasumi (Hot Springs Department): ...Ah.
+- Kasumi (Hot Springs Department): Ahhh...
+- Kasumi (Hot Springs Department): I see. Heehee... Right.
+- Kasumi (Hot Springs Department): "Sleeping"... Yes, I suppose you would call it that.
+- Megu (Hot Springs Department): ...President?
+- Kasumi (Hot Springs Department): Haha. Nothing. Don't worry about it.
+- Kasumi (Hot Springs Department): Anyway, I don't think I've heard this story before! So I looked really happy in the bath?
+- Megu (Hot Springs Department): Yeah! So right then, I thought, "This person must really like hot springs in the snow!"
+- Kasumi (Hot Springs Department): I see...
+- Kasumi (Hot Springs Department): ...Fufu...
+- Megu (Hot Springs Department): ...President?
+- Kasumi (Hot Springs Department): Wahahaha! Of course! Snowy days are the best hot spring times! Cool up top and toasty underneath!
+- Kasumi (Hot Springs Department): It's good for the spirit! And healthy enough, it can bring you back from the brink of death!
+- Kasumi (Hot Springs Department): You can let all that warm water just wash your pain and hurt away!
+- Megu (Hot Springs Department): Right? Hot springs! Snowy hot springs! They're the best!
+- Megu (Hot Springs Department): More people need to know how it feels!
+- Kasumi (Hot Springs Department): Now, now, they'll find out. Of course they will. One day.
+- Kasumi (Hot Springs Department): For now, you just get some rest, Megu! We'll have a lot more to do tomorrow.
+- Megu (Hot Springs Department): Yup, yup! ...Oh wait, YOU telling me to rest reminds me, I told the TEAM to rest because I was coming to ask you...
+- Megu (Hot Springs Department): Ooh, they're probably still waiting. I'll go back and tell 'em what you said!
+- Kasumi (Hot Springs Department): You do that. Don't run. The floors are slippery.
+- Megu (Hot Springs Department): Haha! Of course they are!!
+- Kasumi (Hot Springs Department): Hot springs, hot springs... Heehee.
+- Kasumi (Hot Springs Department): ...Of course I like the hot springs.
+- Kasumi (Hot Springs Department): ...How could I not?
+> Snowy Hot Springs

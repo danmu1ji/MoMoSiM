@@ -1,0 +1,1 @@
+# Aru\n\nGehenna Academy's self-appointed president of Problem Solver 68, conducts all sorts of illegal business as she pleases. While Aru considers herself to be a cool outlaw, she often falls out of character and thus any appearance disparities are easily revealed.\n\nSource: https://bluearchive.wiki/wiki/Aru\nReview status: source extracted; pending editorial review.\n

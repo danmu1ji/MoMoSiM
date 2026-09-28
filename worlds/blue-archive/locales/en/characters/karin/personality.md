@@ -1,0 +1,6 @@
+# Karin — official English introduction
+
+Agent of the Millennium Science School secret organization "C&C". With a call sign of "Zero-Two", she provides powerful fire support from the back line. Despite her rough appearance, she is actually the most prudent member of the group, and is constantly struggling to hold back the battle-frenzied Asuna and Akane.
+
+Source: https://bluearchive.wiki/wiki/Karin
+Status: source-extracted-unreviewed

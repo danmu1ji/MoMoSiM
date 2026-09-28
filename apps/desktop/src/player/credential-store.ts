@@ -27,18 +27,12 @@ export interface ProviderSettings {
   maxTokens?: number;
   variation?: boolean;
   maxCycleSpeakers?: number;
-  ttsEnabled?: boolean;
-  ttsEndpoint?: string;
-  ttsEngine?: 'voxcpm2';
-  ttsLanguage?: 'ja' | 'en' | 'ko';
-  ttsStyle?: string;
-  ttsCloningConsent?: boolean;
   translationProvider?: 'm2m100' | 'hy-mt2' | 'azure-free' | 'deepl';
   translationRegion?: string;
   deeplPlan?: 'free' | 'pro';
 }
 
-const SETTINGS_KEYS: (keyof ProviderSettings)[] = ['endpoint', 'model', 'systemInstructions', 'temperature', 'maxTokens', 'variation', 'maxCycleSpeakers', 'ttsEnabled', 'ttsEndpoint', 'ttsEngine', 'ttsLanguage', 'ttsStyle', 'ttsCloningConsent', 'translationProvider', 'translationRegion', 'deeplPlan'];
+const SETTINGS_KEYS: (keyof ProviderSettings)[] = ['endpoint', 'model', 'systemInstructions', 'temperature', 'maxTokens', 'variation', 'maxCycleSpeakers', 'translationProvider', 'translationRegion', 'deeplPlan'];
 
 /** 넘어온 값에서 저장할 설정만 추린다(모르는 키·undefined 제거). */
 export function pickSettings(value: Record<string, unknown> | undefined): ProviderSettings {
@@ -46,15 +40,11 @@ export function pickSettings(value: Record<string, unknown> | undefined): Provid
   for (const key of SETTINGS_KEYS) {
     const item = value?.[key];
     if (item === undefined) continue;
-    if (key === 'endpoint' || key === 'model' || key === 'systemInstructions' || key === 'ttsEndpoint' || key === 'ttsStyle' || key === 'translationRegion') { if (typeof item === 'string') picked[key] = item; continue; }
+    if (key === 'endpoint' || key === 'model' || key === 'systemInstructions' || key === 'translationRegion') { if (typeof item === 'string') picked[key] = item; continue; }
     if (key === 'translationProvider' && ['m2m100', 'hy-mt2', 'azure-free', 'deepl'].includes(String(item))) { picked.translationProvider = item as ProviderSettings['translationProvider']; continue; }
     if (key === 'deeplPlan' && ['free', 'pro'].includes(String(item))) { picked.deeplPlan = item as ProviderSettings['deeplPlan']; continue; }
     if (key === 'temperature' || key === 'maxTokens' || key === 'maxCycleSpeakers') { if (typeof item === 'number' && Number.isFinite(item)) picked[key] = item; continue; }
     if (key === 'variation' && typeof item === 'boolean') picked.variation = item;
-    if (key === 'ttsEnabled' && typeof item === 'boolean') picked.ttsEnabled = item;
-    if (key === 'ttsCloningConsent' && typeof item === 'boolean') picked.ttsCloningConsent = item;
-    if (key === 'ttsEngine' && item === 'voxcpm2') picked.ttsEngine = 'voxcpm2';
-    if (key === 'ttsLanguage' && ['ja', 'en', 'ko'].includes(String(item))) picked.ttsLanguage = item as ProviderSettings['ttsLanguage'];
   }
   return picked;
 }

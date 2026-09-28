@@ -1,0 +1,279 @@
+# 쿠와카미 카호 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 쿠와카미 카호, 선생(샬레)
+
+1. **「쿠와카미 카호 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「쿠와카미 카호 인연 스토리 2」**
+
+- **쿠와카미 카호**: Sensei, thank you for waiting.
+- **쿠와카미 카호**: Hello, [USERNAME] Sensei.
+- **쿠와카미 카호**: I apologize that I had to visit all of a sudden.
+- **쿠와카미 카호**: I really should've scheduled ahead.
+- **쿠와카미 카호**: But as I've already told you about the matter, I thought it'd be better to discuss with you earlier than dragging it out any longer.
+- **쿠와카미 카호**: Ah, I see. I understand.
+- **쿠와카미 카호**: I am well aware that it might be too much to ask for someone to understand everything from the letter I sent.
+- **쿠와카미 카호**: And it's nothing out of the ordinary that you are experiencing difficulty.
+- **쿠와카미 카호**: Therefore, would you please give me some time...
+- **쿠와카미 카호**: I mean, an opportunity?
+- **쿠와카미 카호**: If you are okay with it, I'll do my best to explain everything to you with this opportunity so you can understand everything easily.
+- **쿠와카미 카호**: And in fact, I'm here for that, actually.
+- **쿠와카미 카호**: Thank you.
+- **쿠와카미 카호**: Then, as you have given me the permission...
+- **쿠와카미 카호**: I, Kuwakami Kaho, the Lead Strategist of Hyakkiyako's Tourism and Cultural Industries...
+- **쿠와카미 카호**: ...Will begin the presentation on the proposal for the Schale-Hyakkiyako Collaborative Tour Business!
+- **쿠와카미 카호**: Please, look at the chart over this way.
+- **쿠와카미 카호**: Ahem, this chart is the sales graph of Allied Hyakkiyako Academy's annual tour business.
+- **쿠와카미 카호**: The annual sales of Allied Hyakkiyako Academy has been increasing over the course of three years with a 150% growth rate.
+- **쿠와카미 카호**: And such smooth growth can be considered a very successful result that can seldom be found in all of Kivotos...
+- **쿠와카미 카호**: Of course, you may wonder if such growth can be maintained in the future...
+- **쿠와카미 카호**: ...Or if it can be guaranteed, which are separate questions.
+- **쿠와카미 카호**: No business can flourish for an eternity...
+- **쿠와카미 카호**: And we at the Hyakkiyako are well aware that something must keep fueling or the business falls in no time.
+- **쿠와카미 카호**: However, the tour business we run at Hyakkiyako boasts many features that set us apart from the industry standard.
+- **쿠와카미 카호**: It has been proven that Hyakkiyako as the brand name has already built a strong foundation, according to various statistics...!
+- **쿠와카미 카호**: ...is what I would believe the crucial point you must consider, and if you could trust us Hyakkiyako and cooperate...
+- **쿠와카미 카호**: It is without a doubt that we could foresee a new opportunity of growth via collaboration with Schale...
+- **쿠와카미 카호**: I would like to tell you that it would even be possible to create a new flow that would lead the culture of Kivotos altogether!
+- **쿠와카미 카호**: And that would be the end of the presentation that I, Kuwakami Kaho, have prepared. Thank you.
+- **쿠와카미 카호**: Whew.
+- **쿠와카미 카호**: Then Sensei, please let me know if you have any questions or anything unclear that you'd like explained further.
+- **쿠와카미 카호**: ...
+- **쿠와카미 카호**: Tch.
+- **쿠와카미 카호**: No, it's okay. I only realized that Schale's Sensei does not fall easily, as I've heard...
+- **쿠와카미 카호**: Right. I have just realized that.
+- **쿠와카미 카호**: I've presented with enough data, but you were able to see the whole thing with keen eyes.
+- **쿠와카미 카호**: ...I suppose the numbers on the chart were not enough to convince you.
+- **쿠와카미 카호**: You mean, that what's truly important is not the numbers, but rather heart...
+- **쿠와카미 카호**: I should prove my trust in you, I see.
+- **쿠와카미 카호**: ...Understood.
+- **쿠와카미 카호**: To prove your trust is not easy work.
+- **쿠와카미 카호**: However, I, Kuwakami Kaho, will not step back.
+- **쿠와카미 카호**: [USERNAME] Sensei, if you could kindly grant me another opportunity...
+- **쿠와카미 카호**: I, though I may be unworthy, I will do my best to earn your trust...
+- **쿠와카미 카호**: I will b-b-be the person in charge for [USERNAME] Sensei to improve the relationship between Schale and Allied Hyakkiyako Academy and our future collaborative works...
+- **쿠와카미 카호**: ...d-devoting my full heart...
+- **쿠와카미 카호**: ...i-into the service...
+- **쿠와카미 카호**: ...f-for you...
+- **쿠와카미 카호**: ...H-Huh?
+- **쿠와카미 카호**: I-Is that so...?
+- **쿠와카미 카호**: But...
+- **쿠와카미 카호**: Excuse me?
+- **쿠와카미 카호**: I-I-I-I...
+- **쿠와카미 카호**: I am so sorry!
+- **쿠와카미 카호**: I-I never expected that the inquiry on the collaborative works with Schale...
+- **쿠와카미 카호**: ...would still be in my mailbox, unsent...!
+- **쿠와카미 카호**: And not knowing the truth, I just went on explaining things that you wouldn't know anything about...
+- **쿠와카미 카호**: I-I am so sorry once again! It is all my fault!
+- **쿠와카미 카호**: If I were to have delivered that mail, we'd have been...
+
+3. **「쿠와카미 카호 인연 스토리 3」**
+
+- **쿠와카미 카호**: Oh, Sensei. Thank you for your time.
+- **쿠와카미 카호**: Oh, don't worry about it. Today isn't a work day for the Yin-Yang Club, either.
+- **쿠와카미 카호**: I was just organizing the tasks.
+- **쿠와카미 카호**: ...Phew.
+- **쿠와카미 카호**: And I'm done. Shall we go?
+- **쿠와카미 카호**: Last time when I visited you, I was pushing things too hard without knowing things correctly, right?
+- **쿠와카미 카호**: I still think that...was...
+- **쿠와카미 카호**: ...quite...
+- **쿠와카미 카호**: ...embarrassing.
+- **쿠와카미 카호**: No, it really is something I should feel that way about.
+- **쿠와카미 카호**: So I came back to the club room, and thought of this...
+- **쿠와카미 카호**: Before I suggest the collaborative work, maybe I should have told you about Hyakkiyako, such as what kind of place it is.
+- **쿠와카미 카호**: Why I want to advertise it so badly.
+- **쿠와카미 카호**: Yes.
+- **쿠와카미 카호**: Of course, You've already helped multiple Hyakkiyako students and solved many problems we've had...
+- **쿠와카미 카호**: I am well aware that you already have things you are used to.
+- **쿠와카미 카호**: However, it's a different matter from that.
+- **쿠와카미 카호**: As a student of Hyakkiyako, I realized that I have never taken you for a tour.
+- **쿠와카미 카호**: So I couldn't stay still, but had to escort you myself and introduce Hyakkiyako to you.
+- **쿠와카미 카호**: Oh...
+- **쿠와카미 카호**: I-I mean, this is...only a strategy that I've come up with...as a Lead Strategist.
+- **쿠와카미 카호**: Or...a trick I came up with...
+- **쿠와카미 카호**: In truth, it's nothing more than a scheme to give you a good impression as a member of the Yin-Yang Club...
+- **쿠와카미 카호**: Ahem, i-it's nothing.
+- **쿠와카미 카호**: We don't have time for this. Let's get right to it if you're...
+- **쿠와카미 카호**: Seems like it... Although, there shouldn't be a visitor, as we're off today...
+- **쿠와카미 카호**: Come in.
+- **Hyakkiyako Student A**: K-Kaho...! Help, there's a problem...!
+- **쿠와카미 카호**: Oh, but the Yin-Yang Club is off today...
+- **Hyakkiyako Student A**: I-I'm sorry, but if you could just help me out a bit with that...
+- **쿠와카미 카호**: ...Of course. I can do that for a fellow student.
+- **쿠와카미 카호**: Excuse me, Sensei. Would it be okay if I take care of this matter for a moment?
+- **쿠와카미 카호**: Thank you. Then...
+- **Hyakkiyako Student B**: Kaho!
+- **Hyakkiyako Student C**: Please, there's an issue that requires the Yin-Yang Club's attention!
+- **Hyakkiyako Student D**: Vice president! Someone filed a claim about the ownership of our club room!
+- **쿠와카미 카호**: Wh-Why is all this work coming in today...?!
+- **쿠와카미 카호**: Wh-What...? Sensei...?
+- **쿠와카미 카호**: Yes, show this document and they won't be able to claim that it's theirs anymore.
+- **Hyakkiyako Student B**: Th-Thank you, Kaho!
+- **Hyakkiyako Student C**: If you weren't here, we would have been...!
+- **Hyakkiyako Student B**: ...Kicked out of our club room without being able to do anything!
+- **Hyakkiyako Student A**: I don't know I could pay you back...!
+- **쿠와카미 카호**: It's all right. Please don't hesitate to visit the Yin-Yang Club again if there's ever such issue.
+- **쿠와카미 카호**: We're here to help our schoolmates who are in trouble, after all.
+- **Everyone**: Okay!
+- **쿠와카미 카호**: I-I'm sorry?
+- **쿠와카미 카호**: Oh, this is nothing.
+- **쿠와카미 카호**: It's things that the Yin-Yang Club is supposed to be taking care of.
+- **쿠와카미 카호**: Oh, yes. Speaking of which...
+- **쿠와카미 카호**: As you said, the Yin-Yang Club is not a student council.
+- **쿠와카미 카호**: So we don't have the authority or power to resolve issues like other schools' student councils would have.
+- **쿠와카미 카호**: ...In fact, it's more accurate to say we can't.
+- **쿠와카미 카호**: If there happens any problems, we at the Yin-Yang Club could only arbitrate and mediate rather than actually solve the issue.
+- **쿠와카미 카호**: We're often limited in our approach, and the limits are apparent...
+- **쿠와카미 카호**: But the only thing we could do is to do our best.
+- **쿠와카미 카호**: That is the only method we can take for the students who have thought about the problem they couldn't solve themselves over and over...
+- **쿠와카미 카호**: ...until they finally decided to come knock on the Yin-Yang Club's door for help.
+- **쿠와카미 카호**: That is the Yin-Yang Club's job, and its responsibility.
+- **쿠와카미 카호**: What? I-I mean... It's nothing that great to be complimented so much...
+
+4. **「쿠와카미 카호 인연 스토리 4」**
+
+- **쿠와카미 카호**: Ah, Sensei. I'm here.
+- **쿠와카미 카호**: ...!
+- **쿠와카미 카호**: I understand.
+- **쿠와카미 카호**: I had made up my mind to use the last time as my lesson and give my best today, but...
+- **쿠와카미 카호**: It seems I was thinking of it too simply.
+- **쿠와카미 카호**: Sensei, please entrust your day to me.
+- **쿠와카미 카호**: I, Kuwakami Kaho, will promise you the best tour I can give...
+- **쿠와카미 카호**: It will be perfect!
+- **쿠와카미 카호**: Then, let's go!
+- **쿠와카미 카호**: If I were asked about what the first thing anyone should consider during a tour of Hyakkiyako...
+- **쿠와카미 카호**: I'd answer with no hesitation that it's the feature as a tourist attraction.
+- **쿠와카미 카호**: Especially the scenery from this vista point...
+- **쿠와카미 카호**: This scenery that gives the full view of the Tree and the streets of Hyakkiyako is truly the best Hyakkiyako has to show.
+- **쿠와카미 카호**: ...Do you know of Hyakkiyako's Tree of Deities, Sensei?
+- **쿠와카미 카호**: As expected! Heehee.
+- **쿠와카미 카호**: It's famous enough that even Schale's [USERNAME] Sensei knows about it...
+- **쿠와카미 카호**: I must say I am very proud of what we have.
+- **쿠와카미 카호**: Indeed, the dense cherry blossom not only looks beautiful, but it also symbolizes something here in Hyakkiyako.
+- **쿠와카미 카호**: Every year, when the cherry blossoms of the Tree of Deities bloom for the first time, the famous Hyakkiyako Cherry Blossom Festival begins.
+- **쿠와카미 카호**: If you get a chance, it'd be great if you could join and enjoy the festival with us, Sensei...
+- **쿠와카미 카호**: Oh, and I don't know if you already know about it, but there's this story regarding the tree...
+- **쿠와카미 카호**: Ah, I see.
+- **쿠와카미 카호**: Then let me explain briefly.
+- **쿠와카미 카호**: Hyakkiyako's Tree of Deities is said to have been planted long ago...
+- **쿠와카미 카호**: And by long ago, I mean even before Hyakkiyako had formed the alliance.
+- **쿠와카미 카호**: That means that the cherry blossom tree has a guardian as old as the tree...
+- **쿠와카미 카호**: Oh... Sensei, are you hungry?
+- **쿠와카미 카호**: Perfect timing.
+- **쿠와카미 카호**: Let's go try out the Tanuki Okonomiyaki, the famous dish of Hyakkiyako!
+- **쿠와카미 카호**: It's something I can confidently recommend!
+- **쿠와카미 카호**: Next up, I'll be taking you to...
+- **쿠와카미 카호**: Isn't that...?
+- **Hyakkiyako Student A**: The flash mob kabuki by the Bamboo Shoot and Mushroom group will begin shortly!
+- **Hyakkiyako Student B**: For real? They easily get a million views on every upload! That's going to happen here?!
+- **Hyakkiyako Student B**: Where?! Where is it?!
+- **쿠와카미 카호**: ...Bamboo Shoot...and Mushroom!!
+- **쿠와카미 카호**: O-Oh, never mind...
+- **쿠와카미 카호**: L-L-Let's hurry and head to the next one!
+- **Hyakkiyako Student A**: What? Shiba Dog Wang Wang's new vigilante movie, you say?!
+- **Hyakkiyako Student A**: Hey, breaking news! Mouryo folks have started an impromptu haiku battle over by the eastern region after struggling for power!
+- **쿠와카미 카호**: Haiku...battle...!
+- **Hyakkiyako Student C**: Yo! Don't be surprised...the limited pop-up store selling the new Hyakkiyako merchandise is...!
+- **쿠와카미 카호**: Limited...pop-up store...!
+- **쿠와카미 카호**: N-N-No, yes! I am...!
+- **쿠와카미 카호**: I am currently escorting you, so I am...not...thinking about...anything...
+- **쿠와카미 카호**: I'm not thinking about going to look at things or... missing out on anything...
+- **Hyakkiyako Student B**: This limited princess merchandise is in stock!
+- **쿠와카미 카호**: !!
+- **Hyakkiyako Student C**: If you miss out on it, you'll have to wait half a year, minimum!
+- **쿠와카미 카호**: ...?!
+- **쿠와카미 카호**: *sigh* I am so sorry...Sensei...
+- **쿠와카미 카호**: I fell for temptation. Now you've seen me in this embarrassing manner...
+- **쿠와카미 카호**: I even pledged to escort you myself...
+- **쿠와카미 카호**: So even if it's a show that I can't ever see again after today...or merchandise that I won't ever be able to purchase...
+- **쿠와카미 카호**: ...merchandise...that I won't ever...that I should be able to give up on...
+- **쿠와카미 카호**: ...It...doesn't matter...!
+- **쿠와카미 카호**: As the vice president of the Yin-Yang Club, I apologize to have once again disappointed you.
+- **쿠와카미 카호**: If it's like this...the only way I, Kuwakami Kaho, can truly apologize to you is...
+- **쿠와카미 카호**: Nothing other than...to be on exclusive duty just for Schale...
+- **쿠와카미 카호**: ...What?
+
+5. **「쿠와카미 카호 인연 스토리 5」**
+
+- **???**: This...should go here...
+- **???**: And this one...over here...
+- **쿠와카미 카호**: Oh, Sensei. You're here. Welcome.
+- **쿠와카미 카호**: That's a good question!
+- **쿠와카미 카호**: Heehee, as I told you, I've been putting up the merchandise for decoration!
+- **쿠와카미 카호**: The Yin-Yang Club's lounge is usually used for welcoming visitors...
+- **쿠와카미 카호**: So if I put the new merch we got for advertisement here...
+- **쿠와카미 카호**: Then the advertisement should be even more effective!
+- **쿠와카미 카호**: Oh, so please give me a moment, Sensei.
+- **쿠와카미 카호**: I have no time... I need to put these in the perfect position...
+- **쿠와카미 카호**: Oh... Thank you.
+- **쿠와카미 카호**: I appreciate it.
+- **쿠와카미 카호**: So that's all of it, Sensei!
+- **쿠와카미 카호**: ― How is it, Sensei?
+- **쿠와카미 카호**: ― These round eyes, free of worry,
+- **쿠와카미 카호**: ― and this contemplative expression...
+- **쿠와카미 카호**: ― Really! Isn't it just so cute?!
+- **쿠와카미 카호**: ― Ah... It's a perfect, God-given shape. There's nothing better...
+- **쿠와카미 카호**: ― I'm grateful to be alive...!
+- **쿠와카미 카호**: ― Yes, truly!
+- **쿠와카미 카호**: ― They're all my cute and precious children.
+- **쿠와카미 카호**: ― A lovable child, a strong child,
+- **쿠와카미 카호**: ― a cool child, and a beautiful child...
+- **쿠와카미 카호**: ― Heehee.
+- **쿠와카미 카호**: ― I see them all as if they were Hyakkiyako students.
+- **쿠와카미 카호**: ― Because they're all unique,
+- **쿠와카미 카호**: ― conflicts may sometimes arise...
+- **쿠와카미 카호**: ― But I think that goes to show...
+- **쿠와카미 카호**: ― how each student has their shining quirks.
+- **쿠와카미 카호**: ― S-Sensei...?!
+- **쿠와카미 카호**: ― S-Sensei...?!
+- **쿠와카미 카호**: ― Uh... To say that, so suddenly...
+- **쿠와카미 카호**: ― Um. Th-Thank...
+- **쿠와카미 카호**: ― thank you, Sensei...
+
+6. **「쿠와카미 카호 인연 스토리 6」**
+
+- **쿠와카미 카호**: Ah, Sensei?
+- **쿠와카미 카호**: Hadn't we agreed to meet a little later? You're early...
+- **쿠와카미 카호**: No concerns at all. Tidying up took a little longer than expected today.
+- **쿠와카미 카호**: I was cleaning with more vigor than usual, since I knew you were visiting.
+- **쿠와카미 카호**: Although, I erred on the side of overly vigorous, and time seems to have gotten away from me.
+- **쿠와카미 카호**: My apologies for the mess.
+- **쿠와카미 카호**: I could never impose...
+- **쿠와카미 카호**: ...Hm? The quicker we finish, the faster we can get to drinking tea?
+- **쿠와카미 카호**: I see... It'd be difficult for you to relax knowing the break room is in this state...
+- **쿠와카미 카호**: In that case, I'll accept your helping hand.
+- **쿠와카미 카호**: I must take...extra care with this one.
+- **쿠와카미 카호**: Ah, yes.
+- **쿠와카미 카호**: Perhaps, as the vice president of the Yin-Yang Club, I shouldn't fall victim to the temptations of merchandise and material goods...
+- **쿠와카미 카호**: But this particular item is incredibly special to me.
+- **쿠와카미 카호**: Ah. Would you like to see it, Sensei?
+- **쿠와카미 카호**: Of course. It's of no issue.
+- **쿠와카미 카호**: Here you go. Please be careful... It's somewhat heavy.
+- **쿠와카미 카호**: Heehee. Yes.
+- **쿠와카미 카호**: It was around when I first began my work as the Yin-Yang Club's Lead Strategist.
+- **쿠와카미 카호**: In the shopping district, they held a festival that I assisted with...
+- **쿠와카미 카호**: I wasn't quite used to the work yet, so I felt I was more of a liability who didn't understand what the job required of me.
+- **쿠와카미 카호**: But just as the festival ended, a group of students and merchants who participated gifted me this.
+- **쿠와카미 카호**: They told me, "This event went so smoothly because of the Yin-Yang Club's help!" and, "It was such a relief to have you here," and even, "As expected of the Yin-Yang Club." And so on...
+- **쿠와카미 카호**: I... They were so kind and appreciative. It was overwhelming.
+- **쿠와카미 카호**: I was very flustered at the time. After all, I hadn't done anything particularly praiseworthy.
+- **쿠와카미 카호**: J-Just as I do today, I was only striving to help host successful events to further spread Hyakkiyako Academy's values and culture.
+- **쿠와카미 카호**: Regardless, looking at this certificate of appreciation instills a sense of pride in me.
+- **쿠와카미 카호**: Receiving it made me feel that all my efforts until now weren't in vain...that I'd been able to share my passion with everyone, even if just a little.
+- **쿠와카미 카호**: I was simply relieved that I was doing my job as our lead strategist.
+- **쿠와카미 카호**: I never want to forget that feeling, so I take extra care in polishing it whenever I do my daily cleaning.
+- **쿠와카미 카호**: Heehee. It absolutely does.
+- **쿠와카미 카호**: We've finished cleaning the break room.
+- **쿠와카미 카호**: Thank you for helping me, Sensei.
+- **쿠와카미 카호**: Heehee. I believe the tea will taste even more delicious than usual today.
+- **쿠와카미 카호**: I'll be enjoying it in a clean, organized room, and together with Sensei, on top of that...
+- **쿠와카미 카호**: Now then, allow me a moment to prepare.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/쿠와카미 카호
+- https://bluearchive.wiki (원문 스토리 스크립트)

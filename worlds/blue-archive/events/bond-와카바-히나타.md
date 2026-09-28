@@ -1,0 +1,299 @@
+# 와카바 히나타 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 와카바 히나타, 선생(샬레)
+
+1. **「와카바 히나타 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「와카바 히나타 인연 스토리 2」**
+
+- **???**: Huh? Is that you, Sensei?
+- **와카바 히나타**: It really is you! What brings you here?
+- **와카바 히나타**: Or better yet, how did you get here? This is a restricted area!
+- **와카바 히나타**: Outsiders are usually never allowed in here!
+- **와카바 히나타**: Huh? You followed a strange noise you heard? You must have heard me moving things.
+- **와카바 히나타**: And the door to the hallway was wide open?
+- **와카바 히나타**: Oh.
+- **와카바 히나타**: Th-That's my fault! I totally forgot to close it behind me!
+- **와카바 히나타**: U-Ughhh... I can't believe I screwed up like that! I'm so out of it lately.
+- **와카바 히나타**: Hmm?
+- **와카바 히나타**: You're not going to tell anyone about this?
+- **와카바 히나타**: Th-That's not the issue! I-I mean, it would be bad if the others found out,<br/>but that's not what I'm...
+- **와카바 히나타**: Huh? What was I doing here?
+- **와카바 히나타**: U-Um, well...
+- **와카바 히나타**: As you can probably tell, I was organizing the items that are here.
+- **와카바 히나타**: Even when the cathedral is quiet and still, there's always work to be done behind the scenes.
+- **와카바 히나타**: Some of the things back here belong to the cathedral, some of it to individual Sisters, and some of it was even left behind by visitors...
+- **와카바 히나타**: It takes dozens of boxes just to cover a single day's worth of work back here.
+- **와카바 히나타**: H-Haha. I suppose... It's not a big deal, though.
+- **와카바 히나타**: H-Haha. I suppose... It's not a big deal, though.
+- **와카바 히나타**: I'm in charge of maintenance and the inventory...
+- **와카바 히나타**: ...but that doesn't mean I always do it alone. Other Sisters pitch in sometimes.
+- **와카바 히나타**: I'd rather handle this kind of work myself. It's easier that way.
+- **와카바 히나타**: Huh? You want to give me a hand?
+- **와카바 히나타**: Um... I appreciate the offer, but you probably shouldn't.
+- **와카바 히나타**: S-Sensei?!
+- **와카바 히나타**: Are you okay, Sensei? P-Please put it back down!
+- **와카바 히나타**: Are you okay, Sensei? P-Please put it back down!
+- **와카바 히나타**: I tried to tell you. These boxes are much heavier than they look.<br/>It usually takes three people to move one.
+- **와카바 히나타**: That's why it's better that they just leave it to me, since that way they can work on other things.
+- **와카바 히나타**: A-Ahaha...
+- **와카바 히나타**: A-Ahaha...
+- **와카바 히나타**: It's a little embarrassing when you put it like that, but I do like hearing it.<br/>Thank you.
+- **와카바 히나타**: I'm not as talented at comforting and counseling as the other Sisters...
+- **와카바 히나타**: That's why I put extra effort into manual labor and managing things.
+- **와카바 히나타**: It's all I'm really good at. So... Haha...
+- **와카바 히나타**: ...
+- **와카바 히나타**: Wh-What am I talking about?
+- **와카바 히나타**: Sorry. I didn't mean to kill the mood.
+- **와카바 히나타**: I-I think we should be going. I'll show you the way back to the cathedral.
+- **와카바 히나타**: No, no. It's not an inconvenience or anything.
+- **와카바 히나타**: Yes, I'm sure. I'd be happy to guide you.
+- **와카바 히나타**: Actually, there are some things I need to take care of back at the chapel,<br/>so it's no problem at all.
+- **와카바 히나타**: Just need to pick up this box before we go.
+- **와카바 히나타**: Haaah!
+- **와카바 히나타**: *huff* *puff*
+- **와카바 히나타**: Okay. Shall we be off?
+- **와카바 히나타**: *pant* *pant* That should do it!
+- **와카바 히나타**: Phew. I worked up quite the sweat.
+- **와카바 히나타**: That didn't take long at all. H-Haha...
+- **와카바 히나타**: It's a little embarrassing, actually.
+- **와카바 히나타**: Getting all hot and sweaty next to you of all people...
+- **와카바 히나타**: Huh? Wh-What's going on? Why is the cathedral so crowded all of a sudden?
+- **와카바 히나타**: It feels like they're looking at us for some reason...
+- **와카바 히나타**: Sensei? You look uncomfortable... What's wrong?
+- **와카바 히나타**: Misunderstanding? What's there to misunderstand?
+- **와카바 히나타**: Not me? You mean all of them? Huh...?
+- **와카바 히나타**: What...?
+- **와카바 히나타**: S-Sensei?! Sensei!
+
+3. **「와카바 히나타 인연 스토리 3」**
+
+- **Sisterhood Student A**: Hinata isn't listening to us...
+- **Sisterhood Student B**: I'm really worried about her.
+- **???**: Oh. Sensei?
+- **???**: Oh. Sensei?
+- **와카바 히나타**: H-Hello. What brings you to the cathedral?
+- **와카바 히나타**: D-Did you come because of my last message?
+- **와카바 히나타**: U-Ugh...
+- **와카바 히나타**: Well, the thing is...
+- **와카바 히나타**: Well, the thing is...
+- **와카바 히나타**: I-I mean, no. It's nothing! I think it's just a cold...
+- **와카바 히나타**: Nothing I can't handle. Everyone gets sick sometimes. I can still work...
+- **와카바 히나타**: I swear I'm fine. Y-You don't have to worry so much. Haha...
+- **와카바 히나타**: H-Huh?
+- **와카바 히나타**: H-Huh?
+- **와카바 히나타**: But I don't...
+- **와카바 히나타**: Okay...
+- **와카바 히나타**: Um, Sensei...?
+- **와카바 히나타**: Why did we come over here?
+- **와카바 히나타**: Huh?
+- **와카바 히나타**: You brought me here for a reason?
+- **와카바 히나타**: I should sit down and rest?
+- **와카바 히나타**: U-Um... Okay. That's what what everyone has been telling me to do today...
+- **와카바 히나타**: ...b-but there are still things I need to do.
+- **와카바 히나타**: I can't just sit around and do nothing. The last thing I want to do is let everyone down...
+- **와카바 히나타**: B-But I can't just dump my work onto others like that!
+- **와카바 히나타**: B-But I can't just dump my work onto others like that!
+- **와카바 히나타**: Especially when...I can never return the favor. I can't possibly do the things that they do.
+- **와카바 히나타**: That means...
+- **와카바 히나타**: ...?
+- **와카바 히나타**: Wh-What do you mean?
+- **와카바 히나타**: I...
+- **와카바 히나타**: R-Really?
+- **와카바 히나타**: Is that true?
+- **와카바 히나타**: That's what they always say...but I have a hard time believing it.
+- **와카바 히나타**: Though maybe it's true if you're saying it.
+- **와카바 히나타**: I'd really like to believe it...
+- **와카바 히나타**: No, wait.
+- **와카바 히나타**: I'm sorry. I'm sure it's true.
+- **와카바 히나타**: I mean...it must be if you're saying it.
+- **와카바 히나타**: A-Ahaha...
+- **와카바 히나타**: That makes me feel much more...at peace.
+- **와카바 히나타**: ― U-Um, I'm so sorry...Sensei.
+- **와카바 히나타**: ― I never wanted to be a burden to you...
+- **와카바 히나타**: ― I can push through this...or so I thought.
+- **와카바 히나타**: ― I'm useless if I'm not healthy. It's so embarrassing...
+- **와카바 히나타**: ― But you're right. I should be resting.
+- **와카바 히나타**: ― So, if...it's not too much to ask,
+- **와카바 히나타**: ― would you mind staying with me for a bit?
+- **와카바 히나타**: ― I'd feel a lot better with you here...
+- **와카바 히나타**: ― You will? Thank you.
+- **와카바 히나타**: ― You're so sweet, Sensei.
+- **와카바 히나타**: I already feel much better thanks to you.
+- **와카바 히나타**: Okay. I'll go home and rest today.
+- **와카바 히나타**: I'm still flushed and drenched with sweat. I've felt better.
+- **와카바 히나타**: I'll need to get some rest before I can get back on my feet.
+- **와카바 히나타**: Especially if the others all rely on me, like you said.
+
+4. **「와카바 히나타 인연 스토리 4」**
+
+- **와카바 히나타**: Hmmm hmmm hmmm. ♪
+- **와카바 히나타**: ...?
+- **와카바 히나타**: Hmm? Sensei?
+- **와카바 히나타**: O-Oh. Hello...
+- **와카바 히나타**: Um...
+- **와카바 히나타**: Sensei, how did you get here? This place is restricted to outsiders.<br/>The door is kept locked...
+- **와카바 히나타**: Oh, no.
+- **와카바 히나타**: Please don't tell me... I think I know what you're about to say.
+- **와카바 히나타**: U-Unless you're going to tell me I'm imagining things. Surely I didn't make the same mistake again. Right? Right...? Haha...
+- **와카바 히나타**: I-I knew it! I forgot to close it behind me again!
+- **와카바 히나타**: I-I knew it! I forgot to close it behind me again!
+- **와카바 히나타**: Aw...! Why do I keep doing that?!
+- **와카바 히나타**: I know, but still...!
+- **와카바 히나타**: I know, but still...!
+- **와카바 히나타**: So you closed the door when you went through?
+- **와카바 히나타**: Thank you, Sensei. You're always looking after me.
+- **와카바 히나타**: Though you wouldn't even be here right now if I didn't make that mistake.
+- **와카바 히나타**: What am I doing here? Oh, this little park is one of the places I've been looking after for a long time.
+- **와카바 히나타**: I guess you could say I'm this park's manager.
+- **와카바 히나타**: Right. My managerial duties aren't limited to things only inside the cathedral.
+- **와카바 히나타**: Oh, but you don't have to worry. I know better than to put too much work on my shoulders like I did before.
+- **와카바 히나타**: I'm getting better at asking the other Sisters for help when there's more work than I can handle on my own.
+- **와카바 히나타**: I have you to thank, Sensei.
+- **와카바 히나타**: Taking care of this park isn't very difficult, so I can handle it by myself.
+- **와카바 히나타**: Maybe the old me would have felt overwhelmed, but things are different now.
+- **와카바 히나타**: So...
+- **와카바 히나타**: *gasp*!
+- **Sisterhood Student A**: Hinata! Where are you?
+- **Sisterhood Student B**: Are you here?
+- **Sisterhood Student A**: I heard she was supposed to be here...
+- **Sisterhood Student B**: ...but I don't see her anywhere. Where could she have gone?
+- **와카바 히나타**: S-Sensei...
+- **와카바 히나타**: This is bad. I never expected anyone else to come here at this hour.
+- **와카바 히나타**: U-Um...
+- **와카바 히나타**: There's not a lot of space in this bush.
+- **Sisterhood Student A**: Wh-What was that?
+- **Sisterhood Student B**: I'm not sure...
+- **와카바 히나타**: Oh, no. I think they noticed us!
+- **와카바 히나타**: Wait. What?
+- **와카바 히나타**: Wait. What?
+- **와카바 히나타**: Uh...
+- **와카바 히나타**: You're right, huh? That makes a lot more sense now that I think about it...
+- **Sisterhood Student A**: I think I heard something coming from the bushes.
+- **와카바 히나타**: Oh, no. They're gonna find us!
+- **와카바 히나타**: I-I have to get out there!
+- **와카바 히나타**: H-Hello. How are you doing?
+- **와카바 히나타**: Is there something I can help you with? A-Ahaha...
+- **Sisterhood Student A**: H-Hinata?! What were you doing in there?
+- **와카바 히나타**: O-Oh, the bush? I was...just taking care of it! A little up-close watering is all.
+- **Sisterhood Student B**: But what was all that noise just now?
+- **와카바 히나타**: N-Nothing. Anyway, what brings you here?
+- **와카바 히나타**: I-I'd be happy to lend a hand if you need anything! Just show me the way.<br/>In fact, let's go right now!
+- **Sisterhood Student B**: O-Oh. Um, okay...
+- **Sisterhood Student A**: We could use a hand moving the bookshelf in the cathedral.
+- **와카바 히나타**: Is that all? Sure, I'd love to! Let's go take care of that right away!
+
+5. **「와카바 히나타 인연 스토리 5」**
+
+- **와카바 히나타**: ...Ah! Sensei, here! Over here!
+- **와카바 히나타**: You got here just in time. I knew this would be the perfect spot!
+- **와카바 히나타**: A-Ahaha...
+- **와카바 히나타**: A-Ahaha...
+- **와카바 히나타**: C-Can you tell? I was doing my best to hide it.
+- **와카바 히나타**: Well, I was looking forward to seeing you because...
+- **와카바 히나타**: Um, I...
+- **와카바 히나타**: Well...
+- **와카바 히나타**: I wanted to...
+- **와카바 히나타**: Y-Yes! That's exactly it!
+- **와카바 히나타**: Y-Yes! That's exactly it!
+- **와카바 히나타**: You always seem to know what I'm trying to say...
+- **와카바 히나타**: Anyway, I thought this would be a nice way to repay you for helping me so much lately.
+- **와카바 히나타**: So I prepared something special!
+- **와카바 히나타**: It's a picnic bag!
+- **와카바 히나타**: So you noticed it looks like my usual one, huh?
+- **와카바 히나타**: So you noticed it looks like my usual one, huh?
+- **와카바 히나타**: Oh.
+- **와카바 히나타**: A-Ahaha. I guess you would notice.
+- **와카바 히나타**: This is the bag I keep my automatic grenade launcher in.
+- **와카바 히나타**: So it actually works like this...
+- **와카바 히나타**: Oh. No, it's not what you think it is.
+- **와카바 히나타**: Oh. No, it's not what you think it is.
+- **와카바 히나타**: I was just taking it out to put it to the side.
+- **와카바 히나타**: Underneath is...
+- **와카바 히나타**: ...wh-what I wanted to show you!
+- **와카바 히나타**: Heehee...
+- **와카바 히나타**: Heehee...
+- **와카바 히나타**: The bag is pretty big, so there's always plenty of room left over even after I put my automatic grenade launcher in.
+- **와카바 히나타**: That's usually where I keep things like a book or a spare change of clothes.<br/>It's pretty convenient.
+- **와카바 히나타**: Okay. Let me put this back in my bag. Hmph.
+- **와카바 히나타**: Heehee.
+- **와카바 히나타**: Anyway, back to the main attraction. Now we can start our picnic!
+- **와카바 히나타**: I-I'm not the best chef in Kivotos...
+- **와카바 히나타**: ...but I-I worked really hard on it for you.
+- **와카바 히나타**: So...I hope you'll like it.
+- **와카바 히나타**: Now, if you don't mind, Sensei...open your mouth and say "ahhh."
+- **와카바 히나타**: ...
+- **와카바 히나타**: Ahhh...!
+- **와카바 히나타**: Ahhh...!
+
+6. **「와카바 히나타 인연 스토리 6」**
+
+- **와카바 히나타**: Sensei! Here! Over here!
+- **와카바 히나타**: Wait. No...
+- **와카바 히나타**: I'll come to you instead! Wait right there!
+- **와카바 히나타**: Thank you for coming, Sensei! I've been waiting for you!
+- **와카바 히나타**: What?
+- **와카바 히나타**: What?
+- **와카바 히나타**: Oh, no! That's not what I meant! I-I just... I've only been waiting for a few minutes...!
+- **와카바 히나타**: Ooh, that's not what I was trying to say at all. Sorry..
+- **와카바 히나타**: There's nothing to be sorry for?
+- **와카바 히나타**: B-But...! Uh, hahaha...!
+- **와카바 히나타**: What?
+- **와카바 히나타**: I seem excited? I-Is it that obvious? I'm really trying my best to act casual...
+- **와카바 히나타**: Wait, not like that!
+- **와카바 히나타**: I mean, saying it like that sounds like I'm saying I am excited, but that's... I mean...
+- **와카바 히나타**: ...Haha?
+- **와카바 히나타**: Sensei...
+- **와카바 히나타**: Sensei...
+- **와카바 히나타**: Ah! I'm all over the place today.
+- **와카바 히나타**: You must be hungry. I brought boxed lunch, just like last time! Would you like to eat together?
+- **와카바 히나타**: We can lay the picnic blanket right here... I just need to get the boxed lunch out of this bag...
+- **와카바 히나타**: Heeheehee. Better to have too much than not enough!
+- **와카바 히나타**: Heeheehee. Better to have too much than not enough!
+- **와카바 히나타**: Now you don't have to worry about taking too much. Eat to your heart's content. I'll have the rest...
+- **와카바 히나타**: ...Ah.
+- **와카바 히나타**: The way that came out, it might sound like I'm implying you have an oversized appetite...
+- **와카바 히나타**: A-Anyway... Moving on now!
+- **와카바 히나타**: Sensei, dig in!
+- **와카바 히나타**: My masterpiece of a boxed lunch...
+- **와카바 히나타**: Huh?
+- **와카바 히나타**: ...My...masterpiece...of a...
+- **와카바 히나타**: ...A book?
+- **와카바 히나타**: ...Huh?
+- **와카바 히나타**: ...Huh?
+- **와카바 히나타**: What...? Wh-Why is the Management Ledger of Church Items and Miscellanea in here...
+- **와카바 히나타**: I don't get it... I definitely...definitely made a boxed lunch...and packed it...? What...?
+- **와카바 히나타**: But... But why...?
+- **와카바 히나타**: B-But... The boxed lunch...
+- **와카바 히나타**: B-But... The boxed lunch...
+- **와카바 히나타**: Y-You probably haven't even eaten yet, Sensei... I've inconvenienced you with such a ridiculous mistake...
+- **와카바 히나타**: ...
+- **와카바 히나타**: I'm so sorry...
+- **와카바 히나타**: Oh, um... Well...
+- **와카바 히나타**: You can, of course, but there's nothing interesting in it.
+- **와카바 히나타**: As the name implies, it's a ledger for managing the cathedral's goods and supplies. I use it to keep track of our inventory...
+- **와카바 히나타**: ...Sensei...? You seem...really absorbed by it...
+- **와카바 히나타**: ...Pardon? You're impressed by how detailed and organized it is? Oh...
+- **와카바 히나타**: W-Well, of course... Given how large the cathedral is, there are so many things to keep track of.
+- **와카바 히나타**: Thousands... No, tens of thousands of things...
+- **와카바 히나타**: There's no way I could manage it all by memory... So I figured this was how I'd keep everything straight.
+- **와카바 히나타**: Unlike the others, I'm a bit of a scatterbrain. If I don't do things like this, I'll forget and mess something up.
+- **와카바 히나타**: Hahaha...
+- **와카바 히나타**: I'm sorry, what? Did you just call me meticulous? Me?
+- **와카바 히나타**: No way! I even confused a book with a boxed lunch!
+- **와카바 히나타**: I mean, meticulous? I don't think I've ever even heard the word! And now... Well, what you're holding is proof that I'm the opposite of meticulous!
+- **와카바 히나타**: ...Pardon? That's exactly what you're talking about...?
+- **와카바 히나타**: ...Come again?
+- **와카바 히나타**: Sensei...
+- **와카바 히나타**: ...Sensei? What are you pulling out...?
+- **와카바 히나타**: Ah!
+- **와카바 히나타**: ...A boxed lunch?!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/와카바 히나타
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,6 @@
+# Eimi — official English introduction
+
+Enrolled at Millennium Science School, Eimi is a member of the Supernatural Phenomenon Task Force. She's a quiet girl who gives a denpa-like impression. It's hard to know what she's thinking. She can often be seen standing around vacantly for no reason. However, when entrusted with a mission, she is able to execute her objective by moving more efficiently than anyone.
+
+Source: https://bluearchive.wiki/wiki/Eimi
+Status: source-extracted-unreviewed

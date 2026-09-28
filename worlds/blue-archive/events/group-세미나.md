@@ -1,0 +1,202 @@
+# 세미나 그룹 스토리
+
+원문(bluearchive.wiki) 그룹 스토리 스크립트 4화를 한국어 정본 이름으로 옮긴 기록이다.
+
+- 등장: Material Development Club Member, Prophecy Protocol, 무로카사 아카네, 사이바 모모이, 아케보시 히마리, 우시오 노아, 카가미 치히로, 하야세 유우카
+
+1. **「세미나 스토리 1화」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「세미나 스토리 2화」**
+
+- **하야세 유우카**: Now that everyone's here...
+- **우시오 노아**: We can begin.
+- **우시오 노아**: Welcome to the 28th Millennium Budget Review Committee Conference!
+- **하야세 유우카**: As you already know, the Budget Review Committee Conference is a periodic gathering where we review the research and development prospects of each club and allocate funds accordingly.
+- **하야세 유우카**: If a club wants better funding, it is up to us to determine if they can earn it, usually by their ability to create useful products.
+- **하야세 유우카**: The last conference was filled with bizarre items that had no practical purpose whatsoever. As was the conference before that...
+- **하야세 유우카**: I... I still believe in the potential of our students, however.
+- **우시오 노아**: We'll begin with...the New Material Development Club's Cushy Cement!
+- **하야세 유우카**: Cushy...?
+- **Material Development Club Member**: Yes! It's a new, innovative approach to cement!
+- **하야세 유우카**: ...What exactly does it mean for cement to be...cushy?
+- **Material Development Club Member**: As you all know, cement is a beloved material in construction due to its malleability while wet and hardness while dry.
+- **Material Development Club Member**: However, cement has one fatal flaw... When it hardens, it becomes way too hard!
+- **Material Development Club Member**: People live in buildings! But according to our research, the average person's body is much weaker than cement, so if someone falls or bumps into cement, they could get injured.
+- **Material Development Club Member**: However, Cushy Cement solves this problem by remaining soft even after it hardens, so not only will you not get hurt, you might even be tempted to lay down on it!
+- **우시오 노아**: A building material that's soft to the touch? Truly revolutionary...
+- **하야세 유우카**: Hmm... This is all very interesting, however...
+- **하야세 유우카**: If it's that soft, how exactly would it not bend under the weight of other construction materials, such as steel or bricks?
+- **Material Development Club Member**: Ah... Well, about that... As they say, the best inventions leave room for improvement...
+- **하야세 유우카**: So, to be clear, you took a building material often used for foundations and other purposes reliant on durability and toughness, and made it soft?
+- **하야세 유우카**: Rejected!
+- **Material Development Club Member**: N-Nooo!
+- **하야세 유우카**: Next!
+- **우시오 노아**: The next item is the Dragon Duster proposed by Murokasa Akane.
+- **하야세 유우카**: Huh? Akane? C&C submitted a research proposal?
+- **하야세 유우카**: *whisper* C&C's budget is already allocated separately based on operational scope... Is that not enough?
+- **무로카사 아카네**: Oh, no, this isn't a C&C proposal, it's from me as an individual.
+- **무로카사 아카네**: I am a dedicated member of C&C...
+- **무로카사 아카네**: But I am also a student of Millennium Science School.
+- **무로카사 아카네**: Contributing to the academy's technological advancement by proposing new ideas is just another service I wish to provide!
+- **우시오 노아**: What an excellent attitude for a Millennium student! We must all pursue innovation and creativity whenever possible.
+- **하야세 유우카**: I have a bad feeling about this...
+- **하야세 유우카**: Let's hear her out. How is this Dragon Duster different from an ordinary duster?
+- **무로카사 아카네**: Dusters are one of my favorite cleaning implements.
+- **무로카사 아카네**: However, I often encounter stains that ordinary dusters simply can't remove.
+- **무로카사 아카네**: There's obviously a limit to how many cleaning tools I can carry at once, and going out of my way to get another one is cumbersome and time-consuming.
+- **무로카사 아카네**: So I came up with the Dragon Duster... A duster equipped with a compressed gas sprayer!
+- **하야세 유우카**: Compressed gas sprayer...?
+- **무로카사 아카네**: Not just any gas. Upon activating this function, the compressed gas will ignite as it's sprayed, completely incinerating the target!
+- **무로카사 아카네**: No stubborn stains or sticky substance can withstand the Dragon Duster's cleansing flames.
+- **우시오 노아**: A tool that spews fire...
+- **하야세 유우카**: Akane, that's a flamethrower.
+- **무로카사 아카네**: Oh... But is it a novel flamethrower?
+- **하야세 유우카**: No. I don't think we need to fund a product that already exists.
+- **하야세 유우카**: Rejected. Next!
+- **우시오 노아**: Next is...
+- **우시오 노아**: Oh my... This is a proposal from Momoi of the Game Development Department, who received a special award for the last Millennium Prize.
+- **사이바 모모이**: Heh heh... Yuuka might be the Cold, Unfeeling Accountant, but she'll be begging to invest once she sees my impeccable proposal.
+- **하야세 유우카**: Rejected.
+- **사이바 모모이**: W-Wait! You didn't even hear it!
+- **하야세 유우카**: I don't need to. The Game Development Department just plays games all day instead of doing any actual club activities.
+- **사이바 모모이**: Th-That's unfair! When we work, we deliver!
+- **사이바 모모이**: Besides, we already came up with a profit model that utilizes advanced technology!
+- **하야세 유우카**: ...A profit model that utilizes advanced technology?
+- **사이바 모모이**: Yes! This proposal is a game design that implements the latest blockchain technology!
+- **사이바 모모이**: When you play games, you often earn in-game currency, right? By using this technology, we can just convert this in-game money to real money!
+- **사이바 모모이**: So, by just sitting down and playing games, you'll make money! Heehee.
+- **하야세 유우카**: It sounds plausible. If you tied it to a cryptocurrency, it would allow players to cash out.
+- **하야세 유우카**: Right, but who would be exchanging cash for this?
+- **사이바 모모이**: ...Exchange? Cash...?
+
+3. **「세미나 스토리 3화」**
+
+- **아케보시 히마리**: ...Everyone fears the future.
+- **아케보시 히마리**: Unlike the inert past, the future is full of indeterminate possibilities.
+- **아케보시 히마리**: But acknowledging that would be admitting ignorance, and ignorance is the root of all fear.
+- **아케보시 히마리**: However, the future is nothing more than the consequences of the present. Change is prefaced by what is in front of us right now.
+- **아케보시 히마리**: We simply lack the tools to understand our own present.
+- **아케보시 히마리**: So I, Himari, the beautiful super genius hacker who observes all data in Kivotos, had an idea.
+- **아케보시 히마리**: What if we gave ourselves those tools? Reality is nothing more than the accumulation of data points. If we could simply process it all effectively enough, could we not finally see the future with our own eyes?
+- **아케보시 히마리**: And from that thought, the Prophecy Protocol was born.
+- **아케보시 히마리**: Every single variable in the world, from the movement of celestial bodies to the genomes of living creatures, will be broken down into the only thing that is truly understandable: data. And from that data, the future will be known.
+- **아케보시 히마리**: If there's anyone who wants to solve the problem that is the future...
+- **아케보시 히마리**: I have included the Prophecy Protocol's design specifications.
+- **하야세 유우카**: So according to the footnotes of this manifesto...
+- **하야세 유우카**: ...This is the design of a device that predicts the future?
+- **우시오 노아**: Seems like it. Predicting the future, huh?
+- **우시오 노아**: I'm surprised that President Himari wrote this. I've never seen anything like it.
+- **우시오 노아**: It doesn't follow Millennium's standard proposal format...and all the random hypotheses make it hard to digest, yet...
+- **우시오 노아**: It's certainly an ambitious design. Paradigm shift doesn't even begin to describe it... If it works, that is.
+- **하야세 유우카**: It won't. It's impossible. I mean, breaking down everything in existence into data and processing all that? Nonsense... Right?
+- **하야세 유우카**: Even if the process were possible, there's no device in the world with the computing power needed for it.
+- **하야세 유우카**: But this wasn't designed by any random person. It was designed by President Himari of Veritas herself...
+- **하야세 유우카**: Perhaps we simply need to expand our definition of possible to match hers...
+- **우시오 노아**: ...But even if we stretch our definition of possible, I'm not sure we can stretch our budget to the same extent.
+- **우시오 노아**: Expensive refractive lenses used for deep space observation, experimental processing cores designed for super computers...
+- **우시오 노아**: This could fund an entire club.
+- **우시오 노아**: I still find it hard to believe it'll actually predict the future, and it wasn't even submitted properly...
+- **우시오 노아**: Into the rejections pile this goes, then.
+- **하야세 유우카**: Wait just a minute!
+- **하야세 유우카**: It'd be a waste to reject a such an advanced proposal without even giving it a shot.
+- **우시오 노아**: But you just said...
+- **우시오 노아**: Millennium doesn't have enough money to fund unproven technologies...
+- **하야세 유우카**: S-Sure, but...
+- **하야세 유우카**: But all progress is a risk! I just want to take calculated ones!
+- **하야세 유우카**: If this Prophecy Protocol works, couldn't it solve the seven problems?
+- **하야세 유우카**: This is President Himari's design. Even if it doesn't work exactly as described, it can't be completely useless...
+- **우시오 노아**: If even you're convinced, then I have no intention on arguing.
+- **우시오 노아**: Then who do I officially list as being funded for the Prophecy Protocol?
+- **우시오 노아**: It can't be Veritas since they're not an official club...
+- **우시오 노아**: And we have orders from President Rio to not support President Himari...
+- **하야세 유우카**: Put it under my name.
+- **우시오 노아**: You?!
+- **우시오 노아**: Are you sure? I heard you say that the funds you invested recently completely flopped and you had to pay out of pocket to cover for that...
+- **하야세 유우카**: It's okay! If the Prophecy Protocol gets completed, I have a feeling I won't have to worry about money ever again...
+- **하야세 유우카**: Stocks... Trends... Time is money in more ways than one!
+- **우시오 노아**: Well... At least you seem committed, Yuuka.
+- **우시오 노아**: As a devoted friend of Yuuka's... I mean, as a dedicated student of Millennium, I won't miss this opportunity.
+- **하야세 유우카**: The structure looks a bit complicated, and we have to create the Prophecy Protocol without outsourcing it to anyone outside of Seminar.
+- **하야세 유우카**: If the assorted oddballs of Millennium hear about something like this... Who knows what would happen?
+- **하야세 유우카**: Here's to a future where we never have to worry about money...
+- **하야세 유우카**: I mean...to a future made perfect by technology!
+- **우시오 노아**: I'm already so excited!
+
+4. **「세미나 스토리 4화」**
+
+- **하야세 유우카**: It's finally complete...
+- **하야세 유우카**: The Prophecy Protocol, based on President Himari's design!
+- **우시오 노아**: It's actually finished!
+- **하야세 유우카**: It took a lot longer than I thought it would to complete it though.
+- **하야세 유우카**: Engineering a device capable of processing our entire lived reality and outputting probable futures based on that data seemed straightforward enough initially...
+- **하야세 유우카**: Well, if not for your help, I don't think we would have finished it, let alone even began the project. Thanks, Noa.
+- **우시오 노아**: My pleasure.
+- **우시오 노아**: It seemed like it would be entertaining...
+- **우시오 노아**: Oh, I mean...
+- **우시오 노아**: As a member of Seminar, it is only natural to participate in advancing Millennium's potential.
+- **하야세 유우카**: Noa... Sometimes, you're a bit too formal.
+- **하야세 유우카**: Anyway, shall we turn it on?
+- **Prophecy Protocol**: Thank you for activating the large-scale environmental variable collection and analysis device, also known as the Prophecy Protocol.
+- **Prophecy Protocol**: The Prophecy Protocol collects, collates, and processes data to produce predictive analysis of reality, also known as the future.
+- **Prophecy Protocol**: Please, take a peek into the future!
+- **하야세 유우카**: It works... President Himari's Prophecy Protocol really works!
+- **하야세 유우카**: It's even inviting us... What should we ask first?
+- **하야세 유우카**: According to what we know of quantum mechanics, observation in and of itself could change the future, so we need to ask wisely.
+- **하야세 유우카**: I already have thirty-four questions in mind, but...
+- **우시오 노아**: Are all of them about your relationship with Sensei?
+- **하야세 유우카**: I-I'm not going to ask anything personal like that!!
+- **하야세 유우카**: Just think of everything we put into this thing... We have to ask something that's important to everyone.
+- **우시오 노아**: ...You didn't deny that you had questions about your relationship with Sensei. Heehee.
+- **하야세 유우카**: Listen here...
+- **하야세 유우카**: Anyway, we still can't use this machine selfishly... So let's ask it something that will make us money.
+- **하야세 유우카**: Hey, how will the price of rare metals change over the next month?
+- **Prophecy Protocol**: Query received.
+- **Prophecy Protocol**: Before analysis can begin, please enter your date of birth.
+- **하야세 유우카**: Huh? Why would a machine that collects all data in existence need me to enter my date of birth?
+- **하야세 유우카**: Well, I guess it's no big deal. March 14th...
+- **Prophecy Protocol**: Calculating the future. Please hold...
+- **Prophecy Protocol**: Calculation complete.
+- **Prophecy Protocol**: Congratulations! You're a Pisces! This month will be very lucky for you!
+- **Prophecy Protocol**: Your ruling planet has good vibes, so everything you do will go as planned, even if you didn't expect it to. You'll receive many rewards. Maybe. Also, yes!
+- **Prophecy Protocol**: This month's lucky rare mineral is durable titanium! Carry it around and something good might happen!
+- **하야세 유우카**: ...What.
+- **우시오 노아**: Oh, dear...
+- **하야세 유우카**: ...Again, what?
+- **하야세 유우카**: Is that really it?!
+- **아케보시 히마리**: Hey... Did you see the book that was here?
+- **카가미 치히로**: You mean that giant astrology book in front of the monitor?
+- **카가미 치히로**: It was sitting there for a whole week. It was nearing the due date, so I returned it to the library. Why?
+- **아케보시 히마리**: ...This is bad.
+- **카가미 치히로**: Oh no. Was the book important?
+- **아케보시 히마리**: Well...
+- **아케보시 히마리**: I put the design for the Prophecy Protocol, my advanced data-processing device, in that book.
+- **아케보시 히마리**: It was just a test design, so it's not a big deal if I lose it. But...
+- **아케보시 히마리**: It's a dangerous invention that lets you see into the future itself! Who knows what would happen if it ended up in the wrong hands...
+- **카가미 치히로**: Prophecy Protocol...
+- **카가미 치히로**: You mean your horoscope generator?
+- **아케보시 히마리**: It's not a horoscope generator! The Prophecy Protocol is world-changing technology that has captured the fundamental nature of the future itself using scientific data!
+- **아케보시 히마리**: Please don't give the product of my genius such a tacky name.
+- **카가미 치히로**: Believing people share the same fate just because they were born when the stars were in certain positions...
+- **카가미 치히로**: That's not very sciencey of you, is it? I mean, the universe doesn't even have fixed locations...
+- **아케보시 히마리**: You shouldn't look down on astrology, Chi.
+- **아케보시 히마리**: Astrology is based on data stretching back to ancient astrologists who observed the twelve zodiac signs and the flow of human life over many generations...
+- **아케보시 히마리**: It may not have a logical explanation behind it, but you can't ignore its prominence in human history!
+- **아케보시 히마리**: ...Besides, my ruling planet, Ophiuchus, told me so!
+- **카가미 치히로**: Um... Himari?
+- **카가미 치히로**: Ophiuchus isn't one of the zodiac signs.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/세미나
+- https://namu.wiki/w/세미나(블루 아카이브)
+- https://namu.wiki/w/Material Development Club Member
+- https://namu.wiki/w/Prophecy Protocol
+- https://namu.wiki/w/무로카사 아카네
+- https://namu.wiki/w/사이바 모모이
+- https://namu.wiki/w/아케보시 히마리
+- https://namu.wiki/w/우시오 노아
+- https://namu.wiki/w/카가미 치히로
+- https://namu.wiki/w/하야세 유우카
+- https://bluearchive.wiki (원문 스토리 스크립트)

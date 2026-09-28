@@ -1,0 +1,223 @@
+# 카스미자와 미유 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카스미자와 미유, 선생(샬레)
+
+1. **「카스미자와 미유 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카스미자와 미유 인연 스토리 2」**
+
+- **Passerby A**: ...Huh? Oh, excuse me.
+- **카스미자와 미유**: I-It's okay, my fault...
+- **Passerby B**: ...Sorry.
+- **Passerby B**: How strange, I didn't even see you there.
+- **카스미자와 미유**: I-It's okay... Just k-keep going...
+- **카스미자와 미유**: Oh... Sensei...
+- **카스미자와 미유**: Y-You came. I've been w-waiting.
+- **카스미자와 미유**: It's okay. It happens at b-busy places.
+- **카스미자와 미유**: It's okay. It happens at b-busy places.
+- **카스미자와 미유**: Since I was born, I've never had a presence...
+- **카스미자와 미유**: So people r-run into me a lot.
+- **카스미자와 미유**: It makes me good at hiding... I got a p-perfect in the SRT sniper t-test....
+- **카스미자와 미유**: But the t-teacher forgot about me...and left. I s-stayed in the training grounds all night.
+- **카스미자와 미유**: I-It got dark and started raining too.
+- **카스미자와 미유**: But no one told me to leave, so...
+- **카스미자와 미유**: I-I'm so insignificant, SRT Academy doesn't even remember me...
+- **카스미자와 미유**: Th-The same thing will happen with everyone. I'll be f-forgotten...like a pebble on the street...
+- **카스미자와 미유**: I'll b-be all alone...
+- **카스미자와 미유**: S-Sensei always finds me...
+- **카스미자와 미유**: S-Sensei always finds me...
+- **카스미자와 미유**: You make th-things better...
+- **카스미자와 미유**: S-Since you're here, m-maybe they'll even see me today.
+- **카스미자와 미유**: Haha...ha... I h-hope you're right...
+- **카스미자와 미유**: L-Let's get some camping supplies?
+- **Clerk**: How can I help you? If you're going to camp alone, I recommend the solo camping supplies over here...
+- **카스미자와 미유**: Th-There are two of us... Sensei and I...
+- **Clerk**: Eek! Have you been there the whole time?
+- **Passerby C**: S-Sorry! I didn't know you were there!
+- **카스미자와 미유**: I-It's okay... I'm n-not very visible...
+- **카스미자와 미유**: ...
+- **카스미자와 미유**: Even the door d-doesn't see m-me.
+- **카스미자와 미유**: Th-This always happens.
+- **카스미자와 미유**: I'm a g-ghost. Unneeded and a-abandoned.
+- **카스미자와 미유**: ...I have zero presence. I'm u-u-useless.
+- **카스미자와 미유**: H-How can it be a good thing?
+- **카스미자와 미유**: It's really only useful on s-sniper missions...
+- **카스미자와 미유**: I don't want that...
+- **카스미자와 미유**: Oh. A cat.
+- **카스미자와 미유**: So cute... It looks soft.
+- **카스미자와 미유**: Really?
+- **카스미자와 미유**: But it looks nice to me.
+- **카스미자와 미유**: Come here, kitty...
+- **카스미자와 미유**: Heehee, you're cute.
+- **카스미자와 미유**: You know... I g-guess, animals aren't ever scared of me...
+- **카스미자와 미유**: You know... I g-guess, animals aren't ever scared of me...
+- **카스미자와 미유**: Is it b-because I have no presence?
+- **카스미자와 미유**: Th-That's not the worst talent.
+- **카스미자와 미유**: I'm happy I get to pet the cat, at least.
+
+3. **「카스미자와 미유 인연 스토리 3」**
+
+- **카스미자와 미유**: Um, S-Sensei...
+- **카스미자와 미유**: Uhhh...
+- **카스미자와 미유**: Ugh...
+- **카스미자와 미유**: I-I've been here...
+- **카스미자와 미유**: I-I've been here...
+- **카스미자와 미유**: Even S-Sensei didn't see me...
+- **카스미자와 미유**: My presence is fading even more...
+- **카스미자와 미유**: Do my friends remember me?
+- **카스미자와 미유**: S-Sometimes we would team up and my friends would forget me... I want to h-hide every time I th-think about them s-saying, "Oh, r-right. Miyu's here."
+- **카스미자와 미유**: I-I might die from loneliness...
+- **카스미자와 미유**: Y-You didn't hear me?
+- **카스미자와 미유**: I'm a pretty quiet walker...
+- **카스미자와 미유**: I-I learned it for missions, but I got really used to it...
+- **카스미자와 미유**: Now I just never make noise...
+- **카스미자와 미유**: I wonder if that's why people don't notice me.
+- **카스미자와 미유**: I d-don't think I can change the way I walk though...
+- **카스미자와 미유**: Wear a bell?
+- **카스미자와 미유**: Th-Then people would hear me walk!
+- **카스미자와 미유**: Oh. I have a bell.
+- **카스미자와 미유**: And?
+- **카스미자와 미유**: It used to be my cat's.
+- **카스미자와 미유**: But it got old, so I gave my cat a new collar.
+- **카스미자와 미유**: If I put a bell on like this, people will f-finally notice me!
+- **카스미자와 미유**: Heehee. I'm e-excited.
+- **카스미자와 미유**: Sensei, let's go test it out!
+- **Passerby A**: What's up with that girl? She's wearing a pet collar.
+- **Passerby B**: Is that the Schale Sensei next to her?
+- **Passerby A**: I've heard rumors that if Sensei calls, you have to run to the Schale office immediately, no exceptions.
+- **Passerby B**: They're doing that to students on duty?
+- **Passerby B**: How terrible... Those poor students.
+- **카스미자와 미유**: S-Sensei! I think they notice me.
+- **카스미자와 미유**: Th-They're...They're staring right at me! They see me!
+- **카스미자와 미유**: The bell's really working.
+- **카스미자와 미유**: T-Take it off?
+- **카스미자와 미유**: But I don't wanna go back to being i-i-ignored.
+- **카스미자와 미유**: Y-You're so mean.
+- **Passerby A**: Did Sensei just say "take it off" to her?
+- **Passerby B**: That dear, little student. She's crying!
+- **Passerby A**: How did such a mean person become a teacher?
+
+4. **「카스미자와 미유 인연 스토리 4」**
+
+- **카스미자와 미유**: S-Sensei. Hi.
+- **카스미자와 미유**: I'm sorry. You came so far.
+- **카스미자와 미유**: Th-Thanks. I hafta do sniper training for the SRT Urban Warfare...
+- **카스미자와 미유**: I was gonna go to downtown Kivotos to ask for training support...
+- **카스미자와 미유**: B-But I was scared to ask a stranger...
+- **카스미자와 미유**: Mhm. So I w-wanna find somewhere else.
+- **카스미자와 미유**: Mhm. So I w-wanna find somewhere else.
+- **카스미자와 미유**: I s-saw this abandoned house on the trail.
+- **카스미자와 미유**: I watched all week. No one's using it.
+- **카스미자와 미유**: S-So, I wanna do my training here.
+- **카스미자와 미유**: I-I can do mostly everything...
+- **카스미자와 미유**: Can you j-just install a paper target on the ridgeline?
+- **카스미자와 미유**: N-Not really.
+- **카스미자와 미유**: Still no...
+- **카스미자와 미유**: I-I'm sorry. Probably, a kilometer?
+- **카스미자와 미유**: I'm still an SRT sniper, you know?
+- **카스미자와 미유**: I have to be able to do this much to keep up.
+- **카스미자와 미유**: Th-Thank you, Sensei.
+- **카스미자와 미유**: *huff* *puff*
+- **카스미자와 미유**: ― Phew... Take a breath...
+- **카스미자와 미유**: ― Focus on the target...
+- **카스미자와 미유**: ― The distance is 1,150 meters...wind is from the northeast, fifteen knots.
+- **카스미자와 미유**: ― If I correct the error caused by temperature and humidity...
+- **카스미자와 미유**: ― U-Um... Sensei.
+- **카스미자와 미유**: ― S-Stop playing around...p-please...
+- **카스미자와 미유**: ―That's..! I can't focus on aiming...
+- **카스미자와 미유**: ― ...Oh.
+- **카스미자와 미유**: ― I-It's not interference?
+- **카스미자와 미유**: ― Y-You're training me for a-actual combat.
+- **카스미자와 미유**: ― I think
+- **카스미자와 미유**: ― w-we did this at SRT...
+- **카스미자와 미유**: ― E-Eeek...?
+- **카스미자와 미유**: ― S-Sensei...! Y-You're
+- **카스미자와 미유**: ― b-b-breathing in m-my ear...!!
+- **카스미자와 미유**: ― (Sensei's breath is...so close...!)
+- **카스미자와 미유**: ― (I-I can't aim...!)
+- **카스미자와 미유**: Wh-When did all these animals get here?!
+- **카스미자와 미유**: Ugh...
+- **카스미자와 미유**: I th-thought animals liking me was supposed to be good...
+- **카스미자와 미유**: But now i-it's interfering with a mission...
+- **카스미자와 미유**: It isn't a talent...
+- **카스미자와 미유**: I really am useless.
+- **카스미자와 미유**: ...Yes.
+- **카스미자와 미유**: I'm counting on you, Sensei!
+
+5. **「카스미자와 미유 인연 스토리 5」**
+
+- **카스미자와 미유**: Umm... Not this rock...
+- **카스미자와 미유**: Not this one either.
+- **카스미자와 미유**: S-S-Sensei?!
+- **카스미자와 미유**: Wh-When did you get here?
+- **카스미자와 미유**: I didn't hear you at all.
+- **카스미자와 미유**: Have you been with me too much? D-Did you lose your presence too?!
+- **카스미자와 미유**: Oh... That's good.
+- **카스미자와 미유**: I was scared you were l-like me now...
+- **카스미자와 미유**: If you became invisible too...
+- **카스미자와 미유**: No one could open the automatic door for me when I go to work...
+- **카스미자와 미유**: Well, um...
+- **카스미자와 미유**: I was picking some p-pebbles.
+- **카스미자와 미유**: Collecting pebbles is my hobby...
+- **카스미자와 미유**: N-Not like that.
+- **카스미자와 미유**: I like things no one would normally care about, I guess...
+- **카스미자와 미유**: L-Like a normal pebble that's been kicked around a lot.
+- **카스미자와 미유**: Pebbles like those...
+- **카스미자와 미유**: I really relate to them.
+- **카스미자와 미유**: So I wanna take care of them.
+- **카스미자와 미유**: R-Really?
+- **카스미자와 미유**: Th-That makes me happy.
+- **카스미자와 미유**: S-Sensei. Do you...wanna join me?
+- **카스미자와 미유**: There's lots of normal pebbles here. I-It's my favorite spot.
+- **카스미자와 미유**: This one...
+- **카스미자와 미유**: Sensei, this is a broken brick piece.
+- **카스미자와 미유**: It has a role already...it's not very normal.
+- **카스미자와 미유**: It's so smooth...
+- **카스미자와 미유**: Even people who don't like rocks would pick it.
+- **카스미자와 미유**: This is granite, a volcanic rock... It's rare...
+- **카스미자와 미유**: Sensei. You only pick not normal ones.
+- **카스미자와 미유**: Pretty and rare stones are easier to see, b-but that's not what we're looking for.
+- **카스미자와 미유**: P-Please take it seriously!
+
+6. **「카스미자와 미유 인연 스토리 6」**
+
+- **카스미자와 미유**: Current time is 0830. Temperature, seven degrees Celsius. Wind speed is 20 knots, from the southwest...
+- **카스미자와 미유**: No sightings of the target, Tango Charlie, yet...
+- **카스미자와 미유**: Oh, S-Sensei.
+- **카스미자와 미유**: Y-You see...
+- **카스미자와 미유**: We received a request from locals to eliminate a crow that's been going through trash cans in the area.
+- **카스미자와 미유**: Y-Yes. They said that a crow in the area has been ripping up trash bags in search of shiny things to steal.
+- **카스미자와 미유**: The problem is, crows are r-really smart. They're hard to get.
+- **카스미자와 미유**: They know to hide from guns and even what times areas are less crowded and safe to pillage.
+- **카스미자와 미유**: S-So, I'm going to hide on this rooftop with this tranquilizer gun all day, and try to catch the crow alive.
+- **카스미자와 미유**: Given all that... Do you really want to wait with me, Sensei?
+- **카스미자와 미유**: Sniper missions tend to be a lot of waiting... We have no idea when the target will appear.
+- **카스미자와 미유**: Well, that's a relief, if you mean it...
+- **카스미자와 미유**: I-In that case, I'll continue my surveillance.
+- **카스미자와 미유**: S-Sensei... Are you cold?
+- **카스미자와 미유**: You've been shivering this entire time.
+- **카스미자와 미유**: I-I've always been more sensitive to high temperatures rather than the cold...
+- **카스미자와 미유**: My ghillie suit is p-pretty thick as well, so that helps too.
+- **카스미자와 미유**: A warm drink...
+- **카스미자와 미유**: W-Wait, Sensei. Just a moment... I have it... Right here! You can have this.
+- **카스미자와 미유**: It's hot cocoa. Please, help yourself.
+- **카스미자와 미유**: We've been up here for a while, but I think the thermos should've kept it warm...
+- **카스미자와 미유**: O-Of course. I'm really happy I could do something for you, Sensei.
+- **카스미자와 미유**: Actually, snipers avoid drinking liquids during missions as much as possible.
+- **카스미자와 미유**: It'd be a problem if we lost the target because we had to go to the bathroom.
+- **카스미자와 미유**: So, we hold off on drinking anything until the end of the operation, no matter how thirsty we are.
+- **카스미자와 미유**: That's... My squad members made this hot cocoa.
+- **카스미자와 미유**: Whenever we have a mission during cold weather, they make me some hot cocoa or tea to help keep me warm.
+- **카스미자와 미유**: So, I use the thermos to warm my hands throughout the mission.
+- **카스미자와 미유**: It's nice, because it's almost as if my squad members are right here with me, even though I'm by myself.
+- **카스미자와 미유**: ...Of course.
+- **카스미자와 미유**: After all, together, we all make up the RABBIT Squad!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카스미자와 미유
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,252 @@
+# 츠카츠키 리오 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 츠카츠키 리오, 선생(샬레)
+
+1. **「츠카츠키 리오 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「츠카츠키 리오 인연 스토리 2」**
+
+- **츠카츠키 리오**: Are you here, Sensei? Have you been waiting long?
+- **츠카츠키 리오**: You just got here? I see. I'd mistakenly assumed you would follow the optional route.
+- **츠카츠키 리오**: Hm? What do I usually eat?
+- **츠카츠키 리오**: Well, of course, discount dinner bento and frozen food. That's a very logical choice.
+- **츠카츠키 리오**: For one thing, that bento can reach up to 50% off, and the taste is acceptable.
+- **츠카츠키 리오**: Especially the katsu bento and kaarage rice bowls. In fact, those are amazing.
+- **츠카츠키 리오**: Unfortunately, the place I usually get it from took the day off.
+- **츠카츠키 리오**: On a normal day, they have people fighting for their food. That's how good it is.
+- **츠카츠키 리오**: With frozen food, it lasts a long time, and you can store it in bulk.
+- **츠카츠키 리오**: Again, a logical choice.
+- **츠카츠키 리오**: I can't order delivery. It's irrational. Delivery orders can be tracked.
+- **츠카츠키 리오**: If a delivery driver happened to remember my face, I'd be in a world of danger.
+- **츠카츠키 리오**: Not only that, but they offer perks for leaving reviews. Discounts and such.
+- **츠카츠키 리오**: It would be irrational of me not to take advantage of that...
+- **츠카츠키 리오**: ...but again, any review could be traced back to me.
+- **츠카츠키 리오**: In the vernacular, it's a dilemma.
+- **츠카츠키 리오**: And I prefer to avoid any such dilemmas whenever possible.
+- **츠카츠키 리오**: As is, again, logical.
+- **츠카츠키 리오**: H-Huh? Well, bento and frozen foods ARE often fried...
+- **츠카츠키 리오**: ...which means they're too high in carbohydrates and fat, and they lack fiber and vitamins...
+- **츠카츠키 리오**: ...That is indeed a factor, yes. But I can always take vitamin supplements.
+- **츠카츠키 리오**: And as for fiber...
+- **츠카츠키 리오**: Well, my body has been fine without fiber so far.
+- **츠카츠키 리오**: How significant could plant fiber possibly be for anyone's body? Plus there are all kinds of supplements...
+- **츠카츠키 리오**: ...besides, I can't cook.
+- **츠카츠키 리오**: Huh? What if I make something like the Avant Guard, but for cooking? As in, with online recipes?
+- **츠카츠키 리오**: Well, I can't say I've ever tried that...
+- **츠카츠키 리오**: ...But I'm scared...
+- **츠카츠키 리오**: No, their prices are too high. It's an irrational choice.
+- **츠카츠키 리오**: A-All right...
+- **츠카츠키 리오**: S-Sensei, what IS that? Some white vegetable in a fractal structure...? The Hausdorff dimension...seems to be about 2.7...
+- **츠카츠키 리오**: It's called "cauliflower"? I-It looks scary to eat... Hmm? It tastes like potato when it's boiled properly...?
+- **츠카츠키 리오**: ...So here we have potatoes, carrots, onions, and...tomatoes. Yes, those I know. On a related note...
+- **츠카츠키 리오**: Are you sure you want to buy that much meat...?
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: I see, it's based on protein and vegetables. With less carbohydrate content than before.
+- **츠카츠키 리오**: So what now, Sensei?
+- **츠카츠키 리오**: H-Huh? You know how to cook?
+- **츠카츠키 리오**: You don't, at all? Then how...? ...Your plan is to follow some recipes off the internet and hope something edible comes out of it?
+- **츠카츠키 리오**: ...Listen, far be it from me to put any stock in premonitions...
+- **츠카츠키 리오**: ...but I do have a bit of a bad feeling about this.
+- **츠카츠키 리오**: A-All right.
+- **츠카츠키 리오**: Is this...?
+- **츠카츠키 리오**: Stew, hmm? So...anyone can cook stew, relatively speaking?
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: Thank you for the food, Sensei.
+- **츠카츠키 리오**: Somehow, it...
+- **츠카츠키 리오**: ...doesn't taste bad.
+- **츠카츠키 리오**: I wouldn't call it GOOD, mind you...
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: But...
+- **츠카츠키 리오**: ...I do find the taste... I believe the word is "heartwarming."
+
+3. **「츠카츠키 리오 인연 스토리 3」**
+
+- **Delivery Man**: ...Oof, there you go. That's everything.
+- **Delivery Man**: Are you setting up a personal workshop or something? Hahaha, never mind, I'm joking.
+- **Delivery Man**: If you could just sign here...
+- **츠카츠키 리오**: Hello, Sensei. I believe I'm right on time.
+- **츠카츠키 리오**: First off, allow me to apologize.
+- **츠카츠키 리오**: Well, I was thinking on my way over here...
+- **츠카츠키 리오**: ...and it just felt like the right thing to do.
+- **츠카츠키 리오**: D-Don't tease me like that...
+- **츠카츠키 리오**: Incidentally, to make sure I wasn't tracked or identified...
+- **츠카츠키 리오**: I jammed all the traffic cameras and CCTVs along the route here.
+- **츠카츠키 리오**: I can safely assure you, no one saw me.
+- **츠카츠키 리오**: ...I'm not sure what you mean.
+- **츠카츠키 리오**: Anyway, thank you for holding these packages, Sensei. I have a few projects going on in the hideout, and I needed extra parts for them.
+- **츠카츠키 리오**: Upgrades for the cooking Avant Guard, computer maintenance, reagent analysis...
+- **츠카츠키 리오**: Most of all, I needed a high-quality vapor chamber and IC suppressor.
+- **츠카츠키 리오**: You see, the more devices you have running, the more important cooling efficiency becomes. Plus there's the ion solution I need for my recent research...
+- **츠카츠키 리오**: ...Anyway, that's why I needed all the parts. And obviously, I couldn't order them myself.
+- **츠카츠키 리오**: Not without giving away the hideout.
+- **츠카츠키 리오**: Exactly, yes. So for that, my apologies.
+- **츠카츠키 리오**: More than one.
+- **츠카츠키 리오**: At the moment, I'm using the one with the most optimal location...
+- **츠카츠키 리오**: ...but I do have several backups if the need arises.
+- **츠카츠키 리오**: One whiff of trouble, and my AMAS will take me straight to the next one.
+- **츠카츠키 리오**: I'd be lying if I said it wasn't...
+- **츠카츠키 리오**: But still, it's rational.
+- **츠카츠키 리오**: ...You think it sounds inefficient?
+- **츠카츠키 리오**: ...Well, maybe.
+- **츠카츠키 리오**: Eimi and I talked it over a while ago.
+- **츠카츠키 리오**: She says I'm the type of person who can give up efficiency for rationality.
+- **츠카츠키 리오**: With her, she told me, it's the other way around.
+- **츠카츠키 리오**: I thought you couldn't have one without the other, honestly. I thought the most efficient option would naturally be the rational one.
+- **츠카츠키 리오**: But...apparently, that's not the case.
+- **츠카츠키 리오**: People can't always be rational, and most of the events in our lives are between people and other people.
+- **츠카츠키 리오**: The way I used to see that, I thought people were unreliable and untrustworthy. That's why I thought everything had to be controlled.
+- **츠카츠키 리오**: ...I don't think that's the case anymore.
+- **츠카츠키 리오**: Because people can't be rolled back.
+- **츠카츠키 리오**: Yes.
+- **츠카츠키 리오**: I've thought a lot about that lately.
+- **츠카츠키 리오**: People aren't like machines.
+- **츠카츠키 리오**: If a machine gets a broken part, you can just replace it. If an AI's decision-making algorithm goes wrong, you can just rewrite it.
+- **츠카츠키 리오**: You can make them good as new. Just like they were before. Every part of them is replaceable.
+- **츠카츠키 리오**: But...people aren't. Things that go wrong for them can't be fixed that way.
+- **츠카츠키 리오**: Some parts of a person can heal on their own, but there are limits to that.
+- **츠카츠키 리오**: About 330 billion cells are born and die in every human body. The cellular turnover rate is anywhere from a month to a year...
+- **츠카츠키 리오**: But a brain's nerve cells, for example, don't get replaced at any point in your lifespan.
+- **츠카츠키 리오**: Do you know the story of the Ship of Theseus?
+- **츠카츠키 리오**: It's a story that illustrates what it means, or doesn't mean, to replace things piece by piece.
+- **츠카츠키 리오**: And whether it's the same thing after it's all been replaced.
+- **츠카츠키 리오**: Let's say you have a ship. As time goes on, parts of the ship need replacing.
+- **츠카츠키 리오**: And so you keep replacing parts, until one day, every single part's been replaced at one time or another. Is it still the same ship, or is it not?
+- **츠카츠키 리오**: I think...you can apply that concept to machines.
+- **츠카츠키 리오**: Even if you replace every part, then as long as it keeps functioning, it's the same machine as it ever was.
+- **츠카츠키 리오**: ...But I don't think humans work the same way.
+- **츠카츠키 리오**: Maybe someday in the far future, they'll have ways of analyzing every neuron in your brain, and creating an exact carbon and protein-based copy of anything you need replaced...
+- **츠카츠키 리오**: But I don't want to do that thought experiment right now. It requires a lot of assumptions, and doesn't have much bearing on reality.
+- **츠카츠키 리오**: You know what I mean by "thought experiment," right? When you sort of simplify a scenario, and then make predictions based off of that?
+- **츠카츠키 리오**: There are really two types of thought experiments.
+- **츠카츠키 리오**: One is where you can predict near-accurate results based on precise simulations.
+- **츠카츠키 리오**: And the other is built off of imagination and presumptions.
+- **츠카츠키 리오**: The question of the human "ship of Theseus" is definitely one of the latter.
+
+4. **「츠카츠키 리오 인연 스토리 4」**
+
+- **Delivery Man**: Got an order here for a 3D printer and...powder based materials, right?
+- **Delivery Man**: If you could just sign here...
+- **츠카츠키 리오**: Hello, Sensei.
+- **츠카츠키 리오**: Feels like...I've gotten somewhat used to this. It feels fresh.
+- **츠카츠키 리오**: That's right. I'd also like a spacious place with good ventilation.
+- **츠카츠키 리오**: Since 3D printers tend to generate lots of waste products during the process.
+- **츠카츠키 리오**: ...Which is why I couldn't do the work from my hideout.
+- **츠카츠키 리오**: Here looks good. There's a nice big window right there...
+- **츠카츠키 리오**: I'll be borrowing this space, then.
+- **츠카츠키 리오**: All right. If I start this now, then...
+- **츠카츠키 리오**: Well, let's step outside. You're going to need some fresh air.
+- **츠카츠키 리오**: Not as such. I just happen to experiment with new industrial designs sometimes.
+- **츠카츠키 리오**: It helps get the kinks out early, and it plays a part in aesthetics too.
+- **츠카츠키 리오**: It's work, but it's...not unenjoyable work.
+- **츠카츠키 리오**: Hm? A hobby?
+- **츠카츠키 리오**: I-Is it?
+- **츠카츠키 리오**: I never thought of it that way.
+- **츠카츠키 리오**: But...hobbies are inherently irrational.
+- **츠카츠키 리오**: They're purely for recreation. There's no study, or work, or training involved, no profit or utility in them...
+- **츠카츠키 리오**: Meaning the input-to-output ratio invariably converges at zero.
+- **츠카츠키 리오**: Could I even consider spending my time that way?
+- **츠카츠키 리오**: So...getting a hobby isn't necessarily a bad thing? You'd actually recommend it?
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: Well, there is one other problem with that.
+- **츠카츠키 리오**: The designs I've done... You might already know this...
+- **츠카츠키 리오**: Other people...don't tend to appreciate them.
+- **츠카츠키 리오**: I strive for rationality and functional beauty, and most people don't seem to understand that.
+- **츠카츠키 리오**: ...Maybe I'm just doing it wrong.
+- **츠카츠키 리오**: No, no "maybe" about it. I must be doing it wrong.
+- **츠카츠키 리오**: Statistically, the probability of EVERYONE else being wrong about my work is infinitesimal. The fault is definitely mine.
+- **츠카츠키 리오**: ...Hm?
+- **츠카츠키 리오**: Art...?
+- **츠카츠키 리오**: I'm...an artist?!
+- **츠카츠키 리오**: I-I never thought of it that way.
+- **츠카츠키 리오**: Art is entirely subjective, of course. There's no room for objectivity there...
+- **츠카츠키 리오**: There are no specific parameters that define art's quality...and in that sense, no one can truly say it's wrong!
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: I see...
+- **츠카츠키 리오**: It is art.
+- **츠카츠키 리오**: I've been doing art. ...Which means I CAN do art.
+- **츠카츠키 리오**: I...wasn't wrong at all!
+- **츠카츠키 리오**: Thank you, Sensei!
+- **츠카츠키 리오**: You always see what I've been missing.
+- **츠카츠키 리오**: I suppose that's why you're "Sensei."
+- **츠카츠키 리오**: Sensei MEANS "one who's lived ahead," after all. One who can lead others, who can explain what others don't understand yet. Of course. That's why...!
+- **츠카츠키 리오**: I don't know. I...feel like it's my first time being this happy.
+- **츠카츠키 리오**: I've always felt like I'm in some constant struggle just to keep pushing forward.
+- **츠카츠키 리오**: But...
+- **츠카츠키 리오**: ...if I'm by your side, I could just stay like this...!
+- **츠카츠키 리오**: And...!
+- **츠카츠키 리오**: ...Um, Sensei?
+- **츠카츠키 리오**: Sorry. Don't turn around, please just stay there and listen.
+- **츠카츠키 리오**: ...Thank you for what you said.
+- **츠카츠키 리오**: It really made me happy...hearing that.
+
+5. **「츠카츠키 리오 인연 스토리 5」**
+
+- **츠카츠키 리오**: As I mentioned before, I have multiple hideouts.
+- **츠카츠키 리오**: Consider yourself invited to one of them.
+- **츠카츠키 리오**: It can be our shared secret place, in a sense.
+- **츠카츠키 리오**: There are no security concerns. I can guarantee that.
+- **츠카츠키 리오**: However, if someone does find the place...
+- **츠카츠키 리오**: ...then I'll know, no one else but you could have told anyone.
+- **츠카츠키 리오**: Fufu. If that happens, I'll need proper compensation.
+- **츠카츠키 리오**: Not that I'm expecting it to happen, of course. I trust you.
+- **츠카츠키 리오**: Duly noted.
+- **츠카츠키 리오**: I'll look forward to seeing you.
+- **츠카츠키 리오**: S-Sensei?! Why are you calling me now...?
+- **츠카츠키 리오**: Huh? It's WHAT time?! I've had the curtains closed all day. I must have lost track...!
+- **츠카츠키 리오**: O-Oh my. What should I do...?
+- **츠카츠키 리오**: N-Nothing! Nothing's happening! But...!
+- **츠카츠키 리오**: S-Sensei?! Why are you so early...?
+- **츠카츠키 리오**: N-No, you're on time, actually, but...
+- **츠카츠키 리오**: U-Ugh...
+- **츠카츠키 리오**: T-True, yes...
+- **츠카츠키 리오**: Mm-hmm. There's a juice bottle, an empty water bottle...
+- **츠카츠키 리오**: ...and no, it's not trash! It's equipment and reagents for an experiment! And those over there are tools!
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: Sorry, Sensei... I'm really sorry...
+- **츠카츠키 리오**: I thought I could...clean it all up on my own...
+- **츠카츠키 리오**: T-Toki did, back then.
+- **츠카츠키 리오**: Th-There's a lot to learn about living on your own! Am I supposed to learn it all at once?!
+- **츠카츠키 리오**: And Sensei, you're not always great at cleaning either, you know!
+- **츠카츠키 리오**: But...
+- **츠카츠키 리오**: W-Wait, where are you going all of a sudden?!
+- **츠카츠키 리오**: A-All right...
+- **츠카츠키 리오**: The place...actually does look a whole lot cleaner now.
+- **츠카츠키 리오**: What? We're not even halfway done? Do I have the wrong definition of "clean"?
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: Is there anything I can help with?
+- **츠카츠키 리오**: You're telling me it's fine, so I should go rest for a bit? But...
+- **츠카츠키 리오**: F-Fine. If you insist...
+- **츠카츠키 리오**: ― This wasn't the reason
+- **츠카츠키 리오**: ― I called you...
+- **츠카츠키 리오**: ― I'll do it myself. You should sit down.
+- **츠카츠키 리오**: ― S-Sensei, you really ought to be more aware of your position.
+- **츠카츠키 리오**: ― It's irrational to waste time on this.
+- **츠카츠키 리오**: ― Aren't there many more important things for you to do?
+- **츠카츠키 리오**: ― Wh-What are you...saying...?
+- **츠카츠키 리오**: ― Taking care of me...?!
+- **츠카츠키 리오**: ― I... I don't understand. That's...
+- **츠카츠키 리오**: ― Well...you've always been that kind of person.
+- **츠카츠키 리오**: ― ...Okay.
+- **츠카츠키 리오**: ― I'll accept it all, then.
+- **츠카츠키 리오**: ― Your..."taking care," I mean.
+- **츠카츠키 리오**: I get it now. So this is...what "cleaning" really means.
+- **츠카츠키 리오**: What? It's still not "really clean"? Is that so...?
+- **츠카츠키 리오**: Because there's a pile of trash bags over there? We can just pick a spot and dump those, right?
+- **츠카츠키 리오**: ...No. Now that I think about it, Toki always threw them out properly.
+- **츠카츠키 리오**: And you've done this much already...
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: ...which means anyone can do it if they put their mind to it.
+- **츠카츠키 리오**: D-Did I say something wrong again...?!
+- **츠카츠키 리오**: No, I didn't? But... Huh? It's fine? What's even happening anymore...?
+- **츠카츠키 리오**: Wh-Why are you suddenly patting my head?!
+- **츠카츠키 리오**: ...
+- **츠카츠키 리오**: Well, it doesn't feel bad...so we can keep doing it...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/츠카츠키 리오
+- https://bluearchive.wiki (원문 스토리 스크립트)

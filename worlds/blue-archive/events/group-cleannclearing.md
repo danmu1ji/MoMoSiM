@@ -1,0 +1,212 @@
+# CleanNClearing 그룹 스토리
+
+원문(bluearchive.wiki) 그룹 스토리 스크립트 4화를 한국어 정본 이름으로 옮긴 기록이다.
+
+- 등장: ???, Millennium Student A, Millennium Student B, 무로카사 아카네, 미카모 네루, 이치노세 아스나, 카쿠다테 카린, 하야세 유우카
+
+1. **「CleanNClearing 스토리 1화」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「CleanNClearing 스토리 2화」**
+
+- **무로카사 아카네**: Hmm, hmm, hmm. ♪ ♬
+- **카쿠다테 카린**: ...
+- **미카모 네루**: ...
+- **무로카사 아카네**: Hmm, hmm, hmm. ♪ Hmm, hmm. ♬
+- **카쿠다테 카린**: ...
+- **미카모 네루**: *sigh* Unbelievable.
+- **카쿠다테 카린**: Don't just stand there watching. Help me sweep.
+- **미카모 네루**: Nah, you got it. It looks like you're having lots of fun.
+- **미카모 네루**: Is that fun? You haven't said a word this whole time.
+- **무로카사 아카네**: What? Are you talking about...cleaning?
+- **카쿠다테 카린**: Of course. It looks nice when it's clean. I have no idea what your problem is.
+- **미카모 네루**: Forget it.
+- **미카모 네루**: *sigh* I don't know how I got stuck sitting here doing stuff like this, really...
+- **Millennium Student A**: Hey, look over there. It's the C&C. They're cleaning.
+- **미카모 네루**: ...?
+- **Millennium Student B**: C&C? Oh, you're right. So what? It makes sense the cleaning club is, you know, cleaning.
+- **Millennium Student A**: Wait, do you really not know? They say it's all a disguise.
+- **미카모 네루**: ...
+- **Millennium Student B**: Disguise? What kind of disguise?
+- **Millennium Student A**: Well... How should I put it? They're actually special agents who receive commissions from high-ranking people.
+- **미카모 네루**: Ah, for crying out loud! What's with that chattering over there? Whatcha looking at, huh?!
+- **Millennium Student A**: Ahhhhhh!
+- **무로카사 아카네**: Oh, my...
+- **카쿠다테 카린**: They ran away. You scared them.
+- **무로카사 아카네**: It looks like our image as the Environmental Beautification Club has sailed away again.
+- **미카모 네루**: Shut up.
+- **이치노세 아스나**: Yoohoo! Look here. There's lots of dust here too! And look here!
+- **미카모 네루**: What are you doing over there?! There's no need to climb the railing, is there?!
+- **미카모 네루**: Come down right now! If that person comes back and says more useless things...
+- **???**: C&C, you all working hard?
+- **카쿠다테 카린**: ...!
+- **무로카사 아카네**: ...!
+- **미카모 네루**: ...It's like being followed by a ghost...
+- **하야세 유우카**: I-Is everything okay? Everyone seems so tense all of a sudden.
+- **무로카사 아카네**: That can't be, I'm sure everyone meant to welcome you. Even the president.
+- **미카모 네루**: Not a chance.
+- **하야세 유우카**: It doesn't look that way at all.
+- **무로카사 아카네**: Ahaha...
+- **하야세 유우카**: And here I thought this was the Environmental Beautification Club, but even the president is lazy...
+- **미카모 네루**: What, are you here to supervise our cleaning quality? Or did you come to pick a fight?
+- **하야세 유우카**: No, I'm not here to pick a fight. I'm just worried is all. Why twist my words?
+- **하야세 유우카**: Well, based on the students that just passed by, this disguise doesn't seem to be working.
+- **미카모 네루**: If you're here to pick a fight, how about you just leave us alone instead?
+- **하야세 유우카**: Sorry, but I can't do that. And I already told you, I'm not here to pick a fight.
+- **하야세 유우카**: ...Now have a look at this. What do you think this is?
+- **무로카사 아카네**: ...Hm? What's that? A receipt...?
+- **하야세 유우카**: Yes, it's a receipt. It's the repair cost for the school materials you destroyed in your last operation.
+- **카쿠다테 카린**: Oh, dear...
+- **하야세 유우카**: Now, look! Look at this! What do you think about that number?
+- **무로카사 아카네**: Oh my... The fee is incredible. It looks like we got a bit carried away before.
+- **무로카사 아카네**: Hm. Not to get ahead of myself, Yuuka, but Seminar is supposed to pay for our mission activities...
+- **하야세 유우카**: Yeah, I know. Of course I know that.
+- **하야세 유우카**: ...That's what I've come to nag you about.
+- **카쿠다테 카린**: ...!
+- **무로카사 아카네**: ...!
+- **미카모 네루**: ...
+- **하야세 유우카**: How many... How many times have I begged you like this?!
+- **하야세 유우카**: I emphasized several times that this operation was in an area with many expensive devices. I pleaded with you to be careful!
+- **하야세 유우카**: But you blew the whole place up with a bomb! A bomb!
+- **무로카사 아카네**: Umm... I understand it was a bit loud. But I did it with the intention of cleaning up!
+
+3. **「CleanNClearing 스토리 3화」**
+
+- **???**: ...Hello? Anyone here?
+- **???**: Can I come in?
+- **???**: Please do. The door is open.
+- **???**: Hello! Thanks for having me.
+- **하야세 유우카**: Oh, you're actually here. Thank goodness!
+- **카쿠다테 카린**: *gasp*
+- **하야세 유우카**: Hey! Why does everyone react like that? A little welcome wouldn't hurt.
+- **카쿠다테 카린**: My apologies. That wasn't my intention.
+- **무로카사 아카네**: Oh my, is that Yuuka?
+- **무로카사 아카네**: What brings you here today?
+- **무로카사 아카네**: Do you have a commission for us?
+- **무로카사 아카네**: I'm afraid I can't accept, since the president is out... If you'd like, I can take down a memo?
+- **하야세 유우카**: No, it's okay. It's not exactly a commission.
+- **하야세 유우카**: Or... maybe it is?
+- **하야세 유우카**: I have something a little different to ask.
+- **카쿠다테 카린**: Something... different? What do you mean?
+- **하야세 유우카**: Well, I mean, it's... actually completely different.
+- **하야세 유우카**: It's a commission of a sort, but not exactly a mission.
+- **카쿠다테 카린**: That...did not clarify anything.
+- **무로카사 아카네**: Oh! Was that a joke? A commission, but not a mission...
+- **무로카사 아카네**: Heehee. Clever!
+- **하야세 유우카**: A-hem. Anyway, it's not a big deal, but...
+- **하야세 유우카**: I'm sure you've seen the preparations for the festival happening in the shopping district.
+- **카쿠다테 카린**: Yes, of course. In the electronics market.
+- **카쿠다테 카린**: I've already seen signs up for themed student cafes.
+- **하야세 유우카**: Everyone's come up with all sorts of themes to raise money for the festival.
+- **하야세 유우카**: But, well... There's a problem.
+- **카쿠다테 카린**: A problem?
+- **하야세 유우카**: Yes... *sigh*
+- **하야세 유우카**: The problem is, the students are all from Millennium, so...
+- **하야세 유우카**: All of the themes are a bit...
+- **무로카사 아카네**: Hahaha! I think I know what you're getting at.
+- **하야세 유우카**: It's all things like "Bytes and Bites" or "Chemistry Lab Cafe"... All the customers will be scared away.
+- **하야세 유우카**: *sigh* What's wrong with us? Hyakkiyako and Trinity always say their festivals raise tons of money.
+- **하야세 유우카**: But, anyway, the shopping district asked the Seminar to do something about it.
+- **하야세 유우카**: I don't know why it's the Seminar's problem, but... The electronics market is a part of Millennium's district, I guess.
+- **무로카사 아카네**: Hahaha... I see the problem...
+- **무로카사 아카네**: But, I'm afraid I don't see what it has to do with us.
+- **하야세 유우카**: ...Yes. That.
+- **하야세 유우카**: Oh, by the way, have I mentioned lately...
+- **하야세 유우카**: ...how wonderful the maids of C&C are?
+- **카쿠다테 카린**: Where in the world did that come from?
+- **무로카사 아카네**: A compliment from you is...a bit scary.
+- **하야세 유우카**: I know it's a disguise, but you are still maids, right?
+- **하야세 유우카**: I mean, you've got the outfits and everything.
+- **하야세 유우카**: And I've heard you all have lots of experience infiltrating maid cafes.
+- **무로카사 아카네**: Yes... I suppose you're right...
+- **카쿠다테 카린**: We have done that a few times...
+- **하야세 유우카**: It would be just this once... And, by the way, if you agree, we'll be totally even for everything. You won't owe me anything.
+- **하야세 유우카**: So... Maybe you can work at a maid cafe...? Just for a week?
+- **미카모 네루**: What. The. Heck?! What are you talking about?
+- **미카모 네루**: A maid cafe? Have you lost your mind? No, no, no! I can't believe you'd ask me that!
+- **미카모 네루**: Why does everyone think that just because we're wearing maid uniforms, it magically makes us real maids?
+- **무로카사 아카네**: Well... Usually people wearing maid uniforms ARE maids.
+- **카쿠다테 카린**: This is perfect, actually.
+- **카쿠다테 카린**: With this, our cover will be airtight. Everyone will know us as maids.
+- **미카모 네루**: Stop it. No. Absolutely not!
+- **미카모 네루**: Over my dead body. You hear me? Never!
+- **무로카사 아카네**: Um... But... The thing is... We already...
+- **미카모 네루**: ...?!
+
+4. **「CleanNClearing 스토리 4화」**
+
+- **무로카사 아카네**: Please stay still. Your hair is getting mussed.
+- **미카모 네루**: Is this...really happening...? Someone, please...wake me up...
+- **미카모 네루**: The costumes were a cover...just a cover...
+- **카쿠다테 카린**: Just think of it as any other job. We received a commission. We signed a contract. Now, we just need to do what we were hired for.
+- **미카모 네루**: Huh, are you...happy? Are you excited about this?
+- **카쿠다테 카린**: Well... Um...
+- **카쿠다테 카린**: Anyway, it was not very responsible of you to show up looking so disheveled.
+- **미카모 네루**: That wasn't my fault! I ran into a bunch of delinquents on the way!
+- **무로카사 아카네**: Now, now. Please stay still, both of you. Especially you, Neru. Your braids are getting tangled.
+- **미카모 네루**: Hmph. I look fine.
+- **무로카사 아카네**: Well, normally I'd agree, but this is no ordinary mission. We have customers to serve!
+- **무로카사 아카네**: I'm almost done, anyway. Just stay still a little while longer so my hard work isn't ruined, okay?
+- **무로카사 아카네**: And...one more thing... Why don't you take off your jacket today?
+- **미카모 네루**: You! Are you trying to make me angry? Leave my jacket out of it.
+- **미카모 네루**: I could leave, you know. Me and my jacket can always go home.
+- **무로카사 아카네**: Haha! Okay, okay. You can wear the jacket. We'll just clean up your hair a little.
+- **미카모 네루**: *sigh*
+- **미카모 네루**: Whatever. Do whatever you want.
+- **무로카사 아카네**: Heehee...
+- **무로카사 아카네**: All done! It looks lovely.
+- **미카모 네루**: Great. It looks...exactly the same.
+- **카쿠다테 카린**: Hm, I think you look much more put-together.
+- **무로카사 아카네**: You can't...tell the difference?
+- **무로카사 아카네**: Well, maybe you're right.
+- **무로카사 아카네**: Perhaps I lack the skills to bring you to your full potential...
+- **미카모 네루**: Argh! No! It's fine! Just stop!
+- **미카모 네루**: Anyway, where's call sign Zero-One?
+- **미카모 네루**: Asuna got us into this mess, and then she just vanished?
+- **이치노세 아스나**: Nope, I'm here! Are you already done getting ready? Wow!
+- **미카모 네루**: Where the heck have you been?
+- **이치노세 아스나**: Oh, me?
+- **이치노세 아스나**: I was outside finding customers! You wanted me to bring people in, remember?
+- **미카모 네루**: Wh-What? Customers?
+- **카쿠다테 카린**: Generally, one invites customers to come in AFTER the store opens.
+- **카쿠다테 카린**: That is...an impressive crowd, though.
+- **무로카사 아카네**: So many people! It's unbelievable. What did you do, Asuna?
+- **이치노세 아스나**: ...? Huh? I didn't really do anything.
+- **이치노세 아스나**: I just told them we were running a maid cafe. They all followed me here!
+- **카쿠다테 카린**: I see. This must be the situation Yuuka was referring to.
+- **무로카사 아카네**: Since most of our cafes are a bit unusual, of course people would flock to an ordinary maid cafe.
+- **무로카사 아카네**: I expected this to an extent, but...
+- **무로카사 아카네**: Well, I hope we're all ready for a very busy day!
+- **카쿠다테 카린**: There's no time. We need to focus...
+- **카쿠다테 카린**: Let's handle... I mean, serve the masters.
+- **무로카사 아카네**: Karin... I know you're excited, but please do be sure to use the proper terminology in front of the guests.
+- **미카모 네루**: You're really not even trying to hide your excitement anymore!
+- **이치노세 아스나**: Is everyone ready? Can I open the door?
+- **미카모 네루**: W-Wait! Hang on. Are we really calling them masters? I'm not ready at all!
+- **이치노세 아스나**: Okay! We're officially open, everyone!
+- **이치노세 아스나**: Welcome, Masters!
+- **하야세 유우카**: No way...
+- **하야세 유우카**: Is this number right? This revenue... We made this much in one week?!
+- **하야세 유우카**: If our school festivals were like this from the start, then—
+- **하야세 유우카**: No, I'm sorry. Now's not the time. I came here to say thank you.
+- **하야세 유우카**: I know it was a commission, but, on behalf of the shopping district and Seminar, thank you. You've done incredible work.
+- **하야세 유우카**: I can't believe we're not in the red anymore... This is enough to pay for all the repairs to things you've blown up!
+- **무로카사 아카네**: That's wonderful to hear. It's nice to see a smile on your face for once!
+- **하야세 유우카**: Geez, I'm not always in a bad mood, you know. I know how to appreciate the occasional good news!
+- **하야세 유우카**: Although...
+- **무로카사 아카네**: ...Although?
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/CleanNClearing
+- https://namu.wiki/w/CleanNClearing(블루 아카이브)
+- https://namu.wiki/w/???
+- https://namu.wiki/w/Millennium Student A
+- https://namu.wiki/w/Millennium Student B
+- https://namu.wiki/w/무로카사 아카네
+- https://namu.wiki/w/미카모 네루
+- https://namu.wiki/w/이치노세 아스나
+- https://namu.wiki/w/카쿠다테 카린
+- https://namu.wiki/w/하야세 유우카
+- https://bluearchive.wiki (원문 스토리 스크립트)

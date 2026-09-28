@@ -1,0 +1,6 @@
+# Chise — official English introduction
+
+Chise is a naturally-airheaded girl belonging to the Yin-Yang club of Hyakkiyako. She joined the Yin-Yang club due to her interest in traditional cultural elements such as haiku. Exuding a mysterious atmosphere from her appearance and gestures, she is the envy of other Hyakkiyako students. However, she is not aware of this fact herself.
+
+Source: https://bluearchive.wiki/wiki/Chise
+Status: source-extracted-unreviewed

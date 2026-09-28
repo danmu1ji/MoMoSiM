@@ -1,0 +1,316 @@
+# 이사미 카에데 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 이사미 카에데, 선생(샬레)
+
+1. **「이사미 카에데 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「이사미 카에데 인연 스토리 2」**
+
+- **이사미 카에데**: Everywhere I go, all I hear is how people think our club is full of weirdos.
+- **이사미 카에데**: It's gotta be a big misunderstanding! We're not weird at all. What do you think, Sensei?
+- **이사미 카에데**: See? I'm so happy that you agree!
+- **이사미 카에데**: But here's the thing...
+- **이사미 카에데**: Come on, Sensei. What kind of response is that...?
+- **이사미 카에데**: That's more like it!
+- **이사미 카에데**: But here's the thing...
+- **이사미 카에데**: Even if the Inner Discipline Club denies being a bunch of weirdos and says it's all a big misunderstanding, that doesn't mean we'll change people's minds. You know?
+- **이사미 카에데**: People only believe what they want to believe.
+- **이사미 카에데**: To convince them otherwise...there'd have to be a heated battle that scorches them at the core of their souls!
+- **이사미 카에데**: At least, that's what Mushiqueen said last week.
+- **이사미 카에데**: What's wrong with learning from Mushiqueen? I don't see the problem!
+- **이사미 카에데**: What's wrong with learning from Mushiqueen? I don't see the problem!
+- **이사미 카에데**: Anyway, I've been thinking about a way to resolve this misunderstanding.
+- **이사미 카에데**: Then, when I was having dinner with Tsubaki and Mimori, a great idea suddenly popped in my head!
+- **이사미 카에데**: Can you guess what it was, Sensei? Hmm? Take a guess!
+- **이사미 카에데**: Are you now? Well, listen up!
+- **이사미 카에데**: As you know, I'm cute, smart, adorable...and practically the mascot of the Inner Discipline Club.
+- **이사미 카에데**: Therefore, it's up to me to do all the PR for our club and show the world just how normal we are!
+- **이사미 카에데**: I'm calling it...Mascot Kaede's PR Blitz! I'll be going all out for this.
+- **이사미 카에데**: What do you think, Sensei? This plan is foolproof!
+- **이사미 카에데**: Good, so you're on board. That makes us partners in crime!
+- **이사미 카에데**: Good, so you're on board. That makes us partners in crime!
+- **이사미 카에데**: You wouldn't turn me down, would you?
+- **이사미 카에데**: Then let's go!
+- **이사미 카에데**: First, we should show them what kind of work the Inner Discipline Club does and how helpful we are. They need to see what we're capable of!
+- **이사미 카에데**: How about...we start off by picking up some trash?
+- **이사미 카에데**: Yeah! We go around with a trash picker like this...
+- **이사미 카에데**: Oh! There's some trash!
+- **이사미 카에데**: We pick it up like this. Simple, right?
+- **이사미 카에데**: But don't let your guard down, Sensei. We don't know what kind of trash we'll encounter in Kivotos. For example, in the corner of that alley...
+- **이사미 카에데**: Oh?!
+- **이사미 카에데**: Look, Sensei! Someone threw these out!
+- **이사미 카에데**: Yeah! They're old school Mushiqueen cards! Looking at them closely...I think they're banned from use in the trading card game these days.
+- **이사미 카에데**: But just throwing them away like they're worthless seems too cruel!
+- **이사미 카에데**: Haven't they ever heard of the heart of the cards?! The spirits within won't take kindly to this!
+- **이사미 카에데**: Oh! There's more garbage over there!
+- **이사미 카에데**: Phew. We collected a lot of trash!
+- **이사미 카에데**: What do you think, Sensei? Will people have a better image of the Inner Discipline Club now?!
+- **이사미 카에데**: Oh, so that's how it works?
+- **이사미 카에데**: Oh, so that's how it works?
+- **이사미 카에데**: Hmm... PR is a lot harder than I thought.
+- **이사미 카에데**: I'm not giving up just yet, though. Let the operation continue!
+- **이사미 카에데**: What should we do next?
+- **Child A**: I wanna get on the swing now!
+- **Child B**: What?! You didn't push me long enough! I pushed you so much longer than that!
+- **Child A**: But it's my turn now!
+- **이사미 카에데**: Hey! Why are you two fighting?
+- **Child B**: Huh? Aren't you from the Inner Discipline Club?
+- **Child A**: Listen! We were gonna take turns on the swing, but then my little sister—
+- **Child B**: But it's my turn now!
+- **이사미 카에데**: Both of you stop it! Siblings shouldn't be fighting over a swing like this!
+- **이사미 카에데**: Now apologize to each other!
+- **Child A**: O-Okay.
+- **Child B**: S-Sorry...
+- **이사미 카에데**: That was nothing! I play with them all the time.
+- **이사미 카에데**: Hmm. But how can we help them get along again after a fight?
+- **이사미 카에데**: Oh! I have an idea!
+- **이사미 카에데**: Hey, you two! I have something for you!
+- **Child A**: What are these?
+
+3. **「이사미 카에데 인연 스토리 3」**
+
+- **이사미 카에데**: Oh, Sensei! Welcome!
+- **이사미 카에데**: Sensei! You know how hard I'm training to become a proper lady, right?
+- **이사미 카에데**: The other day, I successfully ate all the green peppers in my curry!
+- **이사미 카에데**: I've been thinking about what else I can do to accomplish my goal.
+- **이사미 카에데**: So I searched the internet.
+- **이사미 카에데**: I know, right? Aren't I smart...? Anyway, I found some good stuff.
+- **이사미 카에데**: I know, right? Aren't I smart...? Anyway, I found some good stuff.
+- **이사미 카에데**: Including an article that said a proper lady always keeps her cool in ALL situations.
+- **이사미 카에데**: And you know what? I'm already really good at that!
+- **이사미 카에데**: I'm the mascot of the Inner Discipline Club who never gets flustered in any situation. That's me, Sensei!
+- **이사미 카에데**: Whoa?! Does this mean that...? Have I already...?
+- **이사미 카에데**: Right, Sensei! Maybe I've already become a proper lady!
+- **이사미 카에데**: But I can't prove it alone, you know?
+- **이사미 카에데**: I asked you to come today so I could show you I've become a proper lady!
+- **이사미 카에데**: Go ahead, Sensei. Try to fluster me! I'll show you how a proper lady handles the situation!
+- **이사미 카에데**: This is a one-on-one duel between you and me!
+- **이사미 카에데**: Come on—let's go!
+- **이사미 카에데**: Come on—let's go!
+- **이사미 카에데**: Come at me with everything you've got, Sensei! I'm unflappable!
+- **이사미 카에데**: You brought cake?! Why didn't you say so?!
+- **이사미 카에데**: B-But everyone knows that the strawberries are the centerpiece...of the shortcake...
+- **이사미 카에데**: N-No, wait! I was just thinking that...if you ate all the strawberries, then...!
+- **이사미 카에데**: N-No, wait! I was just thinking that...if you ate all the strawberries, then...!
+- **이사미 카에데**: Y-Yeah! I was just worried you'd get a stomachache, that's all.
+- **이사미 카에데**: I wasn't flustered one bit!
+- **이사미 카에데**: Okay, let's move on to the next one!
+- **이사미 카에데**: Huh? You mean the sweet caramel pudding on the top shelf?
+- **이사미 카에데**: I was saving that! U-Ugh... W-Well!
+- **이사미 카에데**: I-If you really want to eat it, then... Ugh...
+- **이사미 카에데**: Oh! Sensei! You have to handle that with care! It contains a lot of precious things!
+- **이사미 카에데**: There's a super smooth pebble that I found in the Red Panda River the other day!
+- **이사미 카에데**: Oh, do you wanna take a look? I've never seen anything so smooth...
+- **이사미 카에데**: *pant* *pant* Hmph! That was pretty amazing, Sensei!
+- **이사미 카에데**: You almost got me flustered! It didn't work at all, though!
+- **이사미 카에데**: A proper lady always keeps her cool!
+- **이사미 카에데**: Based on today's experiment, it looks like I've already become a proper lady...<br/>So be it!
+- **이사미 카에데**: Oh, look at the time. Today really flew by, didn't it?
+- **이사미 카에데**: Yeah! There's a special broadcast of the Masked Driver series tonight!
+- **이사미 카에데**: Ya!
+- **TV Ad**: "Listen up, all you drivers in front of the TV!"
+- **TV Ad**: "Wherever you are in the world, the Masked Driver will be there!"
+- **TV Ad**: This year marks the 15th anniversary of the monumental Masked Driver series!<br/>A special hero show will be held to celebrate the brand new episodes!<br/>Meet the Masked Driver in person! Get your tickets now!
+- **이사미 카에데**: ...!
+- **이사미 카에데**: I...
+- **이사미 카에데**: AHHHHHH!!!
+- **이사미 카에데**: S-SENSEI! I GET TO MEET THE MASKED DRIVER IN PERSON!
+- **이사미 카에데**: Ticket! I need to buy a ticket!
+- **이사미 카에데**: ...!
+- **이사미 카에데**: What?! S-Sensei, the online ticketing site is down! What should I do?!
+- **이사미 카에데**: Yay! Thank you, Sensei! You're the best!
+- **이사미 카에데**: Huh?
+
+4. **「이사미 카에데 인연 스토리 4」**
+
+- **이사미 카에데**: Hi, Sensei! I came to help you with your busy job!
+- **이사미 카에데**: Weird. No one's here?
+- **이사미 카에데**: Maybe Sensei's in the bathroom.
+- **이사미 카에데**: Whoa! Sensei's desk is a complete mess! Mimori's gonna flip out!
+- **이사미 카에데**: Is this coffee? Sensei drinks this all the time!
+- **이사미 카에데**: Hm...
+- **이사미 카에데**: *sip*
+- **이사미 카에데**: Blegh! Bitter!
+- **이사미 카에데**: I hope I don't have to drink this stuff when I'm an adult. Banana milk's way better.
+- **이사미 카에데**: Being an adult seems hard. Wait, the coffee's cold!
+- **이사미 카에데**: Oh! I've got it!
+- **이사미 카에데**: I'll brew some fresh, hot coffee for Sensei!
+- **이사미 카에데**: This is perfect proper lady training! I'm helping an adult with a grown-up thing.
+- **이사미 카에데**: Like that sexy drama I saw last night!
+- **이사미 카에데**: They did something like this, right?!
+- **이사미 카에데**: Okay! I'm going to make some special Kaede-style coffee for Sensei!
+- **이사미 카에데**: *humming*
+- **이사미 카에데**: Add some of this.
+- **이사미 카에데**: Yum. This should be perfect!
+- **이사미 카에데**: Voila! Kaede's super ultra coffee is ready!
+- **이사미 카에데**: I can't wait for Sensei to try it!
+- **이사미 카에데**: Heehee! What if they get me a toy as a reward?
+- **이사미 카에데**: Yay! I'm so excited! I just have to take this to Sensei's desk...
+- **이사미 카에데**: Ack!
+- **이사미 카에데**: What? Nooo! The coffee!
+- **이사미 카에데**: Waaaahhhh?!
+- **이사미 카에데**: You said you were super busy, right? So I came to help you..
+- **이사미 카에데**: But then you weren't here when I got here. And your desk was all messy.
+- **이사미 카에데**: And your coffee was cold! I wanted to help, so I made you a new cup.
+- **이사미 카에데**: I...I was really trying my best to help!
+- **이사미 카에데**: I'm sorry!
+- **이사미 카에데**: I'll 'fess up! I thought if I made you coffee, you would praise me and buy me a toy!
+- **이사미 카에데**: I was really trying to be a proper lady.
+- **이사미 카에데**: But it was harder than I thought. And I made a big mess!
+- **이사미 카에데**: B-But I was still just trying to help...
+- **이사미 카에데**: I didn't mean to make such a mess... Not at all...
+- **이사미 카에데**: *sniffle*
+- **이사미 카에데**: WAAAHHHH!!! I'm so sorry!!!
+- **이사미 카에데**: I'm sorry I came into your office without being invited!
+- **이사미 카에데**: I'm sorry I made your messy office worse!
+- **이사미 카에데**: *sob* I'm so sorry.
+- **이사미 카에데**: Sensei's always so busy.
+- **이사미 카에데**: And I just made life harder for you.
+- **이사미 카에데**: *sob* I didn't help at all...
+- **이사미 카에데**: *sob*
+- **이사미 카에데**: ...Huh?
+- **이사미 카에데**: *sniffle*
+- **이사미 카에데**: I... I like coffee more than cocoa.
+- **이사미 카에데**: ...No, I do.
+- **이사미 카에데**: *slurp*
+- **이사미 카에데**: Okay.
+- **이사미 카에데**: Yes.
+- **이사미 카에데**: Th-That's...
+- **이사미 카에데**: That's...
+- **이사미 카에데**: ...
+- **이사미 카에데**: I... Did you know I was a really mischievous child?
+- **이사미 카에데**: Yes... When I lived in the countryside.
+- **이사미 카에데**: I would travel the fields, the mountains, the ocean...
+- **이사미 카에데**: I ran around causing trouble until middle school.
+- **이사미 카에데**: As long as it seemed fun, I wanted to do it.
+
+5. **「이사미 카에데 인연 스토리 5」**
+
+- **이사미 카에데**: Oh, Sensei! Over here!
+- **이사미 카에데**: Okay, Sensei. You have to promise you won't be too surprised.
+- **이사미 카에데**: Okay, Sensei. You have to promise you won't be too surprised.
+- **이사미 카에데**: According to intel from a top secret source, at 3:00 PM today, at the Superstore...
+- **이사미 카에데**: They'll be selling new limited-edition card packs for Mushiqueen! It's unbelievable, I know!
+- **이사미 카에데**: We can't miss this golden opportunity! I've been saving up all my allowance for this moment!
+- **이사미 카에데**: Of course, Sensei! This is the biggest event of the year!
+- **이사미 카에데**: Do you even know how much the Mushiqueen battlefield changed when the last limited-edition Mushiqueen card pack was released?!
+- **이사미 카에데**: You have to help me, Sensei!
+- **이사미 카에데**: There's always fierce competition getting limited-time merch. I'm a little scared to go by myself.
+- **이사미 카에데**: Please!
+- **이사미 카에데**: Besides, I'm sure somewhere deep inside...the raging soul of the Mushiqueen is burning! Don't you want to test our friendship through the fire of card battle?
+- **이사미 카에데**: Well... You'll change your mind!
+- **이사미 카에데**: Well... You'll change your mind!
+- **이사미 카에데**: It'll be great working together!
+- **이사미 카에데**: We're the perfect duo!
+- **이사미 카에데**: Heehee! When we're about to battle the final boss and you have to tragically sacrifice yourself...
+- **이사미 카에데**: I can use this to awaken and slay the boss!
+- **이사미 카에데**: Okay, Sensei! Let's go!
+- **이사미 카에데**: Hurry! Hurry up, Sensei! Before it's all sold out!
+- **Passerby A**: Oh... Oh no... This is bad news...
+- **이사미 카에데**: Hm? What's going on?
+- **Passerby A**: Oh dear... Why did this have to happen today of all days?!
+- **이사미 카에데**: ...
+- **이사미 카에데**: There's... There's someone in trouble!
+- **이사미 카에데**: Over there!
+- **Passerby A**: Huh? Can I help you, miss?
+- **이사미 카에데**: I'm Kaede from the Inner Discipline Club! Is everything okay?
+- **Passerby A**: Well... I lost my contact lens.
+- **Passerby A**: Yes... But it's okay. I don't want to be a bother. I'm sure you're busy.
+- **이사미 카에데**: Yes, we are very busy! The limited-edition Mushiqueen card pack is extremely important.
+- **Passerby A**: Mushiqueen...?
+- **이사미 카에데**: Yes! But still!
+- **이사미 카에데**: Yes! You're right, Sensei! My goal is to become a proper lady, so I will help you!
+- **Passerby A**: Oh... Thank you so much!
+- **Passerby A**: Thank you! I can see now thanks to you!
+- **이사미 카에데**: I'm glad we found it!
+- **Passerby A**: How can I repay you? Can I give you my business card?
+- **이사미 카에데**: We're out of time, Sensei! The sale is gonna start!
+- **이사미 카에데**: We have to go! Bye-bye! Don't let that crow take your stuff again, okay?!
+- **Passerby A**: Huh? Bye?
+- **Passing Female Student 1**: Oh, Poppy! No! Stop! Someone help me catch my dog!
+- **이사미 카에데**: Hey! Stop right there!
+- **Passing Female Student 1**: Oh! Thank you so much!
+- **이사미 카에데**: This is nothing for the dynamic duo: Sensei and me, the Mushiqueen battler!
+- **Hostage**: Oh! The Valkyrie students haven't arrived yet! The bomb's timer is running out! Which wire am I supposed to cut?!
+- **이사미 카에데**: Agh!!! I don't know! The red one!
+- **이사미 카에데**: *snip*
+- **Cafe Owner**: I'm not sure if today's new drink will sell...
+- **이사미 카에데**: *slurp* It's delicious! Pass!
+- **Donut Shop Owner**: Oh, this donut...
+- **이사미 카에데**: Soft and yummy!
+- **이사미 카에데**: *pant* We're finally here!
+- **이사미 카에데**: We made it! The pack is mine!
+- **이사미 카에데**: Hello! One card pack, please!
+- **Clerk**: Wow! You're very lucky. I have exactly one set left.
+- **이사미 카에데**: WOW! Finally! Look at this, Sensei! It's so shiny! Isn't it beautiful? There's one rare card in each pack!
+- **이사미 카에데**: Huh? That doesn't matter! Sensei we have to go organize the deck!
+- **Girl**: Huh? I-It's all sold out?!
+- **이사미 카에데**: Huh?
+
+6. **「이사미 카에데 인연 스토리 6」**
+
+- **이사미 카에데**: Really? I think this is pretty much expected, Sensei! After all, this is the limited-edition Mushiqueen card protector we're talking about!
+- **이사미 카에데**: To make it even better, it's a rerun of THE super, ultra-rare edition that no one ever thought would be available, ever again!
+- **이사미 카에데**: If you miss this chance, it's over! It'll never, ever be on sale again!
+- **이사미 카에데**: Correct! You're exactly right, Sensei!
+- **이사미 카에데**: Since it's a special occasion... I'll show you my treasure, Sensei!
+- **이사미 카에데**: Yes! Don't get too excited! Ta-da!
+- **이사미 카에데**: You see...this is the first card protector I ever bought. I saved up all my pocket money so I could buy it.
+- **이사미 카에데**: When I was but a novice battler, I didn't even know I would need something like this.
+- **이사미 카에데**: It was before I realized just how truly precious a single card is, so I would grab my cards with all my might and crumple them!
+- **이사미 카에데**: Before I knew it, I had ruined these irreplaceable treasures.
+- **이사미 카에데**: I naively believed I could just...buy them again!
+- **이사미 카에데**: It wasn't my proudest moment as a battler...
+- **이사미 카에데**: Gaaah! The more I think about it, the more I can't comprehend what I was thinking!
+- **이사미 카에데**: I'm cringing recalling my shameful past, Sensei!
+- **이사미 카에데**: I don't want to "be" growing up! I just want to be grown already!
+- **이사미 카에데**: ...Huh? Impatience is the enemy of progress? Hm... What an interesting perspective.
+- **이사미 카에데**: ...What do you mean it's like a card battle? How can that be?
+- **이사미 카에데**: You're correct, there's an optimal order you should play your cards. But what does that have to...?
+- **이사미 카에데**: It's similar to how I'll ruin my strategy if I'm impatient and try to force my hand?
+- **이사미 카에데**: So... The best way to become a proper lady is to wait patiently for the right turn?
+- **이사미 카에데**: Hm... You may be on to something!
+- **이사미 카에데**: You never fail to impress! I guess it's because you're an adult. I'll just have to wait my turn to become a proper lady...and I'll be able to say cool things too, just like Sensei!
+- **이사미 카에데**: Okay, back to business. A lot of tournaments bar participants from battling without card protectors!
+- **이사미 카에데**: Because of this, the battler debut I so fervently dreamed of amounted to absolutely nothing.
+- **이사미 카에데**: Waaah! I was supposed to debut in a blaze of battler glory!
+- **이사미 카에데**: Ah, think about it, Sensei! If you use a card protector with an opaque back, then you can cover the back of your card!
+- **이사미 카에데**: That can help prevent cheating from happening in the first place, so card sleeves are required for almost every tournament.
+- **이사미 카에데**: Never forget, Sensei! Cards are the very soul of a battler! They hold our memories and dreams, and our hearts!
+- **이사미 카에데**: If someone doesn't treat their cards with the utmost care, why, they can't even call themselves a battler!
+- **이사미 카에데**: And that's why card protectors are so important! They're a battler's armor!
+- **이사미 카에데**: Ah! Did I manage to say something cool? Just like you, Sensei? Right?!
+- **이사미 카에데**: ...You think so?
+- **이사미 카에데**: Heehee... Th-Thank you, Sensei. To hear those words...
+- **이사미 카에데**: Ah... That's actually an old story...
+- **이사미 카에데**: It's a little bit embarrassing, truth be told...
+- **이사미 카에데**: I don't know if you know this, Sensei, but I'm actually from the countryside.
+- **이사미 카에데**: I might be stating the obvious, but there's not much to do out in the fields! Definitely not a whole lot of stuff to play with...
+- **이사미 카에데**: I would catch crawfish by the river...or herculean beetles in the forest...
+- **이사미 카에데**: Ah! It was still super fun! Time flew whenever I was playing with my friends!
+- **이사미 카에데**: It was just... There was a longing deep in my heart. For something more thrilling! Even more exciting!
+- **이사미 카에데**: But then... I! Met! Mushiqueen!
+- **이사미 카에데**: It blew my mind! These cards had pictures of herculean beetles! And stag beetles!
+- **이사미 카에데**: To top it all off, it was a game where players took turns back and forth to emerge victorious in an intense battle!!
+- **이사미 카에데**: Right, so, at first... I mean, I couldn't help but think, "How can this be possible?"
+- **이사미 카에데**: How can I begin to put that feeling into words...?
+- **이사미 카에데**: I got it! It was like discovering an entirely new continent!
+- **이사미 카에데**: If that's how it was, that's how it was, right?
+- **이사미 카에데**: To think there could be carefully thought-out rules to playing... It was nothing like the methodology to playing tag!
+- **이사미 카에데**: If you meticulously understand all the rules, you can figure out how to win!
+- **이사미 카에데**: To make it even better, even if you do lose, you can always play again next time!
+- **이사미 카에데**: And no matter who your opponent is, we all play with the same exact rules! Aren't games like amazing?
+- **이사미 카에데**: Without Mushiqueen... I might not have even known these these kinds of games could exist!
+- **이사미 카에데**: H-Huh? You think so...?
+- **이사미 카에데**: I don't really know what that means... But if Sensei says so, then it must make sense! Heeheehee.
+- **Pop-up Shop Employee**: Next customer! Welcome in!
+- **이사미 카에데**: Ah! It's our turn, Sensei! Let's go!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/이사미 카에데
+- https://bluearchive.wiki (원문 스토리 스크립트)

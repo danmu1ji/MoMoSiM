@@ -1,0 +1,252 @@
+# 아케보시 히마리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아케보시 히마리, 선생(샬레)
+
+1. **「아케보시 히마리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아케보시 히마리 인연 스토리 2」**
+
+- **???**: I've been waiting for you, Sensei. Please, enter.
+- **아케보시 히마리**: Heehee, you got here just in time. Welcome, Sensei.
+- **아케보시 히마리**: Thank you for guiding the way. You can go back to your regular duties now.
+- **아케보시 히마리**: Hm? Oh, that was a Millennium guard drone.
+- **아케보시 히마리**: It's hard to go out to greet you since I'm such a beautiful yet delicate flower, so I sent the drone to guide you to me.
+- **아케보시 히마리**: And of course, I did that by hacking it. Delicately.
+- **아케보시 히마리**: It worked well as a guide, right?
+- **아케보시 히마리**: I've always found drones are quite nice and adorable.
+- **아케보시 히마리**: O-Oh? I-I-Is it that weird?
+- **아케보시 히마리**: ...Perhaps a better name could be found... I mulled it over day and night before deciding. I thought it sounded intelligent and mysterious...
+- **아케보시 히마리**: I thought it was the sort of name a true Millennium genius would come up with...
+- **아케보시 히마리**: ...Heehee. You really think so?
+- **아케보시 히마리**: Just as I thought! ♪
+- **아케보시 히마리**: No matter what anyone says, only the beautiful super genius hacker of Millennium...
+- **아케보시 히마리**: Yes, only I, the one and only Akeboshi Himari, could come up with that name!
+- **아케보시 히마리**: Oh, right.
+- **아케보시 히마리**: The best way to think of this place is as my secret hideout.
+- **아케보시 히마리**: Yes, both the task force club room and the Veritas club room are under the watchful gaze of Big Sister.
+- **아케보시 히마리**: So I hacked Millennium's administrative system, found an unused club room, and "reserved" it for my own, discreet use.
+- **아케보시 히마리**: And why did I do all that?
+- **아케보시 히마리**: To rest, of course. A delicate and beautiful super genius hacker like me requires a lot of sleep...
+- **아케보시 히마리**: My brain operates at such intensity that it is vital to give it regular breaks.
+- **아케보시 히마리**: Heh heh heh. Surely you realize such petty obstacles warranted no more than an afterthought, no?
+- **아케보시 히마리**: Heh heh heh. Surely you realize such petty obstacles warranted no more than an afterthought, no?
+- **아케보시 히마리**: Figuring out a drone's patrol route would be the obvious solution, but the good solution would be to simply hack and "correct" the route if necessary.
+- **아케보시 히마리**: I often tweak CCTV coverage at my own convenience, creating as many blind spots as I wish...
+- **아케보시 히마리**: Unlike my peerless life of leisure, which doesn't have a blind spot in sight!
+- **아케보시 히마리**: Oh, yes. You're fine.
+- **아케보시 히마리**: In fact, I'm glad you came. I need you to be here.
+- **아케보시 히마리**: As you know, I'm admired like a stunning flower caught in the sun, ever-blooming atop the edge of a wind swept cliff.
+- **아케보시 히마리**: In whispers made hushed by awe, they say I am a genius beauty who looks like a peony when I lie still, a camellia when I sit, and a lily when I sigh.
+- **아케보시 히마리**: Yes, and like a flower in full bloom, I must be mindful of my own fragility, lest someone walks up and plucks me without a second thought.
+- **아케보시 히마리**: And of course... even a flawless beauty such as myself needs time away from the tension that comes with admiration.
+- **아케보시 히마리**: Ahem. So, uh, what I'm trying to say is...
+- **아케보시 히마리**: I need some time to unwind...
+- **아케보시 히마리**: Maybe with someone trustworthy. Perhaps someone who won't demand anything in return...
+- **아케보시 히마리**: It's possible that this hypothetical someone would see my true self and never get angry or scold me. I was wondering if I had someone like that around me.
+- **아케보시 히마리**: So...yeah.
+- **아케보시 히마리**: ...I managed to prepare this perfectly secluded hideout, but it turns out seclusion is pretty boring.
+- **아케보시 히마리**: And if it were you, Sensei...
+- **아케보시 히마리**: I was thinking maybe I would enjoy sharing this seclusion with you...
+- **아케보시 히마리**: Is that greedy? Or just a fleeting thought?
+- **아케보시 히마리**: So... Well... That...
+- **아케보시 히마리**: That's why I asked you to come.
+- **아케보시 히마리**: *nervous glance*
+- **아케보시 히마리**: Oh.
+- **아케보시 히마리**: N-Nothing. It's nothing.
+- **아케보시 히마리**: Heehee... I was just internally gloating about predicting this outcome.
+- **아케보시 히마리**: My brilliant brain simulated this outcome, of course. Mm-hmm. A complete victory for me, as I expected.
+- **아케보시 히마리**: Does that really matter right now, Sensei? No, what matters...is that you'll hang out with me.
+- **아케보시 히마리**: Oh, and no flaking out on me. I'm serious, that's simply not allowed.
+- **아케보시 히마리**: Heehee.
+- **아케보시 히마리**: Thank you in advance for today, Sensei.
+- **아케보시 히마리**: I got to spend time with Sensei...
+- **아케보시 히마리**: Usually, I'd be brimming with smug confidence, celebrating another achievement expected of this beautiful super genius hacker.
+- **아케보시 히마리**: However, there's something preoccupying me.
+- **아케보시 히마리**: It's not the end of the world, but...
+- **아케보시 히마리**: As you know, at Millennium, the broadcast department plays requested songs during lunchtime.
+- **아케보시 히마리**: Any Millennium student can request a song...
+- **아케보시 히마리**: But how come they never play the songs I request?!
+
+3. **「아케보시 히마리 인연 스토리 3」**
+
+- **Millennium Lab Employee**: Thank you for helping today!
+- **Millennium Lab Employee**: You're amazing, Sensei! We had no problem finishing thanks to you!
+- **Millennium Lab Employee**: I'm gonna get going!
+- **Millennium Lab Employee**: See you later!
+- **Announcement**: Greetings, passengers, our next destination is the Millennium clubhouse...
+- **Announcement**: ...Oh, I'm sorry. Actually, our destination is Millennium's eastern port. Eastern port!
+- **Announcement**: Enjoy your eastbound journey!
+- **Announcement**: Destination reached. This is Millennium's eastern port.
+- **Announcement**: Passengers must exit here. Compliance is assumed. Emergency ejection activating in three, two...
+- **Announcement**: Thank you for riding with us! We hope you meet a special someone today!
+- **Unidentified Voice**: Push away the cold and hold the heat close.
+- **Unidentified Voice**: This red bean soup is for you! Enjoy!
+- **Guard Drone**: Attention all residents. Please step back and find a detour.
+- **Guard Drone**: Attention all residents. Please step back and find a detour.
+- **Guard Drone**: Attention all residents. Please step back and find a detour.
+- **Guard Drone**: Remember, stay away from water and your luck will improve.
+- **Guard Drone**: Please step back and find a detour. If you do not comply, our drone-swarm customer satisfaction representative will be with you shortly.
+- **Unidentified Voice**: Travel east and meet a special someone.
+- **Unidentified Voice**: Stay away from the cold and keep the heat near...
+- **Unidentified Voice**: Stay away from water for improved luck...
+- **Unidentified Voice**: Eastward...
+- **Unidentified Voice**: The cold...
+- **Unidentified Voice**: Water...
+- **아케보시 히마리**: Huh. Interesting. Interesting.
+- **아케보시 히마리**: ...Heeheeheehee.
+- **아케보시 히마리**: So, how were they, Sensei? How were those experiences?
+- **아케보시 히마리**: Do you feel that luck is on your side now?
+- **아케보시 히마리**: Are you thinking, "Wow, what an amazing day! I wish this happened to me every day!"?
+- **아케보시 히마리**: Heh heh. Nothing to hide now.
+- **아케보시 히마리**: Here, feast your eyes on this.
+- **아케보시 히마리**: "Go east. There, you'll meet a special someone and your luck will improve."
+- **아케보시 히마리**: "Avoid the cold and seek the heat and your luck will improve."
+- **아케보시 히마리**: "Steer clear of water and your luck will improve."
+- **아케보시 히마리**: "Don't be rash, or you will upset those around you. Good things come to those who wait." And on it went.
+- **아케보시 히마리**: According to the Kronos School of Journalism, people born in December can increase their luck by doing these things today!
+- **아케보시 히마리**: Yes! All part of a grand experiment I conducted with the help of some harmless hacks here and there.
+- **아케보시 히마리**: I was born in December, so I thought this would be a great opportunity to test my luck.
+- **아케보시 히마리**: ...But unfortunately, as you know, I can't recklessly throw my body into the elements.
+- **아케보시 히마리**: So, since I can't experiment on myself, I used you instead.
+- **아케보시 히마리**: I considered the fact that we are different people, of course.
+- **아케보시 히마리**: But, honestly, it just...made sense to me. We're so alike that...
+- **아케보시 히마리**: What?
+- **아케보시 히마리**: ...Oh, s-so...
+- **아케보시 히마리**: Um, u-uh...
+- **아케보시 히마리**: The Kronos special feature said, "Don't be rash, or you will upset those around you. Good things come to those who wait."
+- **아케보시 히마리**: I understand completely... You're saying...that the fortune was completely correct. It's almost scary what astrology can do...
+
+4. **「아케보시 히마리 인연 스토리 4」**
+
+- **아케보시 히마리**: Oh, Sensei. You're here.
+- **아케보시 히마리**: Of course.
+- **아케보시 히마리**: Despite my cool demeanor, I am in a big trouble, Sensei.
+- **아케보시 히마리**: The reason I appear to be so calm and collected is, of course...
+- **아케보시 히마리**: That I, the beautiful super genius hacker of Millennium admired by all as a delicate flower, have mastered the art of the poker face.
+- **아케보시 히마리**: Oh, the humanity! The beauty, so tragically talented and looked up to, forced to hide the tangled inner workings of her heart...
+- **아케보시 히마리**: What a sad yet inescapable tale...
+- **아케보시 히마리**: As usual, I was gracefully spending my time appreciating the finer points of culture...when I stumbled upon a shocking discovery.
+- **아케보시 히마리**: Please, take a look at this.
+- **아케보시 히마리**: Don't let yourself get distracted. The problem is right here in front of us. I got so hurt when I saw this.
+- **아케보시 히마리**: I have no idea where they got the idea that I'm a miser and a troublemaker with an awful personality from.
+- **아케보시 히마리**: I mean, look at me. The first thought that pops into your head is, "delicate, beautiful flower," right?
+- **아케보시 히마리**: Excuse me? What kind of a response is that?
+- **아케보시 히마리**: Oh, I get it...
+- **아케보시 히마리**: When something valuable to you is always by your side, you don't appreciate what you have until you lose it...
+- **아케보시 히마리**: This must be the "Blue Bird Syndrome" I've heard so much about. What a tragedy.
+- **아케보시 히마리**: Don't worry, we'll fix that later. What's important now is that everything written on here is slander. Or libel. Whatever.
+- **아케보시 히마리**: They don't even reveal my identity! They just say I'm hiding it!
+- **아케보시 히마리**: But, I mean... Wait, are you saying this happened because I hide my identity?
+- **아케보시 히마리**: Well...
+- **아케보시 히마리**: I guess it makes sense that if no one knows my identity, no one can know if something is being made up about me...
+- **아케보시 히마리**: *sigh* What an unexpected blind spot...
+- **아케보시 히마리**: Hm?
+- **아케보시 히마리**: Oh, no...I'm not worried about that. I'm more than confident in my ability to keep information concealed.
+- **아케보시 히마리**: If anything, what annoys me are the baseless accusations about my identity and so-called evil deeds.
+- **아케보시 히마리**: I have only ever embezzled things fairly, and I even share with the other members!
+- **아케보시 히마리**: Nonsense! Do they have any idea how many cybercrimes I've stopped?
+- **아케보시 히마리**: Do you even have any idea?
+- **아케보시 히마리**: I... Um...
+- **아케보시 히마리**: Well, you know how, when you're put on the spot, you suddenly become unable to think of the answer you knew seconds early? That's what's going on now...
+- **아케보시 히마리**: Huh? Doesn't everyone do that? It's just good sense.
+- **아케보시 히마리**: Besides, going out to get more toothpaste is a big deal for me.
+- **아케보시 히마리**: Absolutely shameless of them.
+- **아케보시 히마리**: ...I mean, granted, that one maybe got a little out of hand, and Chi even scolded me about it...
+- **아케보시 히마리**: Why are you always trying to focus on things that don't matter? The point is that it's overflowing with false information and slander. Or libel. Whatever.
+- **아케보시 히마리**: I can't let these nonsensical rumors swirl around me, hidden identity or not.
+- **아케보시 히마리**: Not just because it's damaging to me.
+- **아케보시 히마리**: But because it tarnishes the reputation of Veritas. Furthermore, it's an affront to the truth. And if there's anything I hold dear, it's clear, unabated, pure truth.
+- **아케보시 히마리**: Huh? Why would I do that?
+- **아케보시 히마리**: The infamous Kronos School of Journalism isn't going to give in to such meek attempts.
+- **아케보시 히마리**: We need to shake things up. Heh heh heh.
+- **아케보시 히마리**: Absolutely.
+- **아케보시 히마리**: The truth waits for no one, but people often wait for the truth. So, we need to take the initiative and give the people the truth they've been waiting for...
+- **아케보시 히마리**: In this video, I, Akeboshi Himari, will explain the sheer excellence of the Super Phenomenon Task Force and the Veritas president.
+- **아케보시 히마리**: I'll even let them know the good deeds this beautiful super genius hacker does as part of her daily routine, and how trusted and respected she is by those around her.
+- **아케보시 히마리**: And who better to say all that than myself?
+- **아케보시 히마리**: Admittedly, on the surface, that might seem like an insurmountable problem.
+- **아케보시 히마리**: Which is exactly why I asked you to be here today.
+- **아케보시 히마리**: We need to brainstorm a way to deliver unadulterated truth while also not letting anyone know my actual identity.
+- **아케보시 히마리**: How about this?
+- **아케보시 히마리**: We blur the video and change my voice until I'm completely unrecognizable.
+- **아케보시 히마리**: Okay, let's try it out.
+- **아케보시 히마리**: It just makes me look exactly like the suspicious criminal they are trying to paint me as, doesn't it?
+- **아케보시 히마리**: I want to conceal my appearance enough to hide my identity...
+- **아케보시 히마리**: But also leave enough of my appearance in so that my innate dignity as the president of Veritas shines through.
+- **아케보시 히마리**: Hmm... What about this?
+- **아케보시 히마리**: Just put a black strip over my eyes.
+- **아케보시 히마리**: Not enough?
+- **아케보시 히마리**: Hmm, this is tough...
+- **아케보시 히마리**: Oh, how about we hide my eyes in a different way?
+
+5. **「아케보시 히마리 인연 스토리 5」**
+
+- **아케보시 히마리**: Hello, Sensei. Heehee, you made it.
+- **아케보시 히마리**: Today's objective isn't as restful as usual. I have certain work to do...
+- **아케보시 히마리**: Well, let's get to the point.
+- **아케보시 히마리**: It's finally mine.
+- **아케보시 히마리**: Heehee. Yes, the treasure.
+- **아케보시 히마리**: Its value is exceeded only by the difficulty of obtaining it.
+- **아케보시 히마리**: You wanna know what kind of a treasure it is?
+- **아케보시 히마리**: Heehee.
+- **아케보시 히마리**: Prepare to be shocked...
+- **아케보시 히마리**: It's none other than this!
+- **아케보시 히마리**: Heh heh heh. This is no ordinary Frenzy MAX.
+- **아케보시 히마리**: It's a special edition. Rumored to be a hundred times more delicious than any other Frenzy MAX. It's even better than the best of the best.
+- **아케보시 히마리**: ...What a lukewarm reaction.
+- **아케보시 히마리**: This is a legendary item among the technically inclined. Limited-Edition wouldn't even begin to describe it.
+- **아케보시 히마리**: All the members of Veritas desperately seek it.
+- **아케보시 히마리**: Well, I have to demonstrate my generosity as president sometimes.
+- **아케보시 히마리**: Speaking of which, I picked out this Passion Fruit Mix flavor for the two of us to enjoy, Sensei.
+- **아케보시 히마리**: Okay, let's try it and find out what all the fuss is about. We'll work hard after we enjoy it.
+- **아케보시 히마리**: I even got a tip from a member on how to get the most amount of enjoyment from a can of Frenzy MAX.
+- **아케보시 히마리**: Yeah, just watch.
+- **아케보시 히마리**: Just...like...this...
+- **아케보시 히마리**: Shake the can vigorously...
+- **아케보시 히마리**: So that the Frenzy MAX will have a reaction inside the can...
+- **아케보시 히마리**: And taste even better before opening... Hiyah!
+- **아케보시 히마리**: About five times better than usual... Hiyap!
+- **아케보시 히마리**: Hm?
+- **아케보시 히마리**: Oh...
+- **아케보시 히마리**: This...was a possibility.
+- **아케보시 히마리**: I mean, it's a carbonated drink... Which has certain implications...
+- **아케보시 히마리**: But fortune favors the bold. Was it wrong of me to risk it blowing up in my face for the hope of a brighter, more delicious future?
+- **아케보시 히마리**: Or should I have remained complacent and content with the mediocre present? There is no reward without risk.
+- **아케보시 히마리**: This is the dilemma inherent to life.
+- **아케보시 히마리**: Oh... Th-Thank you.
+- **아케보시 히마리**: Oh... Th-Thank you.
+- **아케보시 히마리**: I was able to dry most of myself off, but...
+- **아케보시 히마리**: But my feet...
+- **아케보시 히마리**: ...Hmm.
+- **아케보시 히마리**: H-Huh? You? Help me?
+- **아케보시 히마리**: Th-That...
+- **아케보시 히마리**: N-No! It's fine! Totally fine!
+- **아케보시 히마리**: I mean, if you really want to wipe the feet of a beautiful super genius hacker such as myself, who I am to stop you?
+- **아케보시 히마리**: ...A-Ahem.
+- **아케보시 히마리**: ...Okay, please?
+- **아케보시 히마리**: G-Go ahead!
+- **아케보시 히마리**: ― Heehee. So, how does it feel?
+- **아케보시 히마리**: ― A rare chance to wash the dainty feet of
+- **아케보시 히마리**: ― Millennium's most stunning, delicate beauty.
+- **아케보시 히마리**: ― Truly, a once-in-a-lifetime opportunity.
+- **아케보시 히마리**: ― It's not every day that...
+- **아케보시 히마리**: ― Hm...?
+- **아케보시 히마리**: ― This feels a lot different than I thought it would...
+- **아케보시 히마리**: ― It's so strange... It's almost like...I feel bashful?
+- **아케보시 히마리**: ― I-I don't understand...
+- **아케보시 히마리**: ― These feelings... I can't put them into words!
+- **아케보시 히마리**: ― All Sensei is doing is washing my delicate feet
+- **아케보시 히마리**: ― with the utmost care in the world...
+- **아케보시 히마리**: ― So why...?
+- **아케보시 히마리**: ― Oh. Haha.
+- **아케보시 히마리**: ― Yes, of course. As you can tell, I'm perfectly ready.
+- **아케보시 히마리**: ― So no need to worry.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아케보시 히마리
+- https://bluearchive.wiki (원문 스토리 스크립트)

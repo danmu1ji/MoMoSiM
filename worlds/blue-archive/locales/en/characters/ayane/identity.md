@@ -1,0 +1,1 @@
+# Ayane\n\nThe diligent secretary of the Abydos Foreclosure Task Force. A hard-working stickler for rules and regulations, she does her best to contribute to the revitalization of Abydos High School.\n\nSource: https://bluearchive.wiki/wiki/Ayane\nReview status: source extracted; pending editorial review.\n

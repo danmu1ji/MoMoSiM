@@ -1,0 +1,318 @@
+# 쿠로사키 코유키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 쿠로사키 코유키, 선생(샬레)
+
+1. **「쿠로사키 코유키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「쿠로사키 코유키 인연 스토리 2」**
+
+- **???**: ...Ah! That voice!
+- **???**: Sensei! Sensei! Over here! I'm over here!
+- **???**: Sensei! Senseeeeeei!
+- **쿠로사키 코유키**: Sensei! Wow! You're really here, Sensei!
+- **쿠로사키 코유키**: You'll be able to open the door, Sensei! You've got the authority!
+- **쿠로사키 코유키**: Only you could possibly help me now! You're not going to abandon me here, are you?!
+- **쿠로사키 코유키**: Sensei! It IS you, Sensei!
+- **쿠로사키 코유키**: Thank you SO much for coming! If you hadn't...
+- **쿠로사키 코유키**: What I thought would happen...
+- **쿠로사키 코유키**: It's too terrible to even think about!
+- **쿠로사키 코유키**: Huh? You wanna know what the hurry is?
+- **쿠로사키 코유키**: Um...
+- **쿠로사키 코유키**: Well, isn't that something we should decide together?
+- **쿠로사키 코유키**: What do you want to do? You can choose, Sensei!
+- **쿠로사키 코유키**: Hmm? You don't know what you're choosing from...? Well, it's not like I had anything specific in mind!
+- **쿠로사키 코유키**: After all, this is the Self-Reflection Room... And I got caught, so I'm stuck here until tomorrow night...
+- **쿠로사키 코유키**: And no one wants to come visit except to bring me meals, so...
+- **쿠로사키 코유키**: So I'm so bored...
+- **쿠로사키 코유키**: B-But! But that's not important right now! Right now, what's important is deciding what game we wanna play!
+- **쿠로사키 코유키**: What?!
+- **쿠로사키 코유키**: I am in trouble, I am! Just look at how tortured and pitiful I am!
+- **쿠로사키 코유키**: ...Ha!
+- **쿠로사키 코유키**: Just look around, Sensei! Look at the walls of the tiny Self-Reflection Room! I've been trapped here for the whole day!
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: You wanna know why I was locked here? And why I can't just leave if I want to so bad?
+- **쿠로사키 코유키**: Haha, Sensei! Why are you being so dense today?
+- **쿠로사키 코유키**: Of course leaving wouldn't be a problem!
+- **쿠로사키 코유키**: The problem is what happens AFTER I leave.
+- **쿠로사키 코유키**: The instant! The very instant they find out I'm gone, everyone from the Seminar and C&C will start rushing around, and then...
+- **쿠로사키 코유키**: ...And then...!
+- **쿠로사키 코유키**: So obviously I can't take a gamble like that until I figure out a sure-fire plan to avoid getting caught!
+- **쿠로사키 코유키**: So until I think of something, I just gotta stay calm. Okay? Do you get it now?
+- **쿠로사키 코유키**: Okay! We've spent way too long talking about bummers! It's time to focus. What do you wanna do for fun, huh?
+- **쿠로사키 코유키**: Hmm? What's that?
+- **쿠로사키 코유키**: Oh, I see you've noticed the result of my efforts! You've got sharp eyes, Sensei!
+- **쿠로사키 코유키**: Haha, yeah! It's totally way comfier than you'd expect the Self-Reflection Room to be!
+- **쿠로사키 코유키**: I've been locked up in here so much, this is pretty much my own private room. Niha!
+- **쿠로사키 코유키**: I had to think outside the box, y'know?
+- **쿠로사키 코유키**: If it's basically my room...then I should decorate it like it's my room! If I'm gonna be stuck here all the time, it might as well be nice!
+- **쿠로사키 코유키**: But I wasn't gonna stop there! It's not just cute and comfy, you know? It's also got a ton of nooks and crannies that no one else thinks to check!
+- **쿠로사키 코유키**: So... Ta-da! I've hidden a bunch of board games!
+- **쿠로사키 코유키**: Yahaha! It's way too early for you to be so surprised! Because...I have some snacks hidden under the sofa! And manga behind the water fountain!
+- **쿠로사키 코유키**: So as long as I can get someone to keep me company, it's actually the perfect hideout! Aren't I brilliant? If I have to stay trapped here, I'll make it a good place to be!
+- **쿠로사키 코유키**: What do you think? Amazing, right? Humans are infinitely adaptable creatures! No matter the adversity, we find a way!
+- **쿠로사키 코유키**: ...Huh? What's with your face, Sensei?
+- **쿠로사키 코유키**: Nihahaha! I sure surprised you, didn't I? Even you were taken aback by my cleverness!
+- **쿠로사키 코유키**: Don't be shy, Sensei! What's mine is yours! Make yourself at home! Have a snack!
+- **쿠로사키 코유키**: Pick any game you want! The night is young! Or, the day is young! Or whatever time it is!
+- **쿠로사키 코유키**: Ah.
+- **쿠로사키 코유키**: This is probably obvious, but don't mention this to anyone, okay? Nihahaha!
+
+3. **「쿠로사키 코유키 인연 스토리 3」**
+
+- **쿠로사키 코유키**: So this is Schale! Ooooh... I've never seen it before!
+- **쿠로사키 코유키**: Hm, but it's actually just a normal office...?
+- **쿠로사키 코유키**: Haha! Just messing with you. Of course the place where you work would be like this, Sensei.
+- **쿠로사키 코유키**: So, what should I do? I heard it was my turn on the roster, so I showed up, but...
+- **쿠로사키 코유키**: I don't have any bizarre computational abilities like some cold-hearted accountant I won't name.
+- **쿠로사키 코유키**: Oh, I can run errands, though! Since it's for you, Sensei, I'll work super hard!
+- **쿠로사키 코유키**: Haha... Well, uh...of course!
+- **쿠로사키 코유키**: The truth is...no matter what it is... It's gonna be way, way, WAY better than doing whatever stuff the upperclassmen at Millennium make me do!
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: You think work will be equally boring for Schale or for Seminar?
+- **쿠로사키 코유키**: Haha... Sensei. You don't know what you're talking about, do you? This isn't just about being bored! Not at all!
+- **쿠로사키 코유키**: What I do there... It's basically just like stamping documents... Document after document, with no end in sight, and I don't know anything about what's in them...
+- **쿠로사키 코유키**: Sitting in one spot, doing the same thing over and over and over... My brain can't take it!
+- **쿠로사키 코유키**: You want to know what I do, specifically? Why?
+- **쿠로사키 코유키**: I mean...it's nothing important, really. Just, like, recovering lost passwords for other students, or unlocking security systems that have been locked accidentally...
+- **쿠로사키 코유키**: Or, figuring out how to fix code that's so old that we don't even know who made it... A bunch of useless stuff like that, I guess.
+- **쿠로사키 코유키**: ...No! Dang it! Stop! That's not what you're supposed to say!
+- **쿠로사키 코유키**: It's totally boring! Not even a bit meaningful! Not fulfilling at all!
+- **쿠로사키 코유키**: I sit there, someone puts a problem in front of me, I write the first thing that pops into my head, then it just solves itself! I don't even know what the problem's about before they bring the next one, and the next one, and on, and on...
+- **쿠로사키 코유키**: They treat me like a vending machine, but I'm a person! A whole person! I don't wanna do it anymore!
+- **쿠로사키 코유키**: If that's what life is like, how could I not search for freedom? Even if I'm caught every time!
+- **쿠로사키 코유키**: And then, on top of everything, they even throw me in solitary confinement, whether it's an empty workroom or the Self-Reflection Room... Are there no depths the Millennium Seminar won't sink to? No torments they won't inflict?
+- **쿠로사키 코유키**: Sensei, that's so mean! You're supposed to be on my side! A poor, downtrodden soul is telling you her tragic tale and this is how you respond?
+- **쿠로사키 코유키**: Ugh, anyway...
+- **쿠로사키 코유키**: The point is, whatever you have me do, it's at least gonna be more interesting than the Seminar stuff.
+- **쿠로사키 코유키**: So, what is it? What's my assignment? Or, oh no... Do I have to work with passwords here too?
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: You don't have any work like that? Oh, you definitely don't want me cracking passwords here?
+- **쿠로사키 코유키**: Haha, why?
+- **쿠로사키 코유키**: Hmm.
+- **쿠로사키 코유키**: ...So? I...don't get it. Or...
+- **쿠로사키 코유키**: No, I'm missing something. Huh? Is there something I'm not supposed to know?
+- **쿠로사키 코유키**: What do you mean, there's a whole lot I'm not supposed to know?
+- **쿠로사키 코유키**: Hmph... Fine. I guess.
+- **쿠로사키 코유키**: ...Hmmmm...
+- **쿠로사키 코유키**: No! I mean, um, uh, nothing! I'm not thinking anything at all!
+- **쿠로사키 코유키**: I definitely wouldn't think oh, I should look at it!
+- **쿠로사키 코유키**: I wouldn't think anything like that at all. I wouldn't, and I didn't!
+- **쿠로사키 코유키**: Definitely!
+- **쿠로사키 코유키**: Anyway! It seems like there's nothing for me to do here today, so...
+- **쿠로사키 코유키**: Um...
+- **쿠로사키 코유키**: I'll just...
+- **쿠로사키 코유키**: I'll be...
+- **쿠로사키 코유키**: Going for today... Sensei... I'll see you later...
+- **쿠로사키 코유키**: Okay! Have a good day!
+
+4. **「쿠로사키 코유키 인연 스토리 4」**
+
+- **???**: *giggle* Perfect timing!
+- **쿠로사키 코유키**: No one can stop me now! Onward, for hidden knowledge!
+- **쿠로사키 코유키**: Hmmmm. Let's see... Oho, so you've got that system here, huh?
+- **쿠로사키 코유키**: Oh my, Sensei. Yet another new one!
+- **쿠로사키 코유키**: You really are trying too hard, changing your security every time I sneak in. It's a little sad...
+- **쿠로사키 코유키**: After all, it's all futile! Nihahaha!
+- **쿠로사키 코유키**: Now then, let me just break this, and...
+- **쿠로사키 코유키**: All right, let's see what's...inside...
+- **쿠로사키 코유키**: Huh...?
+- **쿠로사키 코유키**: ...Eh? Hm?
+- **쿠로사키 코유키**: Ah?!
+- **쿠로사키 코유키**: ...Augh! Sensei?! What are you doing here?
+- **쿠로사키 코유키**: Ugh! What! Again with the analog traps!
+- **쿠로사키 코유키**: You've just been waiting to catch me all along? Do you have no shame?!
+- **쿠로사키 코유키**: Argh! How frustrating! But I won't give up! Next time, for sure—
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: Sensei, why would you say that? If I don't stop, you'll tell Seminar on me?
+- **쿠로사키 코유키**: ...! Ugh!
+- **쿠로사키 코유키**: H-How petty do you have to be to bring them into a one-on-one match! This isn't about them, it's about us! Our battle of wits!
+- **쿠로사키 코유키**: What do you mean, it's not a contest? Wh-Whatever!
+- **쿠로사키 코유키**: Hmm? Sensei?
+- **쿠로사키 코유키**: To say that, with such a face...
+- **쿠로사키 코유키**: Hm...
+- **쿠로사키 코유키**: *sigh*
+- **쿠로사키 코유키**: Fine. If you put it that way, there's no use.
+- **쿠로사키 코유키**: It won't be fun to keep poking at this any longer.
+- **쿠로사키 코유키**: I won't open these files...
+- **쿠로사키 코유키**: I mean... If you seriously don't want me to, I don't want to see it. I was just curious!
+- **쿠로사키 코유키**: But...
+- **쿠로사키 코유키**: You said you didn't want me looking because they affect everyone, right?
+- **쿠로사키 코유키**: In other words...! It's time to think outside the box once again!
+- **쿠로사키 코유키**: That means you'll look the other way if I find out your personal secrets!
+- **쿠로사키 코유키**: Nihahahahahaha! Destination: Sensei's room! Here I go!
+- **쿠로사키 코유키**: ...
+- **쿠로사키 코유키**: Um...
+- **쿠로사키 코유키**: It's...um...Sensei...
+- **쿠로사키 코유키**: I saw a password-locked drawer, so... I opened it, and...
+- **쿠로사키 코유키**: You sure have a lot of these...um...these strange books, don't you?
+- **쿠로사키 코유키**: Hah... Um... Well...
+- **쿠로사키 코유키**: I guess...Sensei must have...a private life too, right? Ah... N-Nihaha...
+- **쿠로사키 코유키**: I-I'm sorry... If I'd known what it was, I wouldn't have... Um... Niha...ha...
+- **쿠로사키 코유키**: Oh, no. It's okay. I understand. There's no need for that...
+- **쿠로사키 코유키**: Well, I-I... I just remembered... I left the oven on! I gotta wash my hair! And—
+- **쿠로사키 코유키**: Well, I'll...
+- **쿠로사키 코유키**: I'll be going!
+- **쿠로사키 코유키**: Then, um, goodbye!
+
+5. **「쿠로사키 코유키 인연 스토리 5」**
+
+- **쿠로사키 코유키**: Come on! Please, please, please! This is my chance!
+- **쿠로사키 코유키**: ...Uh...?
+- **쿠로사키 코유키**: Whoa! No! Oh! Okay... Uh oh!
+- **쿠로사키 코유키**: Wait... Please! Come on, come on...
+- **쿠로사키 코유키**: AAAAAAAAARGH!
+- **쿠로사키 코유키**: No, no, no! Hah. Nihaha. How?! How could this happen?
+- **쿠로사키 코유키**: Impossible! To fail so many times in a row... It's just impossible!
+- **쿠로사키 코유키**: It just doesn't make ANY sense! Ugh!
+- **쿠로사키 코유키**: AAAAAAAAARGH!
+- **쿠로사키 코유키**: *gasp* I-I'm sorry!
+- **쿠로사키 코유키**: Oh! Sensei?! What are you doing here?
+- **쿠로사키 코유키**: Just passing by? I-I see. What are the chances?
+- **쿠로사키 코유키**: ...Oh, you wanna know what I'm doing? Isn't it obvious? I'm playing a game! It's called Teatime Hiking, and...
+- **쿠로사키 코유키**: It's garbage! It's a garbage game. It's super difficult and everything's RNG-based!
+- **쿠로사키 코유키**: *sigh* Most people can reach level five without even trying, but I can't even clear the third...
+- **쿠로사키 코유키**: Yeah, I guess, but...
+- **쿠로사키 코유키**: Come on! You'd have to be super boring not to like games. ...Oh, you do like games, don't you?
+- **쿠로사키 코유키**: You do? I knew it! I told you so!
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: You wanna know what types of games I like? Hm... Maybe it'd be easier to tell you what I don't like...
+- **쿠로사키 코유키**: Sometimes the upperclassmen ask me to play chess and I have to make a hasty retreat.
+- **쿠로사키 코유키**: I don't really like games that make you sit and think about strategy or solve a bunch of logic puzzles.
+- **쿠로사키 코유키**: Isn't it more fun to play games that are unpredictable? Don't you love that feeling when something really improbable happens?
+- **쿠로사키 코유키**: It's thrilling! When something doesn't make any logical sense, but it happens anyway, that's what I love the most!
+- **쿠로사키 코유키**: Nihaha...
+- **쿠로사키 코유키**: Yeah. Well, you know I'm not the luckiest girl out there! I almost always lose in the end.
+- **쿠로사키 코유키**: But hey, that just means when things DO work out, it's that much more exciting!
+- **쿠로사키 코유키**: It's like when I'm in the middle of an escape, C&C hot on my trail...
+- **쿠로사키 코유키**: Geez, it was just a simile! You don't gotta take it so literally. I just meant that what you get out of life depends on your outlook!
+- **쿠로사키 코유키**: ...Huh? That doesn't make sense.
+- **쿠로사키 코유키**: Why are you talking about reaping and sowing? I'm not a farmer.
+- **쿠로사키 코유키**: Oh, you think...my luck would improve if I got my act together day-to-day?
+- **쿠로사키 코유키**: Hm, that just doesn't seem logical, though.
+- **쿠로사키 코유키**: I really just don't see the connection between games and my everyday conduct.
+- **쿠로사키 코유키**: I get that you're a teacher and you wanna turn this into a lesson—
+- **쿠로사키 코유키**: Wait, wait.
+- **쿠로사키 코유키**: We can test this out! If what you're saying is true...
+- **쿠로사키 코유키**: Someone like you, who's always trying to help people, should have incredible game luck, right? Right?
+- **쿠로사키 코유키**: ...Huh?
+- **쿠로사키 코유키**: Oh, so that's not what you meant? All right, I get it. I see what you're doing.
+- **쿠로사키 코유키**: I did kinda see this coming, honestly. But I hoped I was wrong.
+- **쿠로사키 코유키**: In the end, I guess you just...
+- **쿠로사키 코유키**: Don't...
+- **쿠로사키 코유키**: Think you can beat me?
+- **쿠로사키 코유키**: All I'm saying is I'm terrible at this game, but even I can clear level two. And here you are trying SO hard to avoid playing.
+- **쿠로사키 코유키**: But if you meant what you said, and you really think your luck depends on your behavior...
+- **쿠로사키 코유키**: It seems like someone like you could reach level ten, no problem.
+- **쿠로사키 코유키**: But I guess you never know. It'd be disappointing, but maybe you're all talk.
+- **쿠로사키 코유키**: If you're not, then I'm sure you could break my record, right?
+- **쿠로사키 코유키**: ...You want me to move?
+
+6. **「쿠로사키 코유키 인연 스토리 6」**
+
+- **쿠로사키 코유키**: ...Hmm.
+- **쿠로사키 코유키**: Dang it! I just can't find one. I guess this is another dead end.
+- **쿠로사키 코유키**: Oh? Sensei?
+- **쿠로사키 코유키**: Um... I hope you're not here just because of my texts. It's really nothing... Nihaha...
+- **쿠로사키 코유키**: I kinda feel like I've been texting you too much lately.
+- **쿠로사키 코유키**: It's super annoying when someone keeps getting in touch with you over and over. I...don't want you to get sick of me...
+- **쿠로사키 코유키**: Nihaha... You're saying that could never happen? Well... Thanks.
+- **쿠로사키 코유키**: Huh?
+- **쿠로사키 코유키**: Oh, you wanna know what I was doing? Um... So...
+- **쿠로사키 코유키**: You're probably gonna think this is weird.
+- **쿠로사키 코유키**: I was kinda... looking for a four-leaf clover? I guess...
+- **쿠로사키 코유키**: Nihahaha. Super weird, right? It's way too analog for me.
+- **쿠로사키 코유키**: R-Right? I knew it. I knew it was weird.
+- **쿠로사키 코유키**: And... It's probably just gonna sound even weirder if I try to explain, but I guess I'll do it anyways.
+- **쿠로사키 코유키**: You know how I have no luck when it comes to games? And also, no luck with everything else?
+- **쿠로사키 코유키**: I was trying to think about some ways to improve my luck, and this was my first idea!
+- **쿠로사키 코유키**: After all, what's the first thing you think of when you think of good luck? The four-leaf clover, right? So if I could find one, my luck would have to improve.
+- **쿠로사키 코유키**: That's what I thought, at least. But right away, I ran into a problem.
+- **쿠로사키 코유키**: Since the four-leaf clover is a symbol of good luck, you've gotta be lucky to find one!
+- **쿠로사키 코유키**: Nihahaha... It was a dumb idea, right? If anyone could increase their luck that easily, then no one in the world would have bad luck.
+- **쿠로사키 코유키**: In order to become luckier, you have to have good luck to begin with. It seems unfair, right?
+- **쿠로사키 코유키**: Nihaha... The universal symbol of good luck won't even show up for unlucky people.
+- **쿠로사키 코유키**: Er...
+- **쿠로사키 코유키**: I dunno, Sensei. What do you think?
+- **쿠로사키 코유키**: I guess I've never really thought about it, so I dunno if I even believe in luck.
+- **쿠로사키 코유키**: Most things don't work that way, right? Usually the world is just simple cause and effect.
+- **쿠로사키 코유키**: If there's a problem, it'll have a solution, and eventually someone will come along and figure it out. No luck involved.
+- **쿠로사키 코유키**: ...But...
+- **쿠로사키 코유키**: If things like luck really don't exist, it seems like the world would be...
+- **쿠로사키 코유키**: I don't know...boring? It'd be less fun!
+- **쿠로사키 코유키**: ...So I guess, whether or not it is, I want to believe that it's real! Nihahahahaha!
+- **쿠로사키 코유키**: Nihahaha... So I guess that's the whole story. That's how I ended up here, complaining.
+- **쿠로사키 코유키**: ...Huh? Behind me?
+- **쿠로사키 코유키**: What do you—
+- **쿠로사키 코유키**: Huh?
+- **쿠로사키 코유키**: Hey, wait! Is that...
+- **쿠로사키 코유키**: ― Wow, Sensei! An actual four-leaf clover!
+- **쿠로사키 코유키**: ― What happened?! It wasn't there just a moment ago!
+- **쿠로사키 코유키**: ― Is it possible... Could it have just appeared?
+- **쿠로사키 코유키**: ― No, that doesn't make sense...
+- **쿠로사키 코유키**: ― Did I not see it...? When did you spot it?
+- **쿠로사키 코유키**: ― How's this possible...?
+- **쿠로사키 코유키**: ― It's such perfect timing!
+- **쿠로사키 코유키**: ...!
+- **쿠로사키 코유키**: ...!
+- **쿠로사키 코유키**: ― Yes, yes! I see!
+- **쿠로사키 코유키**: ― Yay! You'd better think so, because...
+- **쿠로사키 코유키**: ―...It'll be more fun!
+
+7. **「쿠로사키 코유키 인연 스토리 7」**
+
+- **쿠로사키 코유키**: You saw, Sensei?
+- **쿠로사키 코유키**: How do you like it? That clover you found is preserved in the glass!
+- **쿠로사키 코유키**: With this, I'll never have to worry about it drying or crumbling away.
+- **쿠로사키 코유키**: ...And it's much harder to lose!
+- **쿠로사키 코유키**: I can even pass it down as a family heirloom! Nihahaha!
+- **쿠로사키 코유키**: That's right!
+- **쿠로사키 코유키**: I figured, since you were so talented at spotting the four-leaf clover...
+- **쿠로사키 코유키**: You could find my missing coin, Sensei!
+- **쿠로사키 코유키**: No! It's not some ordinary coin!
+- **쿠로사키 코유키**: It's a very special coin, with a tiny hole in the center.
+- **쿠로사키 코유키**: ...What?
+- **쿠로사키 코유키**: Eh?! Why do you have this, Sensei?!
+- **쿠로사키 코유키**: Did you steal this as revenge for that time I discovered your thin books?
+- **쿠로사키 코유키**: Eh-eh! A likely story! I've heard THAT excuse before!
+- **쿠로사키 코유키**: Wait? You really found it in the Self-Reflection Hallway?
+- **쿠로사키 코유키**: Uh... Um... Really?
+- **쿠로사키 코유키**: I'm sorry...
+- **쿠로사키 코유키**: I must have dropped it on the way to class.
+- **쿠로사키 코유키**: Nihaha! So, I guess calling you WAS a good idea!
+- **쿠로사키 코유키**: Thank you, Sensei!
+- **쿠로사키 코유키**: Fufu. You rascal. You've found your way home. Nihaha...
+- **쿠로사키 코유키**: Error currency? What's that?
+- **쿠로사키 코유키**: Oh, you mean money that's misprinted or misstamped?
+- **쿠로사키 코유키**: No! I drilled the hole myself! It's a Koyuki hand-made special!
+- **쿠로사키 코유키**: Yes! It's an arcade token. It's a very special coin.
+- **쿠로사키 코유키**: Desk drilling... That is a fun activity...
+- **쿠로사키 코유키**: But you see. Fu. Fu. Fu. This isn't something childish like that.
+- **쿠로사키 코유키**: This...is a challenge coin I made when I was really little.
+- **쿠로사키 코유키**: Yes! You drill a hole in a coin like this, tie a thread...
+- **쿠로사키 코유키**: ...and, while holding on to the string, you slot it in a gaming machine. And then...
+- **쿠로사키 코유키**: That's right! You're catching on.
+- **쿠로사키 코유키**: Huh? What do you mean, Sensei?
+- **쿠로사키 코유키**: This isn't "cheating." It's all for fairness! Fair and square!
+- **쿠로사키 코유키**: You ever use a claw machine, Sensei? You have the doll in your grasp, it's lifted, it's still in the claw... Then the machine just drops it at the last second like it's no big deal!
+- **쿠로사키 코유키**: And when you play "Teatime Hiking," the machine just throws out a new pattern as soon as you're getting in the groove!
+- **쿠로사키 코유키**: See? The games are deceptive, cruel, and unfair!
+- **쿠로사키 코유키**: And that...is why I have the right to even the odds a little.
+- **쿠로사키 코유키**: Tch...!
+- **쿠로사키 코유키**: I thought Sensei would get it!
+- **쿠로사키 코유키**: B-But I'm still not going to get rid of this coin!
+- **쿠로사키 코유키**: I can't even use it anymore, anyway! It worked once or twice, and then all the game machines changed to a card system.
+- **쿠로사키 코유키**: Huh? W-Well...
+- **쿠로사키 코유키**: ...I'm not sure.
+- **쿠로사키 코유키**: Why is it? Hm...
+- **쿠로사키 코유키**: Well... I guess I didn't want to throw it away?
+- **쿠로사키 코유키**: Anyway! Since you're here, let's play!
+- **쿠로사키 코유키**: I just got a new board game! And the expansion pack!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/쿠로사키 코유키
+- https://bluearchive.wiki (원문 스토리 스크립트)

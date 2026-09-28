@@ -1,0 +1,246 @@
+# 우시마키 주리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 우시마키 주리, 선생(샬레)
+
+1. **「우시마키 주리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「우시마키 주리 인연 스토리 2」**
+
+- **우시마키 주리**: Welcome, Sensei!
+- **우시마키 주리**: Thanks for agreeing to come today.
+- **우시마키 주리**: There's been something on my mind all day today.
+- **우시마키 주리**: I can't for the life of me figure out how much love I'm supposed to put in this dish.
+- **우시마키 주리**: But now that you're here, I'm sure the answer will come to me!
+- **우시마키 주리**: Come on! Be a little more enthused than that!
+- **우시마키 주리**: Come on! Be a little more enthused than that!
+- **우시마키 주리**: We're all about perfecting our craft and making even more delicious food.
+- **우시마키 주리**: No one trains harder in the culinary arts than the Gehenna School Lunch Club!
+- **우시마키 주리**: Oh! I've already thought of something.
+- **우시마키 주리**: I cooked three separate dishes: each with a different amount of love!
+- **우시마키 주리**: Sure did. They're waiting in the kitchen.
+- **우시마키 주리**: Sure did. They're waiting in the kitchen.
+- **우시마키 주리**: Huh? I didn't hear anything.
+- **우시마키 주리**: That must have been your stomach growling because it can't wait to have some yummy love-filled food.
+- **우시마키 주리**: Heehee. I'll start now! ♪
+- **우시마키 주리**: Here comes the first dish!
+- **우시마키 주리**: Huh? It's gambas al ajillo. Can't you tell?
+- **우시마키 주리**: The love in this food is...
+- **우시마키 주리**: Well, it represents how I feel about you!
+- **우시마키 주리**: It would make me happy if you tasted it!
+- **우시마키 주리**: Oh! How do you like it, Sensei?
+- **우시마키 주리**: You really think so?
+- **우시마키 주리**: You really think so?
+- **우시마키 주리**: Still, I was expecting a bigger reaction than that.
+- **우시마키 주리**: I must not have put enough love into that one. I feared as much.
+- **우시마키 주리**: I promise the next dish will be teeming with love!
+- **우시마키 주리**: This way!
+- **우시마키 주리**: We'll switch it up and try a different kind of love. Rather than the love between friends, this dish's love is harbored from a feeling of deep respect.
+- **우시마키 주리**: Surprise. It's garlic bread served with gambas soup.
+- **우시마키 주리**: Is it not?
+- **우시마키 주리**: Anyway, the cookbook I read had a great tip for how it should be served.
+- **우시마키 주리**: It said the garlic bread will taste better if you dip it in the soup!
+- **우시마키 주리**: I think you should try it, Sensei!
+- **우시마키 주리**: What's wrong, Sensei?
+- **우시마키 주리**: Hmm. Could your silence mean...
+- **우시마키 주리**: ...that it still wasn't loving enough for you?
+- **우시마키 주리**: Then how about this?
+- **우시마키 주리**: This third dish leaves nothing on the table.
+- **우시마키 주리**: I-It's made of the b-burning, passionate affection I have for you!
+- **우시마키 주리**: Oh, my. Th-This is so embarrassing...
+- **우시마키 주리**: Huh? Sensei? Can you hear me?
+- **우시마키 주리**: Oh. You're awake.
+- **우시마키 주리**: You must have been dead tired, Sensei.
+- **우시마키 주리**: You fell asleep before you could even finish eating...
+- **우시마키 주리**: I hope I wasn't pushing you too far when you were tired.
+- **우시마키 주리**: Thank you, Sensei.
+- **우시마키 주리**: Thank you, Sensei.
+- **우시마키 주리**: Still, you shouldn't push yourself so hard.
+- **우시마키 주리**: I've heard that you often skip meals because of how busy you are.
+- **우시마키 주리**: Oh, dear. Sensei, are you hungry?
+- **우시마키 주리**: How fortunate!
+- **우시마키 주리**: I had a feeling you might not have gotten your fill because you fell asleep in the middle of eating.
+- **우시마키 주리**: So, just in case, I packed all the leftovers and brought them over.
+- **우시마키 주리**: Don't be shy! Dig in!
+- **우시마키 주리**: Yes! The dish you're gonna eat this time is...
+
+3. **「우시마키 주리 인연 스토리 3」**
+
+- **우시마키 주리**: Today's dish is...
+- **우시마키 주리**: ...curry!
+- **우시마키 주리**: We don't get to cook together very often, so...
+- **우시마키 주리**: ...I thought, why not pick something everyone enjoys?
+- **우시마키 주리**: Is curry too plain for you?
+- **우시마키 주리**: We could try making gambas dishes like last time.
+- **우시마키 주리**: Hmm. Do you really think so?
+- **우시마키 주리**: Anyway, let's start with the ingredients!
+- **우시마키 주리**: I brought everything we'll need for curry ahead of time.
+- **우시마키 주리**: Here's a curry brick, pork, three potatoes, one onion...
+- **우시마키 주리**: ...carrots, and a bunch of spices we can try out later.
+- **우시마키 주리**: I think that should be enough.
+- **우시마키 주리**: Pardon?
+- **우시마키 주리**: Hmm? Well, let's get to prepping the ingredients.
+- **우시마키 주리**: The texture of sweet curry's pork is critical according to the recipe I read.
+- **우시마키 주리**: That's why it's important to make sure the pork is tender.
+- **우시마키 주리**: Agreed that we have several options at our disposal...
+- **우시마키 주리**: Agreed that we have several options at our disposal...
+- **우시마키 주리**: ...but it just so happens that I remembered a good one.
+- **우시마키 주리**: The more you knead the meat, the tenderer it will become.
+- **우시마키 주리**: And what better to get the job done than THIS?
+- **우시마키 주리**: A gun.
+- **우시마키 주리**: A double-barrel shotgun to be precise. I can pulverize the meat with dozens of pellets in a single shot!
+- **우시마키 주리**: Hiyah! ☆
+- **우시마키 주리**: Hiyah! ☆
+- **우시마키 주리**: The meat should be plenty tender now.
+- **우시마키 주리**: Did I do a bad job?!
+- **우시마키 주리**: Did I do a bad job?!
+- **우시마키 주리**: I should have known...
+- **우시마키 주리**: The others always freak out and try to stop me when I draw my gun in the kitchen.
+- **우시마키 주리**: I thought they were just trying to give me pointers about my grip... *sulks*
+- **우시마키 주리**: Geez, Sensei! Everyone knows how important form is when using tools!
+- **우시마키 주리**: You could end up hurting yourself if you mishandled a knife, for example. You have to be careful!
+- **우시마키 주리**: I-I may have made one oopsie, but it will be smooth sailing from here!
+- **우시마키 주리**: Recipe... Recipe...
+- **우시마키 주리**: Ah, here we go.
+- **우시마키 주리**: The next step is to stir-fry the ingredients.
+- **우시마키 주리**: According to the recipe, the correct order to stir-fry the ingredients is...
+- **우시마키 주리**: ...carrots first, then potatoes, and the onions last.
+- **우시마키 주리**: But won't that take too long?
+- **우시마키 주리**: The School Lunch Club always has to cook large quantities of food quickly in order for it to be ready by lunchtime.
+- **우시마키 주리**: I've been thinking of new ways to cook within our time limits...
+- **우시마키 주리**: ...which led me to THIS groundbreaking solution!
+- **우시마키 주리**: Yah!
+- **우시마키 주리**: Is something the matter, Sensei?
+- **우시마키 주리**: Every vegetable takes a different amount of time to cook.
+- **우시마키 주리**: That's what you want me to keep in mind, isn't it?
+- **우시마키 주리**: Ahem! I'm a member of the School Lunch Club. Of course I know that! ♪
+- **우시마키 주리**: But that's where my new groundbreaking method comes in.
+- **우시마키 주리**: Ta-da! We can use this!
+- **우시마키 주리**: Yup. If the flame on the gas stove isn't enough to cook everything evenly...
+- **우시마키 주리**: ...then we can use the blowtorch to cook every side at once!
+- **우시마키 주리**: And we can combine the gas stove and blowtorch for double the firepower!
+- **우시마키 주리**: Hiyah! ★
+- **우시마키 주리**: H-How could this have happened again...?
+- **우시마키 주리**: I-I was only trying to whip up curry for the students as fast as I could...
+- **우시마키 주리**: Th-This is fine! We can start over from the beginning!
+- **우시마키 주리**: First, I need to put out the fire!
+- **우시마키 주리**: There!
+- **우시마키 주리**: Oh, dear. The explosion must have tripped the sprinkler system...
+
+4. **「우시마키 주리 인연 스토리 4」**
+
+- **우시마키 주리**: *inhale* *exhale*
+- **우시마키 주리**: Yes. I try to figure out what went wrong every time I fail.
+- **우시마키 주리**: Cooking is always a struggle, let alone when I try something new like this.
+- **우시마키 주리**: But if we can figure out what I've been doing wrong thus far...
+- **우시마키 주리**: ...then I'll be able to focus on cooking without making any mistakes!
+- **우시마키 주리**: Let's start by prepping the ingredients.
+- **우시마키 주리**: You want me to make a promise?
+- **우시마키 주리**: O-Oh. Right...
+- **우시마키 주리**: O-Oh. Right...
+- **우시마키 주리**: O-Oh. Right...
+- **우시마키 주리**: So you're saying that we should only focus on the cooking and not efficiency.
+- **우시마키 주리**: Anyway, sure! I understand.
+- **우시마키 주리**: This time, I'll only do what the recipe says!
+- **우시마키 주리**: It's done, Sensei!
+- **우시마키 주리**: *gulp*
+- **우시마키 주리**: H-How is it?
+- **우시마키 주리**: Wh-What?!
+- **우시마키 주리**: Wh-What?!
+- **우시마키 주리**: Why?!
+- **우시마키 주리**: You're right. Maybe the ingredients were the problem.
+- **우시마키 주리**: So if we use the ones you brought instead...
+- **우시마키 주리**: All right. I can do this.
+- **우시마키 주리**: I'll try the recipe again!
+- **우시마키 주리**: I-It's done!
+- **우시마키 주리**: H-How is it?!
+- **우시마키 주리**: What?! How can that be?!
+- **우시마키 주리**: What should we do this time?!
+- **우시마키 주리**: *shock*
+- **우시마키 주리**: ...
+- **우시마키 주리**: What in the world is going on?!
+- **우시마키 주리**: I...
+- **우시마키 주리**: I just wanted to make a dish without screwing it up!
+- **우시마키 주리**: I still couldn't...
+- **우시마키 주리**: I still couldn't do it, even with you here.
+- **우시마키 주리**: I'm used to failing in the kitchen.
+- **우시마키 주리**: But since you were with me today...
+- **우시마키 주리**: ...I had hoped that we could get it right together.
+- **우시마키 주리**: Then I could show you that I'm capable of making good food.
+- **우시마키 주리**: *sniffle* I'm sorry, Sensei... *sob*
+- **우시마키 주리**: Sensei?
+- **우시마키 주리**: What?
+- **우시마키 주리**: You know how much this means to me...?
+- **우시마키 주리**: You know how much this means to me...?
+- **우시마키 주리**: ...
+- **우시마키 주리**: Oh, Sensei!
+- **우시마키 주리**: No! I mean, you're absolutely right!
+- **우시마키 주리**: I...let myself get discouraged.
+- **우시마키 주리**: I'm the School Lunch Club's Ushimaki Juri, and I won't go down that easily.
+- **우시마키 주리**: I'll keep on fighting. For you, Sensei!
+- **우시마키 주리**: I knew it. Your hands, Sensei.
+- **우시마키 주리**: They're warm.
+- **우시마키 주리**: Sensei, I want you to stand behind me and guide my hands.
+- **우시마키 주리**: We'll take it from the very top. First, I'll start with chopping the ingredients.
+- **우시마키 주리**: I don't want you to go anywhere until I get this right!
+
+5. **「우시마키 주리 인연 스토리 5」**
+
+- **우시마키 주리**: Oh, Sensei! I'm so glad you finally made it!
+- **우시마키 주리**: Oh, you mean all of this?
+- **우시마키 주리**: Isn't it obvious? It's a shovel, a sickle, and a hammer!
+- **우시마키 주리**: Well, to dig with the shovel like THUD, cut with the sickle like SWISH, and beat it with the hammer like BANG!
+- **우시마키 주리**: Ah! Don't worry. These aren't the only tools we have.
+- **우시마키 주리**: I have all different kinds besides just these.
+- **우시마키 주리**: So, you don't have to worry about whether we'll have enough tools, Sensei.
+- **우시마키 주리**: Trust that School Lunch Club member Juri is on the job!
+- **우시마키 주리**: Oh. Isn't it obvious.
+- **우시마키 주리**: Gardening!
+- **우시마키 주리**: Heehee. Do you like it?
+- **우시마키 주리**: This is the School Lunch Club's pride and joy: our garden!
+- **우시마키 주리**: Well, you see... The School Lunch Club is always working on a tight budget, and it can be hard to get enough food to make hundreds and hundreds of lunches for the students...
+- **우시마키 주리**: So we've been trying to solve the problem by growing some of the ingredients ourselves!
+- **우시마키 주리**: To make things even easier, there's a volcano right by Gehenna.
+- **우시마키 주리**: The soil in our region is very fertile because of it!
+- **우시마키 주리**: We just plant the seeds, water and prune them as needed, and then ta-da! It's like magic!
+- **우시마키 주리**: And now we can source the freshest garden-to-table vegetables and ingredients that we all worked together to grow!
+- **우시마키 주리**: Heehee. Isn't it pretty incredible!
+- **우시마키 주리**: H-Huh?! R-Really? Do you think so?
+- **우시마키 주리**: Heehee. I suppose you're right. Cooking will always have my whole heart, but I do love to garden as well.
+- **우시마키 주리**: I have a long way to go in my culinary journey... I still can't make an amazing dish that makes everyone go "Yum!" with just one bite...
+- **우시마키 주리**: But I thought helping us find a way to source high-quality ingredients at an affordable cost was something I could do to contribute.
+- **우시마키 주리**: Really good ingredients are delicious even before they're cooked! That's what I wanted to bring to the School Lunch Club.
+- **우시마키 주리**: This doesn't mean I'm giving up on becoming a master chef! I just wanted to do what I could, right now, with the skills I currently have, to make the students happier and healthier.
+- **우시마키 주리**: M-Me...?! Incredible? I-I'm just another normal student...
+- **우시마키 주리**: I just wanted to do what I could to help, since I'm still a novice cook.
+- **우시마키 주리**: B-But for you to give me such a huge compliment, Sensei...
+- **우시마키 주리**: W-Well...! What do I do?!
+- **우시마키 주리**: I-It doesn't matter! We're here for a job!
+- **우시마키 주리**: Let's get to gardening! Before we begin, I-I brought you a straw hat, arm sleeves, and sunscreen to protect you from the sun! Please be sure to use them.
+- **우시마키 주리**: Th-Then, shall we, Sensei?
+- **우시마키 주리**: ― Ah. Look, Sensei.
+- **우시마키 주리**: ― That ripe tomato
+- **우시마키 주리**: ― looks so delicious, doesn't it?
+- **우시마키 주리**: ― Heehee. This is all the result of everyone's hard work at the School Lunch Club.
+- **우시마키 주리**: ― Growing this garden was really worth it!
+- **우시마키 주리**: ― Oh, the tomatoes over there look really good too…
+- **우시마키 주리**: ― Um, uh, it's over there, b-but...
+- **우시마키 주리**: ― Aren't we really close right now…?
+- **우시마키 주리**: ― If you're this close, then, uh, um…
+- **우시마키 주리**: ― (Ah! Sensei's so close I can smell them…)
+- **우시마키 주리**: ― (M-My heart is beating faster for some strange reason…!)
+- **우시마키 주리**: ― I- I'm okay! P-Please don't worry…!
+- **우시마키 주리**: ― But, it's just that, you see... Um…
+- **우시마키 주리**: ― My face feels so hot… Eek…!
+- **우시마키 주리**: (I garden like this all the time, but it's a different experience doing it by Sensei's side, with my heart beating out of my chest...)
+- **우시마키 주리**: So, um... The thing is..! You see!
+- **우시마키 주리**: H-Huh...?!
+- **우시마키 주리**: Augh! I need space— I mean, water! We need water to water the plants! Y-Yes. I'll go get us some!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/우시마키 주리
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -103,12 +103,12 @@ const ASSET_URL_PENDING = new WeakMap<WorldData, Map<string, Promise<string | un
 const ASSET_URL_GENERATIONS = new WeakMap<WorldData, number>();
 const ASSET_URL_BUDGET = 64 * 1024 * 1024; // 캐시 상한 64MB(초과 시 오래된 것부터 해제)
 
-function createCachedAssetUrl(data: WorldData, file: string, kind: string | undefined, bytes: Uint8Array): string {
+function createCachedAssetUrl(data: WorldData, file: string, bytes: Uint8Array): string {
   const cache = ASSET_URL_CACHE.get(data) ?? new Map<string, { url: string; bytes: number }>();
   ASSET_URL_CACHE.set(data, cache);
   const current = cache.get(file);
   if (current) { cache.delete(file); cache.set(file, current); return current.url; }
-  const url = URL.createObjectURL(new Blob([new Uint8Array(bytes)], { type: mimeFor(file, kind) }));
+  const url = URL.createObjectURL(new Blob([new Uint8Array(bytes)], { type: mimeFor(file) }));
   cache.set(file, { url, bytes: bytes.byteLength });
   let total = 0;
   for (const entry of cache.values()) total += entry.bytes;
@@ -124,14 +124,13 @@ function createCachedAssetUrl(data: WorldData, file: string, kind: string | unde
   return url;
 }
 
-export function mimeFor(file: string, kind?: string): string {
+export function mimeFor(file: string): string {
   const lower = file.toLowerCase();
   if (lower.endsWith('.svg')) return 'image/svg+xml';
   if (lower.endsWith('.png')) return 'image/png';
   if (lower.endsWith('.jpg') || lower.endsWith('.jpeg')) return 'image/jpeg';
   if (lower.endsWith('.webp')) return 'image/webp';
   if (lower.endsWith('.gif')) return 'image/gif';
-  if (kind === 'audio') return lower.endsWith('.mp3') ? 'audio/mpeg' : 'audio/ogg';
   return 'application/octet-stream';
 }
 
@@ -153,7 +152,7 @@ export async function assetUrlAsync(data: WorldData, assetId: string): Promise<s
   const promise = (async () => {
     const bytes = await readAssetBytes(data, asset.file);
     if (!bytes || (ASSET_URL_GENERATIONS.get(data) ?? 0) !== generation) return undefined;
-    return createCachedAssetUrl(data, asset.file, asset.kind, bytes);
+    return createCachedAssetUrl(data, asset.file, bytes);
   })();
   pending.set(asset.file, promise);
   try {
@@ -176,8 +175,8 @@ export function releaseAssetUrls(data: WorldData): void {
   data.source?.clearCache?.();
 }
 
-export function assetUrl(data: WorldData, assetId: string): string | undefined { const asset=data.media.get(assetId); if(!asset) return undefined; const bytes=data.assetBytes.get(asset.file); if(!bytes) return undefined; return createCachedAssetUrl(data, asset.file, asset.kind, bytes); }
-export function resolveMedia(data: WorldData, nodes: import('@world-player/schema').ChatNode[], state?: string, situation?: string): import('@world-player/schema').ChatNode[] { return nodes.map(node => { if(node.type!=='media' && node.type!=='audio') return node; const asset=node.asset?data.media.get(node.asset):undefined; const stateAllowed=!asset?.validStates?.length || (!!state && asset.validStates.includes(state)); const situationAllowed=!asset?.validSituations?.length || (!!situation && asset.validSituations.includes(situation)); return asset && data.assetFiles.has(asset.file) && stateAllowed && situationAllowed ? node : {type:'text',text:`[unavailable ${node.type}: ${node.asset ?? 'missing'}]`}; }); }
+export function assetUrl(data: WorldData, assetId: string): string | undefined { const asset=data.media.get(assetId); if(!asset) return undefined; const bytes=data.assetBytes.get(asset.file); if(!bytes) return undefined; return createCachedAssetUrl(data, asset.file, bytes); }
+export function resolveMedia(data: WorldData, nodes: import('@world-player/schema').ChatNode[], state?: string, situation?: string): import('@world-player/schema').ChatNode[] { return nodes.map(node => { if(node.type!=='media') return node; const asset=node.asset?data.media.get(node.asset):undefined; const stateAllowed=!asset?.validStates?.length || (!!state && asset.validStates.includes(state)); const situationAllowed=!asset?.validSituations?.length || (!!situation && asset.validSituations.includes(situation)); return asset && data.assetFiles.has(asset.file) && stateAllowed && situationAllowed ? node : {type:'text',text:`[unavailable media: ${node.asset ?? 'missing'}]`}; }); }
 function arr(v: unknown): string[] { return Array.isArray(v) ? v.map(String) : []; }
 function ref(v: unknown) { return typeof v === 'string' ? { markdown: v } : undefined; }
 function asRules(v: unknown): KnowledgeRule[] { return Array.isArray(v) ? v.map(x => x as KnowledgeRule) : []; }
@@ -199,7 +198,7 @@ export async function loadWorld(source: WorldSource, options: LoadWorldOptions =
   const index = parseYaml(await source.read('index/entities.yaml').catch(() => 'entities: []')) as { entities?: Record<string, unknown>[] };
   for (const item of index.entities ?? []) {
     const e = item as Record<string, unknown>;
-    const entity = { id: String(e.id), type: (e.type ?? 'world') as Entity['type'], name: String(options.language === 'en' ? e.nameEn ?? e.name ?? e.id : e.name ?? e.id), nameEn: e.nameEn ? String(e.nameEn) : undefined, summary: String(options.language === 'en' ? e.summaryEn ?? e.summary ?? '' : e.summary ?? ''), summaryEn: e.summaryEn ? String(e.summaryEn) : undefined, markdown: e.markdown ? String(e.markdown) : undefined, markdownEn: e.markdownEn ? String(e.markdownEn) : undefined, banner: e.banner ? String(e.banner) : undefined, chatImage: e.chatImage ? String(e.chatImage) : undefined, voice: e.voice ? String(e.voice) : undefined, parent: e.parent ? String(e.parent) : undefined, tags: arr(e.tags), categories: arr(e.categories), relations: Array.isArray(e.relations) ? e.relations as {type:string;target:string}[] : [], personality: ref(e.personality), speech: ref(e.speech), prompt: ref(e.prompt), personalityEn: ref(e.personalityEn), speechEn: ref(e.speechEn), promptEn: ref(e.promptEn), knowledge: asRules(e.knowledge), states: arr(e.states) } as Entity;
+    const entity = { id: String(e.id), type: (e.type ?? 'world') as Entity['type'], name: String(options.language === 'en' ? e.nameEn ?? e.name ?? e.id : e.name ?? e.id), nameEn: e.nameEn ? String(e.nameEn) : undefined, summary: String(options.language === 'en' ? e.summaryEn ?? e.summary ?? '' : e.summary ?? ''), summaryEn: e.summaryEn ? String(e.summaryEn) : undefined, markdown: e.markdown ? String(e.markdown) : undefined, markdownEn: e.markdownEn ? String(e.markdownEn) : undefined, banner: e.banner ? String(e.banner) : undefined, chatImage: e.chatImage ? String(e.chatImage) : undefined, parent: e.parent ? String(e.parent) : undefined, tags: arr(e.tags), categories: arr(e.categories), relations: Array.isArray(e.relations) ? e.relations as {type:string;target:string}[] : [], personality: ref(e.personality), speech: ref(e.speech), prompt: ref(e.prompt), personalityEn: ref(e.personalityEn), speechEn: ref(e.speechEn), promptEn: ref(e.promptEn), knowledge: asRules(e.knowledge), states: arr(e.states) } as Entity;
     entities.set(entity.id, entity);
   }
   const timesKoText = await source.read('timeline/time-slices.yaml').catch(() => 'timeSlices: []');
@@ -382,30 +381,13 @@ export function eventMemory(data: WorldData | undefined, visible: Entity[], opti
   return ['Events you remember (use these details precisely; do not invent beyond them):', ...lines].join('\n');
 }
 
-/** 캐릭터가 응답에 쓸 수 있는 미디어 지시문 안내(사진 1개 + 선택적 음성). */
+/** 캐릭터가 응답에 쓸 수 있는 이미지 지시문 안내. */
 export function mediaDirectives(data: WorldData | undefined, character: Character, language: 'ko' | 'en' = 'ko'): string {
   if (!data) return '';
-  const slug = character.id.split(':')[1] ?? character.id;
   const image = character.chatImage && data.media.has(character.chatImage) ? character.chatImage : undefined;
-  const voiceIds = [...data.media.values()].filter(asset => asset.kind === 'audio' && asset.id.startsWith(`voice-${slug}-`)).map(asset => asset.id);
-  const preferred = voiceIds.filter(id => id.startsWith(`voice-${slug}-base-`));
-  const lines = [...new Set([...(character.voice ? [character.voice] : []), ...preferred.slice(0, 3)])].filter(id => data.media.has(id));
-  if (!image && lines.length === 0) return '';
+  if (!image) return '';
   const parts = [language === 'en' ? 'Optional media directives (place only at the start of a reply):' : '선택적 미디어 지시(응답 맨 앞에만 표시):'];
   if (image) parts.push(language === 'en' ? `- [[media:${image}]] — your portrait appears automatically. Use this only when you deliberately want to show a different picture.` : `- [[media:${image}]] — 기본 초상화는 자동 표시되므로 다른 이미지를 의도적으로 보여 줄 때만 사용한다.`);
-  if (lines.length) {
-    // 음성은 "기본 없음"이다. 목록이 있다는 이유만으로 붙이는 일이 없도록, 붙일 조건을 좁게 적는다.
-    parts.push(language === 'en' ? '- [[audio:<id>]] is optional. Keep voice usage rare.' : '- [[audio:<id>]] 음성은 선택 사항이며 드물게만 사용한다.');
-    parts.push(language === 'en' ? '- Use voice only if requested or a short spoken reaction fits the moment.' : '- 음성은 요청받았거나 짧은 반응에 꼭 필요할 때만 사용한다.');
-    parts.push(language === 'en' ? '- Never add voice just to greet or end a reply, and never use more than one.' : '- 인사나 대화 종료를 위해 음성을 붙이지 말고, 한 번에 하나만 사용한다.');
-    parts.push(language === 'en' ? 'Allowed voice clips:' : '사용 가능한 음성:');
-    for (const id of lines.slice(0, 4)) {
-      const description = data.media.get(id)?.description ?? '';
-      const transcript = description.split(/[—–]/).slice(1).join(' — ').trim();
-      const englishTranscript = transcript && !/[가-힣]/.test(transcript) ? transcript : 'voice clip';
-      parts.push(`  [[audio:${id}]] — "${englishTranscript.slice(0, 120)}"`);
-    }
-  }
   parts.push(language === 'en' ? 'Use English for all original dialogue. Place any directive before the dialogue; plain text is the normal case.' : '지시문은 먼저 쓰고, 대사는 자연스러운 한국어로 작성한다. 보통은 텍스트만 쓴다.');
   return parts.join('\n');
 }
@@ -451,4 +433,4 @@ export function buildPrompt(input: { data?: WorldData; world: World; character: 
     language === 'en' && input.visible.some(e => e.markdown && !input.data?.documents.has(`locales/en/${e.markdown}`)) ? 'Some visible story source has no reviewed English version; do not guess, paraphrase Korean, or claim knowledge of unavailable details.' : memory,
     media, language === 'en' ? 'Knowledge boundary: Never claim hidden information as known; express uncertainty naturally in character voice. Speak only English.' : 'Knowledge boundary: Never claim hidden information as known; express uncertainty naturally in character voice. 한국어로 대답한다.'].filter(Boolean).join('\n');
 }
-export function validateWorld(data: WorldData): ValidationIssue[] { const issues: ValidationIssue[] = []; if (!data.manifest.schemaVersion || !data.manifest.id || !data.manifest.entry) issues.push({level:'error',code:'INVALID_MANIFEST',message:'manifest.yaml requires schemaVersion, id, and entry'}); if (data.manifest.id !== data.world.id) issues.push({level:'error',code:'MANIFEST_ID_MISMATCH',message:'Manifest and world IDs differ'}); const ids = new Set(data.entities.keys()); for (const [entityId, targets] of data.links) for (const target of targets) if (!ids.has(target)) issues.push({level:'error',code:'BROKEN_INTERNAL_LINK',message:`${entityId} links to missing ${target}`,entity:entityId}); for (const e of data.entities.values()) { for (const r of e.relations) if (!ids.has(r.target)) issues.push({level:'error',code:'BROKEN_RELATION',message:`${e.id} references missing ${r.target}`,entity:e.id}); if (e.markdown && !data.documents.has(e.markdown)) issues.push({level:'error',code:'MISSING_MARKDOWN',message:`${e.id} references missing ${e.markdown}`,entity:e.id}); for (const r of (e as Character).knowledge ?? []) if (!ids.has(r.target)) issues.push({level:'error',code:'BROKEN_FOG_TARGET',message:`${e.id} fog rule references missing ${r.target}`,entity:e.id}); } const slices = new Set(data.timeSlices.map(x => x.id)); if (data.timeSlices.some((x,i) => data.timeSlices.slice(i+1).some(y => y.position === x.position))) issues.push({level:'error',code:'DUPLICATE_TIME_POSITION',message:'Time slices must have unique positions'}); for (const s of data.states) { if (!ids.has(s.character)) issues.push({level:'error',code:'BROKEN_STATE_CHARACTER',message:`${s.id} references missing ${s.character}`}); if (s.validFrom && !slices.has(s.validFrom)) issues.push({level:'error',code:'BROKEN_STATE_START',message:`${s.id} references missing time slice ${s.validFrom}`}); if (s.validUntil && !slices.has(s.validUntil)) issues.push({level:'error',code:'BROKEN_STATE_END',message:`${s.id} references missing time slice ${s.validUntil}`}); if (s.personality?.markdown && !data.documents.has(s.personality.markdown)) issues.push({level:'error',code:'MISSING_STATE_DOCUMENT',message:`${s.id} references missing personality document`}); if (s.speech?.markdown && !data.documents.has(s.speech.markdown)) issues.push({level:'error',code:'MISSING_STATE_DOCUMENT',message:`${s.id} references missing speech document`}); for (const rule of s.knowledge ?? []) if (!ids.has(rule.target)) issues.push({level:'error',code:'BROKEN_STATE_FOG_TARGET',message:`${s.id} fog rule references missing ${rule.target}`}); } if (data.world.banner && !data.media.has(data.world.banner)) issues.push({level:'warning',code:'MISSING_BANNER',message:`world banner ${data.world.banner} is not a media asset`}); for (const e of data.entities.values()) if (e.banner && !data.media.has(e.banner)) issues.push({level:'warning',code:'MISSING_BANNER',message:`${e.id} banner ${e.banner} is not a media asset`,entity:e.id}); for (const e of data.entities.values()) { const c = e as Character; if (c.chatImage && !data.media.has(c.chatImage)) issues.push({level:'warning',code:'MISSING_CHAT_IMAGE',message:`${e.id} chatImage ${c.chatImage} is not a media asset`,entity:e.id}); if (c.voice && !data.media.has(c.voice)) issues.push({level:'warning',code:'MISSING_VOICE',message:`${e.id} voice ${c.voice} is not a media asset`,entity:e.id}); } for (const [id, asset] of data.media) { if (!asset.file || !asset.description || !['profile','portrait','sprite','background','expression','illustration','audio'].includes(asset.kind)) issues.push({level:'error',code:'INVALID_MEDIA',message:`${id} requires valid file, kind, and description`}); else if (!data.assetFiles.has(asset.file)) issues.push({level:'error',code:'MISSING_MEDIA_FILE',message:`${id} references missing ${asset.file}`}); } for (const [path, body] of data.documents) for (const node of parseMarkdown(body).nodes) if ((node.type === 'media' || node.type === 'audio') && !data.media.has(node.asset ?? '')) issues.push({level:'error',code:'BROKEN_MEDIA_DIRECTIVE',message:`${path} references missing media ${node.asset}`}); return issues; }
+export function validateWorld(data: WorldData): ValidationIssue[] { const issues: ValidationIssue[] = []; if (!data.manifest.schemaVersion || !data.manifest.id || !data.manifest.entry) issues.push({level:'error',code:'INVALID_MANIFEST',message:'manifest.yaml requires schemaVersion, id, and entry'}); if (data.manifest.id !== data.world.id) issues.push({level:'error',code:'MANIFEST_ID_MISMATCH',message:'Manifest and world IDs differ'}); const ids = new Set(data.entities.keys()); for (const [entityId, targets] of data.links) for (const target of targets) if (!ids.has(target)) issues.push({level:'error',code:'BROKEN_INTERNAL_LINK',message:`${entityId} links to missing ${target}`,entity:entityId}); for (const e of data.entities.values()) { for (const r of e.relations) if (!ids.has(r.target)) issues.push({level:'error',code:'BROKEN_RELATION',message:`${e.id} references missing ${r.target}`,entity:e.id}); if (e.markdown && !data.documents.has(e.markdown)) issues.push({level:'error',code:'MISSING_MARKDOWN',message:`${e.id} references missing ${e.markdown}`,entity:e.id}); for (const r of (e as Character).knowledge ?? []) if (!ids.has(r.target)) issues.push({level:'error',code:'BROKEN_FOG_TARGET',message:`${e.id} fog rule references missing ${r.target}`,entity:e.id}); } const slices = new Set(data.timeSlices.map(x => x.id)); if (data.timeSlices.some((x,i) => data.timeSlices.slice(i+1).some(y => y.position === x.position))) issues.push({level:'error',code:'DUPLICATE_TIME_POSITION',message:'Time slices must have unique positions'}); for (const s of data.states) { if (!ids.has(s.character)) issues.push({level:'error',code:'BROKEN_STATE_CHARACTER',message:`${s.id} references missing ${s.character}`}); if (s.validFrom && !slices.has(s.validFrom)) issues.push({level:'error',code:'BROKEN_STATE_START',message:`${s.id} references missing time slice ${s.validFrom}`}); if (s.validUntil && !slices.has(s.validUntil)) issues.push({level:'error',code:'BROKEN_STATE_END',message:`${s.id} references missing time slice ${s.validUntil}`}); if (s.personality?.markdown && !data.documents.has(s.personality.markdown)) issues.push({level:'error',code:'MISSING_STATE_DOCUMENT',message:`${s.id} references missing personality document`}); if (s.speech?.markdown && !data.documents.has(s.speech.markdown)) issues.push({level:'error',code:'MISSING_STATE_DOCUMENT',message:`${s.id} references missing speech document`}); for (const rule of s.knowledge ?? []) if (!ids.has(rule.target)) issues.push({level:'error',code:'BROKEN_STATE_FOG_TARGET',message:`${s.id} fog rule references missing ${rule.target}`}); } if (data.world.banner && !data.media.has(data.world.banner)) issues.push({level:'warning',code:'MISSING_BANNER',message:`world banner ${data.world.banner} is not a media asset`}); for (const e of data.entities.values()) if (e.banner && !data.media.has(e.banner)) issues.push({level:'warning',code:'MISSING_BANNER',message:`${e.id} banner ${e.banner} is not a media asset`,entity:e.id}); for (const e of data.entities.values()) { const c = e as Character; if (c.chatImage && !data.media.has(c.chatImage)) issues.push({level:'warning',code:'MISSING_CHAT_IMAGE',message:`${e.id} chatImage ${c.chatImage} is not a media asset`,entity:e.id}); } for (const [id, asset] of data.media) { if (!asset.file || !asset.description || !['profile','portrait','sprite','background','expression','illustration'].includes(asset.kind)) issues.push({level:'error',code:'INVALID_MEDIA',message:`${id} requires valid file, kind, and description`}); else if (!data.assetFiles.has(asset.file)) issues.push({level:'error',code:'MISSING_MEDIA_FILE',message:`${id} references missing ${asset.file}`}); } for (const [path, body] of data.documents) for (const node of parseMarkdown(body).nodes) if (node.type === 'media' && !data.media.has(node.asset ?? '')) issues.push({level:'error',code:'BROKEN_MEDIA_DIRECTIVE',message:`${path} references missing media ${node.asset}`}); return issues; }

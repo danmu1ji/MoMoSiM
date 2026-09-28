@@ -1,0 +1,241 @@
+# 히메키 메루 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 히메키 메루, 선생(샬레)
+
+1. **「히메키 메루 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「히메키 메루 인연 스토리 2」**
+
+- **히메키 메루**: Welcome, Sensei! You really kept me waiting!
+- **히메키 메루**: All of my ideas and creativity nearly wilted away!
+- **히메키 메루**: So, so? Did you get the tablet pen? Did you?
+- **히메키 메루**: All right! Now I can...can...?
+- **히메키 메루**: S-Sensei...?
+- **히메키 메루**: No, it's actually the opposite? I don't know... This is too much...!
+- **히메키 메루**: A tablet pen of this quality... I've only heard of rumors of such things at Red Winter.
+- **히메키 메루**: Are you sure this is for me? Something this expensive? Really? Is it?
+- **히메키 메루**: Then I couldn't possibly decline! A personal gift from Sensei!
+- **히메키 메루**: What else is in here? Huh?! So many spare pen nibs?!
+- **히메키 메루**: Do you think we're struggling at Red Winter or something?! Well... I can't completely deny that, actually...
+- **히메키 메루**: We can find grenades, excavator blades, and hydraulic equipment super easily!
+- **히메키 메루**: But things like high-quality tissues, soap, ball-point pens, or really good pudding are really hard to come by!
+- **히메키 메루**: A-Ahem. Anyways, thank you.
+- **히메키 메루**: I feel like I need to repay you somehow...
+- **히메키 메루**: What do teachers like as gifts?
+- **히메키 메루**: Come on! If you want to play that game, I can say that it's only natural for a student to want to repay a teacher's favor!
+- **히메키 메루**: ...You're treating me like a child, Sensei! I won't allow it!
+- **히메키 메루**: Have it your way! I'll utilize your gift of spare pen nibs, and I'll make you something myself!
+- **히메키 메루**: ...What's my plan? Heeheehee.
+- **히메키 메루**: Sensei's very own custom portrait!
+- **히메키 메루**: No, it's not! Just think of my services as one of those street vendors who draw caricatures for ridiculous prices!
+- **히메키 메루**: But way better! Because it's free, and from me!
+- **히메키 메루**: What do you mean? Why would this be trouble for me at all?
+- **히메키 메루**: Quite the opposite, actually! It's always good to practice with new subjects.
+- **히메키 메루**: This once-in-a-lifetime chance may never come again! So just sit still and accept my gift!
+- **히메키 메루**: Do you intend to resist to the end?! That only makes my artists' soul burn brighter and stronger!
+- **히메키 메루**: Forget about repayment! Just let me draw you!
+- **히메키 메루**: Heeheehee. Cry all you want! There's no one around to hear your pleas!
+- **히메키 메루**: The library of the Knowledge Liberation Front is secluded from the rest of the campus! It's just you and me!
+- **히메키 메루**: Huh?
+- **히메키 메루**: Wait. I'm stumped. I can only have one or the other? The pen or Sensei's sketch?
+- **히메키 메루**: But I can't even sketch you without the pen in the first place!
+- **히메키 메루**: Ugh! Is this how you adults handle things? Manipulative! Unfair! Meanie-head!
+- **히메키 메루**: Is this the end of the road for my artists' soul? Is my flame flickering out?
+- **히메키 메루**: Fine! You've won this battle! Hand over the tablet pen and the extra nibs! You live to see another day!
+- **히메키 메루**: But as long as I have my pen, I won't give up. I WILL sketch you, Sensei!
+- **히메키 메루**: To achieve my dreams, I will stalk your every breath! I will study every line of your face!
+
+3. **「히메키 메루 인연 스토리 3」**
+
+- **히메키 메루**: How should the heroine react to being asked out for the first time, ever?!
+- **히메키 메루**: Because I don't! You're an adult, you should know these things!
+- **히메키 메루**: Hm... I guess I'll have to explain everything to you.
+- **히메키 메루**: So, in my story, there's a heroine.
+- **히메키 메루**: She's clumsy, doesn't have a lot of confidence, and has never put enough effort into learning how to put on makeup or nice outfits.
+- **히메키 메루**: But after a series of harrowing events, she unexpectedly gets asked on a date!
+- **히메키 메루**: That part doesn't matter!
+- **히메키 메루**: Anyways... So the heroine puts on makeup for the first time in her life, right?
+- **히메키 메루**: And in anticipation for the date, she even makes a bento for the first time too!
+- **히메키 메루**: No, no! That's where the problem begins!
+- **히메키 메루**: What kind of thoughts are going through her head as she leaves home?
+- **히메키 메루**: What are the feelings coursing through her body as she makes her way to the date?
+- **히메키 메루**: And...what happens on a date?! And how is she supposed to react?
+- **히메키 메루**: Aaaagh! I just don't know! I don't! I'm completely blocked!
+- **히메키 메루**: Wh-What?! What are you talking about?
+- **히메키 메루**: Sensei?
+- **히메키 메루**: Sensei?!
+- **히메키 메루**: A-All right! I'm coming! You don't have to pull me!
+- **히메키 메루**: ...
+- **히메키 메루**: I... I'm really here...
+- **히메키 메루**: What are you planning, Sensei?!
+- **히메키 메루**: Hmm, a walk...
+- **히메키 메루**: I guess experiencing new environments can get my creative juices flowing.
+- **히메키 메루**: Oh. Are you my escort for the day? All right! Lead the way, Sensei!
+- **히메키 메루**: This is...a large-scale shopping mall...?
+- **히메키 메루**: There sure are a lot of people here... Red Winter is also pretty large, but it doesn't have enough students to make it look busy like it does here.
+- **히메키 메루**: Oh! Look at those two. They look like they could be a good reference.
+- **히메키 메루**: A cosmetics shop. One student is trying to apply some makeup on the other, but the second student is fending her off. Maybe she's never worn makeup before.
+- **히메키 메루**: Hm, hmmm... Something's working up here...
+- **히메키 메루**: I got it! It's a sketchable moment!
+- **히메키 메루**: This is perfect! The heroine does her best to put on makeup, but her partner thinks it doesn't suit her face!
+- **히메키 메루**: So the partner drags the heroine to the cosmetics shop. She immediately tries to resist!
+- **히메키 메루**: That triggers the unintended, opposite effect! Her resistance makes the partner want to tease her even more! What started with just light foundation becomes a full make-up experience. She is transformed!
+- **히메키 메루**: No, wait. We need more mystique! The heroine was only pretending she didn't care! In reality, all of it was carefully manufactured to trigger the partner's teasing.
+- **히메키 메루**: The person who thought they were on the offensive was actually playing to the heroine's tune...
+- **히메키 메루**: Hold just a minute, Sensei! You DO know how these date things go!
+- **히메키 메루**: Huh? Sensei? What are you doing? This is the best part! Don't pull me away!
+- **히메키 메루**: Hm. An amusement park this time. A staple in any date event.
+- **히메키 메루**: Let's see... Are there any students enjoying their time here...and I see some! Speak of the devil!
+- **히메키 메루**: A Ferris wheel! The perfect setting: a small cart, snuggled together as you spin round and round.
+- **히메키 메루**: ...And here's another one! A sketchable moment!
+- **히메키 메루**: Stop worrying about unimportant details! This is a common cliché!
+- **히메키 메루**: The heroine and her partner, still a little shy and nervous, tentatively take spots across from each other in the cart.
+- **히메키 메루**: But then, as the elevation climbs, so do their feelings for each other. They gaze into each other's eyes as they reach the top.
+- **히메키 메루**: The partner stands, walks across the cart, and takes their place next to the heroine...
+- **히메키 메루**: And with the closing of physical distance comes the closing the emotional distance...! And then, then...!
+- **히메키 메루**: Wait! This is the perfect moment!
+- **히메키 메루**: But, I guess a roller coaster won't be a bad experience either. Not bad at all.
+- **히메키 메루**: Per the laws of misattribution of attraction, the heroine and her partner...
+- **Guide**: Please put on the security belt and keep your hands and feet inside of the ride during operation.
+- **히메키 메루**: Hahaha! This is really good!
+- **히메키 메루**: A cafe, this time! Fascinating. See, cafes can have many meanings. It can be a place to study, a favorite spot for friends, or a private date for two...
+- **히메키 메루**: But, in reality, all of these things are happening in a very public space!
+- **히메키 메루**: The dichotomy of the private and the public, the swirl of contradictory emotions that rise in the participants... Heehee. HEEHEEHEE! My artist's soul is ALIVE!
+- **히메키 메루**: Huh? Oh, right. We need to buy something to stay. I'll have...
+- **히메키 메루**: Hey, Sensei. The two over there. I've been watching them for a while now...
+- **히메키 메루**: Oh, one of them dropped a straw.
+- **히메키 메루**: Oh, well that's a boring ending.
+- **히메키 메루**: But my sketchable moment won't be stopped here! This time it'll be the heroine's turn to be on the offensive! She makes it looks like she drops the straw by mistake, in order to naturally transition to sharing a single straw...!
+- **히메키 메루**: Wait, is that right? Should it be the other way around? Maybe such a sudden progression in the character's boldness will disrupt her development?
+
+4. **「히메키 메루 인연 스토리 4」**
+
+- **히메키 메루**: What is my evil plan? Good question!
+- **히메키 메루**: Heeheehee... Last time, you showed me a glimpse of your world.
+- **히메키 메루**: So this time, I'll be bringing you into my world!
+- **히메키 메루**: Overruled! No right to remain silent either!
+- **히메키 메루**: Your normal rights won't be recognized in my court! Hahaha!
+- **히메키 메루**: Heh. Heh heh. It may seem like an average arcade...
+- **히메키 메루**: But if we walk down the stairs hidden behind the crane game...!
+- **히메키 메루**: Huh? You know what figurines are, Sensei?
+- **히메키 메루**: How unexpected... I didn't know you had these kinds of interests.
+- **히메키 메루**: Take your time and peruse the shop! This place was originally used for trading or selling used manga.
+- **히메키 메루**: But over time, people started trading other, similar items. Eventually, it just became a general place for otaku-related goods.
+- **히메키 메루**: Plastic models, figurines, toys, tokusatsu scripts, animation stills, manga drafts...
+- **히메키 메루**: But the area that really gained popularity was the figurines section.
+- **히메키 메루**: ...Don't have too much fun now.
+- **히메키 메루**: Sensei! You're beginning to imitate my mannerisms. Adults really are fast learners.
+- **히메키 메루**: But this isn't just any mall! It's different from other malls!
+- **히메키 메루**: It has a pop-up store!
+- **히메키 메루**: It's a limited-time, brick-and-mortar shop that sells specialized goods!
+- **히메키 메루**: They're called "pop-ups" because they're only around for a limited time.
+- **히메키 메루**: Pop-up stores for tv shows, music, and other fancy goods have been...popping up all over the place!
+- **히메키 메루**: But this one is the good stuff! It handles limited time goods that only us and those like us can truly appreciate!
+- **히메키 메루**: Good eye, Sensei!
+- **히메키 메루**: Everyone is here to purchase what they want, and get out! They don't want to waste energy or time talking to others!
+- **히메키 메루**: Such behavior is the cornerstone of otaku culture!
+- **Bulk Purchase Customer**: Heh heh... I can probably list this item online for one-point-five... No! Maybe even twice the retail price! My profits will skyrocket!
+- **히메키 메루**: ...
+- **히메키 메루**: It's a scalper! Get 'em!
+- **히메키 메루**: It is indeed a cafe, but this one is different from the last one we went to.
+- **히메키 메루**: You can feel the difference, can't you?
+- **히메키 메루**: Indeed! They're doing a collaboration event!
+- **히메키 메루**: They have life-sized stands, special gift cards, a sneak preview of the upcoming movie, merch...
+- **히메키 메루**: Oh, and the menu also has special collaboration items! What would you like?
+- **히메키 메루**: Then I'll have the "Pink Energizer Frenzy MAX Special!"
+- **히메키 메루**: Whew, I feel so at home.
+- **히메키 메루**: Of course. These kinds of places tend to attract more introverted, quiet types.
+- **히메키 메루**: ...
+- **히메키 메루**: Okay. I have something to tell you, Sensei. But I'm only telling you!
+- **히메키 메루**: One of my dreams...is creating something and getting to collaborate with a cafe, just like this.
+- **히메키 메루**: Most of my works are derivatives right now, but one day an original work of mine will be flying off the stands!
+- **히메키 메루**: ...It absolutely is! Although I know the path there will be treacherous to navigate.
+- **히메키 메루**: I wish art was as easy as just sitting down and creating something every once in a while.
+- **히메키 메루**: I know, I know. Life isn't that easy, so you don't have to give me that look... It's not like every act of creation can always be fun.
+- **히메키 메루**: ...
+- **히메키 메루**: In my case, no matter how many obstacles I face, it's harder for me to not create an idea I've had, than to just let it go. It's not always because I like doing it.
+- **히메키 메루**: What does that mean? Hm...
+- **히메키 메루**: Think of it this way. Sometimes, a scene or an idea will blossom in my brain.
+- **히메키 메루**: Like the sketchable moments! Something will trigger an idea: a book, an anime, anything really, and that moment becomes a scene in my head!
+- **히메키 메루**: I can't help but to then start building the next scene, or even the entire plot! I suppose letting the idea go would be an option...
+- **히메키 메루**: But it feels almost impossible to just set them free, you know?
+- **히메키 메루**: Let's say you come across a small bird with its head stuck in a tin can. What would you do?
+- **히메키 메루**: Exactly! That's how I feel about my sketchable moments! They're just like the bird with the tin can.
+- **히메키 메루**: I can't just walk by and let it go! I have to rescue the bird, and see it take glorious flight.
+- **히메키 메루**: Huh? Don't stories and scenes pop up in my head all the time?
+- **히메키 메루**: Duh. That's the point Sensei! That's why my artist's soul can never stop burning!
+- **히메키 메루**: If I can't express these sketchable moments, these scenes that play in my head, I'll go insane!
+- **히메키 메루**: But lately, I've been feeling something strange... Like something new, stronger than a sketchable moment, is trying to burst forth in my mind. It's been a real struggle to...
+- **히메키 메루**: ...
+- **히메키 메루**: Wait, what am I saying...?!
+- **히메키 메루**: ...!
+- **히메키 메루**: W-We've been here for way too long! Let's get out of here!
+
+5. **「히메키 메루 인연 스토리 5」**
+
+- **히메키 메루**: Huh? Sensei?! You're actually here?
+- **히메키 메루**: If I knew you were coming, I would've prepped at least a little!
+- **히메키 메루**: No, no, no! Don't say that, I'll feel bad.
+- **히메키 메루**: ...What? That was the point?! What a rotten adult...!
+- **히메키 메루**: Ahem! Anyways... What to do? I don't have anything I can recommend to you in the Knowledge Liberation Front's library.
+- **히메키 메루**: It's filled to the brim with things you won't like...or maybe, knowing Sensei, you'll actually really like them...
+- **히메키 메루**: I-I can't show them to you! I'd rather...
+- **히메키 메루**: Oh, yeah! I have an idea!
+- **히메키 메루**: I welcome you...to the Knowledge Liberation Front's workshop!
+- **히메키 메루**: Well... It's more like my rehabilitation center rather than a battlefield.
+- **히메키 메루**: What do I mean by that? Um... Well...
+- **히메키 메루**: I brought you all the way here, so I guess I should tell you.
+- **히메키 메루**: ...It's a bit embarrassing, but sometimes the act of creation doesn't go as I imagined. Most of the time, actually.
+- **히메키 메루**: Whenever that happens, I get discouraged, like I'm backed into a corner.
+- **히메키 메루**: The more trapped I start to feel, the more I feel like it's time to lay down the pen.
+- **히메키 메루**: In a way, I guess it is a battlefield. I'm a soldier who just lost a battle. Her morale is low, and she doesn't have the energy to keep moving forward. But her superiors demand she pick up her weapon and go on fighting.
+- **히메키 메루**: When that battlefield gets to be too much, I come here to start all over again.
+- **히메키 메루**: It's kind of training and mental rehabilitation all in one.
+- **히메키 메루**: Does that sound totally crazy? Creating is what brought me down, but the only way to bring myself back up is through art!
+- **히메키 메루**: How is it that creative types all have a screw loose? Hahaha!
+- **히메키 메루**: Don't congratulate me, Sensei! This is where original sin itself was born!
+- **히메키 메루**: The original sin of doing everything because I love to do it.
+- **히메키 메루**: What? The things we love to do...can still be hard...?
+- **히메키 메루**: ...
+- **히메키 메루**: You're really hitting the mark today, Sensei.
+- **히메키 메루**: ...
+- **히메키 메루**: Geez...
+- **히메키 메루**: ― I'm not doing anything that amazing.
+- **히메키 메루**: ― I just don't have anything else I can do,
+- **히메키 메루**: ― or anything else I'm good at...
+- **히메키 메루**: ― Maybe that's why...
+- **히메키 메루**: ― Why I keep wanting to create.
+- **히메키 메루**: ― But this, right now... It doesn't feel wrong or bad.
+- **히메키 메루**: ― Here, in this workshop,
+- **히메키 메루**: ― I feel like I can really talk to you.
+- **히메키 메루**: ― Because...
+- **히메키 메루**: ― Creation necessitates change, right?
+- **히메키 메루**: ― And you, you're someone who helps me change, Sensei.
+- **히메키 메루**: ― Ugh...
+- **히메키 메루**: ― I just said something super cringey.
+- **히메키 메루**: ― Uh, just pretend you didn't hear anything! Forget it! Forget it right now!
+- **히메키 메루**: ― Ahahaha!
+- **히메키 메루**: Didn't I just tell you to drop it?!
+- **히메키 메루**: Ugh, have it your way! How do I explain this...
+- **히메키 메루**: These days, I've been noticing things that would normally fly under my radar.
+- **히메키 메루**: Things that would barely catch my attention, incite interest and sketchable moments in my mind.
+- **히메키 메루**: Yeah... If that makes sense. I've been wanting to draw a...wider variety of things.
+- **히메키 메루**: And I think a lot of that...is thanks to your influence.
+- **히메키 메루**: Yes, you! So I need you to take responsibility for changing me into the person I am today.
+- **히메키 메루**: *sigh* Well, I knew you would say something like that.
+- **히메키 메루**: Regardless of how predictable that response was, it was still an incorrect one. Bzzzt. One warning.
+- **히메키 메루**: Since now! So you have to help me with my manuscript!
+- **히메키 메루**: ...? How else are you going to atone for the warning I just gave you?
+- **히메키 메루**: Are you really going to tuck your tail behind your legs and go back to Schale with a WARNING?
+- **히메키 메루**: I'm sure that would ruin your day, right?
+- **히메키 메루**: Right? RIGHT?
+- **히메키 메루**: I knew it! Now then, let's see what I can ask you to do first!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/히메키 메루
+- https://bluearchive.wiki (원문 스토리 스크립트)

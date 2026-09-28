@@ -1,0 +1,147 @@
+# Group Story / Genryumon / 3
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Genryumon/3
+Status: source-extracted-unreviewed
+
+
+- Kisaki (Genryumon): ...
+- Kokona (Plum Blossom Garden): ...
+- "What...is...going...on...?"
+- Kisaki (Genryumon): Was I not scheduled to do morning exercises with the Plum Blossom Garden children and Instructor Kokona?
+- Plum Blossom Students (Plum Blossom Garden): Kokona...? Madam...? What's going on...?
+- Reijo (Black Tortoise Promenade): President Kaguya...? What brings the Peking Opera Club here...?
+- Kaguya (Peking Opera Club): I believe that is my question to ask? Why is Reijo from the Black Tortoise Promenade, and the Martial Arts Research Club, here?
+- Reijo (Black Tortoise Promenade): This is the strangest coincidence I've ever seen.
+- Kaguya (Peking Opera Club): I must agree. To wander around the world like duckweed, come back, and meet...this is what they would truly call a "coincidence."
+- Reijo (Black Tortoise Promenade): Anyways, fine. The Martial Arts Research Club and I have business here..
+- Kaguya (Peking Opera Club): As does the Peking Opera Club. Shall I say the word "coincidence" once more?
+- Reijo (Black Tortoise Promenade): I, Kayama Reijo, and the Martial Arts Research Club! Will join Madam's kung fu training starting today!
+- Kaguya (Peking Opera Club): The Peking Opera Club! Will assist Madam's Peking opera practice to our fullest starting today!
+- Reijo (Black Tortoise Promenade): What?
+- Kaguya (Peking Opera Club): Huh?
+- Kisaki (Genryumon): ...What?
+- Reijo (Black Tortoise Promenade): No, no. You've completely misunderstood. The president practices kung fu here at the White Tiger Park every day, early in the morning.
+- Kaguya (Peking Opera Club): It would appear you are the one who's mistaken, Reijo. What the president is doing is Peking opera practice...to be precise, Peking opera dance.
+- Kisaki (Genryumon): No, I was only—
+- Reijo (Black Tortoise Promenade): I'm not sure where you heard those baseless rumors, but it's kung fu. That's why the Martial Arts Research Club is here with me.
+- Kaguya (Peking Opera Club): You are the one advocating for false rumors, Reijo. It is absolutely the Peking opera dance. Do you not see the entirety of the Peking Opera Club before your very eyes?
+- Kokona (Plum Blossom Garden): Sensei...? Madam...?
+- Reijo (Black Tortoise Promenade): False rumors?! I'm sorry to say you're the one barking up the wrong tree! I know I'm right, because...
+- Reijo (Black Tortoise Promenade): ...I saw it with my very own eyes!
+- Kaguya (Peking Opera Club): What is this you're saying? You cannot be correct, for my claim is the same!
+- Kaguya (Peking Opera Club): I personally witnessed the president's Peking opera dance practice!
+- "Ah. I see what happened here."
+- Reijo (Black Tortoise Promenade): You're completely mistaken! That was definitely kung fu!
+- Reijo (Black Tortoise Promenade): The move that deflects attacks from enemies! That flawless transition to prepare for the next move! I even saw her perform a guard, preparing herself for an ambush!
+- Reijo (Black Tortoise Promenade): If you claim that's not kung fu...
+- Reijo (Black Tortoise Promenade): ...then you're saying that all the hard work and effort put in by the Martial Arts Research Club and I were meaningless!
+- Kaguya (Peking Opera Club): (That was close... I nearly responded saying, "Absolutely! I am!")
+- Kaguya (Peking Opera Club): This is no longer coincidence but, rather, fate. I can say something of similar import, Reijo!
+- Kaguya (Peking Opera Club): The years of devotion to Peking opera. The days of training with a single purpose. What we've naturally gained from all that dedication is something we can call "discernment."
+- Kaguya (Peking Opera Club): If you dare say that's not the Peking opera dance, then the Peking Opera Club and I, who have dedicated ourselves to Peking opera...
+- Kaguya (Peking Opera Club): ...must have wasted the entirety of our lives!
+- Reijo (Black Tortoise Promenade): (...! That was dangerous. I almost responded by saying, "Isn't that true?")
+- Reijo (Black Tortoise Promenade): Do you even have eyes? How is any of that an opera dance?
+- Kaguya (Peking Opera Club): I believe you're the one who needs corrective glasses! Does that look like some rogue-ish fighting ritual to you?
+- Reijo (Black Tortoise Promenade): It is KUNG FU!
+- Kaguya (Peking Opera Club): No! It is PEKING OPERA!
+- Kisaki (Genryumon): It's...neither...
+- Kokona (Plum Blossom Garden): Huh? Madam, more people have arrived...
+- Kisaki (Genryumon): What?
+- Shanhaijing Student A: Whoa, it really is the president! The president is here! Look!
+- Shanhaijing Student B: It's usually pretty difficult to even get a glimpse of her, but there she is.
+- Shanhaijing Student A: By the way, are we going to get scolded by Genryumon or something for this?
+- Shanhaijing Student B: Well, it seems like Genryumon is here to spectate, too.
+- Mina (Genryumon): As the sun rises and sets, many will fall. It just happens to be our turn today...
+- Mina (Genryumon): No matter what you do, or where you are, I, Konoe Mina...will follow you till the end!
+- Genryumon Member A (Genryumon): ...No one really fell, though...?
+- Genryumon Member B (Genryumon): Shush! If you point that out, she'll actually make it happen to one of us!
+- Mina (Genryumon): Genryumon is here for you, Madam President!
+- Mina (Genryumon): No matter what Madam President does...whether it be kung fu, Peking opera, or whatever else!
+- Mina (Genryumon): Genryumon will assist you to our very last breath!
+- Genryumon Member A (Genryumon): I'm not really sure what the executive officer is on about right now, but I'm going to use this chance to take a photo of Madam...
+- Genryumon Member B (Genryumon): Send it to me later.
+- Genryumon Member A (Genryumon): 5,000 yen.
+- Genryumon Member B (Genryumon): Too expensive!
+- Mina (Genryumon): I hear the sound of an unpleasant wind blowing... Be quiet!
+- Genryumon Members A & B (Genryumon): Y-Yes!
+- Rumi (Black Tortoise Promenade): Huh, Kisaki really was doing...kung fu, Peking opera, or whatever in the morning...
+- Rumi (Black Tortoise Promenade): Okay! I should make her some nutritious snacks later!
+- Kisaki (Genryumon): Just, what is...?
+- Kisaki (Genryumon): Thank you, Sensei. That was close.
+- "Kisaki, there's no helping it at this point."
+- Kisaki (Genryumon): ...What exactly does that mean?
+- "You can't...disappoint all these students!"
+- Kisaki (Genryumon): ...!
+- Kisaki (Genryumon): That... I suppose you have a point.
+- Reijo (Black Tortoise Promenade): Kung fu!
+- Kaguya (Peking Opera Club): Peking opera!
+- Mina (Genryumon): Madam President!
+- Kisaki (Genryumon): Although, letting those three down seems perfectly acceptable to me.
+- Reijo (Black Tortoise Promenade): ...I didn't want to resort to this, but words won't be enough here. President Kaguya.
+- Kaguya (Peking Opera Club): A timely statement, Reijo. They say it's best to win without fighting, but if there is no choice but to fight, it is best to win first...
+- Reijo (Black Tortoise Promenade): Are you prepared, mind and soul?
+- Kaguya (Peking Opera Club): I would worry about yourselves.
+- Mina (Genryumon): Hm? I smell conflict...somewhere...
+- Kisaki (Genryumon): Listen, all of you. I only came out here...to do some morning banzai stretches with the Plum Blossom Garden children. That is all.
+- Reijo (Black Tortoise Promenade): What? Stretching...? Not kung fu?
+- Kaguya (Peking Opera Club): Stretching...you say? Not Peking opera?
+- Mina (Genryumon): So it was stretching! Honestly, I don't think it even matters at this point!
+- Kisaki (Genryumon): It's as I said. So cease this meaningless confrontation, and—
+- Reijo (Black Tortoise Promenade): I-It's fine, Madam! Depending on the application, stretches can also lead to kung fu moves!
+- Reijo (Black Tortoise Promenade): It's a step-by-step process! We can get started now!
+- Kaguya (Peking Opera Club): Of course! In the first place, the Peking opera dance is the result of transforming Peking opera into dance, and furthermore, elevating it from a form of stretching!
+- Kaguya (Peking Opera Club): In fact, if you would supply us the opportunity to present our Peking opera to you...
+- Reijo (Black Tortoise Promenade): It's not Peking opera!
+- Kaguya (Peking Opera Club): I'm saying it's not kung fu!
+- Plum Blossom Garden Students (Plum Blossom Garden): Madam... *sniff*... We're scared...
+- Kokona (Plum Blossom Garden): I-It's okay, everyone! Dry your tears! ...B-But speaking of being scared...
+- Kokona (Plum Blossom Garden): Waaah! M-Me too... I'm scared, too...!
+- Kisaki (Genryumon): ...
+- Kisaki (Genryumon): Cease this immediately! The children are crying!
+- Reijo (Black Tortoise Promenade): ?!
+- Kaguya (Peking Opera Club): ?!
+- Mina (Genryumon): ?
+- Kisaki (Genryumon): Are you saying that whatever your goals are, they're more important than these children?
+- Kisaki (Genryumon): Is this fantasy you're aiming at more important than the very future of Shanhaijing?
+- Kisaki (Genryumon): If that is so, then have the mettle to say it right here. Don't think of it as saying it to me, say it to our children!
+- Reijo (Black Tortoise Promenade): M-Madam. We didn't mean to...!
+- Kaguya (Peking Opera Club): A-Apologies! We were just...!
+- Kisaki (Genryumon): If you can affect and move these children with your words, then I, too, will support your mission. In the name of Genryumon.
+- Kisaki (Genryumon): However.
+- Kisaki (Genryumon): If you instead attempt to feed these children meaningless, sugarcoated lies, I assure you, you will pay the proper price!
+- "Yeah! You shouldn't make Madam angry!"
+- Reijo (Black Tortoise Promenade): M-M-My apologies, Madam! Please forgive us...!
+- Kaguya (Peking Opera Club): We didn't know our place! Please show your mercy to us ingrates, who don't know their places...!
+- Rumi (Black Tortoise Promenade): Now, now. Let's all take a breather. You're going to scare the children even more.
+- Kisaki (Genryumon): Rumi? You were here...?
+- Plum Blossom Garden Students (Plum Blossom Garden): Waaah...
+- Kokona (Plum Blossom Garden): Madam...
+- Kisaki (Genryumon): ...I'm sorry. There's nothing more to worry about. I scolded those mean, scary sisters. Everything will be okay.
+- Kokona (Plum Blossom Garden): O-Okay...
+- "Do you want my handkerchief to blow your nose, Kokona?"
+- Kokona (Plum Blossom Garden): ...! I-It's fine! I'm already a full-fledged lady! So it's fine!
+- Kokona (Plum Blossom Garden): And it's not Kokona! It's Instructor Kokona!
+- "Right, right."
+- Rumi (Black Tortoise Promenade): Then, shall we all do morning exercises, together?
+- Kisaki (Genryumon): T-Together...?
+- Mina (Genryumon): Exercise with Madam President?! Yes! We are at the ready!
+- Mina (Genryumon): Give us your orders! Genryumon, prepare yourselves!
+- Genryumon Member A (Genryumon): I did see this happening about halfway through, but I was really hoping...
+- Genryumon Member B (Genryumon): Ordering us to assemble is one thing, but stretching...
+- Kisaki (Genryumon): Despite all my efforts, it appears I'll be doing my morning exercises in the public eye.
+- Rumi (Black Tortoise Promenade): Well, you know.
+- Rumi (Black Tortoise Promenade): Sometimes, you've just got to make some sacrifices, for the sake of the greater good.
+- Kisaki (Genryumon): ...
+- Kisaki (Genryumon): I see. It would appear that you are correct.
+- Kisaki (Genryumon): Now then, let us all begin our day with the right foot forward.
+- "If you'll excuse me..."
+- Kisaki (Genryumon): Where do you think you're going, Sensei?
+- Kisaki (Genryumon): You will be joining us.
+- "I knew this is how things would turn out!"
+> With that, although a little rowdy, the Shanhaijing students started their morning out on an energetic note.
+> This is more of an aside, but...
+> ...there were more rumors about students suddenly doing morning exercises at the White Tiger Park. Or something like that.
+> A Slightly Special Morning in Shanhaijing

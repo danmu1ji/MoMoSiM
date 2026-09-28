@@ -1,0 +1,238 @@
+# 아오모리 미네 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아오모리 미네, 선생(샬레)
+
+1. **「아오모리 미네 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아오모리 미네 인연 스토리 2」**
+
+- **아오모리 미네**: Welcome, Sensei. Thank you for taking the time to meet with me.
+- **아오모리 미네**: To put it simply, it's an aid patrol.
+- **아오모리 미네**: What is an aid patrol? That is, to patrol the streets while giving aid, at the same time.
+- **아오모리 미네**: When and where the need for aid will occur, nobody knows.
+- **아오모리 미네**: So it could be said that the true purpose of an aid patrol is to personally seek out the places that might require aid.
+- **아오모리 미네**: It's all right, Sensei. This is a task that could save someone, after all.
+- **아오모리 미네**: That means that, including for us, there shouldn't be any danger.
+- **아오모리 미네**: ...Probably.
+- **Kid Who Lost a Puppy**: Uwah! Uwaaah!
+- **아오모리 미네**: Hm?! There's a crying child, Sensei!
+- **아오모리 미네**: This is a powerful premonition of aid!
+- **아오모리 미네**: Why are you crying? Did something happen?
+- **Kid Who Lost a Puppy**: The puppy...
+- **아오모리 미네**: The puppy?
+- **Kid Who Lost a Puppy**: It fell down that old cracked wall, and it can't climb out...
+- **아오모리 미네**: Hold on, let me see...
+- **아오모리 미네**: It's true. On top of that, it's in there quite deep...
+- **아오모리 미네**: I'm...not able...to reach. Not with my hands. Not even trying to use my gun to extend...
+- **아오모리 미네**: I can tell that it's hurt somehow, though. It's not moving its leg easily.
+- **Kid Who Lost a Puppy**: Then...it can't climb back out?
+- **Kid Who Lost a Puppy**: WAAAHHH!
+- **아오모리 미네**: ...
+- **아오모리 미네**: Don't worry.
+- **아오모리 미네**: The Remedial Knights will never simply stand by and watch while someone needs aid.
+- **아오모리 미네**: Haaah!
+- **Kid Who Lost a Puppy**: Kyaa!
+- **아오모리 미네**: Now...here you go. Your puppy.
+- **아오모리 미네**: Like I thought, it seems to have hurt its leg. Please wait a moment.
+- **Kid Who Once Lost a Puppy**: Big sis...? Thank you! Thank you so much!
+- **Kid Who Once Lost a Puppy**: I was panicking about what to do next! The Remedial Knights are the best!
+- **아오모리 미네**: Heehee.
+- **아오모리 미네**: It's good everything worked out.
+- **Homeowner**: Ah-Ahhhh?!!
+- **Homeowner**: My father's house?!
+- **Homeowner**: The house I've tried to preserve despite the cracks and all according to his last wishes?
+- **아오모리 미네**: H-Huh...!?
+- **아오모리 미네**: Right. A big incident...
+- **아오모리 미네**: But it's a good thing that we could save the puppy.
+- **아오모리 미네**: Not in the least!
+- **아오모리 미네**: It was all so that we could save a life. How could I possibly have regret on a path like that?
+- **아오모리 미네**: If I had to go back and make that choice again, I would destroy the wall a hundred times and apologize a hundred times!
+- **아오모리 미네**: Is that so? I am happy that we have the same intentions, Sensei.
+- **아오모리 미네**: Huh? Is that a truck driving through the alley?
+- **Little Girl**: Uwaaaah?
+- **아오모리 미네**: I'm on my way!
+- **아오모리 미네**: Are you okay? Are you hurt anywhere?
+- **Little Girl**: I... I'm all right.
+- **Little Girl**: You're the best! You're awesome!
+- **아오모리 미네**: Huhu. That's a relief.
+- **Little Girl**: I'm sorry...
+- **Truck Owner**: Ahhhh?! The bumper...and the engine?!
+- **Truck Owner**: The brand new truck I ordered just last week, that finally got delivered yesterday?!?!
+- **아오모리 미네**: A cat that climbed up the tree and can't get down!
+- **아오모리 미네**: A robot citizen in despair because they can't get the about-to-expire lunch boxes from the convenience store!!
+- **아오모리 미네**: The Biker Gang Member that got caught up between the fight between the Helmet Gangsters and the Thugs!!!
+- **아오모리 미네**: Great job, Sensei.
+- **아오모리 미네**: Yes. That's it for today's patrol.
+- **아오모리 미네**: What's wrong? Did you ask whether this is something I do everyday?
+- **아오모리 미네**: I do think that patrolling for the sake of giving aid is something we should do daily...
+- **아오모리 미네**: Now that I think about it, it seems that there was an usual amount of people who needed aid today.
+
+3. **「아오모리 미네 인연 스토리 3」**
+
+- **아오모리 미네**: Welcome, Sensei. This is my room.
+- **아오모리 미네**: It's nothing amazing.
+- **아오모리 미네**: Some people collect books. Others collect bottle caps, stamps, or memorable coins...
+- **아오모리 미네**: I simply collect medical supplies.
+- **아오모리 미네**: It's quite practical. They're so useful.
+- **아오모리 미네**: It does seem like it's grown quite a lot...
+- **아오모리 미네**: If I were to look at it from an outside perspective, I suppose I could understand.
+- **아오모리 미네**: But, Sensei, we are the Remedial Knights.
+- **아오모리 미네**: Shouldn't we be ready whenever?!
+- **아오모리 미네**: No matter what we face!
+- **아오모리 미네**: Duplicate materials...?!
+- **아오모리 미네**: I can't ignore that statement!
+- **아오모리 미네**: Speaking of just the bandages, this one and that one are definitely not the same!
+- **아오모리 미네**: They're different! The intricately textured one is a famous bandage from Saint Ann Medical.
+- **아오모리 미네**: They profit by producing only the most premium medical supplies. We have no choice but to buy some of these bandages, since there are no good alternatives!
+- **아오모리 미네**: They are specialized for emergency treatment, so are excellent for stopping bleeding and sanitizing wounds. They have enough tension to apply good pressure on the wound, as well!
+- **아오모리 미네**: It seems like the perfect bandage...
+- **아오모리 미네**: Well, it's also priced at five to seven times the price of regular bandages!
+- **아오모리 미네**: On the other hand, this bandage here is from Rosieu.
+- **아오모리 미네**: It has a dense weave that makes it specialized for holding things in place, and its large width allows for a wide range of compression.
+- **아오모리 미네**: The price is low to mid-range, so anyone can afford to have a stock of them!
+- **아오모리 미네**: It's a product that could be said to be closest to the true value of a bandage!
+- **아오모리 미네**: These healing ointments are also different!
+- **아오모리 미네**: Here, this ointment with the red wrapper is formulated to prevent germs from multiplying.
+- **아오모리 미네**: It is particularly effective in controlling gram-positive bacteria that are often the primary cause of skin infections.
+- **아오모리 미네**: That ointment in the green wrapper, on the other hand, is a little less effective at inhibiting bacterial growth.
+- **아오모리 미네**: But instead, it promotes cell regeneration, allowing the wound to heal comparatively faster.
+- **아오모리 미네**: It also has some steroidal properties, so it's great for fighting inflammation.
+- **아오모리 미네**: Of course, there are dangers to abusing it because of its steroidal properties, but...
+- **아오모리 미네**: Hmmm...
+- **아오모리 미네**: No matter how I try to explain it, it seems that you can't understand their differences and beauty...
+- **아오모리 미네**: It's all right. There's got to be a way!
+- **아오모리 미네**: I know! Let's try wounding my own body!
+- **아오모리 미네**: I've heard that if you don't know something, it's most effective to learn when it happens to your own body!
+- **아오모리 미네**: If we compare the efficacy of these medical supplies on my body,
+- **아오모리 미네**: I'm sure that even you'll be able to gain a deep understanding of the differences between them, Sensei!
+- **아오모리 미네**: Just a little bit will do! I could just poke my fingertips with a needle, or maybe slice my hand with a scalpel just a bit...!
+- **아오모리 미네**: Huh? In front of your eyes... You can't see a student get hurt...?
+- **아오모리 미네**: If that's true... I'm sorry. It looks like I got too excited, Sensei...
+- **아오모리 미네**: But if you ever need emergency treatment...
+- **아오모리 미네**: Please seek me out.
+
+4. **「아오모리 미네 인연 스토리 4」**
+
+- **아오모리 미네**: Here we have a three-tier tray.
+- **아오모리 미네**: Tier one has cucumber sandwiches and a salad with a balsamic vinegar dressing.
+- **아오모리 미네**: Tier two over here holds yogurt, scones, and clotted cream...
+- **아오모리 미네**: ...And finally tier three features fruit and tiramisu.
+- **아오모리 미네**: For drinks we have coffee and black tea, so you can choose whichever you would like.
+- **아오모리 미네**: It's not much, but I hope you enjoy.
+- **아오모리 미네**: ...Excuse me? Pound...cake?!
+- **아오모리 미네**: I...see. If that's something you really desire...
+- **아오모리 미네**: I can go and buy some myself...
+- **아오모리 미네**: If you really must have pound cake, no matter what...!
+- **아오모리 미네**: Oh, you're sure that you're fine? All of this is enough?
+- **아오모리 미네**: Thank you. It takes some of the weight off my shoulders hearing you say that.
+- **아오모리 미네**: It's not much, but I hope you enjoy.
+- **아오모리 미네**: *sigh*
+- **아오모리 미네**: Hm? Am I not going to have any?
+- **아오모리 미네**: Of course... I understand that it would be strange if I was the only person who wouldn't partake in the tea party I put together.
+- **아오모리 미네**: But... *sigh*
+- **아오모리 미네**: ...This is a bad habit of mine, but I tend to hold tea parties when I have something on my mind.
+- **아오모리 미네**: This is because by providing a comfortable environment, everyone, myself included, can open up their hearts.
+- **아오모리 미네**: But still, I wonder if it would be...appropriate to drag you into tea time.
+- **아오모리 미네**: I'm happy to hear you say that.
+- **아오모리 미네**: The matter on my mind?
+- **아오모리 미네**: That's...
+- **아오모리 미네**: It's you, Sensei.
+- **아오모리 미네**: I don't know exactly why myself but...when I think of you...
+- **아오모리 미네**: I find my heart fluttering.
+- **아오모리 미네**: I wanted to invite you here personally...
+- **아오모리 미네**: ...In hopes of finding out exactly why my heart acts in this way.
+- **아오모리 미네**: And so, I gave it some thought.
+- **아오모리 미네**: Perhaps it's because there's been one incident after another in Kivotos, ever since you were appointed.
+- **아오모리 미네**: Of course, I would prefer a peaceful Kivotos over one where people get hurt.
+- **아오모리 미네**: And so, I started thinking again.
+- **아오모리 미네**: What if, whether or not you intended it to be so, you are the cause of all of these incidents?
+- **아오모리 미네**: Wouldn't most things be solved simply by putting you in custody?!
+- **아오모리 미네**: Everything is fine, Sensei! Our housing is well known as the safest and most comfortable!
+- **아오모리 미네**: With zero involvement from any other organization, there's no room for any political conflicts or any other kind of disagreement!
+- **아오모리 미네**: Since we knights place aid as our top priority!
+- **아오모리 미네**: I promise, you'll be able to trust your body and soul to us!
+- **아오모리 미네**: I promise you on everything I hold dear that I will release you from all outside concerns!
+- **아오모리 미네**: ...Is what I would like to say.
+- **아오모리 미네**: But if everything was as easy as that, life would be easy for everyone.
+- **아오모리 미네**: No. I've actually known it from the start.
+- **아오모리 미네**: If restricting you would solve the problem, I would've done so a hundred times already, Sensei...
+- **아오모리 미네**: But I'm aware that is not plausible.
+- **아오모리 미네**: And this is just my intuition speaking, but...
+- **아오모리 미네**: I think restricting your movements may cause a larger problem, Sensei...
+- **아오모리 미네**: I heard that, recently, you have been helping the Remedial Knights frequently.
+- **아오모리 미네**: I wanted to thank you for that, and vent a little bit as well.
+- **아오모리 미네**: Heehee.
+- **아오모리 미네**: But, don't you think that the true purpose of a tea time is to share stories without large meanings behind them?
+- **아오모리 미네**: Thank you again for making time for me, Sensei.
+
+5. **「아오모리 미네 인연 스토리 5」**
+
+- **아오모리 미네**: That seems to be the end of today's tasks.
+- **아오모리 미네**: I'm flattered.
+- **아오모리 미네**: You have to become proficient in many things when you are managing an organization.
+- **아오모리 미네**: I guess it's like a skill or talent that I didn't intend to acquire.
+- **아오모리 미네**: ...!
+- **아오모리 미네**: I see. This is, in some way, an extension of aid...!
+- **아오모리 미네**: Thank you. Sensei. I've learned a lot.
+- **아오모리 미네**: A phone call...?
+- **아오모리 미네**: I will, Sensei.
+- **아오모리 미네**: Hello. You have reached the Remedial Knights. Are you in need of aid?
+- **Insistent Voice**: H-Help me! I'm lost...
+- **Insistent Voice**: In the forest... In the Forest of Kivotos!
+- **아오모리 미네**: Hm? In the Forest of Kivotos?!
+- **아오모리 미네**: Could you provide more details about your situation?
+- **Insistent Voice**: I don't know!
+- **Insistent Voice**: The surroundings are so dark, and all these trees look the same...
+- **Insistent Voice**: It's also.. And...!
+- **아오모리 미네**: Hello? Hello??
+- **아오모리 미네**: The call cut off...
+- **아오모리 미네**: Sensei. I can't waste a single moment.
+- **아오모리 미네**: Someone is requesting aid from the Forest of Kivotos!
+- **아오모리 미네**: I will head there right away!
+- **아오모리 미네**: Oh, don't you know?
+- **아오모리 미네**: The Forest of Kivotos is famous for being very dense...
+- **아오모리 미네**: Strangely, they say that your GPS won't function in that forest, and that even your compass malfunctions once you enter.
+- **아오모리 미네**: They also say that you won't be able to find your way out if you become lost.
+- **아오모리 미네**: They have already taken similar measures, but...
+- **아오모리 미네**: As you well know, making something forbidden will always tempt some people into doing it.
+- **아오모리 미네**: Whether as a test of courage, for the sake of a social media video, or just pure curiosity, it's not uncommon for people to brave the Forest of Kivotos from time to time.
+- **아오모리 미네**: That distress call I just received must have come from such a person.
+- **아오모리 미네**: Anyways, thank you for today!
+- **아오모리 미네**: Then I'll be on my way!
+- **아오모리 미네**: You don't have to come with me to the Forest of Kivotos, Sensei...
+- **아오모리 미네**: Me, your...?
+- **아오모리 미네**: Huhu, I see. I've forgotten my own status.
+- **아오모리 미네**: Then I'll take it as fact that you are also a part of the 'aid' of the Remedial Knights for the moment, Sensei.
+- **아오모리 미네**: Now how about we make you an honorary advisor of the Remedial Knights, at least for the time being?
+- **아오모리 미네**: Of course not.
+- **아오모리 미네**: I'll say it again, but you have an excellent spirit and talent of aid.
+- **아오모리 미네**: Then let's go, Sensei.
+- **아오모리 미네**: It's actually my first time stepping foot in the Forest of Kivotos myself.
+- **아오모리 미네**: I'm quite nervous.
+- **아오모리 미네**: ...Didn't you say that I was also one of your students?
+- **아오모리 미네**: Heehee. I'm just kidding. You don't have to get that nervous.
+- **아오모리 미네**: Then, let's go. Remedial Knights are on the way!
+- **아오모리 미네**: Careful, Sensei! Watch out for those vines.
+- **아오모리 미네**: With this, we'll make a clearer path to tread.
+- **아오모리 미네**: Huh? You think that it'd be best to conserve our resources when possible?
+- **아오모리 미네**: That's true, too.
+- **아오모리 미네**: Let's take a bit more care with where we step as we go forward.
+- **아오모리 미네**: We seem to have made it fairly far in, but there isn't a trace of anyone.
+- **아오모리 미네**: I'm worried. I'm sure the students who need our aid must be feeling the same.
+- **아오모리 미네**: Are you doing all right, Sensei?
+- **아오모리 미네**: Thankfully, the forest is so thickly wooded that it provides shade against the heat. No worries there.
+- **아오모리 미네**: It seems that quite a lot of time has passed...
+- **아오모리 미네**: The rumors that GPS doesn't work here seem to have been just that. Rumors.
+- **아오모리 미네**: My phone battery, on the other hand...
+- **아오모리 미네**: This is my oversight. I should have prepared ample spare batteries.
+- **아오모리 미네**: We had to rush here so suddenly it couldn't be helped? Huhu, I'm grateful that's how you see it.
+- **아오모리 미네**: ...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아오모리 미네
+- https://bluearchive.wiki (원문 스토리 스크립트)

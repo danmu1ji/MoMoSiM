@@ -1,178 +1,86 @@
 # DanmuTalk
 
-[한국어](README.ko.md)
+[한국어 README](README.ko.md)
 
 > [!WARNING]
-> The complete Blue Archive world package is not available for download. It combines Nexon game material with Fandom-derived text under separate rights and license terms, and redistribution rights for the bundle have not been cleared. Make your own package using material you may redistribute; see the [world package guide](#create-your-own-world-package).
+> **Package rights:** This repository includes a community Blue Archive world package. Material in it remains subject to its source terms; review permissions and attribution before redistributing it. For content you can share, start with the [world package structure template](worlds/import-samples/world-package-template/).
 
-DanmuTalk is a local-first character chat player. Load a world package, choose a timeline, and chat with one or more characters using an OpenAI-compatible model endpoint. Conversations and credentials stay on the user's device.
+The repository includes the [Blue Archive world package](worlds/blue-archive.😭), which you can choose from the startup screen.
+
+DanmuTalk is a local-first character chat player. Load a `.😭` or `.zip` world, select a timeline, and chat with one or more characters using an OpenAI-compatible model endpoint. Chat history and credentials stay on your device.
 
 ## Features
 
-- **Timeline-aware conversations** — Choose a story point before starting a chat so character context matches the selected timeline.
-- **Direct and group chats** — Talk with one student or bring several students into a shared conversation.
-- **Bring your own model endpoint** — Configure an OpenAI-compatible provider, model, and API key in the app.
-- **Optional generated voice** — Enable local VoxCPM2 speech generation; text chat works without setting up voice generation.
-- **Separate world packages** — Load `.😭` or `.zip` packages separately, keeping the app install lightweight and letting users choose their own content.
-- **English and Korean interface** — Switch the app UI language without changing the world package.
-- **Local-first storage** — Chat history and credentials stay on the user's device.
+- **Direct and group conversations** — Chat with one character or create a shared room.
+- **World selection at startup** — Packages in `worlds/` appear in the opening screen; you can also open or drag in a package file.
+- **Timeline-aware context** — Choose a story point before beginning a conversation.
+- **Bring your own model** — Connect an OpenAI-compatible endpoint, choose a model, and save your system instructions.
+- **English and Korean UI** — Switch the interface language independently of package content.
+- **Local LLM helper** — Scan hardware, review model suggestions, and build llama.cpp from source for your CPU architecture and available GPU backend. Its terminal menus use ↑/↓ plus Space or Enter. Run `python tools/local_llm_setup.py` on Windows or `python3 tools/local_llm_setup.py` on macOS/Linux.
+- **Local-first storage** — Conversation history and provider credentials are stored on your device.
 
 ## Screenshots
 
-These screenshots use the fictional **Echo World** demo and its placeholder artwork. Chat replies were produced by a local mock provider; the images contain no Blue Archive artwork or recordings. The voice image shows the optional TTS controls, not a generated voice sample.
+Screenshots use the fictional **Echo World** and placeholder artwork. Replies were produced by a local mock provider; no Blue Archive artwork or recordings are shown.
 
-**Character roster**
+| Character roster | Model settings and search |
+|---|---|
+| ![Fictional character roster](docs/images/01-roster.png) | ![Model settings, model search, and system instructions](docs/images/02-model-search.png) |
+| **Timeline selection** | **Group setup** |
+| ![Timeline selection](docs/images/04-timeline-selection.png) | ![Group setup](docs/images/07-group-setup.png) |
+| **Direct conversation** | **Group conversation** |
+| ![Direct conversation](docs/images/06-direct-chat.png) | ![Group conversation](docs/images/08-group-chat.png) |
 
-![Fictional character roster with placeholder portraits](docs/images/01-roster.png)
+## Install
 
-**Model selection**
+### Python installer
 
-![Searching and selecting a chat model](docs/images/02-model-search.png)
+Install Python 3.10 or newer, then run:
 
-**Conversation and voice settings**
+```sh
+# Windows
+py install.py
 
-![Provider, system instruction, and voice settings](docs/images/02-settings-provider.png)
+# macOS / Linux
+python3 install.py
+```
 
-**Local TTS options**
+The installer downloads the public source, installs a verified Node.js 22 runtime and pnpm inside the app folder if needed, installs dependencies, and builds the app so it is ready to launch. Run `python run.py` in the installed folder. To update, run `python install.py` again. The default install folder is `~/DanmuTalk` (`%USERPROFILE%\DanmuTalk` on Windows). Set `MOMOSIM_DIR` to change it.
 
-![VoxCPM2 voice model details and controls](docs/images/03-voice-settings.png)
+### Install Python
 
-**Timeline selection**
+- **Windows:** Download Python 3.10+ from [python.org](https://www.python.org/downloads/windows/) and select “Add Python to PATH”. Run `py --version` to check.
+- **macOS:** Use the installer at [python.org](https://www.python.org/downloads/macos/), or install with `brew install python` if Homebrew is already installed. Check `python3 --version`.
+- **Ubuntu/Debian:** `sudo apt install python3 python3-venv python3-pip`
+- **Fedora:** `sudo dnf install python3 python3-pip`
+- **Arch Linux:** `sudo pacman -S python python-pip`
+- **openSUSE:** `sudo zypper install python3 python3-pip`
+- **Alpine Linux:** `sudo apk add python3 py3-pip`
 
-![Choosing a fictional story timeline before chatting](docs/images/04-timeline-selection.png)
+Python dependencies: none; installer and helper use the standard library. `requirements.txt` is provided for tooling compatibility.
 
-**Group setup**
+The local LLM helper also needs CMake and a native C/C++ compiler. CUDA and HIP acceleration require their matching toolkits; on macOS the build enables Metal.
 
-![Selecting fictional characters for a group conversation](docs/images/07-group-setup.png)
+## Add world packages
 
-**Direct conversation**
+Copy `.😭` or `.zip` files into the installed `worlds/` folder. On the next app load they appear in the world selection screen for everyone using that installation. Choose **Open package** or drag a package into the window to open a package from elsewhere. See [worlds/README.txt](worlds/README.txt).
 
-![Fictional character replying in a direct chat](docs/images/06-direct-chat.png)
+The [template archive](worlds/import-samples/world-package-template.😭) contains fictional records and placeholder artwork only. Copy [the template folder](worlds/import-samples/world-package-template/) to build your own world. Game artwork and all audio are excluded. See the [volunteer artwork submission guide](docs/volunteer-art-submission.md) for the proposed contribution requirements.
 
-**Group conversation**
+## Contributing
 
-![Two fictional characters replying in a group chat](docs/images/08-group-chat.png)
+Ideas, bug reports, and improvements are welcome. Please [open an issue](https://github.com/danmu1ji/danmutalk/issues) to discuss a change or report a problem, and feel free to submit a pull request. For world packages or artwork, make sure you have the rights to share the material and include its required attribution.
 
 ## Run from source
 
-Requirements: Node.js 22 or newer and pnpm 9.
+Requirements: Python 3.10+. `py run.py --prepare` on Windows or `python3 run.py --prepare` on macOS/Linux installs Node.js/pnpm as needed and builds. Start with `py run.py` or `python3 run.py`; add `--dev` for the Vite development server. The local model helper is `py tools/local_llm_setup.py` or `python3 tools/local_llm_setup.py`.
 
-```sh
-./run.sh          # macOS / Linux
-./run.ps1         # Windows PowerShell
-./run.sh --dev    # Vite development server (macOS / Linux)
-```
+## Licensing
 
-Open the local URL printed by the launcher. Choose a `.😭` world package and configure the model endpoint and API key in **LLM Settings**. `pnpm serve` starts an already-built player.
+No project-wide license has been declared. Review [NOTICE.md](NOTICE.md) for third-party components and fonts. World creators are responsible for permissions and source attribution for content in their packages. DanmuTalk does not include Blue Archive game art, recordings, or voice-reference audio.
 
-## Install and update
+### External projects
 
-### One command, no Python required
-
-macOS or Linux:
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/danmu1ji/danmutalk/main/install.sh | bash
-```
-
-Windows PowerShell:
-
-```powershell
-irm https://raw.githubusercontent.com/danmu1ji/danmutalk/main/install.ps1 | iex
-```
-
-The installer downloads DanmuTalk, checks the SHA-256 checksum for Node.js when it needs to install a local copy, installs pnpm, and builds the app. It does not require Python or administrator access. Node.js comes from the [official Node.js distribution](https://nodejs.org/en/download). The default location is `~/DanmuTalk` on macOS/Linux and `%USERPROFILE%\DanmuTalk` on Windows. Run the same command again to update; the `worlds/` folder is preserved.
-
-### Add a world package
-
-World packages are separate downloads. Put a `.😭` or `.zip` package in the install's `worlds/` folder, then click **Open package** in DanmuTalk and choose it. Or drag the package onto the app window. See [worlds/README.txt](worlds/README.txt).
-
-Need a starter package? Download the [sanitized world package template](worlds/import-samples/world-package-template.😭) or browse its [source folder](worlds/import-samples/world-package-template/). It contains only fictional sample records, placeholder artwork, and silent audio; it is a structure example, not a playable Blue Archive package.
-
-The Python-based cross-platform TUI remains available for users who want to install from a local source checkout and select optional files: `python tools/install.py`. No prebuilt release archives are published yet; the no-Python installer downloads the public source and builds it locally.
-
-## Optional local assets
-
-The installer lets you choose optional example-world assets, character images, voice-reference audio, and the local TTS runtime. These choices only work when the corresponding files are present in the source checkout. Blue Archive artwork, voice recordings, and derived reference audio are excluded by default; include or redistribute them only when you have the required rights.
-
-## Project layout
-
-- `apps/desktop/` — player UI and static assets
-- `packages/` — world package, dialogue, and provider logic
-- `crates/`, `src-tauri/` — desktop shell and local services
-- `tools/` — local server, installer, import, and validation tools
-- `worlds/examples/` — redistributable example world source
-- `docs/` — architecture, verification, research, and release notes
-
-## Development commands
-
-```sh
-pnpm install
-pnpm build
-pnpm validate
-pnpm check:placeholder
-```
-
-## Licensing and release status
-
-This repository does not yet declare a project-wide license. The license obligations for a release depend on the original project code and the exact bundled or downloaded components. [NOTICE.md](NOTICE.md) identifies the active TTS model, CrispASR voice runtime, core application libraries, fonts, and adapted wiki text. It is a source-level summary; a release-specific SBOM and full transitive dependency license review are still required. Blue Archive game assets and voice recordings are not included in release packages by default.
-
-### External projects used
-
-- [CrispASR](https://github.com/CrispStrobe/CrispASR) provides the local voice runtime. It is downloaded on first TTS use; its upstream license is MIT and it publishes a separate third-party notices file.
-- [VoxCPM2](https://huggingface.co/openbmb/VoxCPM2) is the active TTS model (Apache-2.0). The application fetches the Q8_0 GGUF conversion from [CrispStrobe/cstr](https://huggingface.co/cstr/voxcpm2-GGUF) at runtime; the model weights are not included in the installer by default.
-- The application stack uses [Tauri](https://github.com/tauri-apps/tauri), [React](https://github.com/facebook/react), [fflate](https://github.com/101arrowz/fflate), [eemeli/yaml](https://github.com/eemeli/yaml), and Rust crates including [reqwest](https://github.com/seanmonstar/reqwest), [rusqlite](https://github.com/rusqlite/rusqlite), and [keyring-rs](https://github.com/open-source-cooperative/keyring-rs). License summaries and scope are in [NOTICE.md](NOTICE.md).
-- [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) (SIL OFL 1.1) and [Gyeonggi Title](https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457) are the bundled fonts. Their notices are retained in the font directory.
-- English and Korean appearance notes cite the [Blue Archive Wiki on Fandom](https://bluearchive.fandom.com/wiki/Blue_Archive_Wiki), whose text is generally CC BY-SA 3.0. Each adapted profile carries attribution; revision IDs unavailable from the captured page are marked as such.
-
-## Create your own world package
-
-You can start by copying [`worlds/import-samples/world-package-template/`](worlds/import-samples/world-package-template/). Its YAML keeps the real package field layout, nesting, and value types, with a single fictional sample record per entity and media kind. Replace the sample IDs, references, Markdown, and silent media with content you created or are authorized to use. The ready-made [`.😭` template archive](worlds/import-samples/world-package-template.😭) can also be opened directly in the app.
-
-The easiest way to create a smaller package is to write Markdown files in a folder. Each `.md` file becomes an entity. Optional front matter sets its type, title, summary, and tags; `[[Name]]` links connect entities.
-
-```text
-my-world/
-├── characters/
-│   └── aria.md
-├── locations/
-│   └── harbor.md
-└── lore/
-    └── records.md
-```
-
-For example, `characters/aria.md` can start with:
-
-```markdown
----
-type: character
-title: Aria
-summary: An optimistic archivist who keeps careful records.
-tags: [archivist]
----
-# Aria
-
-Aria works in [[Harbor]].
-```
-
-From a source checkout with dependencies installed, build a package with:
-
-```sh
-pnpm exec tsx tools/importer/cli.ts ./my-world ./my-world.😭 --id my-world --name "My World"
-```
-
-The importer creates a ZIP-compatible `.😭` package with the core files below. You can add optional Markdown documents and media; for a fully customized world, use [`worlds/examples/echo-world/`](worlds/examples/echo-world/) as a complete reference.
-
-```text
-my-world.😭
-├── manifest.yaml
-├── world.yaml
-├── index/entities.yaml
-├── timeline/
-│   ├── time-slices.yaml
-│   └── states.yaml
-├── assets/media.yaml
-├── characters/…
-├── lore/…
-└── assets/images/…
-```
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) can serve locally selected GGUF models. The helper builds it from source using CMake for the detected CPU architecture, enabling Metal, CUDA, or HIP when the matching toolkit is available. See llama.cpp’s [official build guide](https://github.com/ggml-org/llama.cpp/blob/master/docs/build.md).
+- The application uses [Tauri](https://github.com/tauri-apps/tauri), [React](https://github.com/facebook/react), [fflate](https://github.com/101arrowz/fflate), [eemeli/yaml](https://github.com/eemeli/yaml), and Rust crates listed in [NOTICE.md](NOTICE.md).
+- Bundled fonts are [Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans) (SIL OFL 1.1) and Gyeonggi Title; see their notices under `apps/desktop/public/fonts/`.

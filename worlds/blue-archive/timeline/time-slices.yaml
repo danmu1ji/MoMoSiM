@@ -1,0 +1,91 @@
+timeSlices:
+- id: 프롤로그-1-2
+  label: 프롤로그 1~2
+  position: 10
+- id: vol-1-대책위원회-편-1장-대책위원회의-기묘한-하루
+  label: Vol.1 대책위원회 편 1장 대책위원회의 기묘한 하루
+  position: 20
+- id: vol-2-태엽감는-꽃의-파반느-편-1장-레트로의-로망
+  label: Vol.2 태엽감는 꽃의 파반느 편 1장 레트로의 로망
+  position: 140
+- id: vol-3-에덴조약-편-1장-보충수업-시작합니다
+  label: Vol.3 에덴조약 편 1장 보충수업, 시작합니다!
+  position: 280
+- id: vol-3-에덴조약-편-2장-paradise-paradox
+  label: Vol.3 에덴조약 편 2장 Paradise Paradox
+  position: 282
+- id: vol-3-에덴조약-편-3장-우리들의-이야기를
+  label: Vol.3 에덴조약 편 3장 우리들의 이야기를
+  position: 310
+- id: vol-3-에덴조약-편-4장-잊혀진-신들을-위한-키리에
+  label: Vol.3 에덴조약 편 4장 잊혀진 신들을 위한 키리에
+  position: 330
+- id: vol-4-카르바노그의-토끼-편-1장-rabbit-소대-작전-개시
+  label: Vol.4 카르바노그의 토끼 편 1장 RABBIT 소대, 작전 개시!
+  position: 360
+- id: ex-데카그라마톤-편-1장-지혜의-뱀
+  label: Ex. 데카그라마톤 편 1장 지혜의 뱀
+  position: 460
+- id: vol-2-태엽감는-꽃의-파반느-편-2장-우정과-용기와-빛의-로망
+  label: Vol.2 태엽감는 꽃의 파반느 편 2장 우정과 용기와 빛의 로망
+  position: 470
+- id: final-그리고-모든-기적이-시작되는-곳-편-1장-샬레-탈환작전
+  label: Final. 그리고 모든 기적이 시작되는 곳 편 1장 샬레 탈환작전
+  position: 510
+- id: final-그리고-모든-기적이-시작되는-곳-편-2장-거짓된-성소-공략전
+  label: Final. 그리고 모든 기적이 시작되는 곳 편 2장 거짓된 성소 공략전
+  position: 530
+- id: final-그리고-모든-기적이-시작되는-곳-편-3장-아트라하시스의-방주-점령전
+  label: Final. 그리고 모든 기적이 시작되는 곳 편 3장 아트라하시스의 방주 점령전
+  position: 550
+- id: final-그리고-모든-기적이-시작되는-곳-편-4장-프레나파테스-결전
+  label: Final. 그리고 모든 기적이 시작되는 곳 편 4장 프레나파테스 결전
+  position: 570
+- id: vol-4-카르바노그의-토끼-편-2장-we-were-rabbits
+  label: Vol.4 카르바노그의 토끼 편 2장 We Were RABBITs!
+  position: 620
+- id: vol-5-백화요란-편-1장-피어나길-바라는-꽃망울처럼
+  label: Vol.5 백화요란 편 1장 피어나길 바라는 꽃망울처럼
+  position: 700
+- id: vol-1-대책위원회-편-3장-그-꿈이-남기고-간-흔적들
+  label: Vol.1 대책위원회 편 3장 그 꿈이 남기고 간 흔적들
+  position: 750
+- id: ex-데카그라마톤-편-2장-불타는-검
+  label: Ex. 데카그라마톤 편 2장 불타는 검
+  position: 880
+- id: vol-5-백화요란-편-2장-홀로-꽃을-피우려는-너에게
+  label: Vol.5 백화요란 편 2장 홀로 꽃을 피우려는 너에게
+  position: 1000
+- id: vol-6-흘러간-시간들의-오라토리오-편-1장-경계-너머의-풍경
+  label: Vol.6 흘러간 시간들의 오라토리오 편 1장 경계 너머의 풍경
+  position: 1060
+- id: vol-6-흘러간-시간들의-오라토리오-편-2장-saying-goodbye-to-yesterday
+  label: Vol.6 흘러간 시간들의 오라토리오 편 2장 Saying Goodbye to Yesterday
+  position: 1062
+- id: vol-6-흘러간-시간들의-오라토리오-편-3장-ecclesia-for-the-future-left-behin
+  label: Vol.6 흘러간 시간들의 오라토리오 편 3장 Ecclesia for the Future Left Behind
+  position: 1063
+- id: ex-데카그라마톤-편-3장-합일의-하늘
+  label: Ex. 데카그라마톤 편 3장 합일의 하늘
+  position: 1120
+- id: 프롤로그-1-4
+  label: 프롤로그 1~4
+  position: 1200
+- id: vol-0-총학생회-편-1장-살구꽃이-피는-어느-봄날에
+  label: Vol.0 총학생회 편 1장 살구꽃이 피는 어느 봄날에
+  position: 1210
+- id: ex-로어추적-편-1장-정오의-아지랑이
+  label: Ex. 로어추적 편 1장 정오의 아지랑이
+  position: 1220
+- id: ex-로어추적-편-2장-드럼통-속에-있는-것
+  label: Ex. 로어추적 편 2장 드럼통 속에 있는 것
+  position: 1240
+- id: vol-1-불꽃과-그림자-편-1장-게헨나를-다시-위대하게
+  label: Vol.1 불꽃과 그림자 편 1장 게헨나를 다시 위대하게!
+  position: 1290
+- id: vol-1-불꽃과-그림자-편-2장-우리는-불꽃이-되어
+  label: Vol.1 불꽃과 그림자 편 2장 우리는 불꽃이 되어
+  position: 1300
+- id: vol-2-오디세이아-편-1장-눈동자에-비친-수평선
+  label: Vol.2 오디세이아 편 1장 눈동자에 비친 수평선
+  position: 1320

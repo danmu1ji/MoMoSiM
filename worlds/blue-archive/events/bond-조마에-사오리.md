@@ -1,0 +1,248 @@
+# 조마에 사오리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 조마에 사오리, 선생(샬레)
+
+1. **「조마에 사오리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「조마에 사오리 인연 스토리 2」**
+
+- **조마에 사오리**: Oh, Sensei, there you are.
+- **조마에 사오리**: Oh, I don't know if I really need help. It's just...
+- **조마에 사오리**: Oh, I don't know if I really need help. It's just...
+- **조마에 사오리**: I was trying to solve something on my own, but it seems impossible.
+- **조마에 사오리**: Huh? No, I mean...
+- **조마에 사오리**: Oh... Okay... A-All right...
+- **조마에 사오리**: Oh... Okay... A-All right...
+- **조마에 사오리**: Then, this way.
+- **Black Market Bank Clerk**: Hello! Welcome!
+- **Black Market Bank Clerk**: Ack! You're that mysterious, stubborn girl who came by recently!
+- **Black Market Bank Clerk**: I've told you again and again! It's impossible!
+- **Black Market Bank Clerk**: Without a personal reference, we can't proceed with your request!
+- **조마에 사오리**: That's why I brought a personal reference.
+- **Black Market Bank Clerk**: You have a personal reference all of a sudden?
+- **Black Market Bank Clerk**: Huh? This person...?
+- **조마에 사오리**: Yes, I've brought a guarantor, as you've requested.
+- **Black Market Bank Clerk**: Hmm...
+- **조마에 사오리**: Sensei? I'm not sure what you're talking about.
+- **Black Market Bank Clerk**: Yes. She said she wanted to open an account at our branch, but she won't reveal her academic record...
+- **Black Market Bank Clerk**: Without an academic record, you can't do anything in Kivotos!
+- **Black Market Bank Clerk**: If it was any other bank, she would have been kicked out immediately!
+- **Black Market Bank Clerk**: But we're different, you know?
+- **Black Market Bank Clerk**: If you pay a fair price, the Black Market will treat you more fairly than anyone!
+- **Black Market Bank Clerk**: You don't even need credit.
+- **Black Market Bank Clerk**: If you're physically able and have a decent firearm...
+- **Black Market Bank Clerk**: I wouldn't say it's amazing work, but it's not hard to get a job at the Black Market!
+- **Black Market Bank Clerk**: Because of that, we need a personal reference, someone who will take responsibility if something happens...
+- **Black Market Bank Clerk**: I mean, we simply told her that we need a guarantor and she'd be able to open an account...
+- **조마에 사오리**: ...Sorry, Sensei.
+- **조마에 사오리**: I parted ways with the rest of the Arius Squad. I don't have anyone else to rely on.
+- **조마에 사오리**: I recently got involved in the Black Market.
+- **조마에 사오리**: I didn't know where else I could go.
+- **조마에 사오리**: You know...I need money to live and stuff. And...
+- **Black Market Bank Clerk**: We told her that if she wants to get paid for completing our commissions, she needs an account.
+- **조마에 사오리**: ...But according to them, I was asking for something impossible.
+- **조마에 사오리**: I shouldn't have involved you in this...
+- **조마에 사오리**: It's okay. Let's just pretend I never called you.
+- **조마에 사오리**: R-Really?
+- **조마에 사오리**: ...Okay.
+- **Black Market Bank Clerk**: Great! We'll need to start with a simple evaluation to open an account!
+- **Black Market Bank Clerk**: Ahaha! Please don't worry!
+- **Black Market Bank Clerk**: It's a simple process. Of course, you don't have to do it if you'd rather not open an account.
+- **조마에 사오리**: I don't mind, Sensei.
+- **Black Market Bank Clerk**: Okay, here's the first question...
+- **Black Market Bank Clerk**: Can you tell me about your previous jobs and what kind of work experience you had before coming here?
+- **조마에 사오리**: Previous jobs...?
+- **Black Market Bank Clerk**: If I can get the applicant's field of experience, we'll be able to offer more suitable jobs.
+- **Black Market Bank Clerk**: Will that be a problem?
+- **조마에 사오리**: No, it's fine. I can answer this, Sensei.
+- **조마에 사오리**: I can't tell you the details, but I used to plan and execute explosions, building demolitions, and the overthrowing of academies.
+- **Black Market Bank Clerk**: ...?
+- **조마에 사오리**: Particularly, destroying larger organizations is my specialty.
+- **Black Market Bank Clerk**: Hm?
+- **조마에 사오리**: What? I shouldn't lie, right?
+- **Black Market Bank Clerk**: A-Ahem! You have a very unique background!
+- **Black Market Bank Clerk**: O-Okay... Let's move on to the next question...
+- **Black Market Bank Clerk**: Where is your residence located?
+- **조마에 사오리**: My residence...
+- **조마에 사오리**: I don't really have one. I'm staying at the Black Market at the moment.
+- **Black Market Bank Clerk**: Huh?
+
+3. **「조마에 사오리 인연 스토리 3」**
+
+- **조마에 사오리**: I did the work. Pay me.
+- **Task Leader**: Hahaha!
+- **Task Leader**: I told you, lady. I can't!
+- **조마에 사오리**: Why not?
+- **조마에 사오리**: I haven't been paid for three days. This isn't what I was promised.
+- **Task Leader**: Promises don't mean anything around here.
+- **Task Leader**: And unfortunately for you...
+- **Task Leader**: You didn't even sign a contract.
+- **조마에 사오리**: ...!
+- **조마에 사오리**: Sensei? What are you doing here?
+- **Task Leader**: Who the hell is this?
+- **Task Leader**: I have no business with you. Get lost!
+- **Task Leader**: Exactly what I said.
+- **조마에 사오리**: A contract...
+- **조마에 사오리**: Did I have to...sign a contract?
+- **Task Leader**: Hahaha! This is incredible!
+- **Task Leader**: I don't know how you ended up in the Black Market...
+- **Task Leader**: But you really have no clue about how the world works. This is like a real-life comedy!
+- **조마에 사오리**: They didn't ask me to sign a contract when I started the job.
+- **조마에 사오리**: They didn't ask me to sign a contract when I started the job.
+- **조마에 사오리**: I just did the work they asked me to do...
+- **조마에 사오리**: Sensei?
+- **Task Leader**: Hmph! A scam? Don't try to make us sound bad.
+- **Task Leader**: She's the one who forgot to sign a contract!
+- **Task Leader**: Since she didn't sign it, we're not obligated to pay her.
+- **Task Leader**: Tsk! I guess it was volunteer work.
+- **Task Leader**: Well, it was quite helpful.
+- **Task Leader**: She's stronger than she looks. She's done twice as much work as the others.
+- **Task Leader**: Haha! Thanks to that, we got the work done cheap, which we're grateful for!
+- **조마에 사오리**: ...
+- **Task Leader**: Well, I'm not that mean though.
+- **Task Leader**: I can get you a contract now and pay you.
+- **Task Leader**: But all I can give you is money for moving the construction materials that are left here.
+- **조마에 사오리**: ...
+- **Task Leader**: Ahaha! I can't pay you for volunteer work! That would be an insult to the spirit of your service!
+- **Task Leader**: So, do you wanna do the rest of the work and get some money?
+- **Task Leader**: You don't have to if you don't want to.
+- **Task Leader**: But that means you won't get any money today. Tsk, tsk!
+- **조마에 사오리**: Affirmative.
+- **조마에 사오리**: I need the money. I have to do it.
+- **Task Leader**: Hahaha! I like that attitude! It's hard to come by hard-working people in the Black Market!
+- **Task Leader**: O-Oh?!
+- **Task Leader**: Wh-What?! Huh? A-A-Are you gonna hit me or something...?
+- **조마에 사오리**: Sensei? You don't have to...
+- **Task Leader**: Well, wh-whatever you want!
+- **Task Leader**: But I'm only paying the girl, okay?!
+- **Task Leader**: Ugh. That should be everything.
+- **Task Leader**: Here's the pay for today, as promised!
+- **조마에 사오리**: Look. I really got paid!
+- **조마에 사오리**: ...Sorry, Sensei.
+- **조마에 사오리**: This is my fault...
+- **조마에 사오리**: I didn't know how important contracts were...
+- **조마에 사오리**: I guess...
+- **조마에 사오리**: I'll make sure something like this never happens again.
+- **조마에 사오리**: Thank you for today, Sensei.
+- **조마에 사오리**: ...If we're all done here, I'm gonna head back.
+- **조마에 사오리**: ...
+- **조마에 사오리**: I will.
+
+4. **「조마에 사오리 인연 스토리 4」**
+
+- **Passerby A**: Hey! I don't know what you're doing here, but watch out!
+- **Passerby B**: The Woof Woof Dog faction and the Meow Meow faction are going head-to-head at the Black Market!
+- **Passerby A**: The Woof Woof Dogs showed up with some seriously strong mercenary.
+- **Passerby A**: The Meow Meow faction suffered a lot of casualties because of her.
+- **Passerby B**: But now they're setting up a trap to try to get her!
+- **Passerby A**: Huh?! W-Wait!
+- **Passerby A**: The western district of the Black Market is occupied by the main forces of the Meow Meow faction! It's dangerous there!
+- **???**: *pant* *pant*
+- **조마에 사오리**: ― Sensei, what are you doing here...?
+- **조마에 사오리**: ― Ugh... *sigh*
+- **조마에 사오리**: ― Don't worry. It happens all the time.
+- **조마에 사오리**: ― I just wasn't careful...
+- **조마에 사오리**: ― Nothing has changed...
+- **조마에 사오리**: ― I deluded myself.
+- **조마에 사오리**: ― *cough* *cough*
+- **조마에 사오리**: ― Don't make that face. I'm used to pain.
+- **조마에 사오리**: ― It's always been this way.
+- **조마에 사오리**: ― Really, this is nothing new.
+- **조마에 사오리**: ― I'm fine...
+- **조마에 사오리**: ― I just want to stay like this a bit...
+- **조마에 사오리**: Huh? S-Sensei. Wait...
+- **조마에 사오리**: I'm causing trouble for you...again.
+- **조마에 사오리**: As directed by the organization that hired me, I went to quell some strife...
+- **조마에 사오리**: I didn't know it was a trap set by an enemy organization...
+- **조마에 사오리**: Here it is...
+- **조마에 사오리**: ...
+- **조마에 사오리**: I thought...I just had to sign it...?
+- **조마에 사오리**: ...Hmm?
+- **Passerby A**: Huh?! W-Wait!
+- **Passerby A**: The western district of the Black Market is occupied by the main forces of the Meow Meow faction! It's dangerous there!
+- **조마에 사오리**: Oh. I got tricked again?
+- **조마에 사오리**: I'm not surprised. It isn't the first time.
+- **조마에 사오리**: Please don't make a fuss about it.
+- **조마에 사오리**: Food? Wh-What are you saying?
+- **조마에 사오리**: Just go eat...?
+- **조마에 사오리**: Just go eat...?
+- **조마에 사오리**: W-Wait...!
+- **조마에 사오리**: ...
+- **조마에 사오리**: I...just...
+- **조마에 사오리**: ...
+- **조마에 사오리**: Okay.
+- **조마에 사오리**: All right, Sensei. Let's do that...
+- **조마에 사오리**: I'm... Sensei...
+- **조마에 사오리**: I have a lot to learn still.
+
+5. **「조마에 사오리 인연 스토리 5」**
+
+- **조마에 사오리**: I'm sorry for the sudden visit, Sensei.
+- **조마에 사오리**: But there was a piece of equipment I really wanted to fix.
+- **조마에 사오리**: ...This.
+- **조마에 사오리**: Right. The purification filter's broken.
+- **조마에 사오리**: It's a discontinued model, with special parts, so the repair shop wouldn't take it.
+- **조마에 사오리**: I got it from Arius Satellite School on my first real mission. It's their old base model.
+- **조마에 사오리**: Anyway, if you can, Sensei, please help me find a way to fix it.
+- **조마에 사오리**: If you can manage that, I'll do anything for you.
+- **조마에 사오리**: Y-Yes. Anything.
+- **조마에 사오리**: ...Like I mentioned, it was part of my original kit.
+- **조마에 사오리**: Nothing special about the mask itself. It's classified as a consumable.
+- **조마에 사오리**: A particularly sturdy and durable consumable...
+- **조마에 사오리**: ...but it did wear out eventually.
+- **조마에 사오리**: Back in the old days, if one of my tools broke or lost its purpose...
+- **조마에 사오리**: ...I would have thrown it out without a second thought.
+- **조마에 사오리**: But this mask is more like a companion to me.
+- **조마에 사오리**: Like a partner.
+- **조마에 사오리**: Even if it's broken...
+- **조마에 사오리**: I don't want to throw it away like it's nothing.
+- **조마에 사오리**: So I want to fix it.
+- **조마에 사오리**: Because...I'm different than I was back then.
+- **조마에 사오리**: You mean it? Thank you, truly.
+- **조마에 사오리**: S-Sure. A promise is promise, after all.
+- **Jack-of-All-Trades Handyman**: Oh, I haven't seen this kind of mask in a while. I didn't know there was anyone still using it.
+- **Jack-of-All-Trades Handyman**: Unfortunately, it looks like almost every part needs to be replaced.
+- **Jack-of-All-Trades Handyman**: I'm overbooked already, so I'm not sure when I could get to it...
+- **조마에 사오리**: Do you have at least a rough idea?
+- **Jack-of-All-Trades Handyman**: Mmm... A few years at the very least, honestly.
+- **조마에 사오리**: ...I see.
+- **General Merchant**: Oh my, welcome. What are you looking for?
+- **General Merchant**: ...What? I'm sorry, but I don't have any parts for that kind of mask...
+- **General Merchant**: I can't even remember the last time I've seen one.
+- **General Merchant**: Would you rather buy a new one instead? I have plenty of better models.
+- **조마에 사오리**: ...I'm sorry. It has to be this mask for me.
+- **Greedy Merchant**: Fufufu, welcome. I've got just the parts you need for this.
+- **Greedy Merchant**: Here's my estimate. What do you say?
+- **조마에 사오리**: Ouch, that's expensive...but you have the parts?
+- **Greedy Merchant**: Well, technically not yet, but I can get them. Should be able to get them. One way or another.
+- **조마에 사오리**: ...Let's go, Sensei.
+- **조마에 사오리**: It's night already?
+- **조마에 사오리**: Well, I knew this wouldn't be easy.
+- **조마에 사오리**: Maybe this is just my stubbornness coming through.
+- **조마에 사오리**: ...I guess, even if the filter doesn't work, I can still use it to hide my face.
+- **조마에 사오리**: Thank you for bearing with me, Sensei. I'll find a way to repay you for—
+- **조마에 사오리**: But if there's nobody who can fix it...
+- **조마에 사오리**: ...Sensei?
+- **조마에 사오리**: I-I thought about trying it myself too.
+- **조마에 사오리**: But it's not so easy.
+- **조마에 사오리**: Well, if you're willing to try, I'm happy to help.
+- **조마에 사오리**: Let me know if you need anything.
+- **조마에 사오리**: Me, as Schale's student rep...?
+- **조마에 사오리**: ...Yes. I'll work my hardest.
+- **조마에 사오리**: Hm... Huh? Is it morning already?
+- **조마에 사오리**: I must've nodded off.
+- **조마에 사오리**: Hm...? Sensei? Why are you smiling?
+- **조마에 사오리**: Could it be...?! Did you fix it?!
+- **조마에 사오리**: This is...
+- **조마에 사오리**: ...It's working. The filter's good as new.
+- **조마에 사오리**: You really fixed it.
+- **조마에 사오리**: Thank you for all your hard work, Sensei. I'm in your debt again.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/조마에 사오리
+- https://bluearchive.wiki (원문 스토리 스크립트)

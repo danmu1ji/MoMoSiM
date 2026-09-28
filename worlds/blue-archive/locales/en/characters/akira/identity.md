@@ -1,0 +1,1 @@
+# Akira\n\nOne of the Seven Prisoners, Akira is known as Benevolent Thief for stealing anything and everything her heart desires.\n\nSource: https://bluearchive.wiki/wiki/Akira\nReview status: source extracted; pending editorial review.\n

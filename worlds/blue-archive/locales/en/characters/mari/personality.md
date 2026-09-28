@@ -1,0 +1,6 @@
+# Mari — official English introduction
+
+A pious and sincere girl, Mari is a member of the Sisterhood of Trinity Integrated Academy. More than just appearing cute at a glance, her calm aura and soft, everlasting smile have charmed the countless students who have called on her for advice. Mari is aware of her own inexperience, and her wish to soon become a fine Sister like her seniors is always on her mind.
+
+Source: https://bluearchive.wiki/wiki/Mari
+Status: source-extracted-unreviewed

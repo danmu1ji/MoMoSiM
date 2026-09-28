@@ -1,0 +1,21 @@
+# A-H.A Conquest
+
+Official English event-story overview. This is a synopsis, not the full scene dialogue.
+
+Source: https://bluearchive.wiki/wiki/A-H.A_Conquest/Story
+Status: source-extracted-unreviewed
+
+Initiating the Ark of Atrahasis Conquest
+Sensei and the students have infiltrated the Ark of Atrahasis and begin a four-stage conquest.
+Outskirts District 1 Entry
+Sensei and the students face the Dimension Engine by Outskirts District 1, where they encounter Shiroko with a nameless guardian.
+Sensei destroys the Dimension Engine in Outskirts District 1. Shiroko retreats through a portal, and Sensei continues on towards the next area.
+Outskirts District 2 Entry
+Sensei arrives at the Dimension Engine in Outskirts District 2. Sensei faces off with Shiroko again, and the combat begins.
+The Outskirts District 2 Dimension Engine is destroyed. Meanwhile, Shiroko runs into the other Abydos students while attempting to retreat. Shiroko loses her cool at the sight of them, and escapes quickly. Hoshino begins to wonder about Shiroko's motives...
+Outskirts District 3 Entry
+Sensei and the Abydos students have an encounter with Shiroko by the Dimension Engine in Outskirts District 3. At the same time, they hear that Shiroko's signals are being detected elsewhere... Once again Sensei is dragged into combat against Shiroko.
+The Outskirts District 3 Dimension Engine is destroyed, and Shiroko retreats once more. Yuuka hacks the Central District in order to communicate, and tells the others that a mask-wearing Shiroko was sighted in the Central District. Sensei and the students prepare to rescue Shiroko.
+Enter the Central District
+Sensei begins to fight the last Dimension Engine.
+At long last, all the Dimension Engines and the control room have been destroyed. Sensei and their students succeed in rescuing Shiroko from the Central District.Category:Event stories

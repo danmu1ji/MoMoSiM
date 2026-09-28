@@ -1,0 +1,231 @@
+# 나카츠카사 키리노 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 나카츠카사 키리노, 선생(샬레)
+
+1. **「나카츠카사 키리노 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「나카츠카사 키리노 인연 스토리 2」**
+
+- **나카츠카사 키리노**: There you are, Sensei.
+- **나카츠카사 키리노**: We can get our patrol underway now that you're here.
+- **나카츠카사 키리노**: Good question!
+- **나카츠카사 키리노**: The police have a duty to protect the public and prevent major crimes before they happen.
+- **나카츠카사 키리노**: In other words, we're going to monitor and investigate anything that looks suspicious in the vicinity!
+- **나카츠카사 키리노**: Looks can be deceiving! You never know where the seeds of crime will take root.
+- **나카츠카사 키리노**: A pro detective can sniff out a case even at peaceful times like this.
+- **나카츠카사 키리노**: *sniff* Let's see here... Something suspicious, something suspicious...
+- **Citizen**: Heh. I've got it. But it's going to take more than this!
+- **Citizen**: Now we just have to...
+- **나카츠카사 키리노**: (Sensei, do you see that over there?)
+- **나카츠카사 키리노**: (That person looks awfully suspicious, don't they?)
+- **나카츠카사 키리노**: (They're smiling so ominously, and what's with that suspicious-looking jar they have? Like it's carrying the most precious thing in the world.)
+- **나카츠카사 키리노**: No. That gait looks too suspicious for someone carrying something fragile.
+- **나카츠카사 키리노**: No. That gait looks too suspicious for someone carrying something expensive.
+- **나카츠카사 키리노**: It can only be...
+- **나카츠카사 키리노**: ...a bomb! I'm sure of it!
+- **나카츠카사 키리노**: Of course. Kivotos' business district is home to every important administration in the city.
+- **나카츠카사 키리노**: This suspect must have been coerced into becoming a malicious terrorist planning to detonate a bomb and halt the city in fear!
+- **나카츠카사 키리노**: Thank goodness I sniffed this plot out before it became a large-scale incident.
+- **나카츠카사 키리노**: Not yet. Simply possessing a bomb isn't enough to constitute a crime in D.U.
+- **나카츠카사 키리노**: We have to covertly follow the suspect until they plant the bomb.<br/>We'll catch them red-handed and then make the arrest!
+- **나카츠카사 키리노**: *gasp* They're starting to make their move.
+- **나카츠카사 키리노**: Let's hurry and follow them, Sensei.
+- **나카츠카사 키리노**: Hmm. This is strange.
+- **나카츠카사 키리노**: We've been pursuing the suspect for a while now, but they still haven't planted the bomb.
+- **나카츠카사 키리노**: Could the target location be somewhere else entirely?
+- **나카츠카사 키리노**: That can't be it. My gut is never wrong!
+- **나카츠카사 키리노**: If we wait just a little longer...
+- **Citizen**: Wh-What?!
+- **Petty Thief**: Haha. I'll be taking that expensive-looking jar of yours!
+- **Citizen**: Th-Thief! It's a thief!
+- **나카츠카사 키리노**: Another criminal is robbing our suspect of their bomb!
+- **나카츠카사 키리노**: This is bad. I have to hurry and capture the thief, or else...
+- **나카츠카사 키리노**: Hey there, stop! If you don't stop, I'll shoot!
+- **나카츠카사 키리노**: Ugh... I can't believe I missed every single shot from that distance.
+- **나카츠카사 키리노**: But at least the thief dropped the jar as they were fleeing. The bomb is secured!
+- **나카츠카사 키리노**: Now we just have to capture the original suspect and—
+- **나카츠카사 키리노**: Huh? What's that smell?
+- **Citizen**: Ah! You got it back! Thank goodness!
+- **Citizen**: I thought I'd lost the homemade pickled soybean paste that was sent to me before I'd gotten a chance to taste it.
+- **나카츠카사 키리노**: P-Pickled soybean paste?!
+- **Citizen**: Yes, my family usually sends me some around this time of year.
+- **Citizen**: I haven't had much of an appetite these days. This is just what I needed!
+- **나카츠카사 키리노**: I can't believe it. The jar didn't contain a bomb after all.
+- **Citizen**: What's this about a bomb...?
+- **Citizen**: Well, whatever. I'll share some of my pickled soybean paste with you since you helped me. I'm sure you'll love it!
+- **나카츠카사 키리노**: Th-Thank you...
+- **나카츠카사 키리노**: We spent all that effort chasing after a suspect who turned out not to be a terrorist. That's somewhat demoralizing...
+- **나카츠카사 키리노**: I was overconfident with my gut instinct, and that led me to make decisions too hastily this time.
+- **나카츠카사 키리노**: True. It won't be enough to transfer me to the Security Bureau, but at least we were able to get back one citizen's property.
+- **나카츠카사 키리노**: N-No! I have to always think of the citizens' safety first as a student of Valkyrie Police School!
+- **나카츠카사 키리노**: I should think of this pickled soybean paste they gave me as a badge of honor.
+- **나카츠카사 키리노**: But...it's too much to eat all by myself.
+- **나카츠카사 키리노**: I know! I'll garnish some of my dinner with it once my patrol is finished!
+
+3. **「나카츠카사 키리노 인연 스토리 3」**
+
+- **Hostage Taker**: Don't come any closer! I mean it!
+- **Hostage Taker**: Do anything suspicious, and this one's a goner!
+- **Hostage**: S-Save me!
+- **나카츠카사 키리노**: They have the upper hand. All of the bombs they planted can be set off from anywhere with that wireless detonator of theirs.
+- **나카츠카사 키리노**: We could risk it if that hostage was our only concern, but the slightest mistake could destroy the entire nearby shopping center.
+- **나카츠카사 키리노**: There's no time for that. The culprit could run out of patience at any moment. We have to begin the negotiations now.
+- **나카츠카사 키리노**: Besides, I've never once lost a donut negotiation at the Public Safety Bureau!
+- **나카츠카사 키리노**: Stop resisting! All you have to do is surrender and your safety is guaranteed!
+- **Hostage Taker**: What was that? Did a negotiator arrive already?
+- **Hostage Taker**: Who are you? Identify yourself immediately!
+- **나카츠카사 키리노**: I'm Kirino, from the Public Safety Bureau of Valkyrie Police School!
+- **나카츠카사 키리노**: I'm here to negotiate with you for the hostage.
+- **Hostage Taker**: The Public Safety Bureau? Not the Security Bureau or the Public Peace Bureau? What are they doing sending someone like you?!
+- **Hostage Taker**: Do you think I'm some kind of idiot?! Stop joking around and get a real negotiator in here!
+- **나카츠카사 키리노**: E-Excuse you! I may be from Public Safety, but I'm still a respectable member of Valkyrie!
+- **Hostage Taker**: Damn it. What am I supposed to do with a little runt like this?
+- **Hostage Taker**: Guess I don't have a choice. Spill it already. Say what you gotta say, but if I see you planning anything funny, I'll blow this place sky high!
+- **나카츠카사 키리노**: Good. Now I just need to follow the manual and proceed with the negotiations...
+- **나카츠카사 키리노**: F-For starters, what caused you to commit this crime in the first place?
+- **Hostage Taker**: Money, of course!
+- **Hostage Taker**: I splurged way too much at the cat cafe last week...
+- **Hostage Taker**: This week's food expenses have been low because I was buying silver vine fruit and catnip for the new calico that came in.
+- **Hostage Taker**: I wouldn't have done this if only I had money!
+- **나카츠카사 키리노**: But that's...your responsibility, isn't it?
+- **Hostage Taker**: Huh?!
+- **Hostage Taker**: Are you an idiot?! Are you trying to provoke someone with a hostage?!
+- **나카츠카사 키리노**: Nobody forced you to spend money like that, did they?
+- **나카츠카사 키리노**: You should spend responsibly, and if your expenditures are too high, then take on a part-time job.
+- **Hostage Taker**: Th-That's true, but...
+- **Hostage Taker**: But it doesn't matter! Everyone knows you don't provoke someone with a hostage at the scene of a crime!
+- **Hostage Taker**: This is why Public Safety Bureau runts are...!
+- **나카츠카사 키리노**: You've got a good point too. Let me note that down.
+- **나카츠카사 키리노**: And after that I have..."Check if the criminal has any demands." Hmm.
+- **나카츠카사 키리노**: Do you have any demands in exchange for that hostage?
+- **Hostage Taker**: Glad you asked! My demands are cash to equal the value of these diamonds here, and a sports car to use for my getaway.
+- **Hostage Taker**: And also copious amounts of silver vine fruit!
+- **나카츠카사 키리노**: That's going to be hard to do...
+- **Hostage Taker**: What? How come?! Don't you care if all of the diamonds here get blown into oblivion?!
+- **나카츠카사 키리노**: Well, due to traffic congestion, cars will be difficult to access. Even if we got you a sports car, it'd be hard for you to escape.
+- **나카츠카사 키리노**: Furthermore, the things you stole aren't diamonds. You have a bunch of cheap zirconia, so...
+- **나카츠카사 키리노**: Forget the cash you'll get from exchanging the jewels. It might be more cost-efficient to just rent a sports car.
+- **Hostage Taker**: Damn it! Then why the heck am I doing this...?
+- **Hostage Taker**: GAHHH!
+- **Hostage**: H-Huh?
+- **나카츠카사 키리노**: They're going berserk! I have to do something right away!
+- **나카츠카사 키리노**: N-Not true! It's the criminal who's bad here!
+- **나카츠카사 키리노**: There's no other choice. We'll have to shoot the detonator before the culprit can set off the bomb.
+- **나카츠카사 키리노**: Aiming at the culprit's hand... Fire!
+- **Hostage**: UAAAH!
+- **Hostage Taker**: Wh-What was that for? Why would you shoot the hostage instead of me?
+- **나카츠카사 키리노**: Ugh... I missed again.
+- **나카츠카사 키리노**: But not this time!
+- **Hostage**: Ack!
+- **Hostage**: S-Stop shooting me! I'm the hostage!
+- **Hostage Taker**: What is WITH this girl...?
+- **Hostage Taker**: (This is the worst negotiation I've ever seen. She keeps provoking me, and now she's shooting the hostage.)
+- **Hostage Taker**: (It's more common that the negotiator freezes up from fear of potentially hurting the hostage...)
+- **Hostage Taker**: (Wait. Is this her way of showing that the she has no intention of negotiating, no matter what happens to the hostage?)
+- **Hostage Taker**: (This reminds me. They say there's some crazy runt at Valkyrie Police School who apparently doesn't care about the safety of hostages and viciously chases after culprits.)
+- **Hostage Taker**: (Don't tell me this air-headed negotiator is THAT psychopath!)
+
+4. **「나카츠카사 키리노 인연 스토리 4」**
+
+- **나카츠카사 키리노**: Strange. It's not that far off, but I keep missing the target...
+- **나카츠카사 키리노**: My breathing isn't the problem, and I don't lack upper body strength.
+- **나카츠카사 키리노**: But whenever I pull the trigger, the bullet fires in a different direction than expected—as if my aiming point is off.
+- **나카츠카사 키리노**: Of course I am. I give my firearm maintenance every morning.
+- **나카츠카사 키리노**: I would have noticed something a long time ago if there was something wrong with the sight.
+- **나카츠카사 키리노**: ...Firearms CAN be sensitive though, so I can't rule it out.
+- **나카츠카사 키리노**: Then I'll do some light zeroing shots!
+- **나카츠카사 키리노**: ...
+- **나카츠카사 키리노**: Th-The aiming point must've been set incorrectly after all!
+- **나카츠카사 키리노**: There's no other reason the bullets would've kept flying directly at the hostage! Hahaha...
+- **나카츠카사 키리노**: Right. I'll do that and give it another go.
+- **나카츠카사 키리노**: Adjusting the sight to the right three clicks and up three clicks...
+- **나카츠카사 키리노**: ...
+- **나카츠카사 키리노**: Th-That's weird. I'm sure I aimed directly at the culprit's head and pulled the trigger...
+- **나카츠카사 키리노**: O-Of course!
+- **나카츠카사 키리노**: S-Surely you don't think I hit the hostage on purpose, do you, Sensei?
+- **나카츠카사 키리노**: A Valkyrie Police School student would never intentionally harm a civilian!
+- **나카츠카사 키리노**: The fact that my bullets keep hitting them is an unfortunate coincidence...
+- **나카츠카사 키리노**: Anyway! This all happened because the sight was broken!
+- **나카츠카사 키리노**: Huh?
+- **나카츠카사 키리노**: I'm sorry? You want me to aim the muzzle at the hostage, not the culprit?
+- **나카츠카사 키리노**: I can't aim my gun at an innocent civilian, even if this is just shooting practice!
+- **나카츠카사 키리노**: My pride as a police officer will never allow it!
+- **나카츠카사 키리노**: Th-That's true, but...
+- **나카츠카사 키리노**: Please forgive me, Mr. Paper Civilian!
+- **나카츠카사 키리노**: ...
+- **나카츠카사 키리노**: I-I can't do that! What kind of police officer intentionally aims at a hostage?!
+- **나카츠카사 키리노**: There must have been a mistake. If I correctly adjust the sight, then surely...
+- **나카츠카사 키리노**: I'm going to fire again!
+- **나카츠카사 키리노**: Ahhhhhh! Why...? Why?!
+
+5. **「나카츠카사 키리노 인연 스토리 5」**
+
+- **나카츠카사 키리노**: Hello, children! Welcome to Valkyrie Police School!
+- **나카츠카사 키리노**: I'm Kirino from the Public Safety Bureau, and I'll be your guide today.
+- **Kindergarten Student A**: How come you're not a Security or Investigation Bureau student?
+- **Kindergarten Student B**: I wanted to hear a bunch of stories about arresting scary criminals...
+- **Kindergarten Student C**: You dummy. The Security and Investigation Bureau students are busy. Of course they'd send someone from Public Safety. They have nothing better to do.
+- **나카츠카사 키리노**: Th-That isn't true! Sure, we're not as busy as Security, but the Public Safety Bureau still has plenty on its plate!
+- **나카츠카사 키리노**: We find the owners of lost items and conduct regular patrols to find dangerous facilities in the city center!
+- **Kindergarten Student A**: What the heck? That's so boring.
+- **Kindergarten Student B**: Who cares about your busywork?
+- **나카츠카사 키리노**: B-But... Well, the thing is...
+- **나카츠카사 키리노**: R-Right! Everyone, follow me!
+- **나카츠카사 키리노**: I will guide you through the buildings and explain the history of Valkyrie Police School!
+- **나카츠카사 키리노**: This is the dorm where the cadets reside!
+- **나카츠카사 키리노**: Most Valkyrie students reside in the school dorms in order to quickly respond to every incident.
+- **나카츠카사 키리노**: At the entrance, you'll find a cornerstone where the first president of the school's maxims are engraved. Students entering the building are imparted with their responsibilities as officers and given an opportunity for self-reflection.
+- **나카츠카사 키리노**: "It's the police's duty to think of the civilians' safety above all and treat your fellow students with a servant's heart."
+- **Kindergarten Student A**: Boo...! Boring!
+- **Kindergarten Student B**: What's so important about this boring lecture?
+- **Kindergarten Student C**: We want to know how to look cool when you take down bad guys!
+- **나카츠카사 키리노**: B-But understanding the responsibilities of the police is very important.
+- **나카츠카사 키리노**: Officers that have no regard for the public's safety are no better than the criminals they're stopping!
+- **Kindergarten Student A**: Yeah, okay. Now tell us stories about the scary criminals!
+- **Kindergarten Student B**: Have you ever shot your gun at a crime scene?
+- **Kindergarten Student C**: Let me guess. You're not even allowed to shoot your gun because you're with the Public Safety Bureau, huh?
+- **나카츠카사 키리노**: Th-That isn't true at all! Shooting is a basic skill that all Valkyrie students must have regardless of department!
+- **나카츠카사 키리노**: And it just so happens that I recently resolved a hostage situation with my gun! Hahaha...
+- **나카츠카사 키리노**: (D-Don't look at me like that! The children might suspect something!)
+- **나카츠카사 키리노**: (T-Try not to sound so insincere! The children might suspect something)
+- **Kindergarten Student A**: You fired your gun during a hostage situation? Weren't you afraid of the criminal?
+- **나카츠카사 키리노**: Well, of course I was scared, but they had a hostage...
+- **Kindergarten Student B**: I always thought the Public Safety Bureau only did boring stuff, but that's so cool!
+- **나카츠카사 키리노**: (Technically, that wasn't a lie, but I still feel like I'm being dishonest with these innocent kids.)
+- **나카츠카사 키리노**: (At least I got their attention now. The field trip should go much smoother now.)
+- **Kindergarten Student A**: So what's that bottle hanging from your waist? Is it another weapon?
+- **나카츠카사 키리노**: Oh, this? It's a smoke bomb. It's not as powerful as a grenade, but it comes in handy during hostage extractions because it obscures the culprit's vision.
+- **나카츠카사 키리노**: In fact, it played an important part in the hostage case that happened last month in Shiba Town!
+- **Kindergarten Student A**: You mean when those heavily armed schoolgirls infiltrated the pudding shop?
+- **Kindergarten Student B**: Wow! So you were part of that?!
+- **Kindergarten Student A**: Amazing! So cool!
+- **나카츠카사 키리노**: Ahaha...
+- **나카츠카사 키리노**: (To be fair, my smoke bomb didn't exactly help matters...)
+- **Kindergarten Student C**: What about those scrunchies you have?
+- **나카츠카사 키리노**: These aren't scrunchies—they're handcuffs. I use them to arrest criminals by placing them around their wrists.
+- **나카츠카사 키리노**: There's no hope of getting out of them without a key, so you have to be very careful when using them.
+- **Kindergarten Student C**: Really? They look like they could fall apart just by tugging at them...
+- **나카츠카사 키리노**: Not at all. It has hidden gears on the inside that make it impossible to loosen them by hand!
+- **나카츠카사 키리노**: Why don't I show you with a demonstration?
+- **나카츠카사 키리노**: First, you restrict and immobilize the criminal and cuff one arm...
+- **나카츠카사 키리노**: ...then you loop the other end of the handcuffs around a sturdy structure and cuff the other arm.
+- **나카츠카사 키리노**: Ta-da! They've been apprehended!
+- **나카츠카사 키리노**: As you can see, there's no escaping once a criminal has been apprehended.
+- **Kindergarten Student A**: Wow, that's awesome!
+- **Kindergarten Student B**: This is the first time I've ever seen anyone use handcuffs!
+- **나카츠카사 키리노**: Haha. I'm glad they're such a hit.
+- **나카츠카사 키리노**: Now, time to use the key to undo the handcuffs...
+- **나카츠카사 키리노**: Wh-What the...?
+- **나카츠카사 키리노**: (M-My hand slipped and I lost the key for the handcuffs!)
+- **나카츠카사 키리노**: (And to make matters worse, it rolled into the sewers!)
+- **Kindergarten Student A**: Hey, what's wrong? Is there some kind of problem?
+- **나카츠카사 키리노**: Uh. Um, well...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/나카츠카사 키리노
+- https://bluearchive.wiki (원문 스토리 스크립트)

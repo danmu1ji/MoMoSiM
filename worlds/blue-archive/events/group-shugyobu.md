@@ -1,0 +1,273 @@
+# Shugyobu 그룹 스토리
+
+원문(bluearchive.wiki) 그룹 스토리 스크립트 5화를 한국어 정본 이름으로 옮긴 기록이다.
+
+- 등장: ???, Troublemaking Student A, Troublemaking Student B, 미즈하 미모리, 아사히나 피나, 이사미 카에데, 카스가 츠바키, 카와와 시즈코
+
+1. **「Shugyobu 스토리 1화」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「Shugyobu 스토리 2화」**
+
+- **???**: The Inner Discipline Club...
+- **???**: It's a club where the most beautiful girls of Hyakkiyako gather...
+- **???**: ...to train and discipline themselves!
+- **???**: One of them does it to get the most comfortable night's sleep possible...
+- **???**: Another does it to become the most picture-perfect lady in the world!
+- **???**: And another one is especially cute and lively!
+- **???**: The latter is the Inner Discipline Club's mascot, who radiates positivity all the time!
+- **???**: Here in the Inner Discipline Club, she trains to become the most amazing woman in the world!
+- **???**: Doesn't it sound like a wonderful club?
+- **???**: Allow me to give you a grand tour of the Inner Discipline Club today!
+- **???**: ...
+- **???**: Hmmm... Bah!
+- **???**: Cut! Cut! Take it from the top!
+- **이사미 카에데**: No, this isn't what I imagined at all.
+- **이사미 카에데**: The way I pictured it in my mind was something way more lively and bright...
+- **이사미 카에데**: ...so that whoever watches it will immediately say, "I can't wait to join this club!"
+- **이사미 카에데**: Whoa! What the...?!
+- **이사미 카에데**: Sensei, you surprised me!
+- **이사미 카에데**: What am I doing right now?
+- **이사미 카에데**: Well, brace yourself for this!
+- **이사미 카에데**: I am currently...
+- **이사미 카에데**: ...shooting a promo video for the Inner Discipline Club!
+- **이사미 카에데**: Recently, Hyakkiyako held a UCC contest that featured a few club promos!
+- **이사미 카에데**: Yup! It's a contest where each club makes and submits a video introducing their club!
+- **이사미 카에데**: Yup! It's a contest where each club makes and submits a video introducing their club!
+- **이사미 카에데**: Hyakkiyako often holds contests and tournaments like this.
+- **이사미 카에데**: Since the different clubs tend to butt heads frequently, we hold events like this to settle the score.
+- **이사미 카에데**: Yup! It's a competition! Which is why we cannot lose!
+- **이사미 카에데**: It's like the Warring States Period, but for UCC contests!
+- **이사미 카에데**: The Yin-Yang Club took home the gold last time at the "Hyakkiyako: Champion of Karuta" tournament.
+- **이사미 카에데**: But that won't be the case this time!
+- **이사미 카에데**: People like to call the Inner Discipline Club a place for oddballs...
+- **이사미 카에데**: But with a proper video, we can get rid of all those rumors and win the contest for sure!
+- **이사미 카에데**: Yeah! It's all a misunderstanding!
+- **이사미 카에데**: I need to let others know how amazing the Inner Discipline Club really is.
+- **이사미 카에데**: Well, if I do win the contest and the prize money that goes along with it, then I can buy the legendary Golden Hercules Beetle...
+- **이사미 카에데**: No, forget that!
+- **이사미 카에데**: I mean, it'll go towards the Inner Discipline Club's budget...
+- **이사미 카에데**: ...just another stepping stone toward becoming an awesome lady!
+- **이사미 카에데**: It'll be two birds with one stone! How frugal! Yeah! That'll make me amazing for sure!
+- **이사미 카에데**: Thanks, Sensei! I'll make sure to buy you something nice to eat after I win!
+- **이사미 카에데**: But...
+- **이사미 카에데**: There is something bothering me, though.
+- **이사미 카에데**: I'm working on the video, but it's missing that extra "oomph", you know?
+- **이사미 카에데**: I mean, winning the contest is a given...
+- **이사미 카에데**: ...since I, the super-cute mascot of the Inner Discipline Club, will be in the video as the reporter...
+- **이사미 카에데**: But I do wish it had that extra something...that "pow"! That "bang"! That "oomph" that'll seal the deal...
+- **이사미 카에데**: What do you suggest?
+- **이사미 카에데**: So instead of just introducing the club...
+- **이사미 카에데**: So instead of just introducing the club...
+- **이사미 카에데**: ...I show them what we do here and how we do it?
+- **이사미 카에데**: It'll be like trying out the club just by watching the video!
+- **이사미 카에데**: Hmm... Yes!
+- **이사미 카에데**: I approve! Good idea, Sensei!
+- **이사미 카에데**: As I expected of you!
+- **이사미 카에데**: No other adult gives me the kind of advice that makes my heart sing...
+- **이사미 카에데**: In fact, it wouldn't be an exaggeration to say you've transcended the power of a normal adult. I'd say you're...a super adult!
+- **이사미 카에데**: All right! I'll do it right now! Bye, Sensei!
+
+3. **「Shugyobu 스토리 3화」**
+
+- **이사미 카에데**: Okay, testing the camera. Testing... One, two...
+- **이사미 카에데**: Let's test the mic while we're at it! Can you see me? Can you hear me?
+- **이사미 카에데**: All right, let's get this promo rolling!
+- **이사미 카에데**: This is the Inner Discipline Club! And right now we're at the side of Red Panda River, the club president's favorite spot!
+- **이사미 카에데**: We're here because...
+- **이사미 카에데**: Tsubaki, the president of the Inner Discipline Club, loves to train here!
+- **이사미 카에데**: Ah, speak of the devil!
+- **카스가 츠바키**: *snoring*
+- **이사미 카에데**: Allow me to introduce her!
+- **이사미 카에데**: This is Kasuga Tsubaki! Second-year student! Sixteen years old! Also known as the Sleeping Beauty and president of the Inner Discipline Club!
+- **이사미 카에데**: Now, to help you understand how amazing Tsubaki is...
+- **이사미 카에데**: Huh?
+- **이사미 카에데**: Wait... A cat just showed up right by Tsubaki!
+- **이사미 카에데**: Make that two!
+- **이사미 카에데**: Now there's a puppy...and a rabbit? ...And now a pigeon, a deer, and even more animals?
+- **이사미 카에데**: They just keep coming!
+- **이사미 카에데**: I bet all of them are mesmerized by the sight of Tsubaki sleeping so peacefully!
+- **카스가 츠바키**: *snoring*
+- **이사미 카에데**: Amazing! Look at her sleep, undisturbed by the huge flock of animals around her!
+- **이사미 카에데**: She didn't falter even the slightest bit. Such is the beauty of an exemplary lady!
+- **이사미 카에데**: Right, I can't fall behind!
+- **이사미 카에데**: As the adorable mascot of the Inner Discipline Club and such an aspiring awesome lady, I will hone my skills to reach her level of greatness!
+- **이사미 카에데**: Um, excuse me!
+- **이사미 카에데**: Whoa...
+- **이사미 카에데**: So this is what Tsubaki sees when she's lying down...
+- **이사미 카에데**: Falling asleep with this kind of view...
+- **이사미 카에데**: This must be the kind of training that awesome ladies do...
+- **이사미 카에데**: In that case, I'm gonna close my eyes, just like Tsubaki...
+- **이사미 카에데**: ...
+- **이사미 카에데**: Ah, it tickles!
+- **이사미 카에데**: Stop it! Don't lick my cheek like that! I can't sleep!
+- **이사미 카에데**: Mmm!
+- **이사미 카에데**: Ugh! Seriously!
+- **이사미 카에데**: Here, have Tsubaki to lick!
+- **카스가 츠바키**: ...
+- **이사미 카에데**: Whew! That was some rewarding training! On to the next bit!
+- **카스가 츠바키**: *still snoring*
+- **이사미 카에데**: Next up is the vice president of the Inner Discipline Club...
+- **이사미 카에데**: ...the living example of a beautiful lady, Mimori!
+- **이사미 카에데**: At this hour, Mimori must be making dinner...
+- **미즈하 미모리**: Oh, Kaede? What's going on?
+- **이사미 카에데**: Mimori!
+- **미즈하 미모리**: Is that...a camera?
+- **이사미 카에데**: Yup! I'm recording a day in the life of the Inner Discipline Club!
+- **미즈하 미모리**: A day in the life of the Inner Discipline Club?
+- **미즈하 미모리**: I'm not so sure what's going on... Is this part of the training you mentioned?
+- **이사미 카에데**: That's right! With this training, I'll become an amazing lady and take down the Yin-Yang Club!
+- **미즈하 미모리**: I beg your pardon?
+- **미즈하 미모리**: Anyways, good luck with your training. Tonight's dinner is curry!
+- **미즈하 미모리**: Make sure to come back to the club room for dinner before it gets cold, okay?
+- **이사미 카에데**: Sure thing!
+- **이사미 카에데**: See that? Mimori is the vice president of the Inner Discipline Club. She takes care of many things for us, not just our meals!
+- **이사미 카에데**: Mimori's dream is to become a fine and elegant lady! That's what she's training for!
+- **이사미 카에데**: Mimori is no less of an elegant lady than Tsubaki...
+- **이사미 카에데**: So I can't fall behind! If I want to be like Mimori, I should be doing the same kinds of training as her...
+- **이사미 카에데**: Ah! I got an idea!
+- **이사미 카에데**: Mmm... That's the smell of Mimori's famous curry! Yummy!
+- **이사미 카에데**: Let me have just a bit... Nom, nom. *slurp*
+- **이사미 카에데**: Mmm! So tasty!
+- **이사미 카에데**: But I can't be like Mimori if I just keep on eating her cooking!
+
+4. **「Shugyobu 스토리 4화」**
+
+- **이사미 카에데**: Mmm...
+- **이사미 카에데**: (So...shleepy...)
+- **이사미 카에데**: (What was that sound...?)
+- **카스가 츠바키**: Did you prepare everything like I told you, Mimori?
+- **미즈하 미모리**: Yes. You wanted this and this, right?
+- **카스가 츠바키**: Yeah. That should be enough.
+- **카스가 츠바키**: Looks like everything is ready. Shall we?
+- **미즈하 미모리**: Yes. Kaede could wake up at any moment, so let's hurry.
+- **이사미 카에데**: (Tsubaki...? And Mimori?)
+- **이사미 카에데**: Where are you two going without me? Zzz...
+- **이사미 카에데**: Huh?!
+- **이사미 카에데**: Was I dreaming?
+- **미즈하 미모리**: Kaede, are you awake?
+- **미즈하 미모리**: I just started making breakfast. Wash your face first if you're up.
+- **이사미 카에데**: Ah... Mmm...
+- **카스가 츠바키**: *yawn*
+- **미즈하 미모리**: The same goes for you, Tsubaki! Stop dozing off and get ready for breakfast.
+- **미즈하 미모리**: Come on. Up and at 'em, Kaede.
+- **카스가 츠바키**: *yawn* Yes, Mom...
+- **미즈하 미모리**: What?! I-I'm not your mom...!
+- **카스가 츠바키**: Zzz...
+- **미즈하 미모리**: Tsubaki? Did you just fall asleep here? It's morning! You can't fall asleep again!
+- **이사미 카에데**: ...
+- **이사미 카에데**: So that's what happened today! What do you think, Sensei?!
+- **이사미 카에데**: Hey! What's with that disappointing reaction?!
+- **이사미 카에데**: Hey! What's with that disappointing reaction?!
+- **이사미 카에데**: Don't you get it, Sensei? This is a major problem! It's really, really serious!
+- **아사히나 피나**: *gulp* Is it that serious?! I didn't realize!
+- **이사미 카에데**: Nuh-uh. This is what's so important!
+- **이사미 카에데**: The fact that they secretly went out at night without me is seriously... It's like really, uh...s-su...su...
+- **아사히나 피나**: Suspicious? You mean...?
+- **이사미 카에데**: Right! That's the word!
+- **이사미 카에데**: Suspicious! Suspicious times a million! Don't you think so?!
+- **이사미 카에데**: Why would they go out after only I fall asleep? They must be hiding something!
+- **아사히나 피나**: Yeah... Maybe they're, like, the only two members of some kind of secret society! We've got a mystery on our hands!
+- **이사미 카에데**: Good girl, Pina! I knew you'd get it. Have a compliment sticker!
+- **아사히나 피나**: Awww. Thank you, Kaede!
+- **이사미 카에데**: You're too naive, Sensei! You'll never become a great detective with that level of deductive reasoning!
+- **이사미 카에데**: You'd in be in real trouble if you were isolated on a stormy remote island or stuck in a cabin in the middle of nowhere and the bridge was out!
+- **이사미 카에데**: ANYWAY! Unlike you, I'm cool, cute, and I have great detective skills. As a promising detective with a brilliant mind, my speculation is...!
+- **카와와 시즈코**: Would you keep it down and enjoy the strawberry anmitsu you ordered? I can hear you tooting your own horn from all the way on the other side of the store.
+- **카와와 시즈코**: And these two are for you, Kaede. Sensei.
+- **아사히나 피나**: Thanks Shizuko!
+- **이사미 카에데**: Okay, I'll admit the strawberry anmitsu looks delicious!
+- **카와와 시즈코**: Just doing my job. We're not very busy right now, so I have a little time to chat.
+- **카와와 시즈코**: That aside, you all should listen to Sensei about this and quit joking around.
+- **아사히나 피나**: But we're not joking around! And besides, listening to the troubles of customers is one of our duties at Momoyodou!
+- **아사히나 피나**: I'm like one of those teahouse servers from the vigilante movies!
+- **이사미 카에데**: That's right! You should be nicer to your customers! *munch* *munch*
+- **카와와 시즈코**: Says the unwelcome guest... Okay, I concede that one was a little unprofessional.
+- **카와와 시즈코**: Let me start over again from the top.
+- **카와와 시즈코**: Ahem. Here you are, Master! The strawberry anmitsu you ordered! Now let me say the magic words to make it even tastier!
+- **카와와 시즈코**: Hocus pocus, be more delicious...
+- **이사미 카에데**: That's okay. I'm good.
+- **카와와 시즈코**: Hmm?
+- **이사미 카에데**: Isn't that just one of those useless services the shops add at their own discretion so they can charge the customers extra?
+- **이사미 카에데**: I know all about it! I won't fall for such obvious tricks!
+- **카와와 시즈코**: H-Hold on! What are you trying to say about us waitresses?!
+- **카와와 시즈코**: E-Even you, Sensei?!
+- **이사미 카에데**: Anyway, back to business. It's obvious my upperclassmen are hiding something from me. *munch*
+
+5. **「Shugyobu 스토리 5화」**
+
+- **이사미 카에데**: *sneak* *sneak*
+- **이사미 카에데**: *creep* *creep*
+- **이사미 카에데**: Yah! *tap* *tap* *tap*
+- **이사미 카에데**: Shh! Sensei! You have to be quiet!
+- **이사미 카에데**: Shh! Sensei! You have to be quiet!
+- **이사미 카에데**: I'm secretly tailing them.
+- **이사미 카에데**: It's time to show off the skills I've honed while playing spy with Mikuri!
+- **이사미 카에데**: Wait! You can't step there, Sensei!
+- **이사미 카에데**: You'll be out of bounds if you step outside the line.
+- **이사미 카에데**: That's where the ocean is. It's full of sharks!
+- **이사미 카에데**: And stepping ON the line isn't safe either!
+- **이사미 카에데**: The lines are where lava is, so if you stay there for more than ten seconds, your feet will get too hot and you'll fall!
+- **이사미 카에데**: This is all standard stuff, right?
+- **이사미 카에데**: This is all standard stuff, right?
+- **이사미 카에데**: Sensei, you're more of an a-ama...ama-tuna than I thought!
+- **이사미 카에데**: We don't have time for this! We're going to lose them at this rate. Let's hurry up and get after them, Sensei.
+- **이사미 카에데**: We don't have time for this! We're going to lose them at this rate. Let's hurry up and get after them, Sensei.
+- **이사미 카에데**: *jumps*
+- **이사미 카에데**: I could sense they were having an important conversation just now.
+- **이사미 카에데**: Look closer, Sensei. They were standing here in front of the railing. Like this.
+- **이사미 카에데**: Look closer, Sensei. They were standing here in front of the railing. Like this.
+- **이사미 카에데**: And they were looking far into the distance as they were lost in conversation...
+- **이사미 카에데**: Ah-ha! I-I got it, Sensei! I think I know.
+- **이사미 카에데**: Why Tsubaki and Mimori were having a serious conversation as they looked over at the city.
+- **이사미 카에데**: They must have been strengthening their resolve as members of the Inner Discipline Club by looking over the streets they've sworn to protect!
+- **이사미 카에데**: "We must clean these streets of villainy..."
+- **이사미 카에데**: "Yes. It won't be easy, we'll protect everyone with our own two hands!"
+- **이사미 카에데**: That must have been what they were saying.
+- **이사미 카에데**: It's just like shounen anime that comes on every Saturday morning!
+- **이사미 카에데**: But why would they leave me out of it?
+- **이사미 카에데**: We have to keep following them for just a little while longer. I have to find out what they're up to!
+- **이사미 카에데**: Here I go! *tap* *tap* *tap*
+- **이사미 카에데**: They also passed this place! What were they doing here?!
+- **이사미 카에데**: Must be mascots!
+- **이사미 카에데**: Must be mascots!
+- **이사미 카에데**: They must be training mascots in secret to bolster the image of the Inner Discipline Club.
+- **이사미 카에데**: Look at them! Here, like this!
+- **이사미 카에데**: They're coming closer a-and...attacking us with their cuteness!
+- **이사미 카에데**: I thought I was the mascot of the Inner Discipline Club! Am I not enough?!
+- **이사미 카에데**: Waaahhh! Tsubaki! Mimori!
+- **이사미 카에데**: They just passed by here! There might be some kind of secret! I'll have to investigate!
+- **이사미 카에데**: *sniff* *sniff*
+- **이사미 카에데**: ...?!
+- **이사미 카에데**: I'm sure of it this time. That's what my brilliant reasoning is telling me!
+- **이사미 카에데**: There's a secret somewhere around here, Sensei.
+- **이사미 카에데**: ...!
+- **이사미 카에데**: ...!
+- **이사미 카에데**: Yeah. Tsubaki and...Mimori...
+- **이사미 카에데**: Where did you guys go...without me...?
+- **이사미 카에데**: *whimper*
+- **이사미 카에데**: No, Sensei...
+- **이사미 카에데**: If I don't find out the truth for myself, then...
+- **이사미 카에데**: ...I'll be the only Inner Discipline Club member who...
+- **이사미 카에데**: Huh?
+- **Troublemaking Student A**: Did you just bump into me? You lookin' for a fight?!
+- **Troublemaking Student B**: Let's go!
+- **이사미 카에데**: But I didn't mean to...
+- **Troublemaking Student A**: Tch! Stay out of this, outsider!
+- **Troublemaking Student B**: Butt out!
+- **Troublemaking Student A**: It just so happens I bought a bunch of tsuchinoko skin earlier. But it turns out that con artist sold me cicada skin, so I'm in a real pissed off mood tonight!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/Shugyobu
+- https://namu.wiki/w/Shugyobu(블루 아카이브)
+- https://namu.wiki/w/???
+- https://namu.wiki/w/Troublemaking Student A
+- https://namu.wiki/w/Troublemaking Student B
+- https://namu.wiki/w/미즈하 미모리
+- https://namu.wiki/w/아사히나 피나
+- https://namu.wiki/w/이사미 카에데
+- https://namu.wiki/w/카스가 츠바키
+- https://namu.wiki/w/카와와 시즈코
+- https://bluearchive.wiki (원문 스토리 스크립트)

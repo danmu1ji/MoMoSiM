@@ -13,12 +13,11 @@
  *   node tools/serve.mjs [--port 5173] [--host 127.0.0.1] [--dir apps/desktop/dist]
  */
 import { createServer } from 'node:http';
-import { readFile, writeFile, mkdir, stat, chmod } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, stat, chmod, readdir } from 'node:fs/promises';
 import { createReadStream, existsSync } from 'node:fs';
 import { extname, join, normalize, resolve, dirname } from 'node:path';
 import { homedir } from 'node:os';
 import { fetchProviderChat, fetchProviderModels } from './provider-proxy.mjs';
-import { ensureTtsWorker, stopTtsWorker } from './tts-worker.mjs';
 
 const args = process.argv.slice(2);
 const argOf = (name, fallback) => {
@@ -31,7 +30,7 @@ const LOOPBACK_HOSTS = new Set(['127.0.0.1', 'localhost', '[::1]', '::1']);
 if (!LOOPBACK_HOSTS.has(HOST)) throw new Error('The local server must bind to a loopback address because it serves saved API credentials.');
 const HOST_FOR_URL = HOST === '::1' ? '[::1]' : HOST;
 const ROOT = resolve(argOf('--dir', 'apps/desktop/dist'));
-const BLUE_ARCHIVE = resolve(argOf('--blue-archive', 'worlds/blue-archive.😭'));
+const WORLDS_DIR = resolve(argOf('--worlds', 'worlds'));
 const CREDENTIAL_PATH = join(process.env.XDG_CONFIG_HOME ?? join(homedir(), '.config'), 'world-player', 'credentials.json');
 
 const MIME = {
@@ -44,8 +43,6 @@ const MIME = {
   '.jpg': 'image/jpeg',
   '.jpeg': 'image/jpeg',
   '.webp': 'image/webp',
-  '.ogg': 'audio/ogg',
-  '.mp3': 'audio/mpeg',
   '.woff2': 'font/woff2',
   '.wast': 'application/wasm',
   '.😭': 'application/zip',
@@ -128,10 +125,26 @@ const server = createServer(async (request, response) => {
   if (!trustedHostAndOrigin(request)) return json(response, 403, { error: 'Only this local application origin may access the server.' });
   const url = new URL(request.url ?? '/', `http://${HOST_FOR_URL}:${PORT}`);
 
-  // Large game data stays outside dist and is streamed only when the user opens it.
-  if (url.pathname === '/api/blue-archive') {
+  // Expose only top-level world archives; the server is loopback-only.
+  if (url.pathname === '/api/worlds' && request.method === 'GET') {
     try {
-      const info = await stat(BLUE_ARCHIVE);
+      const entries = await readdir(WORLDS_DIR, { withFileTypes: true });
+      const worlds = entries.filter(entry => entry.isFile() && /\.(?:😭|zip)$/i.test(entry.name))
+        .map(entry => ({ name: entry.name, url: `/api/worlds/${encodeURIComponent(entry.name)}` }))
+        .sort((left, right) => left.name.localeCompare(right.name));
+      return json(response, 200, { worlds });
+    } catch {
+      return json(response, 200, { worlds: [] });
+    }
+  }
+  if (url.pathname.startsWith('/api/worlds/')) {
+    try {
+      const name = decodeURIComponent(url.pathname.slice('/api/worlds/'.length));
+      if (!name || name !== name.split(/[\\/]/).pop() || !/\.(?:😭|zip)$/i.test(name)) return json(response, 404, { error: 'World package not found.' });
+      const filePath = resolve(WORLDS_DIR, name);
+      if (dirname(filePath) !== WORLDS_DIR) return json(response, 404, { error: 'World package not found.' });
+      const info = await stat(filePath);
+      if (!info.isFile()) throw new Error('not a file');
       const range = request.headers.range?.match(/^bytes=(\d*)-(\d*)$/);
       if (request.headers.range && !range) {
         response.writeHead(416, { 'content-range': `bytes */${info.size}`, 'accept-ranges': 'bytes' });
@@ -156,9 +169,9 @@ const server = createServer(async (request, response) => {
         'cache-control': 'no-cache',
       });
       if (request.method === 'HEAD') return response.end();
-      return createReadStream(BLUE_ARCHIVE, { start, end }).pipe(response);
+      return createReadStream(filePath, { start, end }).pipe(response);
     } catch {
-      return json(response, 404, { error: `Blue Archive package not found: ${BLUE_ARCHIVE}` });
+      return json(response, 404, { error: 'World package not found in the worlds folder.' });
     }
   }
 
@@ -187,7 +200,7 @@ const server = createServer(async (request, response) => {
         const updated = {
           secret: primarySecret,
           secrets,
-          // Settings updates are partial. Voice toggles must not erase provider endpoint/model.
+          // Settings updates are partial so an API-key change cannot erase endpoint/model settings.
           settings: payload.settings && typeof payload.settings === 'object' ? { ...(stored.settings ?? {}), ...payload.settings } : stored.settings,
           settingsUpdatedAt: payload.settings && typeof payload.settings === 'object'
             ? (typeof payload.settingsUpdatedAt === 'number' ? payload.settingsUpdatedAt : Date.now())
@@ -233,14 +246,6 @@ const server = createServer(async (request, response) => {
     } catch (error) {
       return json(response, 502, { error: error instanceof Error ? error.message : 'Model listing failed.' });
     }
-  }
-
-  if (url.pathname === '/api/tts/ensure') {
-    if (request.method !== 'POST') return json(response, 405, { error: 'method not allowed' });
-    const payload = await readJsonBody(request, response, 4096);
-    if (payload === undefined) return;
-    try { return json(response, 200, await ensureTtsWorker(typeof payload.endpoint === 'string' ? payload.endpoint : undefined)); }
-    catch (error) { return json(response, 503, { error: error instanceof Error ? error.message : 'Could not start the local TTS service.' }); }
   }
 
   if (url.pathname === '/api/provider/chat/completions') {
@@ -318,16 +323,15 @@ server.on('error', error => {
   console.error(error);
   process.exitCode = 1;
 });
-server.on('close', stopTtsWorker);
-process.once('SIGINT', () => { stopTtsWorker(); server.close(); });
-process.once('SIGTERM', () => { stopTtsWorker(); server.close(); });
+process.once('SIGINT', () => server.close());
+process.once('SIGTERM', () => server.close());
 
 server.on('listening', () => {
   const address = server.address();
   if (address && typeof address === 'object') activePort = address.port;
   console.log(`▶ 월드 플레이어 서버: http://${HOST}:${activePort}`);
   console.log(`  정적 루트: ${ROOT}`);
-  console.log(`  Blue Archive package: ${BLUE_ARCHIVE}`);
+  console.log(`  World packages: ${WORLDS_DIR}`);
   console.log(`  키·설정 저장: ${CREDENTIAL_PATH} (권한 600)`);
 });
 server.listen(PORT, HOST);

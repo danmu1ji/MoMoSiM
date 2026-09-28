@@ -70,26 +70,9 @@
 | 카테고리/하위 카테고리 트리 | `navigation.ts` (roots, subcategoriesOf, charactersInCategory, charactersUnder, breadcrumb) | 완료 |
 | 플레이어 화면 계약 | 홈=제목+2버튼 3색, 세계관 화면=상단바/배너/카테고리 레일/대화 버튼, 탐색 창=70:30, 캐릭터 선택=폴더 트리+타임라인 | 완료 |
 
-## 8. 말풍선 미디어 표현 (이미지·음성)
+## 8. 캐릭터 이미지
 
-캐릭터 말풍선은 **위에서 아래로 `사진 → 음성(선택) → 대사 텍스트`** 순서가 고정된다.
-
-| 구성 | 월드 데이터 | 비고 |
-|---|---|---|
-| 상단 사진 | `Character.chatImage` (미디어 id) | **프로필(`banner`)과 별개로 설정**할 수 있다. 지정하지 않으면 같은 캐릭터의 `lobby-<slug>` → `banner` 순으로 자동 대체된다. |
-| 상단 음성(선택) | `Character.voice` (미디어 id) | 응답에 `[[audio:...]]` 지시문이 있으면 그쪽이 우선, 없으면 이 기본 음성이 재생 버튼으로 붙는다. 없으면 음성 없이 표시. |
-| 대사 | 응답 텍스트 | 사진·음성 지시문을 걷어낸 나머지. |
-
-처리 경로:
-
-1. 모델 응답/문서의 `[[media:id]]`·`[[audio:id]]`를 `parseChatMarkdown`/`parseMarkdown`이 `ChatNode`로 변환.
-2. `packages/engine/src/presentation.ts`의 `presentMessage()`가 **위치와 무관하게 상단으로 끌어올린다(hoist)** —
-   첫 `media` = 상단 사진, 모든 `audio` = 상단 재생 버튼, 나머지 = 본문. 발화자는 **id(`character:aria`)와 표시 이름(`아리아`) 둘 다** 해석한다.
-3. 시스템 프롬프트의 `mediaDirectives()`가 캐릭터가 쓸 수 있는 **허용 id 목록**(사진 1개 + 음성 몇 개와 영어 전사)과
-   규칙("지시문은 항상 맨 앞, 사진 1개·음성 최대 1개, 그 뒤에 한국어 대사")을 알려준다.
-4. UI(`apps/desktop/src/player/chat-view.tsx`)가 `.bubble-head`(사진 + 재생 버튼)와 `.bubble-text`를 렌더한다.
-   음성은 자체 재생 버튼(▶/❚❚)으로 재생하며, 플레이어 발화에는 미디어를 붙이지 않는다.
-5. 검증: `validateWorld`가 `chatImage`/`voice`가 실제 미디어인지 확인(`MISSING_CHAT_IMAGE`, `MISSING_VOICE` 경고).
+World packages may define image media for banners, portraits, and illustrations. The player resolves image IDs lazily and uses a neutral generated placeholder when an image is missing. Chat responses support text and image directives.
 
 ## 9. UI / 테마
 
@@ -107,7 +90,7 @@
 |---|---|---|
 | 원문 수집 | 외부 수집 도구(저장소 미포함) | `research/<world>/raw/*` (각 파일 첫 줄에 SOURCE URL) |
 | 미디어 목록·전사 | 외부 수집 도구 | `research/<world>/media-manifest.json` (배너/로비/보이스 + 원문 대사) |
-| 미디어 다운로드 | 외부 수집 도구 | `worlds/<world>/assets/{images,audio}` |
+| 이미지 가져오기 | 사용자가 제공한 파일 | `worlds/<world>/assets/images` |
 | 패키지 생성 | 외부 조립 도구 | `manifest.yaml`, `world.yaml`, `index/entities.yaml`, `lore/`, `characters/`, `events/`, `timeline/`, `assets/media.yaml` |
 | 패키징·검증 | `tools/build-example.ts`, `tools/validator.ts` | `.😭` 아카이브 + 오류 0 확인 |
 
@@ -148,8 +131,8 @@
    작은 패키지·테스트는 `eagerAssets: true`로 예전 동작을 유지한다.
 3. `readAssetBytes` / `assetUrlAsync` — 자산을 요청 시 읽어 캐시하고, objectURL은 64MB LRU 상한을 넘으면 해제한다.
    `releaseAssetUrls(data)`로 세계관 전환 시 정리한다.
-4. UI(`apps/desktop/src/player/lazy-asset.tsx`) — `LazyAssetImage`는 IntersectionObserver로 **화면에 들어온 이미지만** 읽고,
-   `LazyAudio`는 재생 버튼을 누를 때 읽는다. `banner-image.tsx`·`browse-overlay.tsx`·`chat-view.tsx`가 이 컴포넌트를 쓴다.
+4. UI(`apps/desktop/src/player/lazy-asset.tsx`) — `LazyAssetImage`는 IntersectionObserver로 **화면에 들어온 이미지만** 읽는다.
+   `banner-image.tsx`·`browse-overlay.tsx`·`chat-view.tsx`가 이 컴포넌트를 쓴다.
 5. 내보내기(`exportWorldPackageAsync`) — 지연 로딩 상태에서도 소스에서 자산을 읽어 **전체 패키지를 복원**한다
    (동기 `exportWorldPackage`는 eager 모드·테스트용).
 
@@ -192,18 +175,6 @@
    넣지 않는다(지목한 상대가 두 번 말하는 것을 막는다).
 
 플레이어 메시지는 `inputTurn`으로 객체를 그대로 넘겨 기록에 정확히 한 번만 들어가게 한다.
-
-## 말풍선 미디어 — 음성은 예외, 사진은 기본
-
-- **사진**: 캐릭터의 `chatImage`(없으면 로비 → 배너)를 기본으로 붙인다. 답변마다 프로필이 보이는 게 자연스럽기 때문이다.
-  모델이 `[[media:id]]`로 다른 그림을 지시하면 그쪽이 이긴다.
-- **음성**: **기본값이 없다.** 캐릭터가 `[[audio:id]]`를 명시했을 때만 붙는다.
-  예전에는 답변에 음성이 없으면 캐릭터의 `voice:` 자산을 자동으로 붙였는데, 그 결과 말할 필요가 없는 답변에도
-  재생 버튼이 항상 따라붙었다(요청에 따라 제거).
-  프롬프트(`mediaDirectives`)도 음성을 "특별한 순간에만 쓰는 예외"로 설명하고, 후보 목록을 3개로 줄여
-  목록이 있다는 이유만으로 고르는 일이 없게 했다.
-- **자동 재생**: `LazyAudio`에 `autoPlay`가 있고, 말풍선 음성은 항상 자동 재생을 시도한다.
-  브라우저가 사용자 제스처 없는 재생을 막으면 재생 버튼이 그대로 남아 눌러서 들을 수 있다(차단은 실패가 아니다).
 
 ## 자격증명·설정 저장소
 

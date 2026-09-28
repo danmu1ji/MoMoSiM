@@ -1,0 +1,121 @@
+# Group Story / Onmyobu / 1
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Onmyobu/1
+Status: source-extracted-unreviewed
+
+
+- Kaho (Yin-Yang Club): The next item on the agenda...
+- Kaho (Yin-Yang Club): The Yin-Yang Club will be holding a concert called "A Hyakkiyako Thanksgiving" for the festival.
+- Kaho (Yin-Yang Club): This festival is an important tradition for us all, but there's no need to feel any pressure.
+- Kaho (Yin-Yang Club): It should be routine, so I'll handle directing and organizing it.
+- Chise (Yin-Yang Club): Wait, please.
+- Kaho (Yin-Yang Club): Yes, Chise? Did you have any questions?
+- Chise (Yin-Yang Club): Mmm...
+- Chise (Yin-Yang Club): I want to be in charge.
+- Kaho (Yin-Yang Club): Of the concert?!
+- Niya (Yin-Yang Club): Director Chise? Nyahaha!
+- Niya (Yin-Yang Club): I like the sound of that.
+- Kaho (Yin-Yang Club): Y-You do? ...I mean, I appreciate the offer, Chise, really!
+- Kaho (Yin-Yang Club): But there's not much work to be done regardless. We'll be reusing old equipment and props...
+- Chise (Yin-Yang Club): It's a special concert.
+- Chise (Yin-Yang Club): I want to do it, okay?
+- Kaho (Yin-Yang Club): (Sh-She's blindingly cute!)
+- Kaho (Yin-Yang Club): Ahem! In that case...
+- Kaho (Yin-Yang Club): I'll be there with you every step of the way. I'll help you with buying any additional props, staging...
+- Kaho (Yin-Yang Club): I'll make sure this experience is smooth as silk for you, Chise.
+- Niya (Yin-Yang Club): Aren't you going a little overboard?
+- Niya (Yin-Yang Club): It'll be totally fiiine.
+- Kaho (Yin-Yang Club): This falls under my purview as the vice president of the Yin-Yang Club.
+- Kaho (Yin-Yang Club): I've always coordinated our events and concerts...
+- Kaho (Yin-Yang Club): (It's partially because I would feel terrible if Chise undertook my responsibilities...)
+- Kaho (Yin-Yang Club): (I also... I do trust Chise, but I can't help but worry a little bit...)
+- Chise (Yin-Yang Club): It's okay.
+- Chise (Yin-Yang Club): This time, Kaho can take a break.
+- Chise (Yin-Yang Club): The sun is out. I have heard sunbathing is fun.
+- Chise (Yin-Yang Club): You sunbathe, and I'll direct.
+- Chise (Yin-Yang Club): Okay. I'm going shopping now.
+- Kaho (Yin-Yang Club): Wait, Chise! Come back!
+- Niya (Yin-Yang Club): Oh my. Just like that, she's gone.
+- Kaho (Yin-Yang Club): This is entirely out of character for Chise!
+- Kaho (Yin-Yang Club): It couldn't be... I-Is Chise going through her rebellious phase?!
+- Niya (Yin-Yang Club): Nyahaha! I don't think that's possible for her. Why not just hand over the reins on this one, Kaho?
+- Niya (Yin-Yang Club): Chise's not the type to do something without intention behind it.
+- Kaho (Yin-Yang Club): I-I know that! It's not that I don't think she would do a good job...
+- Kaho (Yin-Yang Club): B-But what if she gets lost at the mall?
+- Kaho (Yin-Yang Club): Or she could get kidnapped! Again!
+- Niya (Yin-Yang Club): Worrywart Kaho rears her fearsome head!
+- Niya (Yin-Yang Club): We're really never going to live down the "Princess Waraku" incident, are we? She's just going shopping.
+- Kaho (Yin-Yang Club): How do you know it won't happen again? Hm?!
+- Kaho (Yin-Yang Club): Exactly! You do not! And so, I will be...keeping an eye on her!
+- Kaho (Yin-Yang Club): Hurry up, Niya!
+- Niya (Yin-Yang Club): Why am I getting dragged into this?
+- Umbrella Shop Owner: Welcome!
+- Umbrella Shop Owner: What a surprise! We're honored to serve the one and only Chise here.
+- Chise (Yin-Yang Club): Hi. Thank you.
+- Niya (Yin-Yang Club): Don't you feel like a stalker right now?
+- Niya (Yin-Yang Club): Maybe we'll get arrested! Nyahaha!
+- Kaho (Yin-Yang Club): We'll only get caught if you keep making so much noise!
+- Kaho (Yin-Yang Club): I am not stalking her! I'm respecting her independence while still keeping her safe, okay?
+- Niya (Yin-Yang Club): Oops. Did she just turn her head? She's gonna hear you, Kaho.
+- Kaho (Yin-Yang Club): Ugh!
+- Niya (Yin-Yang Club): Eh, well we're already here. Might as well see what happens.
+- Umbrella Shop Owner: I'm guessing you're here to get props for the concert.
+- Umbrella Shop Owner: Then let me recommend this...
+- Umbrella Shop Owner: Ah. Found it!
+- Umbrella Shop Owner: Kaho loves using this indigo umbrella for her concerts.
+- Kaho (Yin-Yang Club): Great choice, Chise!
+- Kaho (Yin-Yang Club): Indigo is the color of dignity! It's the perfect representation of Hyakkiyako.
+- Chise (Yin-Yang Club): I want the pink one, please.
+- Kaho (Yin-Yang Club): What?!
+- Kaho (Yin-Yang Club): What are you thinking, Chise?!
+- Kaho (Yin-Yang Club): We've always used indigo umbrellas for our concerts... Has she hated them all this time?
+- Niya (Yin-Yang Club): It's more fun to see this play out than I'd thought.
+- Niya (Yin-Yang Club): It looks like our idol Chise IS going through a rebellious phase.
+- Umbrella Shop Owner: This pink one, correct?
+- Umbrella Shop Owner: Packed and ready to go!
+- Chise (Yin-Yang Club): Thank you.
+- Umbrella Shop Owner: Of course. Princess Waraku is always welcome here!
+- Craft Shop Owner: Chise! Are you getting some shopping done today?
+- Chise (Yin-Yang Club): I am shopping for dolls.
+- Chise (Yin-Yang Club): Cute ones, please.
+- Craft Shop Owner: Oh! It must be for the Thanksgiving concert!
+- Craft Shop Owner: These kokeshi dolls would be the natural choice.
+- Kaho (Yin-Yang Club): Great job, Chise! Dolls are very important props for any Hyakkiyako ritual, especially Thanksgiving.
+- Kaho (Yin-Yang Club): The umbrella may be the wrong color, but at least she's getting kokeshi dolls.
+- Kaho (Yin-Yang Club): You can do it!
+- Niya (Yin-Yang Club): You need to learn to relax a little, Kaho.
+- Chise (Yin-Yang Club): Kokeshi dolls?
+- Chise (Yin-Yang Club): I think this one is cuter.
+- Craft Shop Owner: Th-The fox doll? A bit untraditional, but here you go...
+- Kaho (Yin-Yang Club): No kokeshi?!
+- Chise (Yin-Yang Club): This is good. It looks like Vice President Kaho.
+- Kaho (Yin-Yang Club): Sh-She picked a doll that looks like me?!
+- Niya (Yin-Yang Club): Wow. Suddenly you don't seem so upset about the missing kokeshi doll. Nyahaha!
+- Chise (Yin-Yang Club): The Daruma too, please.
+- Craft Shop Owner: Of course! Thank you!
+- Chise (Yin-Yang Club): Look. It is President Niya.
+- Niya (Yin-Yang Club): Me?! A Daruma?
+- Niya (Yin-Yang Club): Does she think we look alike?! She means symbolically, right?
+- Chise (Yin-Yang Club): Thank you. This is exactly what I was looking for.
+- Craft Shop Owner: I'm looking forward to the concert!
+- Kaho (Yin-Yang Club): What happened to tradition?! She's getting ORANGE JUICE??
+- Kaho (Yin-Yang Club): We already have traditional tableware! What is she going to do with some merch?
+- Kaho (Yin-Yang Club): Pudding?! I-Ice cream?!
+- Kaho (Yin-Yang Club): *pant* *pant*
+- Niya (Yin-Yang Club): You really ran the entire way back. You don't think you're being a little dramatic?
+- Kaho (Yin-Yang Club): No! We had to get back before Chise did, or we could've gotten caught!
+- Niya (Yin-Yang Club): Okay, okay. Anyway, I can't make heads nor tails of Chise's vision.
+- Niya (Yin-Yang Club): What a strange assortment of props...
+- Kaho (Yin-Yang Club): I don't know either.
+- Kaho (Yin-Yang Club): I'm doing my best to just trust her judgment.
+- Chise (Yin-Yang Club): Hello. I'm back.
+- Chise (Yin-Yang Club): I took a walk with Mr. Sun.
+- Kaho (Yin-Yang Club): Ch-Ch-Chise! What a surprise!
+- Kaho (Yin-Yang Club): Did decoration shopping go well?
+- Chise (Yin-Yang Club): Yes. Perfectly.
+- Chise (Yin-Yang Club): Everything is going according to plan.
+- Kaho (Yin-Yang Club): I-I'm looking forward to it!
+- Chise (Yin-Yang Club): I will go begin my preparations.
+- Kaho (Yin-Yang Club): What is she doing...

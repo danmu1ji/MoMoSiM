@@ -1,0 +1,6 @@
+# Chihiro — official English introduction
+
+The deputy director of the hacker group Veritas; member of the Millennium Science School. Chihiro is a hacker with outstanding programming skills who tries to avoid abusing her abilities. She is the moral compass of Veritas group, which is full of mischievous children, and although Chihiro always gives passionate speeches about "proper hacker ethics" to the club members, she is also willing to put in greyhat work when necessary.
+
+Source: https://bluearchive.wiki/wiki/Chihiro
+Status: source-extracted-unreviewed

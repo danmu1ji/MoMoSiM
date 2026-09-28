@@ -1,0 +1,321 @@
+# 이치노세 아스나 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 이치노세 아스나, 선생(샬레)
+
+1. **「이치노세 아스나 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「이치노세 아스나 인연 스토리 2」**
+
+- **이치노세 아스나**: Welcome. Follow me to your table, Master...
+- **이치노세 아스나**: Hmm?
+- **이치노세 아스나**: Master! I didn't even register that it was you. I'm glad you came.
+- **이치노세 아스나**: Oh, but I should still show you to your table first.
+- **이치노세 아스나**: Master...?
+- **이치노세 아스나**: Hmm. "Maaaaaaster"...
+- **이치노세 아스나**: It's just, you've always been my master, but I'm supposed to call every customer who visits "Master."
+- **이치노세 아스나**: Should I call you something else to stand out?
+- **이치노세 아스나**: Like, "Master Who Was Already a Master" or "Master Among Masters"? Or is it okay to stick with just "Master"?
+- **이치노세 아스나**: Master... Master Who Is a Master...?
+- **이치노세 아스나**: Haha! You're so adorable when you're confused!
+- **이치노세 아스나**: Haha! You're so adorable when you're confused!
+- **이치노세 아스나**: But I was right about how confusing it can get, right?
+- **이치노세 아스나**: Regardless if it's you or a customer, a master is still a master at the end of the day. So I won't refer to you any differently while we're here.
+- **이치노세 아스나**: What's that? You thought we were going to hang out,<br/>so why does it look like I'm working here?
+- **이치노세 아스나**: I did come to hang out with you, but since I'm wearing my maid uniform, people keep assuming I work here.
+- **이치노세 아스나**: This is a maid cafe after all, so I decided to roll with it.
+- **이치노세 아스나**: Huh? What are they paying me?
+- **이치노세 아스나**: Who said anything about pay? I'm just doing this for fun!
+- **이치노세 아스나**: Haha! You're making a weird face again! Ahahaha!
+- **이치노세 아스나**: *pant* *pant* I swear, Master, you're so much fun to be around.
+- **이치노세 아스나**: Huh?
+- **이치노세 아스나**: Why invite you to this cafe?
+- **이치노세 아스나**: ...Oh, right! Coming here was my idea, wasn't it?
+- **이치노세 아스나**: What, you think I forgot? Give me some credit. And you shouldn't be so concerned with the details anyway.
+- **이치노세 아스나**: The aside, the reason I invited you here is...
+- **이치노세 아스나**: Oh! Now I remember.
+- **이치노세 아스나**: I'm on a secret mission today. I'm going to be tailing and arresting a certain individual.
+- **이치노세 아스나**: That's why I asked if you wanted to hang out at this cafe together. Heh heh.
+- **이치노세 아스나**: That doesn't answer your question? In fact, you don't know what I'm talking about?
+- **이치노세 아스나**: Why come to a cafe if I'm on a secret mission?
+- **이치노세 아스나**: Hmm. That's a good question.
+- **이치노세 아스나**: Who knows?
+- **이치노세 아스나**: I just get the feeling that if I hang out here with my master, things will work out somehow.
+- **이치노세 아스나**: Yup, that's how I feel! Call it a hunch!
+- **이치노세 아스나**: Huh? You think I should be out there doing groundwork instead?
+- **이치노세 아스나**: Trust me. Things are going to work out as long as I'm with you.
+- **이치노세 아스나**: You aren't busy right now, are you, Master? Should I have asked you later?
+- **이치노세 아스나**: You're sure it's not a problem? Good, then. Lucky me! ☆
+- **이치노세 아스나**: This is the first time I've been on anything like a date in a while. Maybe I should drop the part-timer gimmick.
+- **이치노세 아스나**: There. You don't mind me sitting in front, do you?
+- **이치노세 아스나**: Over here, Miss Maid! We're ready to order!
+- **이치노세 아스나**: I told you not to sweat the small stuff! The Digital Decadent Dessert Set is great here...
+- **이치노세 아스나**: I told you not to sweat the small stuff! The Digital Decadent Dessert Set is great here...
+- **Maid**: Yes! Welcome, Master!
+- **Suspicious Man**: ...
+- **Suspicious Man**: Good. Looks like I lost them. This looks like a good place to lay low for a while.
+- **Suspicious Man**: They just don't know when to quit.
+- **Suspicious Man**: Now to find an empty seat somewhere.
+- **Suspicious Man**: There. Wait, why is there a maid sitting down?
+- **Suspicious Man**: Hey, you. Shouldn't you be up taking orders?
+- **이치노세 아스나**: Who? Me?
+- **Suspicious Man**: Why is a maid sitting down and looking through a menu? Are you out of your mind?!
+- **Suspicious Man**: Is this your idea of customer service?
+- **Suspicious Man**: ...?
+- **이치노세 아스나**: ...?
+- **이치노세 아스나**: ...!
+- **이치노세 아스나**: Target spotted!
+- **이치노세 아스나**: Yay! I guess this means I caught you!
+- **Suspicious Man**: H-How did you know to go undercover here?! That's impossible!
+
+3. **「이치노세 아스나 인연 스토리 3」**
+
+- **이치노세 아스나**: Yoohoo, Master! Over here! I've been waiting for you!
+- **이치노세 아스나**: Thanks for making time for me despite how busy you are. You're the best!
+- **이치노세 아스나**: I know it's sudden, but I need your help!
+- **이치노세 아스나**: Really?! There really isn't anyone like you, Master!
+- **이치노세 아스나**: Hmm? What kind of help do I need? Well...
+- **이치노세 아스나**: Good question.
+- **이치노세 아스나**: To be honest, I haven't figured that part out yet either.
+- **이치노세 아스나**: What? Why are you giving me that look?
+- **이치노세 아스나**: Do I really need your help? You bet I do! I just haven't worked out the details yet!
+- **이치노세 아스나**: It just so happens that I don't have any missions or classes today.
+- **이치노세 아스나**: Which means what I need is someone to spend time with. You can do that for me, can't you, Master?
+- **이치노세 아스나**: Huh? Am I asking you out?
+- **이치노세 아스나**: Hmm... I don't know. I just wanted to be with you today for some reason.
+- **이치노세 아스나**: But I might be! If you don't mind, Master, then I'm all for it!
+- **이치노세 아스나**: Come on, let's go! We don't have much time, so I'm ready to go when you are. You don't mind, do you?
+- **이치노세 아스나**: Let's go!
+- **Gang Member A**: So we just lay low and grab the students that pass by...
+- **Gang Member B**: Uh-huh, perfect. That will totally...
+- **Gang Member B**: ...! W-Wait! Isn't that the maid from C&C?
+- **이치노세 아스나**: Hmm hmm. ♬
+- **Gang Member A**: Damn it, you're right. If we're spotted, they'll need a sponge to pick up what's left of us. Let's get out of here.
+- **이치노세 아스나**: Huh? Was someone just talking about us? I could have sworn I heard something...
+- **이치노세 아스나**: Was it just my imagination?
+- **이치노세 아스나**: Well, whatever! Doesn't matter.
+- **이치노세 아스나**: Let's hurry, Master. I want us to go everywhere today!
+- **Gang Member A**: We failed last time, but this one for sure...
+- **Gang Member B**: It's the same ones from before! Oh crap, run! They're coming this way!
+- **이치노세 아스나**: This way, Master. There's a game I've been dying to play!
+- **이치노세 아스나**: *gasp* You've played it before? I'm up for a challenge—bring it on!
+- **이치노세 아스나**: Do I know how to play? Nope! Today will be my first time.
+- **이치노세 아스나**: I'll just figure it out as I go along! It doesn't matter who wins and who loses, right?
+- **이치노세 아스나**: ...All that matters is that I'm getting to play with you.
+- **이치노세 아스나**: All righty! Let's get started!
+- **Gang Member A**: Something doesn't add up here. Are we actually being pursued...?
+- **Gang Member B**: Th-They're coming again! Damn it... Run!
+- **이치노세 아스나**: The theme park! I've never gotten to go like this before!
+- **이치노세 아스나**: I mean, sure, I've been here on a mission before, but that's not a big deal. Nor can anyone blame me for hopping on the rides when I'm here for official business.
+- **이치노세 아스나**: What I really meant when I said "like this," was getting to come here with you.
+- **이치노세 아스나**: I told you earlier. The details don't matter as long as it's the two of us!
+- **이치노세 아스나**: Arcades, theme parks—what makes them special is going with you!
+- **이치노세 아스나**: I could have fun doing anything with you, Master. Even walking.
+- **이치노세 아스나**: Speaking of, wanna go for a walk? Your legs aren't feeling tired, are they?
+- **이치노세 아스나**: You're on! We'll walk until the sun goes down, so you better keep up!
+- **이치노세 아스나**: But if your legs start to hurt, be sure to let me know, okay? I can carry you on my back!
+- **이치노세 아스나**: Wow! That was really fun! I loved it!
+- **이치노세 아스나**: Master, did you say something just now?
+- **이치노세 아스나**: You wanna go back down? People's stares are becoming too much?
+- **이치노세 아스나**: Why? Who cares what they think?
+- **이치노세 아스나**: Umm! Sure. I don't get what the big deal is, but you're the boss. Down we go.
+- **이치노세 아스나**: So? Are your legs feeling better?
+- **이치노세 아스나**: You brought an energy drink for me? You're so sweet, Master!
+- **이치노세 아스나**: *gulp* *gulp*
+- **이치노세 아스나**: Ah! That hit the spot!
+- **이치노세 아스나**: ...
+- **이치노세 아스나**: It's almost strange how happy I am.
+- **이치노세 아스나**: The things we did today aren't any different from what I usually do, but they felt totally different because you were with me.
+- **이치노세 아스나**: Maybe there's something...special about you.
+- **이치노세 아스나**: Heehee. At least, that's what I think.
+- **이치노세 아스나**: Today's almost over. You should be heading back soon, right?
+- **이치노세 아스나**: I've carried you this far, so I may as well give you a ride the rest of the way. What? Still too embarrassed?
+
+4. **「이치노세 아스나 인연 스토리 4」**
+
+- **이치노세 아스나**: Master? That's strange. You should be awake by now.
+- **이치노세 아스나**: Now you're awake! How do you feel, Master? I came by just like I promised!
+- **이치노세 아스나**: You seemed really tired, so I thought this would be the perfect opportunity to repay you.
+- **이치노세 아스나**: You're probably wondering where you are. I picked you up while you were sleeping and brought you to the Residence Hall.
+- **이치노세 아스나**: Why the surprised look? Seriously! Being tired is no excuse to fall asleep at your desk.
+- **이치노세 아스나**: I found you in a pile of papers and empty energy drink cans. You're going to ruin your health at this rate, you know.
+- **이치노세 아스나**: Come here. Put everything out of your mind and let me take care of you, okay?
+- **이치노세 아스나**: I ordered food for us. Master. It should be here any minute.
+- **이치노세 아스나**: What's that? Isn't it strange for a maid to be ordering delivery?
+- **이치노세 아스나**: And you want to know how I got us inside, huh? We came through the front door, obviously.
+- **이치노세 아스나**: Oh, how did I know the door code?
+- **이치노세 아스나**: I dunno. I pressed the buttons I thought would work and then it opened.
+- **이치노세 아스나**: Hahaha! You're making that face again! You're so cute, Master.
+- **이치노세 아스나**: Huh?
+- **이치노세 아스나**: You still have papers to sort through? Oh, you mean the ones that were on your desk?
+- **이치노세 아스나**: I already took care of those. Well, I didn't read them, to be fair.
+- **이치노세 아스나**: I just sorted the ones that looked similar. Do you want me to bring them to you?
+- **이치노세 아스나**: How did I do this good of a job? Like I said, I was just making educated guesses.
+- **이치노세 아스나**: That look on your face tells me you're satisfied. That's good!
+- **이치노세 아스나**: Oh, and I already cleaned your office and took care of your laundry, so you don't have chores to worry about either.
+- **이치노세 아스나**: So what do you wanna do now? You can ask me about anything except your work!
+- **이치노세 아스나**: Just want to eat? Take a bath? Or...
+- **이치노세 아스나**: Well, well! Look at you, becoming more comfortable with asking for your maid's services, Master.
+- **이치노세 아스나**: Well, well! Look at you, becoming more comfortable with asking for your maid's services, Master.
+- **이치노세 아스나**: One Asuna five-star massage coming right up!
+- **이치노세 아스나**: Now, now. Turn around and sit down.
+- **이치노세 아스나**: From the back of the neck...press the shoulders lightly with your hands like this.
+- **이치노세 아스나**: So? How do you feel?
+- **이치노세 아스나**: Haha. You're purring like a kitty cat!
+- **이치노세 아스나**: Okay, all done! Are you feeling any better, Master?
+- **이치노세 아스나**: You look like a whole new Sensei. Good to see. In fact, I'm a little proud for some reason!
+- **이치노세 아스나**: You think I look even more refreshed than you do? It's only natural. I'm a maid, after all.
+- **이치노세 아스나**: A maid's greatest pleasure is hearing that she has served her master well!
+- **이치노세 아스나**: Did you just say I'm more of a secret agent than a maid? Haha. Let's not pay attention to the minor details...
+- **이치노세 아스나**: What...was that?
+- **이치노세 아스나**: You want to...
+- **이치노세 아스나**: ...serve me?
+- **이치노세 아스나**: What do you mean? How would a master serve their maid?
+- **이치노세 아스나**: Oh! Do you want to rub my shoulders like I rubbed yours? For me?
+- **이치노세 아스나**: Oooh, that sounds fun! The maid getting to be served for a change.
+- **이치노세 아스나**: Then I'll turn around and take a seat. Just like this!
+- **이치노세 아스나**: Well, if you insist. I'm ready when you are, Master!
+- **이치노세 아스나**: ...
+- **이치노세 아스나**: Ah?!
+- **이치노세 아스나**: ...?
+- **이치노세 아스나**: ???
+- **이치노세 아스나**: Wh-What was that? What are you doing, Master?
+- **이치노세 아스나**: Did you just...massage my shoulders?
+- **이치노세 아스나**: N-No. I was just surprised, is all...
+- **이치노세 아스나**: I-I'm fine with it. You continue, and I'll sit still.
+- **이치노세 아스나**: ...
+- **이치노세 아스나**: Eep!
+- **이치노세 아스나**: ...?
+- **이치노세 아스나**: Wh-What's going on? I've never felt like this before...
+- **이치노세 아스나**: Sorry, what was that?
+- **이치노세 아스나**: You think it's best that you...stop?
+- **이치노세 아스나**: N-No! It isn't that I'm not enjoying myself. It's more like...
+- **이치노세 아스나**: U-Um...
+- **이치노세 아스나**: Just, try one more time! I promise I'll be okay!
+- **이치노세 아스나**: N-No, I'm not nervous! So...!
+
+5. **「이치노세 아스나 인연 스토리 5」**
+
+- **이치노세 아스나**: (staaare)
+- **이치노세 아스나**: Oh... Uh...
+- **이치노세 아스나**: *gasp*
+- **이치노세 아스나**: Huh? What? Master?! Where did you come from?!
+- **이치노세 아스나**: Oh, hahaha... It's no big deal. I'm just...like this sometimes.
+- **이치노세 아스나**: Oh, hahaha... It's no big deal. I'm just...like this sometimes.
+- **이치노세 아스나**: If anything, the strangest thing is that nothing's been going on...
+- **이치노세 아스나**: And when nothing's going on... Well, it's hard for me to focus on nothing.
+- **이치노세 아스나**: Hmm. You think so?
+- **이치노세 아스나**: Hmm. You think so?
+- **이치노세 아스나**: Hmm. You think so?
+- **이치노세 아스나**: Sounds good enough to me... I think?
+- **이치노세 아스나**: Anyway, whenever I have nothing to think about, I just...don't think, I guess.
+- **이치노세 아스나**: For example...
+- **이치노세 아스나**: (staaare)
+- **이치노세 아스나**: ...Wait, what was I giving an example of?
+- **이치노세 아스나**: Come on, don't worry so much. I'll be okay in no time. This barely ever happens...
+- **이치노세 아스나**: But when it does, I do need someone else's help.
+- **이치노세 아스나**: Thankfully you came by, Master...
+- **이치노세 아스나**: Oh, Master?! Since when did you get here?
+- **이치노세 아스나**: Hmm... Um... I'm starting to feel...kind of...
+- **이치노세 아스나**: Oh... Where am I...?
+- **이치노세 아스나**: I am...? Wait, you are? Master, why did you swing by...?
+- **이치노세 아스나**: I am...? Wait, you are? Master, why did you swing by...?
+- **이치노세 아스나**: Huh...? Are you suggesting I get some rest?
+- **이치노세 아스나**: Hmm...Seems like it...
+- **이치노세 아스나**: I'm not that tired, but...
+- **이치노세 아스나**: ...Stairs?
+- **이치노세 아스나**: How do stairs work again? Like this...?
+- **이치노세 아스나**: Oh...? Huh...?
+- **이치노세 아스나**: ...Huh?
+- **이치노세 아스나**: What's going on..?
+- **이치노세 아스나**: I'm...on top of Master? Heehee...
+- **이치노세 아스나**: Master is...a very warm pillow...
+- **이치노세 아스나**: ...Huh?
+- **이치노세 아스나**: Huh?!
+- **이치노세 아스나**: Wh-What?!
+- **이치노세 아스나**: Why am I on top of Master?
+- **이치노세 아스나**: ...Oh, right. I fell? While on the stairs? And you caught me?
+- **이치노세 아스나**: ...Hahaha! Nice catch! This is a first for me! How fun!
+- **이치노세 아스나**: Haha... Not very maid-like to be helped so much. If not for you, I would have fallen on the ground instead of on you.
+- **이치노세 아스나**: ...I'm not too heavy, right?
+- **이치노세 아스나**: Really? Thank you, Master!
+- **이치노세 아스나**: Really? Thank you, Master!
+- **이치노세 아스나**: Falling is surprisingly fun when it's on someone else.
+- **이치노세 아스나**: ...Hmm.
+- **이치노세 아스나**: I'm totally fine now!
+- **이치노세 아스나**: Ah!
+- **이치노세 아스나**: I am back! Completely back! Master! Look how smoothly I move! Look at my arms! My legs!
+- **이치노세 아스나**: Look! I can even jump! Like a frog! Or some other jumping thing!
+- **이치노세 아스나**: Jump powers, go!
+- **이치노세 아스나**: ― Heehee, I got on top of Master!
+- **이치노세 아스나**: ― My body! It feels so light! Anything is possible!
+- **이치노세 아스나**: ― Hmm... This feeling...?
+- **이치노세 아스나**: ― Hmm... This feeling...?
+- **이치노세 아스나**: ― Oh well, who cares!
+- **이치노세 아스나**: ― Ta-da! Asuna is back and ready for action!
+- **이치노세 아스나**: ― This is all thanks to you, Master! Thank you!
+- **이치노세 아스나**: ― Haha, having Master by my side makes my heart go
+- **이치노세 아스나**: ― wild!
+
+6. **「이치노세 아스나 인연 스토리 6」**
+
+- **이치노세 아스나**: C'mooon! This really puts a damper on the whole "infiltration thing," you know!
+- **Helmet Gangster A**: Seriously?! You SERIOUSLY thought you could sneak in here with THAT outfit?
+- **Helmet Gangster B**: If a MAID shows up to one of our trafficking gigs, of course security's gonna notice! It's teeming with guards here!
+- **이치노세 아스나**: But I can't just take off my uniform—
+- **이치노세 아스나**: Oh? Can't I just take it off?
+- **이치노세 아스나**: Wooow! It's Master!!
+- **이치노세 아스나**: All righty! Time for plan B—we're breaking through!
+- **Helmet Gangster A**: Stop her!
+- **Helmet Gangster B**: Don't let her get to the worksite!
+- **Helmet Gangster C**: Tch, how frustrating...! We can't even stop ONE C&C member?
+- **Helmet Gangster D**: That's the C&C for you...
+- **이치노세 아스나**: Yup, yup! Haven't even broken a sweat!
+- **이치노세 아스나**: But I need a sec! My hair ribbon went flying somewhere in the shuffle!
+- **이치노세 아스나**: Here, maybeee?
+- **이치노세 아스나**: Or here...?
+- **Helmet Gangster**: Ow! My leg!
+- **이치노세 아스나**: Ack! Sorry, sorry!
+- **이치노세 아스나**: Ah, have YOU seen a blue hair ribbon anywhere?
+- **Helmet Gangster**: I'm a little preoccupied with the BULLET WOUND you just gave me!
+- **이치노세 아스나**: My baaad! You just rest up right there!
+- **이치노세 아스나**: Ah, found it! Lucky!
+- **이치노세 아스나**: Master, master! Did ya wait long?
+- **이치노세 아스나**: Yup, yup! It's this blue ribbon! I use it to tie my hair.
+- **이치노세 아스나**: Good thing I found it. Let's go make our report and wrap up this mission!
+- **이치노세 아스나**: Aha! You noticed, Master?
+- **이치노세 아스나**: It's my lucky charm! Things in my life started working out better after I started wearing it!
+- **이치노세 아스나**: Like what?
+- **이치노세 아스나**: Hmm! So there's lots of things!
+- **이치노세 아스나**: Ah, right.
+- **이치노세 아스나**: Like the time I was procrastinating studying for a test the next day, and I fell asleep doodling!
+- **이치노세 아스나**: But I wore this ribbon to the test and guessed all the answers right!
+- **이치노세 아스나**: Yup!! Every single one!
+- **이치노세 아스나**: Oh, and, and!
+- **이치노세 아스나**: My favorite dessert spot usually only sells 20 servings a day of their special menu item, right?
+- **이치노세 아스나**: But, as long as I was wearing this ribbon, I'd be able to get one still! I was the very last person more than once!
+- **이치노세 아스나**: RIGHT?! But wait! There's MORE!
+- **이치노세 아스나**: Once, I ran out of ammo during the middle of battle! That's really bad, right? And there were still tooons of enemies!
+- **이치노세 아스나**: So I turned my ribbon into a sling and whacked them all on the heads until I won!
+- **이치노세 아스나**: That's how powerful it is! It's my lucky hair ribbon that protects me!
+- **이치노세 아스나**: Fufu, look, it's still in real good condition, right? Right? It's because I take super-good care of it!
+- **이치노세 아스나**: Actually lose it?
+- **이치노세 아스나**: ...Hm...
+- **이치노세 아스나**: ...Hmm...
+- **이치노세 아스나**: Hmmm...
+- **이치노세 아스나**: I think it would be fine!
+- **이치노세 아스나**: Of course, I might get very, very disappointed and sad...
+- **이치노세 아스나**: But this ribbon has already brought Asuna more than enough luck!
+- **이치노세 아스나**: The proof is right in front of me!
+- **이치노세 아스나**: I met you, didn't I, Master?
+- **이치노세 아스나**: So it'd be fine if I lost it! Yup! I'm 100% certain!
+- **이치노세 아스나**: Heehee, yup!
+- **이치노세 아스나**: Asuna will be careful not to lose either Master or my ribbon!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/이치노세 아스나
+- https://bluearchive.wiki (원문 스토리 스크립트)

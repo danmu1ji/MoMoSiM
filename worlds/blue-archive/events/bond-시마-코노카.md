@@ -1,0 +1,277 @@
+# 시마 코노카 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 시마 코노카, 선생(샬레)
+
+1. **「시마 코노카 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「시마 코노카 인연 스토리 2」**
+
+- **Public Peace Bureau Agent A**: Oh, welcome, Sensei!
+- **Public Peace Bureau Agent A**: What can I help you with today?
+- **Public Peace Bureau Agent A**: Ah, the Deputy Director did clock in...
+- **Public Peace Bureau Agent A**: But she had some other...work to handle. If you make your way down to the basement, you should be able to find her.
+- **Public Peace Bureau Agent A**: Yes. And she had quite a lot to take care of, so she should still be there.
+- **???**: Zzz... Zzz...
+- **시마 코노카**: Zzz... Zzz...
+- **시마 코노카**: C-Come in...! Come in!! Zzz...
+- **시마 코노카**: A-AAAHHH!!
+- **시마 코노카**: *huff* *huff* You coward! With your sand...
+- **시마 코노카**: Wha...? It was just a dream...? Tch, I'll beat them to a pulp next time...
+- **시마 코노카**: Hm?
+- **시마 코노카**: I'm STILL dreaming?
+- **시마 코노카**: And Sensei's appearing in my dream again... Why's this keep happening?
+- **시마 코노카**: *Yaaaaaawn*... Mm...
+- **시마 코노카**: Whoopsie. I was going to take a quick nap before you got here, but I guess I overslept.
+- **시마 코노카**: Kyahaha! I'm in the cell, but it's not like I'm under arrest!
+- **시마 코노카**: ...I mean, I'm not totally innocent. I did beat some people up, but that's not why I'm here.
+- **시마 코노카**: I had to take down and arrest 30 criminals at once, by myself, and got back late last night.
+- **시마 코노카**: Which is why... *yawn*... I snuck down here for a quick nap. The new recruits are too rowdy upstairs.
+- **시마 코노카**: Ah! That reminds me. I still need to throw those rascals a welcome party and get to know them. I've sure been burning the midnight oil lately, though.
+- **시마 코노카**: I won't take any more of your time, though. We had some paperwork to go over, right? I'll be out in a jiffy!
+- **시마 코노카**: Let's see... Where...is the spring...for this lock...?
+- **???**: S-Stop!! Stop moving!! Away from the bars!! Move, and I'll fire!
+- **시마 코노카**: Eh?
+- **???**: HEY! I warned you!! Hands in the air, now!
+- **???**: Sensei, get back! A single glance tells me that we're dealing with a vicious criminal! It's advised for civilians to remain clear of the bars!
+- **시마 코노카**: Wait, aren't you the new Public Peace Bureau recruit? I saw your name on the roster book.
+- **시마 코노카**: I'm the Deputy Director! I'm your boss, all right? So quit it with all this, and just open the door!
+- **Public Peace Bureau Newbie**: Seriously?! You have the audacity to try to impersonate our Deputy Director!
+- **Public Peace Bureau Newbie**: I may not have had the honor of meeting her yet, but even I know someone like YOU could never be Valkyrie's Deputy Director.
+- **Public Peace Bureau Newbie**: In fact, I'm going to contact her right now to expose your dirty lies!
+- **Public Peace Bureau Newbie**: There! I've sent a message!
+- **시마 코노카**: There, yourself. You finally happy now? You have anything to say to the Deputy Director of the Public Peace Bureau?
+- **Public Peace Bureau Newbie**: Uh...
+- **Public Peace Bureau Newbie**: This is Public Peace One-Two-Zero!! The suspect has stolen the Deputy Director's phone!
+- **시마 코노카**: You've made up your mind already, haven't you?!
+- **Public Peace Bureau Newbie**: A real police officer would never dress so lackadaisically!
+- **Public Peace Bureau Newbie**: This is your final warning! Get back, you jailbreaking scum!!
+- **시마 코노카**: Look!! Fine!! I get it! You've made some good points!! But I'm the one who takes the Director to saunas and dinner—
+- **Public Peace Bureau Newbie**: PEPPER!! PEPPPPPPERRR ATTACK!
+- **시마 코노카**: KYAAAH! MY EYES!!
+- **시마 코노카**: GET BACK HERE, YOU!! When I get out of here—! GRRR!!!
+- **Public Peace Bureau Newbie**: How're you still standing? YOU MONSTER!!
+- **시마 코노카**: Give me more! I could gargle it if I wanted! I'm Konoka, you hear me?!?! Shima Konoka!!
+- **Public Peace Bureau Newbie**: Taser! Taser! Taser!!!
+- **시마 코노카**: The Public Peace Bureau Deputy Direc—KYAAAAAAH!!
+- **시마 코노카**: ...tor...
+- **Public Peace Bureau Newbie**: This is the underground cell, Public Peace Bureau One-Two-Zero. Jailbreaking suspect is down!!
+- **시마 코노카**: Ah, right. Today's horoscope was about making good first impressions.
+
+3. **「시마 코노카 인연 스토리 3」**
+
+- **시마 코노카**: YOU! Get back here!! Come here!!
+- **Helmet Gangster**: Why the hell would I do that?!
+- **시마 코노카**: If that's how you want to play it, you better hope you get away! You're dead meat if I catch you!
+- **Helmet Gangster**: EEEK!!
+- **시마 코노카**: Look, I'm an important person with important things to do! If I waste too much time here, I won't be able to get to my obligations!
+- **시마 코노카**: Which is why!! I am BEGGING you!! To just put these on!! Yeah?!
+- **시마 코노카**: Here! Handcuff! Two holes! Two hands! You know the drill, right?
+- **Helmet Gangster**: YOU must be insane if you think I'll cuff myself!
+- **Helmet Gangster**: Do you have scrambled eggs for brains?! HI-YAH!!
+- **시마 코노카**: Ugh...! *huff*
+- **Helmet Gangster**: Haha! They're teflon-coated bullets! Hurts, right?
+- **Helmet Gangster**: What kind of idiot tries to block bullets with a BAG?
+- **Helmet Gangster**: Not even Valkyrie's standard bulletproof vest can box with these babies!
+- **Helmet Gangster**: EHHH?!?!?!
+- **Helmet Gangster**: We just dumped a full magazine into her!
+- **시마 코노카**: The outright disrespect to shoot a student's bookbag!!
+- **시마 코노카**: My precious "Valkyrie Student's Ethics and Etiquette" book!! It's in tatters!
+- **시마 코노카**: WHAT'RE YOU GONNA DO ABOUT THIS?!
+- **Helmet Gangster**: Oww! Augh! You're the one who blocked with your bag!! ACKKK!
+- **시마 코노카**: Are you tryna frame an innocent, model student?! Huh?! YOU! ARE! EVIL!
+- **Helmet Gangster**: GAH! Stop hitting me! If that stupid book was so precious to you, why was it covered in duct tape?!
+- **시마 코노카**: BECAUSE IT WAS SO PRECIOUS!! Do something to atone for this!!
+- **Helmet Gangster**: Then! Stop!! HITTING ME WITH IT!! Ouch!! OWWW!!
+- **Helmet Gangster**: Are you sure you're from Valkyrie?! You're acting like a crazy person, not an officer!! EEEKKK!!
+- **시마 코노카**: Does that make you mad? Then you can find the admission documents on the website, fill them out by hand, and send them in via fax. And make sure to mention that I recommended you.
+- **시마 코노카**: Back to business. Do you want to get beaten up here and go back with me, or do you want to willingly put on the handcuffs, go with me, and get beat up over at the station?
+- **Helmet Gangster**: What...are you saying...?!
+- **시마 코노카**: You have two options! Hurry and pick!
+- **Helmet Gangster**: S-Schale's Sensei?!
+- **Helmet Gangster**: Save me!
+- **시마 코노카**: Hey!! Don't try to tell on me to Sensei! That's dirty!!
+- **시마 코노카**: Hey there, Sensei! We were just kids playing around. Right? RIGHT?!
+- **시마 코노카**: *gasp* Are you scolding me?!
+- **시마 코노카**: Oh, right! Sensei! What time is it right now?
+- **시마 코노카**: Hey, you! Pay for my phone! You broke it with your head!
+- **Helmet Gangster**: ...Only because you were beating me with it!!
+- **시마 코노카**: ...!
+- **시마 코노카**: ?
+- **시마 코노카**: 17:59... Ah... It's time to clock out.
+- **시마 코노카**: Here, I'll give you these handcuffs, so put them on and come to Valkyrie at 9 AM sharp tomorrow. If you run away, you're deader than dead meat.
+- **시마 코노카**: It's a promise, okay? I'll see you tomorrow!
+- **시마 코노카**: If you'd excuse me, Sensei, I HAVE to be on time!
+- **시마 코노카**: Bye then!
+- **Helmet Gangster**: ...What?
+- **Helmet Gangster**: Did she...leave in the middle of an arrest...just because it was time for her to clock out...?
+- **Helmet Gangster**: Is Valkyrie okay...?
+- **Helmet Gangster**: Eeeek?! This is literally on the opposite side of the city!! How did you know where I was?!
+- **시마 코노카**: I followed the bread crumbs, you prick! I gave you very specific instructions!!
+- **시마 코노카**: I tailed you all night, just in case. And you weren't going to turn yourself in at all!
+- **Helmet Gangster**: But you said you clocked out! YOU SAID YOU CLOCKED OUT!!
+- **시마 코노카**: Stalking people is just my hobby, so it's different!
+- **시마 코노카**: You got 8 seconds before 9 o'clock! Don't get caught before I clock in!
+- **Helmet Gangster**: WAAAAAAHHH!! Save me!! I'll never do anything bad again!!!
+
+4. **「시마 코노카 인연 스토리 4」**
+
+- **시마 코노카**: Yoohoo! There you are, Sensei!
+- **시마 코노카**: You weren't followed? No tail? The public absolutely can't find out about this.
+- **시마 코노카**: Let's go inside, where it's more discreet. There are too many eyes out here.
+- **시마 코노카**: Ah. And, as I said... Everything you see from here on out is top secret.
+- **시마 코노카**: Just like the countless secrets you've already forgotten about, you need to forget this one too.
+- **???**: What the—! Who's this?
+- **시마 코노카**: Hello, I've been well. Thank you so much for asking.
+- **시마 코노카**: They're a customer. Don't worry. I can vouch for their discretion.
+- **시마 코노카**: After all, I wouldn't want anyone dulling the shine of my hidden gem, would I?
+- **???**: Shima Konoka! There you go with that nonsense again!!
+- **Clothing Shop Owner**: A clothing store WANTS to be talked about!!
+- **시마 코노카**: Eh. But I like shopping here.
+- **Clothing Shop Owner**: Exactly! So PLEASE spread the word more!
+- **시마 코노카**: Bingo! It's THE place to go if you want to get aloha shirts.
+- **시마 코노카**: From vintage to new releases, everything is organized by color! This place really is a hidden gem.
+- **Clothing Shop Owner**: You!!! YOU are the one keeping it hidden!
+- **시마 코노카**: C'mon, I buy enough for at least 10 customers every time I stop by. Isn't that enough?
+- **시마 코노카**: If trend hunters started coming through here, I'd lose out on this direct line I have to rare and unique pieces!
+- **Clothing Shop Owner**: You! You're Sensei, from Schale! Please feel free to recommend us to anyone you can! Actually, I'm begging you to.
+- **시마 코노카**: I'll be there to stop Sensei from saying a word! BLEH!
+- **Clothing Shop Owner**: Are you a police officer or a thug?!
+- **Clothing Shop Owner**: But still, she's right. There aren't many people out there who appreciate the profound world of aloha shirts.
+- **Clothing Shop Owner**: It is nice when you have a clientele that understands that.
+- **시마 코노카**: I knew you'd get it. We'll look around then.
+- **시마 코노카**: It's timeee! Let's find some new friends to take home, heeheehee!
+- **시마 코노카**: Hmm hmm... When Valkyrie arrives, the Helmet Gang cries...!
+- **시마 코노카**: And if you run away... You will dieee!
+- **시마 코노카**: Ugh, I like the color placement...but the balance is awful, you're out!
+- **시마 코노카**: Huh? No. I didn't at all before.
+- **시마 코노카**: I just wasn't interested in wearing them. I kinda hated them, you could say.
+- **시마 코노카**: It was after joining Valkyrie that I finally understood the true potential of the aloha shirt.
+- **시마 코노카**: Are you curious how that happened?
+- **시마 코노카**: Kyah! Believe it or not, I AM the Deputy Director. I can see through everything.
+- **시마 코노카**: Let's see... When was it...
+- **시마 코노카**: Ah, I must've been a first year. I'd enrolled because I heard you'd get praised for beating up thugs there.
+- **시마 코노카**: When I first got there, all I knew were fists and bullets. We were all assigned mentors. Mine was the silent type, but also a total nag. She was the bane of my life at one point...
+- **시마 코노카**: Once, we were checking up on a report when, would ya believe it? It was a trap. I don't even know how many of them ganged up on us.
+- **시마 코노카**: We ended up winning in the end, and they tried to call the police on us! Hah. We were total wrecks, all torn up and bloodied.
+- **시마 코노카**: My mentor walked a fine line between being a criminal and a Valkyrie officer.
+- **시마 코노카**: Anyways, I couldn't go back home like that, so I wanted to change, at least. And this was the only clothing store that was open.
+- **시마 코노카**: Aloha here, aloha there, aloha, aloha, aloha! I don't know why, but it cracked me up!
+- **Clothing Shop Owner**: I first thought she was wearing an aloha shirt because her white shirt was such a mess!
+- **시마 코노카**: Wow, we even have a vivid testimony from the witness!
+- **시마 코노카**: So, my mentor and I had no choice but to return in aloha shirts. I thought it actually looked pretty good on me, so I've been wearing them since. And it helps with investigations!
+- **시마 코노카**: Oh! This is it! I always wanted one with ducks!
+- **시마 코노카**: There's an extra one right here, so I'll get you the same one too, Sensei. A little gift from me to you!
+- **시마 코노카**: I'm leaving, boss! Make sure to keep these two for me.
+- **Clothing Shop Owner**: Two, got it! I'm sure it will look good on you, Sensei.
+- **Clothing Shop Owner**: The investigator lady paid for about 300 shirts in advance, saying she doesn't want to carry her wallet around.
+- **Clothing Shop Owner**: Please come again, and make sure to recommend this place to others!
+- **시마 코노카**: Kyah! Shopping really is the best!
+- **시마 코노카**: Please keep this a secret between us. You are only allowed to come here with me.
+- **시마 코노카**: It felt nice reminiscing. I even miss the rough times with my mentor.
+- **시마 코노카**: I really should've taken a photo of Sis in her aloha shirt back then... What a shame.
+- **시마 코노카**: Eh? Wasn't obvious? Who else could it be?
+- **시마 코노카**: I really have to give credit to the higher ups back then. They're the ones who came up with the idea of putting the Feral Hound together with a thug.
+- **시마 코노카**: Well, I'll catch you later! Make sure to wash that before you wear it!
+- **시마 코노카**: Bye bye!
+
+5. **「시마 코노카 인연 스토리 5」**
+
+- **시마 코노카**: Over here, Sensei!
+- **시마 코노카**: Thanks for coming. I couldn't take any chances doing this solo after what my horoscope said.
+- **시마 코노카**: There's basic training today, so I couldn't bring anyone from Valkyrie.
+- **시마 코노카**: That's a good question! We'll be canvassing.
+- **시마 코노카**: Someone caused a bit of trouble in D.U. and took off. The last reported sightings of her placed her getting on a bus heading in this direction.
+- **시마 코노카**: I'm sure the suspect will stick out like a sore thumb, so a few friendly locals will be sure to point us in the right direction.
+- **시마 코노카**: Forecast said rain, so let's wrap this up with a bow before it starts coming down!
+- **시마 코노카**: Let's get going then!
+- **시마 코노카**: Blaaah. This sucks.
+- **시마 코노카**: We can't find a single witness! Maybe she grew wings and flew off into the horizon? Or burrowed deep underground?
+- **시마 코노카**: It's too late to try to question any more people...
+- **시마 코노카**: Maybe she went into mountains...? I WILL sniff her out, even if I have to rip out every tree here, one by one!
+- **시마 코노카**: Bah, humbug! I'll replant them after I find her! I'm still a law-abiding police officer.
+- **시마 코노카**: Before the trail gets too cold, we need to—
+- **시마 코노카**: Eh?!
+- **시마 코노카**: KYAAAH!! A cold downpour!
+- **시마 코노카**: Let's take shelter over there!!! Gaaah, I can't believe this!!
+- **시마 코노카**: ― Ah, ah, I'm soaked.
+- **시마 코노카**: ― Ugh... I'm cold.
+- **시마 코노카**: ― It's really coming down.
+- **시마 코노카**: ― Apparently, it's not going to stop until later tonight. *sigh*
+- **시마 코노카**: ― Well, I guess it's nice to take a beat and regroup.
+- **시마 코노카**: ― Hm? Ah, well...
+- **시마 코노카**: ― I'd be lying if I said I wasn't disappointed.
+- **시마 코노카**: ― I wasted my time, and I'm drenched...
+- **시마 코노카**: ― But still, today went just like my horoscope said it would.
+- **시마 코노카**: ― It ended up being a nice day with a buddy by my side.
+- **시마 코노카**: ― ...It's all thanks to you.
+- **시마 코노카**: ― So, if I had to say...
+- **시마 코노카**: ― I'm happy.
+- **시마 코노카**: ― ...Ah, wait, I mean!
+- **시마 코노카**: ― It was really lucky that we found shelter from the rain so quickly! That's why I'm happy!
+- **시마 코노카**: ― Th-That was the...gist of it...
+- **시마 코노카**: ...
+- **시마 코노카**: It's just a good thing that I didn't have any bad luck today!
+- **시마 코노카**: That's all I meant...
+- **Suspicious Passerby**: Whoa?! I didn't know someone was here already.
+- **Suspicious Passerby**: My bad! Don't mean to intrude on y'all's private moment or nothin', but lemme scooch in and stay dry.
+- **시마 코노카**: ...?
+- **Suspicious Passerby**: You bein' chased too? Hah! Looks like we're in the same boat.
+- **Suspicious Passerby**: You ain't seen any Valkyrie cops nearby, have ya?
+- **시마 코노카**: Is this for real...?
+- **Suspicious Passerby**: Uh...
+- **Suspicious Passerby**: Ah, I suddenly want to go dancing in the rain!! The clouds are calling to me!!
+- **시마 코노카**: Hold it right there!!
+- **Suspicious Passerby**: C'MON!! There's no way you're a cop!! Aren't there rules to being undercover?!
+- **시마 코노카**: You're getting an aggravated sentence!!
+- **Suspicious Passerby**: What?! But WHY?!
+- **시마 코노카**: For ruining a good time!!
+
+6. **「시마 코노카 인연 스토리 6」**
+
+- **시마 코노카**: U-Ugh... I almost fell asleep... *sigh*
+- **시마 코노카**: I've already told you I DON'T HAVE A TV!!
+- **시마 코노카**: I smashed it when we lost that baseball game...
+- **시마 코노카**: I *cough* told you that I'd arrest you too, *cough* if I ever saw your face again!
+- **시마 코노카**: E-Eh?!
+- **시마 코노카**: What the—?! It was Sensei?! Come in! Door's open!
+- **시마 코노카**: *cough* A thief would be caught in the act if they opened the door, right?
+- **시마 코노카**: It's like I'm baiting arrests? Eh, basically.
+- **시마 코노카**: Thieves don't think like that. They just want to get whatever they want.
+- **시마 코노카**: More importantly, what brings— *cough*
+- **시마 코노카**: How did you know that?! Did you have someone tailing me?!
+- **시마 코노카**: *cough* E-Eh...?
+- **시마 코노카**: Oh. *cough* I was a little delirious from the fever.
+- **시마 코노카**: I thought I was texting my team, but I guess it was you.
+- **시마 코노카**: And now you came all this way for a visit... Huh. I dunno what to say now.
+- **시마 코노카**: Auuugh, thank you. But I'm feeling...really sick right now...
+- **시마 코노카**: No one's ever visited me when I was sick before. What do I do?
+- **시마 코노카**: Porridge, you say...? Now that I think about it, I've just been sleeping.
+- **시마 코노카**: In that case... *cough* I'll have tonkotsu with lots of garlic, no veggies, plenty of oil, and make it just a bit spicy.
+- **시마 코노카**: Huh?
+- **시마 코노카**: Phew, thank you for the meal.
+- **시마 코노카**: It was nice and smooth, like ramen without noodles. Could've used a little more garlic, though!
+- **시마 코노카**: Haha. *cough* You're calling me a patient? You're too soft.
+- **시마 코노카**: It's just some sniffles! A few pull-ups, and I could just sweat this away!
+- **시마 코노카**: !!!
+- **시마 코노카**: Uh...
+- **시마 코노카**: *cough*
+- **시마 코노카**: ...Ah...?
+- **시마 코노카**: Ah...
+- **시마 코노카**: Yeah...
+- **시마 코노카**: Ah, um...!
+- **시마 코노카**: U-Um... Now that I'm lying down, I do feel somewhat...sick.
+- **시마 코노카**: *cough* *cough* Oww.
+- **시마 코노카**: R-Right...
+- **시마 코노카**: Ah, in that case... Please lock the door.
+- **시마 코노카**: Because I'm sick, I can't protect you...if someone did come in.
+- **시마 코노카**: U-Uh, I'm fine.
+- **시마 코노카**: Today has to be the best day ever. There's no questioning that I'm the star of the day.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/시마 코노카
+- https://bluearchive.wiki (원문 스토리 스크립트)

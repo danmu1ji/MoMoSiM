@@ -1,0 +1,142 @@
+# Group Story / Shugyobu / 3
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/Shugyobu/3
+Status: source-extracted-unreviewed
+
+
+> (The middle of the night, a little past 1 AM...)
+- Kaede (Inner Discipline Club): Mmm...
+- Kaede (Inner Discipline Club): (So...shleepy...)
+- Kaede (Inner Discipline Club): (What was that sound...?)
+- Tsubaki (Inner Discipline Club): Did you prepare everything like I told you, Mimori?
+- Mimori (Inner Discipline Club): Yes. You wanted this and this, right?
+- Tsubaki (Inner Discipline Club): Yeah. That should be enough.
+- Tsubaki (Inner Discipline Club): Looks like everything is ready. Shall we?
+- Mimori (Inner Discipline Club): Yes. Kaede could wake up at any moment, so let's hurry.
+- Kaede (Inner Discipline Club): (Tsubaki...? And Mimori?)
+- Kaede (Inner Discipline Club): Where are you two going without me? Zzz...
+- Kaede (Inner Discipline Club): Huh?!
+- Kaede (Inner Discipline Club): Was I dreaming?
+- Mimori (Inner Discipline Club): Kaede, are you awake?
+- Mimori (Inner Discipline Club): I just started making breakfast. Wash your face first if you're up.
+- Kaede (Inner Discipline Club): Ah... Mmm...
+- Tsubaki (Inner Discipline Club): *yawn*
+- Mimori (Inner Discipline Club): The same goes for you, Tsubaki! Stop dozing off and get ready for breakfast.
+- Mimori (Inner Discipline Club): Come on. Up and at 'em, Kaede.
+- Tsubaki (Inner Discipline Club): *yawn* Yes, Mom...
+- Mimori (Inner Discipline Club): What?! I-I'm not your mom...!
+- Tsubaki (Inner Discipline Club): Zzz...
+- Mimori (Inner Discipline Club): Tsubaki? Did you just fall asleep here? It's morning! You can't fall asleep again!
+- Kaede (Inner Discipline Club): ...
+> Momoyodou
+- Kaede (Inner Discipline Club): So that's what happened today! What do you think, Sensei?!
+- Kaede (Inner Discipline Club): Hey! What's with that disappointing reaction?!
+- Kaede (Inner Discipline Club): Hey! What's with that disappointing reaction?!
+- Kaede (Inner Discipline Club): Don't you get it, Sensei? This is a major problem! It's really, really serious!
+- Pina (Festival Operations Department): *gulp* Is it that serious?! I didn't realize!
+- "Naturally, since it wasn't very serious..."
+- Kaede (Inner Discipline Club): Nuh-uh. This is what's so important!
+- Kaede (Inner Discipline Club): The fact that they secretly went out at night without me is seriously... It's like really, uh...s-su...su...
+- Pina (Festival Operations Department): Suspicious? You mean...?
+- Kaede (Inner Discipline Club): Right! That's the word!
+- Kaede (Inner Discipline Club): Suspicious! Suspicious times a million! Don't you think so?!
+- Kaede (Inner Discipline Club): Why would they go out after only I fall asleep? They must be hiding something!
+- Pina (Festival Operations Department): Yeah... Maybe they're, like, the only two members of some kind of secret society! We've got a mystery on our hands!
+- Kaede (Inner Discipline Club): Good girl, Pina! I knew you'd get it. Have a compliment sticker!
+- Pina (Festival Operations Department): Awww. Thank you, Kaede!
+- "I'm not sure about all this."
+- Kaede (Inner Discipline Club): You're too naive, Sensei! You'll never become a great detective with that level of deductive reasoning!
+- Kaede (Inner Discipline Club): You'd in be in real trouble if you were isolated on a stormy remote island or stuck in a cabin in the middle of nowhere and the bridge was out!
+- "Things like that don't usually happen."
+- Kaede (Inner Discipline Club): ANYWAY! Unlike you, I'm cool, cute, and I have great detective skills. As a promising detective with a brilliant mind, my speculation is...!
+- Shizuko (Festival Operations Department): Would you keep it down and enjoy the strawberry anmitsu you ordered? I can hear you tooting your own horn from all the way on the other side of the store.
+- Shizuko (Festival Operations Department): And these two are for you, Kaede. Sensei.
+- Pina (Festival Operations Department): Thanks Shizuko!
+- Kaede (Inner Discipline Club): Okay, I'll admit the strawberry anmitsu looks delicious!
+- "Thank you, Shizuko."
+- Shizuko (Festival Operations Department): Just doing my job. We're not very busy right now, so I have a little time to chat.
+- Shizuko (Festival Operations Department): That aside, you all should listen to Sensei about this and quit joking around.
+- Pina (Festival Operations Department): But we're not joking around! And besides, listening to the troubles of customers is one of our duties at Momoyodou!
+- Pina (Festival Operations Department): I'm like one of those teahouse servers from the vigilante movies!
+- Kaede (Inner Discipline Club): That's right! You should be nicer to your customers! *munch* *munch*
+- Shizuko (Festival Operations Department): Says the unwelcome guest... Okay, I concede that one was a little unprofessional.
+- Shizuko (Festival Operations Department): Let me start over again from the top.
+- Shizuko (Festival Operations Department): Ahem. Here you are, Master! The strawberry anmitsu you ordered! Now let me say the magic words to make it even tastier!
+- Shizuko (Festival Operations Department): Hocus pocus, be more delicious...
+- Kaede (Inner Discipline Club): That's okay. I'm good.
+- Shizuko (Festival Operations Department): Hmm?
+- Kaede (Inner Discipline Club): Isn't that just one of those useless services the shops add at their own discretion so they can charge the customers extra?
+- Kaede (Inner Discipline Club): I know all about it! I won't fall for such obvious tricks!
+- Shizuko (Festival Operations Department): H-Hold on! What are you trying to say about us waitresses?!
+- "To think I trusted the service industry all this time..."
+- Shizuko (Festival Operations Department): E-Even you, Sensei?!
+- Kaede (Inner Discipline Club): Anyway, back to business. It's obvious my upperclassmen are hiding something from me. *munch*
+- Kaede (Inner Discipline Club): So. *munch*
+- Shizuko (Festival Operations Department): Can't this wait until after you're done eating?
+- Kaede (Inner Discipline Club): *munch* *gulp* Ahhh... What I mean is this!
+- Kaede (Inner Discipline Club): Whatever they're doing without me...is obviously related to some kind of secret Inner Discipline Club mission that I can't be a part of.
+- Shizuko (Festival Operations Department): A secret mission? What makes you think that?
+- Kaede (Inner Discipline Club): This isn't the first time something like this has happened.
+- Kaede (Inner Discipline Club): It also happened yesterday and three days ago...as well as last week. In fact, it happens at least five times a week.
+- Shizuko (Festival Operations Department): So, basically, it happens every day...
+- Kaede (Inner Discipline Club): What are they hiding from me? Why are they sneaking out at night without me? Huh? Sensei?
+- "I'm not sure."
+- Kaede (Inner Discipline Club): I've got it! I'm so smart. It can only be one thing.
+- Kaede (Inner Discipline Club): It's what every sophisticated woman does at night... They're going out to party!
+- Kaede (Inner Discipline Club): That's what real ladies do every night, right? And I'm being left out because I haven't hit the heights of womanhood, is that it?!
+- Shizuko (Festival Operations Department): Something tells me that's not even close to true.
+- Kaede (Inner Discipline Club): How would the president of the Festival Department know that? Do you also have secret nightly outings?!
+- Pina (Festival Operations Department): Is that true, President?!
+- Pina (Festival Operations Department): The president's nighttime outings...
+- Pina (Festival Operations Department): That must be when you, the mistress of Momoyodou, clean the Hyakkiyako streets of scum and villainy each night! Right?! You're amazing!
+- "Shizuko does have a mean right hook..."
+- Shizuko (Festival Operations Department): I do not! Besides, that's not what people do at night. It's usually more, you know...
+- Kaede (Inner Discipline Club): But if that's not it, then why would they be leaving me behind?
+- Kaede (Inner Discipline Club): Is it because I'm inexperienced underclassman? That has to be it, right?
+- Kaede (Inner Discipline Club): Do my upperclassmen just see me as a useless kid?
+- Pina (Festival Operations Department): Kaede...
+- Shizuko (Festival Operations Department): *sigh* If it's bothering you that much, why not just confront them about it?
+- Kaede (Inner Discipline Club): Hmm?
+- Shizuko (Festival Operations Department): You're not going to solve anything by simply fretting about it forever.
+- Shizuko (Festival Operations Department): And you can clear up any misunderstandings this way.
+- Kaede (Inner Discipline Club): Find out...for myself?
+- Shizuko (Festival Operations Department): Yeah. Here, I'll give you this matcha ramune. I want you to drink it and head home instead of moping around here.
+- Pina (Festival Operations Department): I knew it, Shizuko! You pretend like you don't care, but you actually take good care of people. Just what I'd expect from the Momoyodou's idol!
+- "Nice assist, Shizuko!"
+- Shizuko (Festival Operations Department): I-It's not like that! I only did it because you'd bring down all the other customers if you kept moping around like that.
+- Kaede (Inner Discipline Club): Find out for myself. That's...
+- Kaede (Inner Discipline Club): ...a great idea! I knew I could count on the Festival Department's president! I might even consider giving you a passing score. This calls for a compliment sticker!
+- Shizuko (Festival Operations Department): Am I supposed to be happy about that? What's a compliment sticker?
+- Kaede (Inner Discipline Club): Oh, it's something I made up! I'm giving one to each person who scores a point. And you may earn a reward if you collect enough stickers!
+- Shizuko (Festival Operations Department): Did you say...reward? What kind of reward?
+- Kaede (Inner Discipline Club): If you collect ten stickers, I will sing for you on your birthday!
+- Shizuko (Festival Operations Department): You weirdo! Who would want something like that?!
+- Shizuko (Festival Operations Department): *sigh* Well, anyway, this solves your problem, right? If you go back and ask them why...
+- Kaede (Inner Discipline Club): That's right. That's why I'm going to follow them and find out for myself tonight!
+- Shizuko (Festival Operations Department): Wait, how did you jump to that conclusion?!
+- Kaede (Inner Discipline Club): It's the only way to uncover the truth for myself!
+- Pina (Festival Operations Department): You go, Kaede! You have my full support!
+- Kaede (Inner Discipline Club): You'll help too, right, Sensei? You wouldn't turn down the request of an adorable student, would you...?
+- "Y-Yeah, sure..."
+- Kaede (Inner Discipline Club): Then let's get started, right away. Oh, and thanks for the anmitsu!
+- Shizuko (Festival Operations Department): *sigh* That girl can't sit still for a single minute, can she? Oh, by the way...
+- Shizuko (Festival Operations Department): Thanks for picking up the check, Sensei. ♥
+- "I knew this was going to happen!"
+> The following night...
+- Kaede (Inner Discipline Club): Um...
+- Kaede (Inner Discipline Club): *wide awake*!
+- Kaede (Inner Discipline Club): Tsubaki and Mimori should be gone by now.
+- Kaede (Inner Discipline Club): Then, now's my chance!
+- Kaede (Inner Discipline Club): Sensei, here. Over here!
+- "Hey, Kaede. You managed to stay up."
+- Kaede (Inner Discipline Club): Did you think I'd break my promise? I'm not some kid. I'm a respectably lady aspiring to become a fabulous lady.
+- Kaede (Inner Discipline Club): I snuck five cups of black coffee today just to stay up for tonight.
+- Kaede (Inner Discipline Club): She always tells me not to drink coffee, but this is an emergency!
+- Kaede (Inner Discipline Club): My preparations couldn't be more thorough! I'm so smart!
+- Kaede (Inner Discipline Club): *yawn*
+- "I have a bad feeling about this..."
+- Kaede (Inner Discipline Club): Huh? What do you mean?
+- Kaede (Inner Discipline Club): Gah! We don't have time for this, Sensei!
+- Kaede (Inner Discipline Club): We have to find them before it gets too late. Let the chase begin!

@@ -1,0 +1,1 @@
+# Izumi\n\nA member of Gehenna Academy's Gourmet Research Society, Izumi is a glutton who will eat anything. As a result of her overwhelming love of food, she has come to enjoy bizarre foods that other would not touch.\n\nSource: https://bluearchive.wiki/wiki/Izumi\nReview status: source extracted; pending editorial review.\n

@@ -1,0 +1,300 @@
+# 소라사키 히나 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 소라사키 히나, 선생(샬레)
+
+1. **「소라사키 히나 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「소라사키 히나 인연 스토리 2」**
+
+- **소라사키 히나**: Sensei.
+- **소라사키 히나**: H-Hiniature? As in, miniature?
+- **소라사키 히나**: Don't call me that ever again. It makes me uncomfortable.
+- **소라사키 히나**: (nod)
+- **소라사키 히나**: I apologize for calling you here this late.
+- **소라사키 히나**: I am...rather famous around Gehenna. I get recognized wherever I go.
+- **소라사키 히나**: Sometimes, I feel like my every move is being watched.
+- **소라사키 히나**: If I were spotted with you, it would only cause trouble.
+- **소라사키 히나**: Hence why I asked you to meet me at this hour.
+- **소라사키 히나**: A-An idol...? I wouldn't say that...
+- **소라사키 히나**: I'm not the cute or glamorous type.
+- **소라사키 히나**: ...
+- **소라사키 히나**: I can't say the analogy is completely incorrect. I know what it's like to have no time to myself and be constantly aware of my surroundings.
+- **소라사키 히나**: You really do know how to put your foot in your mouth, don't you?!
+- **소라사키 히나**: You really do know how to put your foot in your mouth, don't you?!
+- **소라사키 히나**: Being the adult here doesn't give you license to say whatever you want.<br/>Learn to behave!
+- **소라사키 히나**: ...Huh?
+- **소라사키 히나**: ...Huh?
+- **소라사키 히나**: Why are you...acting so serious about this?
+- **소라사키 히나**: ...
+- **소라사키 히나**: I-I wasn't trying to call you a liar. It's just...
+- **소라사키 히나**: ...I know better than anyone that I'm not cute.
+- **소라사키 히나**: ...Enough. I didn't call you to talk about this kind of nonsense!
+- **소라사키 히나**: Let's get down to business.
+- **소라사키 히나**: (I always lose my focus when I'm around Sensei.)
+- **소라사키 히나**: Allow me to explain why I asked you here.
+- **소라사키 히나**: I wanted to discuss Gehenna's security for this quarter, and ask for advice on developing a coordinated investigation plan for next quarter.
+- **소라사키 히나**: But of course. Why else would I ask you to meet me secretly in the middle of the night?
+- **소라사키 히나**: Sensei...
+- **소라사키 히나**: That's an interesting perspective. Thanks for the insight.
+- **소라사키 히나**: Nonsense. Outsider perspectives help us stay objective.
+- **소라사키 히나**: Of course I'd find your opinion to be valuable.
+- **소라사키 히나**: It's not often I get the unfiltered feedback of someone with experience.
+- **소라사키 히나**: Wh-Why wouldn't I...? Granted, you are somewhat flaky for someone your age.
+- **소라사키 히나**: Though not to the extent that would dissuade me from asking your advice again. Given that we only meet at night, of course.
+- **소라사키 히나**: Thank you, Sensei.
+- **소라사키 히나**: Thank you, Sensei.
+- **소라사키 히나**: *sigh* It's getting late. I should head back and get some rest.
+- **소라사키 히나**: See you later, Sensei.
+
+3. **「소라사키 히나 인연 스토리 3」**
+
+- **소라사키 히나**: Hello, Sensei.
+- **소라사키 히나**: Because students are barred from here due to the recent prefect operation.
+- **소라사키 히나**: It had always been dangerous, but the operation should keep people completely clear for at least a few days.
+- **소라사키 히나**: Meaning I won't be spotted...
+- **소라사키 히나**: ...and we can meet here without concern.
+- **소라사키 히나**: ...
+- **소라사키 히나**: They don't leave me any other choice. Besides, this is to your benefit.
+- **소라사키 히나**: I'm sure you're aware I have my share of enemies—both in and outside of school.
+- **소라사키 히나**: It's safer to assume that I'm always being watched.
+- **소라사키 히나**: You could be in grave danger...if you were spotted with me.
+- **소라사키 히나**: ...
+- **소라사키 히나**: I-I suppose, but...
+- **소라사키 히나**: I mean...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...Oh, no...
+- **소라사키 히나**: ...I hope you're not patronizing me.
+- **소라사키 히나**: But, yes, you're right! Some things need to be done face-to-face.
+- **소라사키 히나**: Such as this!
+- **소라사키 히나**: There's nothing wrong with us meeting in person to get business done!
+- **소라사키 히나**: I...guess so? I'm not sure I understand what you're getting at...
+- **소라사키 히나**: I...guess so? I'm not sure I understand what you're getting at...
+- **소라사키 히나**: Late at night...
+- **소라사키 히나**: Potentially a problem...
+- **소라사키 히나**: In...other words...
+- **소라사키 히나**: ...?!
+- **소라사키 히나**: Wh-What are you suggesting? You and me, Sensei...?!
+- **소라사키 히나**: Do you think I have no shame?!
+- **소라사키 히나**: I would be happy to take care of a misunderstanding if that were the case...
+- **소라사키 히나**: ...
+- **소라사키 히나**: But you have made your point. People do love to gossip like that.
+- **소라사키 히나**: Meeting with you at night is dangerous in and of itself.
+- **소라사키 히나**: Perhaps it would be better for us to meet during the day...
+- **소라사키 히나**: ...but those are always my busiest hours. Hmm.
+- **소라사키 히나**: ...
+- **소라사키 히나**: Then when would be a good time for us to meet, Sensei?
+
+4. **「소라사키 히나 인연 스토리 4」**
+
+- **소라사키 히나**: ...
+- **소라사키 히나**: Oh... Hello, Sensei.
+- **소라사키 히나**: Please. It's not that big a deal.
+- **소라사키 히나**: Please. It's not that big a deal.
+- **소라사키 히나**: Stop acting like you've seen an urban legend.
+- **소라사키 히나**: Besides, I decided to see you during the day after our last meeting.
+- **소라사키 히나**: Nonsense. It's not as though I have to work constantly.
+- **소라사키 히나**: I can spare three hours by rearranging my schedule a little...
+- **소라사키 히나**: Huh...?
+- **소라사키 히나**: Huh...?
+- **소라사키 히나**: I-Is that not enough?
+- **소라사키 히나**: Th-That should be plenty of time for us...to go...shopping.
+- **소라사키 히나**: Oh, s-sure...
+- **소라사키 히나**: (There aren't that many people here.)
+- **소라사키 히나**: (Sensei probably chose this place on purpose.)
+- **소라사키 히나**: (Geez...)
+- **소라사키 히나**: So? Didn't you say you had something important to get?
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...Oh, no...
+- **소라사키 히나**: I should have known.
+- **소라사키 히나**: This place certainly stocks a lot of accessories.
+- **소라사키 히나**: A lot of them appear to be strange characters, though...
+- **소라사키 히나**: What was that? Do I want one?
+- **소라사키 히나**: No. I don't care for these kinds of things.
+- **소라사키 히나**: I know a lot of students find these adorable, but I've never understood the appeal. I don't even know these characters' names.
+- **소라사키 히나**: Why don't we go somewhere else?
+- **소라사키 히나**: This would be an arcade.
+- **소라사키 히나**: No, I've never been to one before. They don't interest me.
+- **소라사키 히나**: It's an affront to the senses. And crowded too.
+- **소라사키 히나**: I understand that's what some want, but it's not my cup of tea.
+- **소라사키 히나**: Shall we go somewhere else?
+- **소라사키 히나**: So this store specializes in street-style clothing...
+- **소라사키 히나**: Quite a few students wear this kind of style when they go out on the weekend...
+- **소라사키 히나**: What was that? Do I like the style?
+- **소라사키 히나**: No, not especially.
+- **소라사키 히나**: What's the purpose of buying outfits I don't need?
+- **소라사키 히나**: I have my school uniform, and that's enough for me.
+- **소라사키 히나**: ...?
+- **소라사키 히나**: ...?
+- **소라사키 히나**: Well...
+- **소라사키 히나**: Hmm...
+- **소라사키 히나**: Hmmm...
+- **소라사키 히나**: I-I'm...not really sure.
+- **소라사키 히나**: S-Sorry.
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: Huh...?
+- **소라사키 히나**: Oh, it's nothing... I was thinking that you must have been disappointed with today.
+- **소라사키 히나**: It feels like...all I did was ruin the things you wanted to do.
+- **소라사키 히나**: I know I'm not a very fun person to be around. *sigh* I never have been.
+- **소라사키 히나**: ...
+- **소라사키 히나**: (How can Sensei be so considerate...?)
+- **소라사키 히나**: (Geez..)
+- **Employee**: Are you ready to order?
+- **소라사키 히나**: Oh... Y-Yes. I'll have a black coffee. No cream or sugar.
+- **소라사키 히나**: What would you like, Sen... Huh?
+- **소라사키 히나**: Is something wrong?
+- **소라사키 히나**: Me? M-Mature?
+- **소라사키 히나**: Me? M-Mature?
+
+5. **「소라사키 히나 인연 스토리 5」**
+
+- **소라사키 히나**: Hi, Sensei.
+- **소라사키 히나**: Hmm?
+- **소라사키 히나**: Hmm?
+- **소라사키 히나**: ...
+- **소라사키 히나**: My apologies. I was up all night doing some work.
+- **소라사키 히나**: I still haven't slept, and I have bags under my eyes. Not to mention my hair is a mess since I didn't wash it...
+- **소라사키 히나**: It's your fault for asking me to meet you like this!
+- **소라사키 히나**: What? You just want to sit on a bench and take in the sun...?
+- **소라사키 히나**: Photosynthesize...? What am I, a plant?
+- **소라사키 히나**: I'll give you that the weather is nice today...
+- **소라사키 히나**: (move)
+- **소라사키 히나**: ...
+- **소라사키 히나**: Hmm.
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: (stands up) Nope. This isn't doing it for me.
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: What's your point? You're bigger than I am. I can't be that heavy to you.
+- **소라사키 히나**: Something about this is so unsettling, but still comfortable.
+- **소라사키 히나**: Sensei?
+- **소라사키 히나**: Sensei?
+- **소라사키 히나**: ...
+- **소라사키 히나**: Wh-What are you doing?!
+- **소라사키 히나**: I-I told you... I didn't wash my hair today, so why are you...?!
+- **소라사키 히나**: ...Sensei.
+- **소라사키 히나**: Think again. Those aren't bags.
+
+6. **「소라사키 히나 인연 스토리 6」**
+
+- **소라사키 히나**: ...
+- **소라사키 히나**: Huh...? S-Sensei?
+- **소라사키 히나**: You want to help me with my work...?
+- **소라사키 히나**: At this hour?
+- **소라사키 히나**: I appreciate the thought, but this is my responsibility. I don't think there's anything for you to do.
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...Have it your way.
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: This isn't going to work.
+- **소라사키 히나**: Staying focused is difficult enough without having you stare at me.
+- **소라사키 히나**: ...
+- **소라사키 히나**: And why is it suddenly getting so hot in here...?
+- **소라사키 히나**: W-Wait! What are you doing?!
+- **소라사키 히나**: W-Wait! What are you doing?!
+- **소라사키 히나**: A-Ah...!
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...
+- **소라사키 히나**: N-Naturally. I mean, it must be because I haven't slept in days.
+- **소라사키 히나**: N-Naturally. I mean, it must be because I haven't slept in days.
+- **소라사키 히나**: Of course they are! The body naturally raises its temperature to account for a lack of sleep!
+- **소라사키 히나**: ...
+- **소라사키 히나**: Ugh. K-Knock it off...
+- **소라사키 히나**: ...
+- **소라사키 히나**: I said quit it!
+- **소라사키 히나**: ...
+- **소라사키 히나**: I'm supposed to be working right now.
+- **소라사키 히나**: I get so comfortable when you pat my head that I feel like I could fall asleep...
+- **소라사키 히나**: Don't be. You don't have to apologize...
+- **소라사키 히나**: ...
+- **소라사키 히나**: ...Haha.
+- **소라사키 히나**: Now that I think about it...it's been a strange night.
+- **소라사키 히나**: I never thought we'd be in this office alone together at this hour.
+- **소라사키 히나**: With you here...I feel like I could fall asleep just like this.
+- **소라사키 히나**: Heehee... I think...I'll do just that.
+- **소라사키 히나**: So sleepy...and comfortable.
+- **소라사키 히나**: Sensei...
+- **소라사키 히나**: ― ...
+- **소라사키 히나**: ― When you stare at me like that...even I can get a bit embarrassed.
+- **소라사키 히나**: ― I don't get it. I feel so at ease when we're together.
+- **소라사키 히나**: ― The truth is...seeing you smile makes me happy.
+- **소라사키 히나**: ― ...
+- **소라사키 히나**: — *sigh* I don't want to think about anything.
+- **소라사키 히나**: ― ...
+
+7. **「소라사키 히나 인연 스토리 7」**
+
+- **소라사키 히나**: Yes, Sensei, please come in.
+- **소라사키 히나**: Heehee... Well now, Sensei, you must have rushed right over.
+- **소라사키 히나**: Look at all that sweat. Are you all right?
+- **소라사키 히나**: Did something...happen on the way here?
+- **소라사키 히나**: Oh, well, you see...
+- **소라사키 히나**: I was a bit overworked with my Prefect Team duties until early this morning.
+- **소라사키 히나**: But that also allowed me to take a day off today and rest a bit.
+- **소라사키 히나**: Well...
+- **소라사키 히나**: Actually...you're here BECAUSE of my day off.
+- **소라사키 히나**: I wanted to see you, Sensei...
+- **소라사키 히나**: Of course, I didn't really think you'd come so willingly on such short notice...
+- **소라사키 히나**: It was a childish request. You were very kind to grant it.
+- **소라사키 히나**: Thank you.
+- **소라사키 히나**: I-Is that so?
+- **소라사키 히나**: ...Heehee, good...
+- **소라사키 히나**: It's a bit late to say this now, but...
+- **소라사키 히나**: As you mentioned, I have these dark circles, and...well, I don't exactly look my best.
+- **소라사키 히나**: I can't believe I invited you to come see me like this...
+- **소라사키 히나**: Thinking it over... How should I put it...?
+- **소라사키 히나**: Well, it's a bit embarrassing, I'll say that.
+- **소라사키 히나**: O-Oh?
+- **소라사키 히나**: ...Yes, let's.
+- **소라사키 히나**: Oh... S-Sorry, Sensei, something else...
+- **소라사키 히나**: I was so busy with work that I forgot I skipped breakfast.
+- **소라사키 히나**: That's very true...
+- **소라사키 히나**: Should we venture outside to look for something to eat...?
+- **소라사키 히나**: Huh? Why...?
+- **소라사키 히나**: Would it truly be a waste to go out to eat on a day off?
+- **소라사키 히나**: Wh-What do you suggest, then?
+- **소라사키 히나**: I don't have much to eat here at home...
+- **소라사키 히나**: Well enough...
+- **소라사키 히나**: But Sensei...surely you deserve more than cup ramen.
+- **소라사키 히나**: You came all the way here. I was hoping to serve you something more proper...
+- **소라사키 히나**: No, no! This is fine.
+- **소라사키 히나**: ...I don't hate cup ramen.
+- **소라사키 히나**: I've had it now and again, during operations mostly. It's just that...
+- **소라사키 히나**: ...it never felt like a proper meal to me.
+- **소라사키 히나**: Pfft.
+- **소라사키 히나**: You of all people should be the last one saying that.
+- **소라사키 히나**: I could say the same to you.
+- **소라사키 히나**: Still...
+- **소라사키 히나**: Now that I think about it...
+- **소라사키 히나**: Sitting here in my room with you...waiting for the cup ramen to cook...
+- **소라사키 히나**: ...It's all rather refreshing.
+- **소라사키 히나**: All right.
+- **소라사키 히나**: ...It's good.
+- **소라사키 히나**: Hmm? You'd like to sit and watch TV together?
+- **소라사키 히나**: Is that a good way to relax, just sit and watch whatever's on TV...
+- **소라사키 히나**: ...without expecting anything special to be on...?
+- **소라사키 히나**: Hmm... I wouldn't know, but...
+- **소라사키 히나**: If you say so, Sensei.
+- **소라사키 히나**: Wh-What, just out of the blue?
+- **소라사키 히나**: Hmm, so that kind of simple labor can have a soothing effect on the mind...?
+- **소라사키 히나**: W-Well, I'm not sure if I'll be any good at it, but I'll try.
+- **소라사키 히나**: Every district ahead of us is occupied. We have enough to pay their toll, IF they don't decide to double it.
+- **소라사키 히나**: We'll need to take decisive measures to escape this threat.
+- **소라사키 히나**: All right. All I have to do...
+- **소라사키 히나**: ...is get to that deserted island!
+- **소라사키 히나**: Gah...
+- **소라사키 히나**: Th-That attack just took us down to half health!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/소라사키 히나
+- https://bluearchive.wiki (원문 스토리 스크립트)

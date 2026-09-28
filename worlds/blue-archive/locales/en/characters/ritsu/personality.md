@@ -1,0 +1,6 @@
+# Ritsu — official English introduction
+
+A member of the Wildhunt Art Academy, she is the muscle at the unofficial smuggling group, Free Trade Cartel. Ritsu founded the current Free Trade Cartel, and makes use of her superhuman strength to do the heavy lifting for the club. Optimistic and pure-hearted, she genuinely enjoys the club's activities.
+
+Source: https://bluearchive.wiki/wiki/Ritsu
+Status: source-extracted-unreviewed

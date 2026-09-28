@@ -1,0 +1,314 @@
+# 치도리 미치루 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 치도리 미치루, 선생(샬레)
+
+1. **「치도리 미치루 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「치도리 미치루 인연 스토리 2」**
+
+- **???**: Now! While their guard is down!
+- **???**: Ahhhhhh!
+- **치도리 미치루**: How did you escape my perfect ambush?!
+- **치도리 미치루**: Hmph!
+- **치도리 미치루**: Oh!
+- **치도리 미치루**: You truly are a master, Honorable Sensei! How did you evade my elaborate ambush?
+- **치도리 미치루**: Hahaha! Was I?
+- **치도리 미치루**: "I saw right through your ambush!" The confident words of the victor!
+- **치도리 미치루**: Yes! I like it!
+- **치도리 미치루**: I can sense the great fighting power!
+- **치도리 미치루**: Based on all of this... Yes. You definitely have potential!
+- **치도리 미치루**: What sort of potential do you think I'm talking about? Your potential as a ninja, of course!
+- **치도리 미치루**: What sort of potential do you think I'm talking about? Your potential as a ninja, of course!
+- **치도리 미치루**: Yes! I know what you're thinking!
+- **치도리 미치루**: The path to becoming a ninja seems too hard. I understand the anxiety you must feel.
+- **치도리 미치루**: Don't be reckless, since you're just a beginner. You have to start slow and build a good foundation.
+- **치도리 미치루**: For example, you might start off as a ninja fanatic.
+- **치도리 미치루**: I see you! You're the type that doesn't like starting off as a rookie, eh?
+- **치도리 미치루**: Well, aren't you ambitious?
+- **치도리 미치루**: But I like your passion!
+- **치도리 미치루**: But it's okay, Sensei! I'm Chidori Michiru, president of the dignified Ninjutsu Research Club!
+- **치도리 미치루**: Well... Not officially yet, but we have a lot of potential!
+- **치도리 미치루**: Anyway! The Ninjutsu Research Club recommends the "Becoming a Ninja Plan B" for people just like you!
+- **치도리 미치루**: If you don't want to go level by level, there's another way!
+- **치도리 미치루**: It's like choosing your class in a tutorial!
+- **치도리 미치루**: Instead of ninja fanatic, you could start off as a turtle.
+- **치도리 미치루**: Turtles have great potential for becoming ninjas! And they love pizza!
+- **치도리 미치루**: Come on! Turtles have great potential for becoming ninjas! And they love pizza!
+- **치도리 미치루**: But starting off in a sewer means the road ahead will be tough. Still, it's very possible, especially if you're in an area with Millennium's latest sewage equipment...
+- **치도리 미치루**: Oh! I got totally sidetracked by our conversation!
+- **치도리 미치루**: Sensei! We have a big problem! A big one! We're in big trouble!
+- **치도리 미치루**: As you already know, we run the video streaming channel "Michiruchi, a Girl's Ninja Scroll."
+- **치도리 미치루**: Yes, so we upload videos twice a week. We need to upload a new one soon... But I have no idea what to post next...
+- **치도리 미치루**: Yes, so we upload videos twice a week. We need to upload a new one soon... But I have no idea what to post next...
+- **치도리 미치루**: We're completely stumped! We've been driven into a corner! We might as well just title the next video "Michiru! A Youth's Crisis!"
+- **치도리 미치루**: That's why I messaged you on MomoTalk. I just completely forgot to explain the rest!
+- **치도리 미치루**: More importantly! I thought you would be able to help me!
+- **치도리 미치루**: You might have ideas I haven't thought of.
+- **치도리 미치루**: Adults are supposed to be super smart right?
+- **치도리 미치루**: That's why I ambushed you!
+- **치도리 미치루**: Sensei, please! I have a few ideas... The problem is we don't know which direction we want to go. Can you pick for us?
+- **치도리 미치루**: Sensei, please! I have a few ideas... The problem is we don't know which direction we want to go. Can you pick for us?
+- **치도리 미치루**: For example, what about this? "A Review of the Top Ten Ninjutsu Tools Used by Real Parkour Ninjas!"
+- **치도리 미치루**: Or... "A Detailed Analysis of the CG in the Live Action Ninja Destroyer Movie"!
+- **치도리 미치루**: Oh, or how about "Why Do Ninjas Always Put Lots of Garlic in Ramen and Add Chashu?"
+- **치도리 미치루**: Details, details. Which one do you like the best, Honorable Sensei?
+- **치도리 미치루**: Details, details. Which one do you like the best, Honorable Sensei?
+- **치도리 미치루**: Which one inspires more curiosity about ninjas?
+- **치도리 미치루**: Which one makes you think, "Wow! Ninjas are the best!"?
+- **치도리 미치루**: And maybe, "Who's the president of the Ninjutsu Research Club that made this video? Is she some kind of genius?"
+- **치도리 미치루**: What do you think?
+- **치도리 미치루**: If you have any other suggestions, I'm all ears!
+- **치도리 미치루**: The goal of the Ninjutsu Research Club is to spread the word about ninjas to as many people as possible and be recognized as an official club one day!
+- **치도리 미치루**: We're willing to do anything to get there! And because I respect you, I know you have something innovative to offer us!
+- **치도리 미치루**: Oh! I knew you would have an amazing idea!
+- **치도리 미치루**: What?!
+- **치도리 미치루**: What?!
+- **치도리 미치루**: What?!
+- **치도리 미치루**: ...
+- **치도리 미치루**: No, no, no, no, no! Sensei! That's awful!
+
+3. **「치도리 미치루 인연 스토리 3」**
+
+- **치도리 미치루**: Wahahaha! The long wait is over! I, Michiru, have arrived!
+- **치도리 미치루**: Ninjas can show up at any time and any place, Sensei!
+- **치도리 미치루**: Ninjas can show up at any time and any place, Sensei!
+- **치도리 미치루**: Heehee, how was it? Did I look like a cool ninja?
+- **치도리 미치루**: What an unenthusiastic response! Ninjas are sensitive, Sensei. You're gonna hurt my feelings.
+- **치도리 미치루**: Hahaha. You should slap a "Handle with Care" sticker on me!
+- **치도리 미치루**: By the way, are you eating instant cup ramen again?
+- **치도리 미치루**: Come on, Sensei. You're gonna ruin your health if you keep eating like that.
+- **치도리 미치루**: Instant food like that isn't nutritionally balanced. Eating them can cause malnutrition and many healthy issues.
+- **치도리 미치루**: Plus it ruins your sleeping habits.
+- **치도리 미치루**: You'll keep scrolling online all night, looking to battle anti-ninjas. After that, you'll go watch a bunch of videos on a streaming site.
+- **치도리 미치루**: Then you'll have a rough time getting out of bed the next morning after getting no quality sleep!
+- **치도리 미치루**: And THAT is why instant food is prohibited among ninjas. This is a serious issue!
+- **치도리 미치루**: Well, that's because I've experienced this myself recently.
+- **치도리 미치루**: Well, that's because I've experienced this myself recently.
+- **치도리 미치루**: You always worry about silly details, Honorable Sensei!
+- **치도리 미치루**: Anyway, I'm glad you finished work early today!
+- **치도리 미치루**: You must be wondering why I messaged you.
+- **치도리 미치루**: Hmm. It'd be anti-climatic to reveal my purpose here. That might kill the mood.
+- **치도리 미치루**: Right, right. Timing and mood is everything for a ninja. I have to set up the story correctly.
+- **치도리 미치루**: Then, an ambush!
+- **치도리 미치루**: Shh. I'm trying to think.
+- **치도리 미치루**: So, ahem. Hmm.
+- **치도리 미치루**: Hmmmmmm. Hmmm.
+- **치도리 미치루**: Take a deep breath. *inhale*
+- **치도리 미치루**: ... *cough cough*
+- **치도리 미치루**: I-I'm fine! Anyways, I'm ready!
+- **치도리 미치루**: So, Honorable Sensei... I hope you won't be too shocked by my news.
+- **치도리 미치루**: I've been keeping this a secret.
+- **치도리 미치루**: I have to tell you. I'm the president of a secret ninja organization called the Ninjutsu Research Club.
+- **치도리 미치루**: I'm so sorry to tell you this now... I should have told you this before!
+- **치도리 미치루**: Huh?! You suddenly changed the subject!
+- **치도리 미치루**: This is the most important scene of the story! When the pretty girl in town is actually the leader of a legendary ninja organization!
+- **치도리 미치루**: Ugh, you're so persistent!
+- **치도리 미치루**: Homework? Hmm... I may or may not have done it. Kind of like Schrödinger's cat...
+- **치도리 미치루**: A-Anyway, the reason I told you that is...
+- **치도리 미치루**: Wahaha! You're playing along. You're the best, Sensei!
+- **치도리 미치루**: I recognize you as the next advanced ninja! You should be proud of yourself!
+- **치도리 미치루**: Anyway, this was the big reveal that the pretty girl in town is actually the leader of a legendary ninja organization!
+- **치도리 미치루**: The reason I told you that is because...
+- **치도리 미치루**: This kind of unique setup is very popular these days.
+- **치도리 미치루**: But if it's too long, we won't get as many views!
+- **치도리 미치루**: I was up all night watching videos like that.
+- **치도리 미치루**: After I did my homework!
+- **치도리 미치루**: Anyway, I want to shoot a video like that for Michiruchi, a Girl's Ninja Scroll!
+- **치도리 미치루**: I'm fine, I'm fine! Oh, you have a part too!
+- **치도리 미치루**: You're someone who's been "watching the cute girl next door...but turns out to be a member of the opposing ninja organization"!
+- **치도리 미치루**: Suddenly, a battle breaks out... It's a fight between ninja families! We were friends yesterday, but enemies today!
+- **치도리 미치루**: Just when things are at their bleakest...!
+- **치도리 미치루**: The two overcome everything and come together!
+- **치도리 미치루**: The ending is a secret. Heehee. If this content is successful, Michiruchi will gain a lot of subscribers!
+- **치도리 미치루**: Let's go, Sensei!
+- **치도리 미치루**: No more talking! We're aiming for 100 subscribers!
+
+4. **「치도리 미치루 인연 스토리 4」**
+
+- **치도리 미치루**: Sensei, this way!
+- **치도리 미치루**: We're here. This is my absolute favorite shop!
+- **치도리 미치루**: Wahaha, right? It's one of Kivotos' best kept secrets.
+- **치도리 미치루**: But Honorable Sensei! I told you! It's a ninjutsu shop, not a merch one!
+- **Street Vendor**: Welcome back! You're the ninja cosplay girl! Are you on a date?
+- **치도리 미치루**: D-D-D-Date?!
+- **Street Vendor**: How can I help you today? You always have such good taste, you must be looking for our new products.
+- **Street Vendor**: Hahaha! This new one is legit! It's a bona fide flamethrower! There's nothing better for cosplay!
+- **치도리 미치루**: I've told you, it's not cosplay!
+- **Street Vendor**: Oh! Sorry, I keep forgetting about our scenario.
+- **Street Vendor**: Some ladies are so particular about things. She must be high-maintenance!
+- **치도리 미치루**: Eek!
+- **Street Vendor**: But a good seller must meet the customer's demands... So...
+- **Street Vendor**: This is code name Zero 13. Mademoiselle, what do you need?
+- **치도리 미치루**: No! Just no! Wrong! That's not the right genre! That's not how ninjas operate!
+- **치도리 미치루**: Oh, I guess in a broad sense, a cloak-and-dagger bit could be a part of a ninja story!
+- **Street Vendor**: Hahaha. I tried. Look around as long as you want. Enjoy your date!
+- **치도리 미치루**: A-Argh! I said it's not a d-date! This is for educational purposes! What the heck?!
+- **치도리 미치루**: *inhale* *exhale* Take a breath...
+- **치도리 미치루**: All right. I'm the president of the Ninjutsu Research Club! I won't be embarrassed by something so trivial!
+- **치도리 미치루**: I must keep my mind clear and calm.
+- **치도리 미치루**: Huh? Ehhhh?!
+- **치도리 미치루**: Honorable Sensei! Look, look at this! Isn't this amazing?
+- **치도리 미치루**: That's all you have to say? Come on, Sensei!
+- **치도리 미치루**: That's all you have to say? Come on, Sensei!
+- **치도리 미치루**: This is no ordinary machine gun! It's a cursed, evil machine gun called the Wicked Muramatling, which often appears in movies directed by Calico Nyangoro!
+- **치도리 미치루**: When you hold this machine gun, it corrupts you with the soul of a demonic, ancient ninja.
+- **치도리 미치루**: Of course, it's kind of ridiculous that it appears randomly and crosses movie universes. Fans either love it or hate it, but still...
+- **치도리 미치루**: Look at the level of details... Amazing! How much is it?!
+- **치도리 미치루**: What?! Two million yen?!
+- **치도리 미치루**: Ugh... That's a shame... I guess I'll have to pass... Huh?
+- **치도리 미치루**: Oh! This is a poster of Director Kaigenwoofwoof's early work?! Is this the original? Really?! Whoa, the shop owner's taste is really something else!
+- **치도리 미치루**: Oh! And that's...!
+- **치도리 미치루**: Whooaa! This shop is full of incredible items! I could stay and look around for hours, I mean, for days!
+- **치도리 미치루**: Wahahaha! Of course. This place is like a treasure chest! I'm drooling just looking!
+- **치도리 미치루**: ...Oh! I-I just... I'm sorry, Sensei! I got too excited.
+- **치도리 미치루**: I dragged you all the way here... Am I being too much...?
+- **치도리 미치루**: Oh, really? Hee...heehee... Wow, I'm blushing. I mean, I do have a lot of energy.
+- **치도리 미치루**: Oh, really? Hee...heehee... Wow, I'm blushing. I mean, I do have a lot of energy.
+- **치도리 미치루**: Is that a compliment?!
+- **치도리 미치루**: I'm kind of glad...you came with me.
+- **Thug A**: What's this? Ninja merch? Where would you use that? Hahaha!
+- **치도리 미치루**: Huh?
+- **Thug A**: Hahaha! Beginner's Shuriken Set? "Detonates in one minute!" Simple Smoke Bomb Bundle?!
+- **Thug B**: Who would buy this garbage? So stupid! *giggle*
+- **Thugs A & B**: Lame-o!
+- **치도리 미치루**: E-Ehhhh? Th-Thugs? Why?!
+- **치도리 미치루**: *inhale* *exhale*
+- **치도리 미치루**: Sorry, I lost my cool. I'm okay now, Sensei. I'll use ninjutsu to empty my mind like crystal clear water...
+- **치도리 미치루**: C-C-Calm...d-down...
+- **치도리 미치루**: Waaah! I mean, what are these thugs doing at my sanctuary?!
+- **치도리 미치루**: Sensei, look! They're messing around with everything... They're being so disrespectful!
+- **치도리 미치루**: They don't even know anything about ninjas. How can they call them lame?
+- **치도리 미치루**: Go away! Get lost!
+- **치도리 미치루**: Well... Ugh! I-I'm scared to yell at them face-to-face.
+- **치도리 미치루**: It's kind of risky to just engage without a plan...
+- **치도리 미치루**: Y-You never know what might happen.
+- **치도리 미치루**: I know this is just an excuse, but...
+- **치도리 미치루**: You must be judging me...
+- **치도리 미치루**: ...This is dumb, right? I can't even stand up for myself. I'm all talk.
+
+5. **「치도리 미치루 인연 스토리 5」**
+
+- **치도리 미치루**: Heeheehee. As you might have guessed...there's only one reason we're meeting tonight.
+- **치도리 미치루**: I created a brand new ninjutsu recently!
+- **치도리 미치루**: I want to film it and upload it to the "Michiruchi, a Girl's Ninja Scroll" channel!
+- **치도리 미치루**: Come on, Sensei. What are you talking about?
+- **치도리 미치루**: I've been foreshadowing this the whole time!
+- **치도리 미치루**: Duh. You said I changed the subject all of a sudden while we were chatting on MomoTalk, remember?
+- **치도리 미치루**: Think about it! What was I talking about before I changed the subject?
+- **치도리 미치루**: Exactly, Sensei! As you know, the nineteenth volume of Kama-Boko Gale Battle was published in print because of its impact!
+- **치도리 미치루**: Kama-Boko, the main character, finally earns their signature ninjutsu through blood, sweat, and tears!
+- **치도리 미치루**: You didn't know that? Sensei, you need more training!
+- **치도리 미치루**: Anyway, among trending content these days, the "I made XX from XX" videos are doing really well, you know?
+- **치도리 미치루**: So I'm going to film a video called, "Self-made ninjutsu that should be featured in Kama-Boko!"
+- **치도리 미치루**: We're gonna use this for filming today!
+- **치도리 미치루**: It's a Fire Dance Ninja Firework Set! All you have to do is light it up and watch the sparks fly!
+- **치도리 미치루**: This is the last ingredient of my signature ninjutsu! My dream!
+- **치도리 미치루**: Don't sweat the small stuff! My preparations are perfect, so it'll be fine!
+- **치도리 미치루**: Don't sweat the small stuff! My preparations are perfect, so it'll be fine!
+- **치도리 미치루**: I even have a bucket of water, in case of emergency! I've planned every last scene in my head.
+- **치도리 미치루**: Sensei! I'm counting on you!
+- **치도리 미치루**: It's gonna be huge!
+- **치도리 미치루**: ― Let me show you!
+- **치도리 미치루**: ― This is the brand new Michiru-style ninjutsu!
+- **치도리 미치루**: ― Ninjutsu! Sparkling Fire technique!
+- **치도리 미치루**: ― Hahaha! Sensei! What'd you think?
+- **치도리 미치루**: ― Wasn't it so cool?!
+- **치도리 미치루**: ― How do I look on the screen?
+- **치도리 미치루**: ― It's got a fantastic ninja feel... It's perfect!
+- **치도리 미치루**: ― I'm the most powerful president of the Ninjutsu Research Club!
+- **치도리 미치루**: ― Oh, it's gonna get even better from now.
+- **치도리 미치루**: ― Keep watching!
+- **치도리 미치루**: ― One, two!
+- **치도리 미치루**: Hiyah! Wasn't it pretty cool?
+- **치도리 미치루**: This is incredible! I think this is the one that's gonna finally go viral!
+- **치도리 미치루**: I'll put your name in the special thanks section!
+- **치도리 미치루**: Hmm?
+- **치도리 미치루**: Ack! Hot! Wh-What is this?
+- **치도리 미치루**: H-Honorable Sensei! Water, water! Use your ninjutsu!
+- **치도리 미치루**: *splash* *cough cough*
+- **치도리 미치루**: Cancel the shot! Let's film again! It's gonna work this time!
+- **치도리 미치루**: Huh? We can't do that?
+- **치도리 미치루**: Wh-Why not, Sensei?!
+- **치도리 미치루**: Oh, you're...worried about me?
+- **치도리 미치루**: Oh, you're...worried about me?
+- **치도리 미치루**: Oh! Y-Yeah, I get it...
+- **치도리 미치루**: Waaah! I hate that I didn't get the shot I wanted though!
+- **치도리 미치루**: But I, Chidori Michiru, the president of the Ninjutsu Research Club, will never give up!
+- **치도리 미치루**: I swear I'll find a way! I'm gonna create viral ninja content!
+- **치도리 미치루**: I'll promote ninjas all over Kivotos and our channel will reach three-digit subscription numbers!
+- **치도리 미치루**: You're worrying about unimportant things!
+- **치도리 미치루**: I'll keep creating ninja content and work hard for the Ninjutsu Research Club!
+- **치도리 미치루**: You better help me, Sensei!
+- **치도리 미치루**: Wahaha. All right!
+
+6. **「치도리 미치루 인연 스토리 6」**
+
+- **치도리 미치루**: Fufu, you're here, Honorable Sensei.
+- **치도리 미치루**: Naturally, those on the path of the ninja would be drawn to such an item...
+- **치도리 미치루**: Fufu, why so surprised, Sensei?!
+- **치도리 미치루**: Anyways, the ancient recording medium I brought forth is...!
+- **치도리 미치루**: This!
+- **치도리 미치루**: Indeed, Sensei.
+- **치도리 미치루**: You're right. This is an...ancient recording medium that's no longer used... It's a relic called a "video tape"!
+- **치도리 미치루**: Fufu, curious? Naturally.
+- **치도리 미치루**: On this tape...
+- **치도리 미치루**: ...is...
+- **치도리 미치루**: Ah! Nothing like that!
+- **치도리 미치루**: Why would that be your first guess?
+- **치도리 미치루**: What are you disappointed for?!
+- **치도리 미치루**: A-Anyway, this video has...!
+- **치도리 미치루**: ...Something that Honorable Sensei, no, ANYONE who walks on the path of ninja would know...
+- **치도리 미치루**: It's a copy of the esteemed director Crow Nyan Nyan's earliest work...shot in black and white... You know what it is...
+- **치도리 미치루**: ..."The Three Ninjas of the Hidden Classroom"!
+- **치도리 미치루**: What's with the lack of enthusiasm?
+- **치도리 미치루**: These are the times where true ninjas go, "So you also are familiar!" before exchanging glances, small smiles, and curt nods of recognition.
+- **치도리 미치루**: Oh... Is this the first time you've heard of it?
+- **치도리 미치루**: I-I get that Crow Nyan Nyan's works are a little vintage... Which is why these classics are all shot in black and white and are so rare to find.
+- **치도리 미치루**: But still, surely you paid attention in class!
+- **치도리 미치루**: Hm! I can't believe you still haven't watched "The Three Ninjas of the Hidden Classroom"...
+- **치도리 미치루**: Honorable Sensei, it's a tragedy that you've lived so long without experiencing such joy.
+- **치도리 미치루**: It's just so...good.
+- **치도리 미치루**: Of course.
+- **치도리 미치루**: Because...this is the movie that set me on the path of the ninja!
+- **치도리 미치루**: Nyahaha! Right? Right?
+- **치도리 미치루**: As much as I'd love to set up a screen in the middle of the street and ambush everyone with this brilliance...
+- **치도리 미치루**: ...It will not happen today. I'm here for another reason.
+- **치도리 미치루**: You see, I'm here to make a copy of this tape. A true ninja is always prepared with a backup.
+- **치도리 미치루**: I heard that a nearby photo studio has introduced a new service...
+- **치도리 미치루**: ...One where they can archive and digitize old video tapes. Just think, I could back this up to my computer! To the cloud!
+- **치도리 미치루**: It would make this movie accessible anytime, anywhere, and with incredible ease.
+- **치도리 미치루**: And that's why I have the tape with me.
+- **치도리 미치루**: Think of it as...a preservation process! Precious things deserve to be cherished and protected.
+- **치도리 미치루**: You know, it's like how ninjas would smash food and desserts into tiny balls so that they would be preserved for months! Years, even.
+- **치도리 미치루**: Anyway, we call those ration pellets... They...have a taste.
+- **치도리 미치루**: Ah! That's my line!
+- **Photo Studio Owner**: I don't know about this one. It's going to be rough.
+- **치도리 미치루**: Wh-Why...?!
+- **치도리 미치루**: Did I not bring enough money?
+- **Photo Studio Owner**: No, it's not the money. It's the tape itself.
+- **Photo Studio Owner**: I can't extract the data from this tape.
+- **Photo Studio Owner**: Eh, the thing is, here's your problem... This tape is OLD.
+- **Photo Studio Owner**: And it's already sustained substantial physical deterioration.
+- **Photo Studio Owner**: I can't do anything when it's gotten this bad.
+- **치도리 미치루**: Ugh... I see.
+- **치도리 미치루**: Well, we tried. Let's get going, Honorable Sensei.
+- **치도리 미치루**: *sigh* How disappointing.
+- **치도리 미치루**: Hm? Ah, I knew this tape was broken. I've known for a while.
+- **치도리 미치루**: Of course. I played this tape hundreds of times.
+- **치도리 미치루**: Eventually, I noticed that the movie...wasn't playing right.
+- **치도리 미치루**: I thought that maybe the professionals could find a way... But I guess not.
+- **치도리 미치루**: Nyahaha! Of course I am!
+- **치도리 미치루**: Some of my fondest memories are now sealed in this rectangular scroll. Of course I'm disappointed!
+- **치도리 미치루**: ...And it's so hard to find another copy.
+- **치도리 미치루**: Sometimes I have these thoughts, Honorable Sensei...
+- **치도리 미치루**: If only I shared this joy with others...
+- **치도리 미치루**: If only I recommended it to more people and let them share the memory with me. If only I hadn't treasured it to the point that I hoarded it for myself...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/치도리 미치루
+- https://bluearchive.wiki (원문 스토리 스크립트)

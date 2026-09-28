@@ -1,0 +1,6 @@
+# Michiru — official English introduction
+
+A student of Hyakkiyako Alliance Academy and director of the Ninjutsu Research Department, Michiru is always full of unfounded self-confidence. She is an otaku who loves ninja movies, anime, and goods. Michiru is running around with the members of the Ninjutsu Research Department today to let everyone throughout Kivotos know of the greatness of ninjas.
+
+Source: https://bluearchive.wiki/wiki/Michiru
+Status: source-extracted-unreviewed

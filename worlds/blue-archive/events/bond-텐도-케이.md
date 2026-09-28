@@ -1,0 +1,374 @@
+# 텐도 케이 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 텐도 케이, 선생(샬레)
+
+1. **「텐도 케이 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「텐도 케이 인연 스토리 2」**
+
+- **텐도 케이**: ...
+- **텐도 케이**: What? Why are you staring at me like that?
+- **텐도 케이**: Is there something on my face? Oh, "there's not"? I knew that. I checked a mirror before we came out here.
+- **텐도 케이**: ...Just?
+- **텐도 케이**: ...Of course it did.
+- **텐도 케이**: Why is that all you ever want to talk about?
+- **텐도 케이**: No! Definitely, DEFINITELY not!
+- **텐도 케이**: Huh? You muttered something about how I must "hate cute things"? Please.
+- **텐도 케이**: ...
+- **텐도 케이**: ...
+- **텐도 케이**: ...
+- **텐도 케이**: ...I don't hate it. I never said I did.
+- **텐도 케이**: ...I don't...hate it...
+- **텐도 케이**: ...What? You still can't hear me?
+- **텐도 케이**: ...
+- **텐도 케이**: I DON'T HATE IT! If I have to have a preference, then fine! I like it! Are you happy now?
+- **텐도 케이**: Aw?
+- **텐도 케이**: GAAAHH!!
+- **텐도 케이**: I like that I'm able to work more in the field now.
+- **텐도 케이**: ...But this body feels oddly creaky here and there...
+- **텐도 케이**: Huh? Do I need some "WE-40 for the joints"? What are you talking about?
+- **텐도 케이**: Besides, that product is more for cleaning than...lubrication. Look it up. Read the label.
+- **텐도 케이**: And when I said "creaky," I didn't mean literally squeaking around like old flooring!
+- **텐도 케이**: Well...this is the situation I have. To be honest...
+- **텐도 케이**: ...Since I'm essentially using something that was thrown in the garbage, I should be grateful that I'm moving at all.
+- **텐도 케이**: So, am I actively upset or resentful? No. That's going too far.
+- **텐도 케이**: Well, I suppose if I must choose a feeling, then I'm grateful. Life is always a battle.
+- **텐도 케이**: No one in this world is offered a perfect 100. You're lucky if fate even spares you a 50.
+- **텐도 케이**: If you still have kindling to burn, then you should throw everything on the fire to ensure...
+- **텐도 케이**: ...that maybe someone else can be warmed.
+- **텐도 케이**: At any rate, we know that this body was essentially marked for disposal. I'll make good use of it while I can.
+- **텐도 케이**: ...Saying that out loud is making me depressed.
+- **텐도 케이**: That! Is definitely! Not what I said!
+- **텐도 케이**: *huff* *puff* *huff* I can't even talk without you mucking up everything...
+- **텐도 케이**: Look, while this body is more of a mess than it may appear...
+- **텐도 케이**: ...It was crafted with purpose and care.
+- **텐도 케이**: So, uh, what I'm trying to say is...
+- **텐도 케이**: I-I know you do! That's not what I'm trying to say!
+- **텐도 케이**: So, uh...
+- **텐도 케이**: ...
+- **텐도 케이**: ...I was wondering, if there was a ribbon for my hair, or something like that...
+- **텐도 케이**: ...!!
+- **텐도 케이**: Never mind! Pretend you didn't hear anything! In fact, you heard NOTHING!
+- **텐도 케이**: Wh-What! What's with that creepy smile? Stop it! Wipe it off your face!
+- **텐도 케이**: What's that...?
+- **텐도 케이**: You'll ask Rio to make an "accessory"? Wait, why Rio...?
+- **텐도 케이**: ...
+- **텐도 케이**: ...?!
+- **텐도 케이**: You're doing this on purpose, aren't you?
+- **텐도 케이**: I hate you, Sensei!!
+
+3. **「텐도 케이 인연 스토리 3」**
+
+- **Social Studies Teacher**: Greetings, everyone.
+- **Social Studies Teacher**: Today's lesson is on "Living Spaces and Society."
+- **Social Studies Teacher**: Regarding that, I intend to focus especially on the infrastructure involved in city planning, and how this impacts the populace.
+- **Social Studies Teacher**: Now, let's see... Kei?
+- **Social Studies Teacher**: Can you tell me what you know about cities?
+- **텐도 케이**: Huh? Me? "Kei," as in me?
+- **Social Studies Teacher**: Yes, please. You're the only one.
+- **텐도 케이**: Oh. Um...
+- **텐도 케이**: Basically, a "city" stands at a dichotomy. It's a human construct, usually thought to contrast with the so-called "pure" state of untouched nature.
+- **텐도 케이**: The term "civilization" has the root "civil," with the etymology of "city," or "civitas" in the original form. "Civil" clearly is the root of words like "civilization" and "civics," implying that the construction of space is what makes us "people," so to speak.
+- **텐도 케이**: Without cities, well...
+- **텐도 케이**: In other words, if there was no foundation where humans could gather, share ideas, and learn to cooperate, then the world as we know it would not exist.
+- **텐도 케이**: After all, humans are communal animals. They bring fantasy into reality through collective creativity and ingenuity.
+- **Social Studies Teacher**: (Oh, ohhh?!)
+- **Social Studies Teacher**: (That's...a fascinating point!)
+- **텐도 케이**: ...When you compare ancient times to modern day, it becomes clear that our current living conditions are in a state of deterioration due to increasingly dense populations.
+- **텐도 케이**: There's no real solution in our contemporary times. We've reached an unprecedented era of capitalism, where to have "worth" in "civilization" means gathering at a central location to perform labor.
+- **텐도 케이**: ...To be practical, I think our next steps should be relieving traffic congestion and mitigating environmental pollution.
+- **Social Studies Teacher**: (She covered all of today's lesson points!)
+- **Social Studies Teacher**: (I...I'm the instructor, what do I...?)
+- **텐도 케이**: ...I may have gone on a tangent by discussing quantum fields. I know they seem unrelated to vectors.
+- **텐도 케이**: But, ultimately, this is a problem asking you to prove that the mass gap is greater than zero. And that is inextricable from mathematics.
+- **텐도 케이**: It's not about raw calculations. That's only somewhat possible—just like how a general fluid dynamics equation can still somehow be solved through computational fluid dynamics.
+- **텐도 케이**: Furthermore, this is due to the structural limits of mathematics. First of all, path integrals—
+- **Math Teacher**: Mm, hmm...! Indeed!
+- **Math Teacher**: Th-That's all for today's lesson. It's a little early... But how about we all get some fresh air?
+- **Millennium Student A**: Incredible!
+- **Millennium Student B**: I thought she had an aura about her, but this transfer student is amazing!
+- **텐도 케이**: Wh-What?
+- **Millennium Student A**: Hey, you're Kei-Kei, right? Where did you previously go to school? Did you skip a few grades, or something?
+- **Millennium Student B**: You mentioned the mass gap hypothesis, right? You must know that our school was founded to solve the Millenium Conundrum! Hence the name! You should join our club!
+- **텐도 케이**: W-Well, no, that is, I...
+- **텐도 케이**: It looked like, "What are you doing?! Save me!"
+- **텐도 케이**: (First, I'll kill Sensei, then I'll go DIE!)
+- **텐도 케이**: U-Uh... I'm wiped...
+- **텐도 케이**: Will you PLEASE shut up?!
+- **텐도 케이**: *sigh*...
+- **텐도 케이**: Since you brought it up, and were here to WITNESS and DO NOTHING, I think it's clear that...I possess a breadth of knowledge.
+- **텐도 케이**: ...I had to know a lot since I was a "servant," so to speak.
+- **텐도 케이**: I even...may have learned a little more after hacking while Millennium was researching in the Ruins.
+- **텐도 케이**: Anyway.
+- **텐도 케이**: What am I trying to say?
+- **텐도 케이**: ...
+- **텐도 케이**: Sometimes, I feel like these lessons are mere formalities. Just exercises in attendance.
+- **텐도 케이**: ...
+- **텐도 케이**: Not necessarily, but it raises a fundamental question.
+- **텐도 케이**: For example, if a student already knows everything, do we really need to make her go to school?
+- **텐도 케이**: What?
+- **텐도 케이**: What's that...? "Play?"
+- **텐도 케이**: That's a priority for you? That's it?
+- **텐도 케이**: Another sloppy over-simplification...
+- **텐도 케이**: ...
+- **텐도 케이**: What if a student...finds it all overwhelming? What if other people are "too much"?
+- **텐도 케이**: ...So, you're saying that's why that hypothetical student should stay the course? Just in case they feel...lonely?
+- **텐도 케이**: Ugh...
+- **텐도 케이**: But what if that student REALLY doesn't like most people?
+- **텐도 케이**: Huh? You're saying that's why you're here?
+- **텐도 케이**: ...
+- **텐도 케이**: I get what you're saying, but you need to be realistic, Sensei.
+- **텐도 케이**: You only have one body. Do you know how many students there are in Kivotos?
+
+4. **「텐도 케이 인연 스토리 4」**
+
+- **Millennium Student A**: Gotcha, Kei-Kei!
+- **텐도 케이**: P-Please, let me go!
+- **Millennium Student B**: Don't you like us, Kei-Kei?
+- **텐도 케이**: It's not that, b-but... Well...
+- **Millennium Student A**: Aw, she's embarrassed! See, I told you. She has a charm all her own, totally different from Aris'.
+- **텐도 케이**: (Why does Aris just get to be "Aris," and I have to be "Kei-Kei"?)
+- **텐도 케이**: Sensei?! Great timing! As a teacher, please rescue a student in crisis—
+- **Millennium Student A**: Oh, it's Sensei! Hello, Sensei!
+- **Millennium Student B**: Would you like to join us for "Dote on Kei-Kei Time?" It's great for stress-relief.
+- **텐도 케이**: What?!
+- **텐도 케이**: ...
+- **텐도 케이**: I WAS AN IDIOT TO TRUST THIS ADULT!
+- **Millennium Student A**: So, you're Aris' twin sister, right?
+- **텐도 케이**: Huh? Y-Yes... It's something...like that. Yes...
+- **Millennium Student B**: Wow, that must be so fun. Two sets in the GDD. But wait! Your hair! Your shades are polar opposites.
+- **Millennium Student A**: Oh! I see! You're fraternal twins!
+- **텐도 케이**: Uh... Ugh... Yes... Let's go with that...
+- **Millennium Student A**: Now it's MY turn to give Kei-Kei a special quest!
+- **텐도 케이**: This again...
+- **Millennium Student B**: Oh, do you not like it?
+- **텐도 케이**: It's not that—!
+- **텐도 케이**: ...
+- **텐도 케이**: ...I don't dislike it, exactly.
+- **텐도 케이**: It's just a little embarrassing, and I'm not used to it, so...
+- **Millennium Student A & B**: Awwwwww!
+- **텐도 케이**: Ugh, I have a terrible feeling...!
+- **Millennium Student A & B**: Kei-Kei is so cute!!
+- **텐도 케이**: Why are you joining them?!
+- **Millennium Student A**: On that note, will you please take this to the lecture hall in the next building?
+- **텐도 케이**: Ah, sure... It's a delivery quest, is it?
+- **Millennium Student B**: Yes. And this time, it's a quest with the reward upfront. Here, have this necklace.
+- **텐도 케이**: ...!
+- **텐도 케이**: It's...quite pretty.
+- **텐도 케이**: The decorations aren't so extravagant that they're distracting, and the gemstone has a blue chrome luster and a slightly yellow tint...
+- **텐도 케이**: Th-This looks quite precious. Are you sure I should have it?
+- **Millennium Student A**: It's fine, it's fine. It's just leftovers from the New Material Development Club. We would have recycled it otherwise.
+- **Millennium Student B**: That's an artificial diamond. If you looked at its base components, it's just carbon!
+- **텐도 케이**: I see... Artificial diamonds have improved a lot, haven't they?
+- **Millennium Student A**: Then we'll leave it to you!
+- **Millennium Student B**: Come to us if you need more quests!
+- **텐도 케이**: Ha...yeah. N-No thank you, actually... I think this will do.
+- **텐도 케이**: ...?
+- **텐도 케이**: How long do you intend on standing there, Sensei? And what's with that face?
+- **텐도 케이**: ...Just?
+- **텐도 케이**: Gaaaaaah!!
+- **텐도 케이**: Ugh, really... Why do I get all the attention...?
+- **텐도 케이**: Stop, stop. I know what you're going to say. You're going to say it's so lovely that I'm appreciated and cherished or whatever.
+- **텐도 케이**: ...Oh, stop pouting! Really, you're such a—!
+- **텐도 케이**: ...
+- **텐도 케이**: Well, it's not bad. It's all right.
+- **텐도 케이**: Don't be so weird! Why are you translating me?! We're speaking the same language.
+- **텐도 케이**: *huff* *puff* *huff*
+- **텐도 케이**: Look, I'm on a quest, so please don't be a bother.
+- **텐도 케이**: Huh? I told you, I'm on a ques...
+- **텐도 케이**: ...!!
+- **텐도 케이**: E-Errand!! An errand!
+- **텐도 케이**: Get that satisfied look off your face!
+- **텐도 케이**: And you better not start!
+- **텐도 케이**: You're the EXCEPTION, Sensei!
+- **Millennium Student C**: Oh, it's Kei. What's up?
+
+5. **「텐도 케이 인연 스토리 5」**
+
+- **텐도 케이**: *sigh*... It's happening again here...
+- **텐도 케이**: This is probably because the collision value is not properly defined... And then there's this...
+- **텐도 케이**: Ah, you're here, Sensei.
+- **텐도 케이**: What was I doing? As you can see, quite plainly...
+- **텐도 케이**: ...
+- **텐도 케이**: They say it's better to experience it once rather than hearing it explained a hundred times.
+- **텐도 케이**: Here, try it for yourself!
+- **텐도 케이**: ...Sensei?
+- **텐도 케이**: Uh, are you all right? You were a little...out.
+- **텐도 케이**: What? You're telling me that this game was so bad that you "almost lost consciousness"?
+- **텐도 케이**: That's dramatic. And rude. Though it's probably true.
+- **텐도 케이**: Oh, this game?
+- **텐도 케이**: ...
+- **텐도 케이**: It's the alpha version of the Game Development Department's newest project...
+- **텐도 케이**: Your face indicates that you're not particularly surprised.
+- **텐도 케이**: ...I understand.
+- **텐도 케이**: Rude! I was QA testing!
+- **텐도 케이**: Quality assurance, yes... In other words, I was working as a game tester, and, naturally, a bug reporter.
+- **텐도 케이**: It's underappreciated work, but very valuable. If only the devs respected a deadline...
+- **텐도 케이**: Yes... Well, whether it be bug reports or game testing, someone needs to do it.
+- **텐도 케이**: Aside from that, I still have a mountain of things to attend to.
+- **텐도 케이**: Still, what kind of bug fix list is this...? *sigh*...
+- **텐도 케이**: Where to begin? If the game's THIS bad, I suspect there's a problem at the base architectural level.
+- **텐도 케이**: No, surely not... Overhauling that would mean basically remaking the game from scratch.
+- **텐도 케이**: We need to find a fix that will bypass that...
+- **텐도 케이**: It's not a big deal. This is comparatively easy.
+- **텐도 케이**: ...But I feel like my brain will explode if we have to go back to the planning, proposal, and resource stage.
+- **텐도 케이**: ...
+- **텐도 케이**: Yes. It somehow ended up this way.
+- **텐도 케이**: Really, after seeing the state the game was in, I had to take over.
+- **텐도 케이**: I wonder why it's always so difficult.
+- **텐도 케이**: Proposal changes are supposed to be easy. Expected, even.
+- **텐도 케이**: But why is the solution always "overhaul the resources" instead of "let's reduce and refine them"?
+- **텐도 케이**: This all started off as a cozy slice-of-life game!
+- **텐도 케이**: Why has this turned into an RTS where you build land battleships in a secret underground base to save the world from alien occupation?!
+- **텐도 케이**: The artist hears a ridiculous scenario, and, despite their better judgment, gets to work.
+- **텐도 케이**: Then the engineer tries to implement these new models, only to end up forcing it. Everything gets unoptimized...
+- **텐도 케이**: The rookie programmers of today think this is how it's done! Why? Because they are surrounded by it.
+- **텐도 케이**: "Hello World, I have an emergency! I did not manage to save my game!"
+- **텐도 케이**: The problem is the enabling! Because if they keep allowing terrible games to be released, they'll keep making them!
+- **텐도 케이**: Can you please take this seriously?
+- **텐도 케이**: ...
+- **텐도 케이**: Th-Thank you...
+- **텐도 케이**: Sure, if you think such a tiny club needs so many superfluous titles.
+- **텐도 케이**: ...But come to think of it, I'm also technically part of the Super Phenomenon Task Force...?
+- **텐도 케이**: ...
+- **텐도 케이**: It's true. I do.
+- **텐도 케이**: Anyway, that's how things are.
+- **텐도 케이**: Whether I'm reviewing a game or fighting some unknown monster...
+- **텐도 케이**: Ultimately, I've always known when someone needs to step up and take the wheel.
+- **텐도 케이**: That said, the most important—and difficult—part is in giving feedback.
+- **텐도 케이**: Really?
+- **텐도 케이**: ...Yes. That's the problem.
+- **텐도 케이**: When that happens, and forgive me for sounding so immature and trite...
+- **텐도 케이**: ...It sours a relationship.
+- **텐도 케이**: ...
+- **텐도 케이**: You DO understand.
+- **텐도 케이**: Well, at least Momoi tends to take feedback well.
+- **텐도 케이**: ...The problem is that she immediately brings a fresh proposal as soon as I finish talking.
+- **텐도 케이**: I just wish she would understand the importance of documentation and logs!
+
+6. **「텐도 케이 인연 스토리 6」**
+
+- **텐도 케이**: Ah, you're here.
+- **텐도 케이**: Really, how can some people actually live like this?
+- **텐도 케이**: Huh?
+- **텐도 케이**: Yes, well... Thank you. Two people should make quicker work.
+- **텐도 케이**: ...Momoi is more likely to make a mess than actually clean up.
+- **텐도 케이**: Midori cleans...if you get her started. She's best with the details, but maybe that's because she's an artist.
+- **텐도 케이**: She doesn't actively make a mess, but she doesn't clean all that often, either.
+- **텐도 케이**: Yuzu... At least she no longer just hides all the time, but she's always gaming or coding. And Aris...
+- **텐도 케이**: ...I'm worried about Aris...
+- **텐도 케이**: Of the four, she's at least the second most tidy. But we adopt the traits of those around us, and she has QUITE the group...
+- **텐도 케이**: No, well. I'm not saying the other three are bad. I find them all quite pleasant. However...
+- **텐도 케이**: Phew. It's a little better now.
+- **텐도 케이**: Should we place a bet? I'd say we have three days until this place is a mess again.
+- **텐도 케이**: Yes.
+- **텐도 케이**: ...
+- **텐도 케이**: ...?
+- **텐도 케이**: Wait, Sensei.
+- **텐도 케이**: Did you just avert your gaze?
+- **텐도 케이**: "Miss Kei"...?
+- **텐도 케이**: ...
+- **텐도 케이**: Sensei.
+- **텐도 케이**: Look into my eyes.
+- **텐도 케이**: Look me straight in the face!
+- **텐도 케이**: Put your hand over your heart and answer me sincerely.
+- **텐도 케이**: Do you usually clean up after yourself?
+- **텐도 케이**: Stop right there! Don't say a word! I already know the answer!
+- **텐도 케이**: ...
+- **텐도 케이**: Sensei.
+- **텐도 케이**: Does a person live here? Or are you raising pigs?
+- **텐도 케이**: If you say a person lives here, you have no conscience, and if you say it's a proper pigpen, then you declare that you are not human!
+- **텐도 케이**: I'll give you ten seconds. Defend your actions.
+- **텐도 케이**: What's your point?
+- **텐도 케이**: Keep talking.
+- **텐도 케이**: YOU THINK YOU CAN LECTURE ME ON RATIONALISM?!
+- **텐도 케이**: Die! Just die!! If need be, I'll die with you. But if you think it's acceptable to live like this, then just die!
+- **텐도 케이**: Really, why do I even...?
+- **텐도 케이**: At least it's slightly better than Rio's room. And NO, that's not a compliment.
+- **텐도 케이**: All this dust... Do they not even care about their bronchi? Their lungs? You can't recover once the lungs are shot...
+- **텐도 케이**: *sigh*...
+- **텐도 케이**: Well then, Sensei?
+- **텐도 케이**: One word? That's it?
+- **텐도 케이**: ...As long as you know better now.
+- **텐도 케이**: And if you make a mess next time...!
+- **텐도 케이**: ...
+- **텐도 케이**: Who am I kidding? Of course you will.
+- **텐도 케이**: ...Just don't flail and struggle with it. Call me.
+- **텐도 케이**: Let's be practical.
+- **텐도 케이**: Two people make quicker work, don't they?
+- **텐도 케이**: You knew what...?
+- **텐도 케이**: No, wait. Didn't I tell you to never give me that satisfied smirk again?
+- **텐도 케이**: You should listen when I talk to you. Don't you DARE say anything annoying!
+- **텐도 케이**: Gaaaaaahhh!!
+
+7. **「텐도 케이 인연 스토리 7」**
+
+- **텐도 케이**: Don't be so dramatic!
+- **텐도 케이**: ...Besides, this is hardly the first time.
+- **텐도 케이**: ...
+- **텐도 케이**: I'm not saying I'm not happy too...
+- **텐도 케이**: ?! STOP! Get back or I'm going to shoot!
+- **텐도 케이**: It looks like many of Schale's tasks involve proposing ideas or reaching a consensus.
+- **텐도 케이**: These people...they left so many records. They could have just talked it out among themselves. Ugh.
+- **텐도 케이**: And all these paper files for so-called "security measures"...
+- **텐도 케이**: I, of course, realize that no network is 100% secure.
+- **텐도 케이**: But then again, not RECORDING every minute detail on the agenda like this would be even more secure.
+- **텐도 케이**: And thanks to that, this place is grinding away.
+- **텐도 케이**: It would be one thing if the work lightened up occasionally, or at least remained constant.
+- **텐도 케이**: But you've been here long enough to realize that the workload will only ever increase.
+- **텐도 케이**: The better Schale is at solving problems, the more everyone else will run to them with their petty issues.
+- **텐도 케이**: Weren't you an educator in the first place, Sensei?
+- **텐도 케이**: What is your role now? Are you a bureaucratic administrator or...some kind of mentor meant to help students reflect on their lives and futures?
+- **텐도 케이**: Don't talk about it like it's someone else's problem. Seriously...
+- **텐도 케이**: I'll wrap up this document.
+- **텐도 케이**: Oh, no. There's no need to make such a production out of thanking me. It's part of being a Student Rep, right?
+- **텐도 케이**: The Academy City. What a concept. I'm sure there are SOME advantages to shoving so many students in such a cramped space.
+- **텐도 케이**: But students are the most susceptible to scams. That's why there's always something outrageous happening in the streets.
+- **텐도 케이**: And on top of that, students are known for lacking impulse control.
+- **텐도 케이**: While I know this is a VERY controversial view today, people used to believe that anyone under twenty years old couldn't be considered a full, responsible human.
+- **텐도 케이**: And now it's just one disaster after another. Daily explosions and property damage. The construction companies are clearly making a killing. If you want to get rich, invest there.
+- **텐도 케이**: I say all this because the system is beyond repair. It will never end.
+- **텐도 케이**: No one will come to their senses until something, or SOMEONE, actually collapses.
+- **텐도 케이**: Here. Submit these. Supplementary data is attached.
+- **텐도 케이**: Sometimes the numbers just speak for themselves.
+- **텐도 케이**: Huh?
+- **텐도 케이**: Go away! You're gross!!
+- **텐도 케이**: ...Are you all right?
+- **텐도 케이**: Huh? You think my concern helps you "feel better"?
+- **텐도 케이**: Really, I shouldn't have bothered worrying.
+- **텐도 케이**: What? You want to "take me out"? Eat some deluxe dinner special? Then buy me accessories?
+- **텐도 케이**: Wow. Sensei, aren't you tired? You just seemed so...
+- **텐도 케이**: ...You're sure it's fine? W-Well then...
+- **텐도 케이**: ...
+- **텐도 케이**: Anyway, who's tomorrow's Student Rep?
+- **텐도 케이**: ...Is that so?
+- **텐도 케이**: But you still need to choose one by tomorrow morning, right?
+- **텐도 케이**: ...
+- **텐도 케이**: Then...pick me.
+- **텐도 케이**: Wh-What's with that weird face? I mean, just think about it...
+- **텐도 케이**: What I'm trying to say here is...
+- **텐도 케이**: This is part of my Kivotos adaptation training. I need to familiarize myself with Schale operations, while improving the trade balance deficit! And I can also help you adjust the tariff rates.
+- **텐도 케이**: Think of how much I could help. I could advise you on...the collapse of real income! And declining public education, the future of humanity, the planet, and the best ways to purify our world's decaying soul. And, and...
+- **텐도 케이**: Listen! It's training, it's a learning exercise, it offers real-world experience...and much, much more!
+- **텐도 케이**: It's the most rational decision for both of us. You should be grateful that I already did all the thinking for you!
+- **텐도 케이**: ?!
+- **텐도 케이**: I-I misspoke a little... Stop trying to embarrass me!
+- **텐도 케이**: Anyway, do you understand what I'm trying to say?!
+- **텐도 케이**: What now?
+- **텐도 케이**: I'm going to kill you, Sensei, then go DIE!!
+- **텐도 케이**: But, in conclusion, nice work today.
+- **텐도 케이**: ...And we'll do some more tomorrow.
+- **텐도 케이**: Now, back to business. You said we'd dine together...and do a bunch of stuff. Hurry up.
+- **텐도 케이**: ...?
+- **텐도 케이**: What's wrong, Sensei?
+- **텐도 케이**: Sensei?
+- **텐도 케이**: Huh? What do you mean that I appeared "blurry and disappeared"? Clearly, YOU'RE the problem.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/텐도 케이
+- https://bluearchive.wiki (원문 스토리 스크립트)

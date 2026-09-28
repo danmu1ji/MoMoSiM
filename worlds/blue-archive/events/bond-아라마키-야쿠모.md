@@ -1,0 +1,247 @@
+# 아라마키 야쿠모 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아라마키 야쿠모, 선생(샬레)
+
+1. **「아라마키 야쿠모 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아라마키 야쿠모 인연 스토리 2」**
+
+- **아라마키 야쿠모**: Ah, another cold day!
+- **아라마키 야쿠모**: Well, what was I expecting, really? Heh.
+- **아라마키 야쿠모**: Yes! Yes, we absolutely did.
+- **아라마키 야쿠모**: It may be a small step for the Publishing Department, but...
+- **아라마키 야쿠모**: ...it could be an...important step for Red Winter!
+- **아라마키 야쿠모**: A step towards achieving something of actual import.
+- **아라마키 야쿠모**: Like I said, the installation of communication lines!
+- **아라마키 야쿠모**: Heh. I know, I know. You're thinking, "Why on earth would the Publishing Department be involved with something like that?"
+- **아라마키 야쿠모**: I understand, I really do. Heh, heh, heh. This is clearly a public works matter, after all.
+- **아라마키 야쿠모**: Therefore, in principle, it really is a Red Winter Office matter, isn't it?
+- **아라마키 야쿠모**: Well, I'm not a big fan of red tape, and neither are they. If it were up to them, we wouldn't even see a blueprint until a hundred years from now.
+- **아라마키 야쿠모**: Yes, yes. Exactly what you're thinking.
+- **아라마키 야쿠모**: This is an official contract gig.
+- **아라마키 야쿠모**: Hm? How am I going to install all the communication lines myself? Why...would I do such a thing?
+- **아라마키 야쿠모**: Results are what matter, Sensei. Results. It doesn't matter how it gets done.
+- **아라마키 야쿠모**: All right, this way, everyone! Welcome!
+- **Labor Party Member**: You meant it, right, Publishing Department? You'll compensate us with extra pudding for this job?
+- **Labor Party Member**: And even that "special-grade mors," obtained through your special contacts?
+- **아라마키 야쿠모**: I mean every word I say. After all, business can't run without trust.
+- **아라마키 야쿠모**: I, Aramaki Yakumo, President of the Publishing Department, would never make a mockery of money matters!
+- **아라마키 야쿠모**: ...Sensei? Why do you look so surprised?
+- **아라마키 야쿠모**: What are you saying, Sensei? You act like I'm the devil incarnate, come to Kivotos.
+- **아라마키 야쿠모**: ...Though, if anyone tries to stiff me on payment, I'm prepared to become something much, much worse than that.
+- **아라마키 야쿠모**: Either way, it seems you're missing the bigger picture, Sensei. Heh, heh, heh.
+- **아라마키 야쿠모**: Well, you see...
+- **아라마키 야쿠모**: You can't run a business without an affordable infrastructure!
+- **아라마키 야쿠모**: Think about it, Sensei. If the cost of installing infrastructure goes up, the installer will naturally find a way to pass that off onto the consumer.
+- **아라마키 야쿠모**: And the organization responsible for initiating the agenda items around here is the Red Winter Office.
+- **아라마키 야쿠모**: Those cheapskates allocated so little to the budget that the project was impossible to begin with.
+- **아라마키 야쿠모**: All they see is profit, profit, profit, and instant gratification. So they cut the budget and then overcharge the consumers.
+- **아라마키 야쿠모**: It's a simple equation of short-term gains and long-term losses!
+- **아라마키 야쿠모**: In this hyperconnected society where everyone is connected to everyone all the time... Communication networks can truly be thought of as lifelines!
+- **아라마키 야쿠모**: So if these lifelines are recklessly privatized, it'll be the end of us all!!
+- **아라마키 야쿠모**: Here, the Publishing Department will build the communication infrastructure as cheaply as possible, even if it means taking a short-term loss!
+- **아라마키 야쿠모**: And that will lend to the success of our long-term goals: negotiating rights of use with the Red Winter Office!
+- **아라마키 야쿠모**: Rights of USE, not ownership. That part's crucial.
+- **아라마키 야쿠모**: Just wait and see.
+- **아라마키 야쿠모**: Heh, heh, heh.
+- **Red Winter Student A**: Finally, our dorms support...ethernet!!
+- **Red Winter Student B**: At long last! Free us from the shackles of that turtle-like, sloth-like, unreliable, low-quality wireless internet!
+- **아라마키 야쿠모**: Now then, everyone.
+- **아라마키 야쿠모**: You hold the power of fast, affordable internet in your hands... How will you wield it?
+- **Red Winter Student A**: Huh? W-Well...
+- **Red Winter Student B**: When she puts it like that, I guess I don't really know what you can do online...
+- **아라마키 야쿠모**: You're lucky that I was coincidentally around to help you! Forget everything you know for now, and let's just start with FUN.
+- **아라마키 야쿠모**: See here, if you access this streaming platform you can enjoy up to 100 web novel chapters for free, created, hosted, and sponsored by the Publishing Department!
+- **Red Winter Student A**: 100 chapters?!
+- **Red Winter Student B**: FOR FREE?!
+- **아라마키 야쿠모**: Indeed. And, given a reasonable time period, after you finish those 100 chapters, you'll even get free previews for new ones!
+- **아라마키 야쿠모**: ...Of course, if you don't like the sound of waiting, you can always pay for premium and get access to content faster than other users.
+- **Red Winter Student A**: Pay? Premium...?
+- **Red Winter Student B**: C'mon, it's 100 free chapters! We're never going to need to pay!
+- **아라마키 야쿠모**: (Heh, heh, heh... Everyone thinks that way at first...)
+- **Red Winter Student A**: I... I'm already caught up?!
+- **Red Winter Student B**: Exactly! Where's the next part?! I need to know what happens next!
+- **아라마키 야쿠모**: Calm down, calm down. Didn't I tell you earlier? If you just pay the fee for premium content...
+- **Red Winter Student A**: I heard you! And I already bought all of them and finished it!
+- **Red Winter Student B**: So when's the next part coming out?! I'll even pay for a subscription! PLEASE!!
+- **아라마키 야쿠모**: ?!
+- **아라마키 야쿠모**: I-I have to admit, even I didn't predict you would finish everything that quickly.
+
+3. **「아라마키 야쿠모 인연 스토리 3」**
+
+- **아라마키 야쿠모**: You know, Sensei.
+- **아라마키 야쿠모**: Anything Schale says eventually spreads through all of Kivotos, right?
+- **아라마키 야쿠모**: Of course. But even taking that into account...
+- **아라마키 야쿠모**: I recently realized how rare it is to find an influencer with this level of intangible power and reach.
+- **아라마키 야쿠모**: Just hear me out, Sensei.
+- **아라마키 야쿠모**: Don't you think it's a shame to waste such influence and trust?
+- **아라마키 야쿠모**: You might not. But I do. I can see it.
+- **아라마키 야쿠모**: So, while I was thinking about that, I came up with an excellent pitch. What if we launched a "Let's Read Together" campaign, supported straight from Schale?
+- **아라마키 야쿠모**: And then we carefully select and include the Publishing Department's special selection of books. Heh, heh, heh.
+- **아라마키 야쿠모**: Ah, now that I think about it, Trinity Library would take a hit, I guess...
+- **아라마키 야쿠모**: No. If I play my cards right, it'll just boost the Publishing Department's credibility even more... We could use it to our advantage...
+- **아라마키 야쿠모**: People do say that only a true entrepreneur can turn crises into opportunities...
+- **아라마키 야쿠모**: Sensei. Could you support the Publishing Department? As an advisor or something like that?
+- **아라마키 야쿠모**: As for the justification... Hm. "For the welfare of the frozen academy of the wastelands, and for the destitute students who suffer there."
+- **아라마키 야쿠모**: Why?
+- **아라마키 야쿠모**: You're right... Fiddlesticks. If only that annoying neutrality clause didn't exist.
+- **아라마키 야쿠모**: Well, what else is there...?
+- **아라마키 야쿠모**: Schale... D.U....
+- **아라마키 야쿠모**: A universally recognized zone of political neutrality...
+- **아라마키 야쿠모**: In other words, no academy can rashly assert their sovereignty here...
+- **아라마키 야쿠모**: ...even the Red Winter Federal Academy's weak voice could be amplified within Schale...
+- **아라마키 야쿠모**: Hm, hmmm. And the student from said Academy just happens to be me, Aramaki Yakumo...
+- **아라마키 야쿠모**: Sensei!
+- **아라마키 야쿠모**: For the sake of equality and fairness, the unofficial motto of our Red Winter Federal Academy, all academies—
+- **아라마키 야쿠모**: Well, not all of them, but the so-called "top 3 academies"...
+- **아라마키 야쿠모**: How about we make a...gentle suggestion to directly, or even indirectly, assist with Red Winter's pudding production?
+- **아라마키 야쿠모**: And we'll add some fine print stating that the whole endeavor was sponsored by the Publishing Department.
+- **아라마키 야쿠모**: This will temporarily alleviate the chronic shortage of pudding, elevate Red Winter's standing externally, and internally...
+- **아라마키 야쿠모**: Why?
+- **아라마키 야쿠모**: Ugh... Fine...
+- **아라마키 야쿠모**: Wait. I've only been focusing on Red Winter until now... Is that shortsightedness the cause of my failure?
+- **아라마키 야쿠모**: By leveraging the fact that Schale possesses extrajudicial authority...
+- **아라마키 야쿠모**: ...Don't look at me like that. This time, the aim is to create a virtuous culture. Trust me. It's the truth!
+- **아라마키 야쿠모**: Anyway, that extrajudicial authority, although it's only ever been used in emergencies...
+- **아라마키 야쿠모**: In this case, for the common good...
+- **아라마키 야쿠모**: Supposing, for example...
+- **아라마키 야쿠모**: ...We'll work out the specifics a little later.
+- **아라마키 야쿠모**: Either way, let's carry out public projects that benefit everyone in the name of Schale.
+- **아라마키 야쿠모**: And then just announce that you're collaborating with the Publishing Department!
+- **아라마키 야쿠모**: So cold...
+- **아라마키 야쿠모**: Well, that's right. Writing business proposals is a hobby of mine, of sorts.
+- **아라마키 야쿠모**: How do I explain this? It's the excitement of exploring and manipulating the endless possibilities of any given scenario.
+- **아라마키 야쿠모**: It doesn't matter if it's out of the question or actually feasible.
+- **아라마키 야쿠모**: Besides...
+- **아라마키 야쿠모**: When it comes to making money, you have to exaggerate everything you can (within reason), without outright lying!
+- **아라마키 야쿠모**: Even more so when it comes to the Red Winter Office...
+- **아라마키 야쿠모**: For example, let's say that pudding rations this month would double if a project goes well...
+- **아라마키 야쿠모**: Er... I'm sure it could, one day...
+
+4. **「아라마키 야쿠모 인연 스토리 4」**
+
+- **아라마키 야쿠모**: ...
+- **아라마키 야쿠모**: Seriously, even if it's my own school...
+- **아라마키 야쿠모**: I can only make so many excuses for our ridiculously horrendous infrastructure.
+- **아라마키 야쿠모**: While I shouldn't be surprised, I've never seen the campus shuttle train arrive on time...
+- **아라마키 야쿠모**: This won't do. Sensei.
+- **아라마키 야쿠모**: I, Aramaki Yakumo, have made up my mind.
+- **아라마키 야쿠모**: Oho, is that what you think of me? I don't ONLY trick and manipulate you, you know.
+- **아라마키 야쿠모**: If we want to incite change, the first thing we need to build is our template for best practices.
+- **아라마키 야쿠모**: In other words, if we want to give Red Winter's railroad infrastructure a makeover, first we need to have a vision of what exemplary railway operations look like!
+- **아라마키 야쿠모**: At the very least, it seems necessary to personally experience what it's like for trains to have an actual timetable that they actually follow!
+- **아라마키 야쿠모**: Right?
+- **아라마키 야쿠모**: Are you wondering where we're going next?
+- **아라마키 야쿠모**: From now on...outside Red Winter...
+- **아라마키 야쿠모**: I'll ride D.U.'s railroad network, analyzing routes and timetables!
+- **아라마키 야쿠모**: You should join me, Sensei! As an investigative advisor!
+- **아라마키 야쿠모**: Oh, come on. This is work related to student education, you know?
+- **아라마키 야쿠모**: If you just write up the report properly, the budget will definitely be allocated.
+- **아라마키 야쿠모**: Of course, I can give you a hand if you need help with the paperwork. I'll make it easy breezy, just for you.
+- **아라마키 야쿠모**: Heh, heh, heh.
+- **아라마키 야쿠모**: Ah, I see. The subway first, huh...
+- **아라마키 야쿠모**: While subways are generally known for their punctual arrival and departure systems...
+- **아라마키 야쿠모**: Well, this has its own sort of charm.
+- **아라마키 야쿠모**: Then, Sensei. Today's train tour...
+- **아라마키 야쿠모**: I'll be in your care, tour guide. Heh, heh, heh.
+- **아라마키 야쿠모**: Hmm... The rhythmic swaying. The sound of rails. Usually irksome, but the state-of-the-art soundproofing makes it soothing, like white noise.
+- **아라마키 야쿠모**: No wonder people say they get sleepy just riding the subway...
+- **아라마키 야쿠모**: ...
+- **아라마키 야쿠모**: Zzz...
+- **아라마키 야쿠모**: Wow, what a great station. The facilities are clean and well-maintained, and it's crowded as well!
+- **아라마키 야쿠모**: Aha. So there are high-speed rail lines connecting to various parts of Kivotos that link here. Just the number of connected tracks alone is 32 lines... Hmm, hmm.
+- **아라마키 야쿠모**: So then, Sensei. When we arrive at a central station like this, a key railway hub, what should we do?
+- **아라마키 야쿠모**: A practical answer from our teacher.
+- **아라마키 야쿠모**: However! There's a much more important train station event we must experience! The signature attraction of traveling by train: choosing your station bento!
+- **아라마키 야쿠모**: Oh, come on. You have to give me this one—it's important! Human beings can achieve nothing without a good, hot meal first!
+- **아라마키 야쿠모**: Okay. If the train is on schedule, we still have about 40 minutes before boarding.
+- **아라마키 야쿠모**: Exactly enough time to get a bento! Let's go!
+- **아라마키 야쿠모**: Oh, this is the famous octopus jar bento!
+- **아라마키 야쿠모**: Braised octopus and conger eel, flavorful rice with vegetables. And octopus tempura too...
+- **아라마키 야쿠모**: Above all, the key point is that this lunchbox container is an actual jar!
+- **아라마키 야쿠모**: ...It does make it a bit heavy, but what can you do?
+- **아라마키 야쿠모**: The most important thing is that they turned the jar used to catch the octopus and made it into a marketable product.
+- **아라마키 야쿠모**: Ah, it's a beef bowl bento.
+- **아라마키 야쿠모**: It's an ordinary, unassuming meal, but that sort of simplicity has its own appeal.
+- **아라마키 야쿠모**: Beef flavored with soy sauce, and simmered vegetables with rolled omelet. Pickled ginger is a must, too, of course.
+- **아라마키 야쿠모**: Considering it's food meant to be eaten on the train, they deodorized the pickled ginger to minimize the smell.
+- **아라마키 야쿠모**: It's this kind of thoughtful attention to detail that determines whether they sell one more bowl or not.
+- **아라마키 야쿠모**: A train-shaped bento!
+- **아라마키 야쿠모**: The bento container is literally shaped like a train.
+- **아라마키 야쿠모**: The contents are relatively ordinary items like onigiri, karaage, and sausages, but...
+- **아라마키 야쿠모**: Just being able to take the bento container home as a souvenir already makes it worth it!
+- **아라마키 야쿠모**: It's not a station bento, but this ice cream is also quite famous in its own right.
+- **아라마키 야쿠모**: Why is it so famous? Well...
+- **아라마키 야쿠모**: ...It's frozen so solid that it's impossible to scoop out and eat as is.
+- **아라마키 야쿠모**: Apparently there's even a legendary tale about someone who got so frustrated with it, they took to it with a hammer. But the hammer simply bounced right off of the rock-hard ice cream.
+- **아라마키 야쿠모**: Aren't all the station products amazing?!
+- **아라마키 야쿠모**: What?
+- **아라마키 야쿠모**: All...of them?
+- **아라마키 야쿠모**: ...You thought that was why I was picking them out?
+- **아라마키 야쿠모**: You're not wrong, but...
+- **아라마키 야쿠모**: I never imagined you'd be so generous as to buy them for me...
+
+5. **「아라마키 야쿠모 인연 스토리 5」**
+
+- **아라마키 야쿠모**: Sensei, what are you willing to do to make a sale?
+- **아라마키 야쿠모**: Well, things have been a bit tough lately...
+- **아라마키 야쿠모**: The publishing industry is always in crisis these days, after all.
+- **아라마키 야쿠모**: Ah, did you know?
+- **아라마키 야쿠모**: It's a manager's right to declare a crisis.
+- **아라마키 야쿠모**: Even if sales go up, you can still insist that an uncertain future is putting us in crisis.
+- **아라마키 야쿠모**: And when sales go down... Well, obviously that doesn't need any further explanation.
+- **아라마키 야쿠모**: After achieving record-breaking sales, a relative decline in performance inevitably follows.
+- **아라마키 야쿠모**: Putting it simply, we're suffering a decline in our sales ratio, which is precisely the basis for declaring this a crisis.
+- **아라마키 야쿠모**: Honestly, you just can't trust managers. Heh, heh, heh.
+- **아라마키 야쿠모**: Ack.
+- **아라마키 야쿠모**: So, that's how it works... Is it?
+- **아라마키 야쿠모**: I-I was just kidding. Of course. Heh, heh...heh.
+- **아라마키 야쿠모**: Anyways.
+- **아라마키 야쿠모**: Print books have practically become souvenirs. Keepsakes.
+- **아라마키 야쿠모**: Web books are in such a state of chaos that predicting their future is impossible.
+- **아라마키 야쿠모**: I've been...pondering if there's a solution to all this.
+- **아라마키 야쿠모**: But even if there were, it'd only be a stopgap measure, covering up the core issue.
+- **아라마키 야쿠모**: Well, you know, if you keep putting in temporary fixes, then you might just plug the leak eventually, right?
+- **아라마키 야쿠모**: Yes. That's our fundamental policy.
+- **아라마키 야쿠모**: Because of that, I really wish it would snow heavily.
+- **아라마키 야쿠모**: Why snow? Because when it snows, students have a tendency to rush back to their rooms and consume whatever content has currently captured them. That's the ultimate propaganda...
+- **아라마키 야쿠모**: Excuse me. The ultimate chance to make "public interest recommendations."
+- **아라마키 야쿠모**: ...I believe I haven't quite crossed that final line yet...
+- **아라마키 야쿠모**: Anyway, there's a problem.
+- **아라마키 야쿠모**: Red Winter is always covered in snow, you see...
+- **아라마키 야쿠모**: Since there's already snow everywhere, even if I said that there's more pouring down on top of it, would anyone even care?
+- **아라마키 야쿠모**: A simple way to put it.
+- **아라마키 야쿠모**: Huh? You have a good idea?
+- **아라마키 야쿠모**: Sensei...?
+- **아라마키 야쿠모**: I'm afraid I don't quite understand. Could you please explain it again...?
+- **아라마키 야쿠모**: Why...?
+- **아라마키 야쿠모**: Yes, I know. I grew up in Red WINTER. But why ME?
+- **아라마키 야쿠모**: I'm a publisher. The spotlight isn't my cup of tea.
+- **아라마키 야쿠모**: I don't exactly endear myself to the public either, Sensei.
+- **아라마키 야쿠모**: Huh...? If it's snowing so hard that even the Publishing Department President, who usually lives a life of luxury, got buried in it...
+- **아라마키 야쿠모**: Everyone would think that's definitely an extraordinary situation...
+- **아라마키 야쿠모**: Above all, that scene itself... You think it'd be fun?
+- **아라마키 야쿠모**: ...So you were being sincere after all...
+- **아라마키 야쿠모**: Ugh, to have my own words thrown back at me...!
+- **아라마키 야쿠모**: It can't be helped... Words and writing, once spoken or written, cannot be taken back...
+- **아라마키 야쿠모**: ― Oh... It feels soft.
+- **아라마키 야쿠모**: ― This might be nice...
+- **아라마키 야쿠모**: ― Why did saying that give me chills?
+- **아라마키 야쿠모**: ― Achoo!
+- **아라마키 야쿠모**: ― Did you get it?
+- **아라마키 야쿠모**: ― Now then, your turn.
+- **아라마키 야쿠모**: ― Huh?
+- **아라마키 야쿠모**: ― Did you really mean to make me do this by myself?
+- **아라마키 야쿠모**: ― Dear, oh dear. I don't think
+- **아라마키 야쿠모**: ― that's very responsible of you, Sensei.
+- **아라마키 야쿠모**: ― Red Winter's cold
+- **아라마키 야쿠모**: ― is the same for everyone, you know? Heh, heh, heh.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아라마키 야쿠모
+- https://bluearchive.wiki (원문 스토리 스크립트)

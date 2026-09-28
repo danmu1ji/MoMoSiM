@@ -1,0 +1,305 @@
+# 쿄고쿠 사츠키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 쿄고쿠 사츠키, 선생(샬레)
+
+1. **「쿄고쿠 사츠키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「쿄고쿠 사츠키 인연 스토리 2」**
+
+- **쿄고쿠 사츠키**: Heehee, so this is Sensei's office... Like Makoto said, it's more plain than you'd think.
+- **쿄고쿠 사츠키**: Oh, you weren't busy, were you?
+- **쿄고쿠 사츠키**: Well, it doesn't matter.
+- **쿄고쿠 사츠키**: What I'm about to tell you is top priority, no matter what you're up to.
+- **쿄고쿠 사츠키**: Hmph, I think you know, Sensei.
+- **쿄고쿠 사츠키**: You don't have to pretend. We're both professionals, after all.
+- **쿄고쿠 사츠키**: Now, per the Pandemonium Society's grand plan...
+- **쿄고쿠 사츠키**: Stage one of Makoto's Kivotos Media Takeover is finally underway.
+- **쿄고쿠 사츠키**: We want your cooperation, as the Pandemonium Society's partner.
+- **쿄고쿠 사츠키**: Oh, no, no. The Pandemonium Society Intelligence Committee's information CANNOT have been wrong about this.
+- **쿄고쿠 사츠키**: Are you telling me you DIDN'T lick Makoto's shoes and promise unconditional cooperation for a thousand years, in front of everyone, in Gehenna Plaza?
+- **쿄고쿠 사츠키**: Hmph, so our intel was flawed. I made an executive decision to skip the verification process, because you know how much of a pain THAT is, and, well, now it seems we have a problem.
+- **쿄고쿠 사츠키**: ...Hmm. I suppose I should properly introduce myself.
+- **쿄고쿠 사츠키**: I am Kyougoku Satsuki, heir to the Gehenna Student Council Intelligence Committee.
+- **쿄고쿠 사츠키**: My organization inherited all the expertise of the previous Gehenna Student Council Intelligence Committee, which you're no doubt familiar with from history.
+- **쿄고쿠 사츠키**: Not that I OFFICIALLY hold the original title, but I think of that as a small formality.
+- **쿄고쿠 사츠키**: Well, enough pleasantries. Let's get to the point.
+- **쿄고쿠 사츠키**: If you're not willing to cooperate...
+- **쿄고쿠 사츠키**: Then I have no choice but to inform you of the leverage our committee has obtained on you.
+- **쿄고쿠 사츠키**: Your "weakness," Sensei.
+- **쿄고쿠 사츠키**: Heehee. How about it? Are you prepared to hear all about it?
+- **쿄고쿠 사츠키**: First.
+- **쿄고쿠 사츠키**: Sensei, we happen to know that you...
+- **쿄고쿠 사츠키**: You have a hobby of running through the fields of Kivotos completely naked. Yes?
+- **쿄고쿠 사츠키**: You admit it so willingly. Hmm.
+- **쿄고쿠 사츠키**: Clearly, you feel no shame about it. As we'd expect of you, Sensei.
+- **쿄고쿠 사츠키**: Hold on. We're not finished yet.
+- **쿄고쿠 사츠키**: I know dozens of your weak points in all.
+- **쿄고쿠 사츠키**: If you're uncomfortable, we can stop at any time. Simply pledge your cooperation with the Pandemonium Society for the next thousand years.
+- **쿄고쿠 사츠키**: Now, your second weakness...
+- **쿄고쿠 사츠키**: As I understand it, Sensei, you...
+- **쿄고쿠 사츠키**: ...help raise funds every month for students who can't afford meals. Heehee.
+- **쿄고쿠 사츠키**: Oh, no. Not at all.
+- **쿄고쿠 사츠키**: Kivotos is a wild land. Survival of the fittest is the only law.
+- **쿄고쿠 사츠키**: To show sympathy or mercy in a world this cruel is to leave yourself entirely vulnerable, is it not?
+- **쿄고쿠 사츠키**: Heehee, so even that revelation doesn't faze you, hmm?
+- **쿄고쿠 사츠키**: Clever, Sensei. If you admit to the shameful truth, it's no longer leverage.
+- **쿄고쿠 사츠키**: Oh, but we're just getting started.
+- **쿄고쿠 사츠키**: Your third weakness, Sensei...
+- **쿄고쿠 사츠키**: When cooking instant ramen noodles, you shake the pack to get all the crumbs out!
+- **쿄고쿠 사츠키**: Heehee, well, a "normal" person could get away with that, but you?
+- **쿄고쿠 사츠키**: Schale's Sensei, the noble paragon, scrounging like a commoner?
+- **쿄고쿠 사츠키**: What would the students say, if they knew? How quickly would they turn from you in disappointment?
+- **쿄고쿠 사츠키**: But the Pandemonium Society...oh, we're different. We're willing to embrace even the—
+- **쿄고쿠 사츠키**: I don't think you fully grasp the situation. Need I spell it out?
+- **쿄고쿠 사츠키**: This is blackmail, Sensei. I'm blackmailing you.
+- **쿄고쿠 사츠키**: I have the power to expose every one of your enormous weaknesses to the entire world.
+- **쿄고쿠 사츠키**: So even now, you stand tall, do you? Heehee...
+- **쿄고쿠 사츠키**: Well, you're stronger than I thought. I'll say that.
+- **쿄고쿠 사츠키**: I guess this isn't going to work.
+- **쿄고쿠 사츠키**: But this isn't over. Far from it.
+- **쿄고쿠 사츠키**: I'll do whatever it takes to make SURE you cooperate.
+- **쿄고쿠 사츠키**: Until next time, then.
+- **쿄고쿠 사츠키**: And I assure you, next time, I won't be so nice to you.
+
+3. **「쿄고쿠 사츠키 인연 스토리 3」**
+
+- **쿄고쿠 사츠키**: Here I am, Sensei.
+- **쿄고쿠 사츠키**: Your office is always so cramped, you know that?
+- **쿄고쿠 사츠키**: If you joined the Pandemonium Society, you could have an entire plaza to yourself.
+- **쿄고쿠 사츠키**: Hmm, still not ready to cooperate, then? I suppose that's to be expected.
+- **쿄고쿠 사츠키**: As I may have mentioned last time, I have MANY avenues of attack.
+- **쿄고쿠 사츠키**: Today, we try out our second method.
+- **쿄고쿠 사츠키**: Torture.
+- **쿄고쿠 사츠키**: Surprised? It does sound a bit medieval, I admit...
+- **쿄고쿠 사츠키**: Then again, clearly Schale has no qualms about using it.
+- **쿄고쿠 사츠키**: Regardless, our methods might not be what you're used to. We'll see how you react.
+- **쿄고쿠 사츠키**: Shall we begin? Sit here.
+- **쿄고쿠 사츠키**: I've heard stories of barbarism in Trinity. Wolfsbane root tea, close encounters with chainsaws...
+- **쿄고쿠 사츠키**: But you can rest at ease. Gehenna is many things, but we are not inhumane.
+- **쿄고쿠 사츠키**: Step one, then. Maybe you can endure this, Sensei? Heeheehee.
+- **쿄고쿠 사츠키**: CAN you endure it, Sensei?
+- **쿄고쿠 사츠키**: Heehee... Haven't you noticed?
+- **쿄고쿠 사츠키**: With such short fingernails...
+- **쿄고쿠 사츠키**: ...there's no room for pretty nail art!
+- **쿄고쿠 사츠키**: Most students give in before they lose their index nail.
+- **쿄고쿠 사츠키**: How long can YOU hold out, Sensei? Heehee...!
+- **쿄고쿠 사츠키**: I won't stop, you know. You'd best cooperate, unless you want to face the catastrophe of it all.
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: How does it feel, Sensei? Such short fingernails...how will you ever recover?
+- **쿄고쿠 사츠키**: And you don't even blink, do you? Very strong. Very inspiring.
+- **쿄고쿠 사츠키**: But we're not finished. Next, we have...
+- **쿄고쿠 사츠키**: ...well, change into this first.
+- **쿄고쿠 사츠키**: That's right. I brought it from your wardrobe.
+- **쿄고쿠 사츠키**: This torture requires a stainless white T-shirt, so...
+- **쿄고쿠 사츠키**: Heehee, it looks good on you. But then, what doesn't?
+- **쿄고쿠 사츠키**: All right, now...start eating this.
+- **쿄고쿠 사츠키**: Haha, oh yes it is! Now do you see the danger? The threat?
+- **쿄고쿠 사츠키**: According to a survey, curry udon is one of the TOP THREE most difficult foods to eat without staining your clothes!
+- **쿄고쿠 사츠키**: And not just any clothes, but this PURE WHITE T-SHIRT, where any stain will be visible for miles! And no, before you ask, I'm not giving you an apron!
+- **쿄고쿠 사츠키**: So what now? Still think you can endure? Normal students start sweating bullets before they even take a bite!
+- **쿄고쿠 사츠키**: What about you, Sensei?
+- **쿄고쿠 사츠키**: To dig in without a glimpse of hesitation. I must admit, you surprise me.
+- **쿄고쿠 사츠키**: Bold of you not to care about staining such pristine clothes. Maybe that's what I ought to expect from you.
+- **쿄고쿠 사츠키**: So much for that method. You're a worthy opponent, I'll give you that.
+- **쿄고쿠 사츠키**: But now playtime is over.
+- **쿄고쿠 사츠키**: You WILL cooperate. I'll make sure of it.
+- **쿄고쿠 사츠키**: So, the Pandemonium Society Intelligence Committee's most frightening torture methods have had no effect on you.
+- **쿄고쿠 사츠키**: You have an ironclad will, I see.
+- **쿄고쿠 사츠키**: *sigh* I didn't want it to come to this...
+- **쿄고쿠 사츠키**: Put your hands behind your back so I can tie them.
+- **쿄고쿠 사츠키**: You look like you're wondering what I'm up to.
+- **쿄고쿠 사츠키**: It's simple. I can't let you use your hands for this.
+- **쿄고쿠 사츠키**: Heehee, and now we're ready...
+- **쿄고쿠 사츠키**: Look at the screen, Sensei.
+- **쿄고쿠 사츠키**: Heehee, a delightful montage of feline ridiculousness.
+- **쿄고쿠 사츠키**: Guaranteed to bring a smile to your face before you even realize it.
+- **쿄고쿠 사츠키**: And it just keeps getting better and better, until...
+- **쿄고쿠 사츠키**: Heehee, heeheehee! What now? Have you ever felt so powerless?
+- **쿄고쿠 사츠키**: You're curious, aren't you? To see what happens next? You want to push that skip button SO badly...
+- **쿄고쿠 사츠키**: ...but it's a minute-long advertisement! And there'll be another one every THIRTY seconds.
+- **쿄고쿠 사츠키**: It truly is the worst, isn't it?
+- **쿄고쿠 사츠키**: Now, you can live through this never-ending nightmare, OR I can untie you as soon as you swear allegiance to the Pandemonium Society. Heeheehee!
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: Goodness. Even I want to see the next part.
+- **쿄고쿠 사츠키**: The video made me smile too. I hadn't thought of that...
+- **쿄고쿠 사츠키**: I wouldn't mind skipping this advertisement myself. How long does it have left?
+
+4. **「쿄고쿠 사츠키 인연 스토리 4」**
+
+- **쿄고쿠 사츠키**: Hi, Sensei!
+- **쿄고쿠 사츠키**: Heehee, of course I am.
+- **쿄고쿠 사츠키**: I reached a major milestone in the great NK Ultra Project.
+- **쿄고쿠 사츠키**: So you'll be my first participant in the new phase.
+- **쿄고쿠 사츠키**: Hm? You want a say in that?
+- **쿄고쿠 사츠키**: Well, as Pandemonium Society's future partner, it'll be a joyful occasion for all of us. Think of it that way.
+- **쿄고쿠 사츠키**: People only remember the FIRST person to do anything, know what I mean?
+- **쿄고쿠 사츠키**: What an honor, to be the first test subject of the new, improved NK Ultra Project.
+- **쿄고쿠 사츠키**: Oh, let's not talk about that. Let's talk about what I've learned from you so far.
+- **쿄고쿠 사츠키**: You can't be extorted. You can't be tortured.
+- **쿄고쿠 사츠키**: Which leaves only one option.
+- **쿄고쿠 사츠키**: Let's have a fresh start, and experience the enhanced NK Ultra Project together.
+- **쿄고쿠 사츠키**: I'm going to test various hypnosis methods, in order.
+- **쿄고쿠 사츠키**: I wonder how long you can keep your eyes open.
+- **쿄고쿠 사츠키**: First...
+- **쿄고쿠 사츠키**: ...look. Focus on my fingertip.
+- **쿄고쿠 사츠키**: Round and round... Round and round...
+- **쿄고쿠 사츠키**: Focus, I said! This only works if both participants are actually participating!
+- **쿄고쿠 사츠키**: Now, now. Round and round... Watch it spin...
+- **쿄고쿠 사츠키**: Tch. I suppose it'll take more than that.
+- **쿄고쿠 사츠키**: But we HAVE more, much more. And so much time...
+- **쿄고쿠 사츠키**: Let's go straight to the second method. Remember to focus, Sensei.
+- **쿄고쿠 사츠키**: Look at this phone screen.
+- **쿄고쿠 사츠키**: Heehee, do you recognize it? It's the Pandemonium Society Intelligence Committee's proprietary hypnosis app. The perfect melding of psychology and technology!
+- **쿄고쿠 사츠키**: Don't look away! Focus on that spinning object in the middle.
+- **쿄고쿠 사츠키**: Now, let yourself sink into it...
+- **쿄고쿠 사츠키**: You will follow my orders, Sensei. You will listen to whatever I say.
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: That should do it.
+- **쿄고쿠 사츠키**: Sensei, get up, grab your nose, and do, oh, 200 backflips.
+- **쿄고쿠 사츠키**: BAH, so that didn't work either.
+- **쿄고쿠 사츠키**: And I was so sure that app was 100% effective.
+- **쿄고쿠 사츠키**: But then again, you are Sensei. Your mental fortitude is far beyond any normal human.
+- **쿄고쿠 사츠키**: Unfortunately for you, so is my determination. Brace yourself for the next technique...
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: *sigh* I didn't think even you could stand up to the NK Ultra Project for this long.
+- **쿄고쿠 사츠키**: No! This only ends ONE way!
+- **쿄고쿠 사츠키**: ...And on that note, it's time to go back to square one.
+- **쿄고쿠 사츠키**: Oh, don't be so weak, Sensei! You've lasted THIS long!
+- **쿄고쿠 사츠키**: All right. One more for now. If it doesn't work, I promise I'll go home for the day.
+- **쿄고쿠 사츠키**: But it WILL work. I'll make sure of that this time.
+- **쿄고쿠 사츠키**: Look here, Sensei.
+- **쿄고쿠 사츠키**: You will obey my orders... You will listen to whatever I say...
+- **쿄고쿠 사츠키**: ...Wait. Hold on...
+- **쿄고쿠 사츠키**: Which direction did I start swinging before...?
+- **쿄고쿠 사츠키**: Was it left, or right, or...
+- **쿄고쿠 사츠키**: ...Your right, or my right? Wait, wouldn't that...?
+- **쿄고쿠 사츠키**: O-Oh, no. I've hypnotized myself!
+- **쿄고쿠 사츠키**: ― Ugh... What is this...?
+- **쿄고쿠 사츠키**: ― W-Weird... It feels like I have to follow your orders...
+- **쿄고쿠 사츠키**: ― E-Ehh... Yes...
+- **쿄고쿠 사츠키**: ― ...I will stay on good terms with the Prefect Team...
+- **쿄고쿠 사츠키**: ― ...I don't know about Makoto,
+- **쿄고쿠 사츠키**: ― but I personally have no beef with them.
+- **쿄고쿠 사츠키**: ― H-Hmm?
+- **쿄고쿠 사츠키**: ― Tch... I w-won't...be mean to Sensei...
+- **쿄고쿠 사츠키**: ― N-Not fair!
+- **쿄고쿠 사츠키**: ― What kind of adult uses hypnosis on a student?!
+- **쿄고쿠 사츠키**: ― Hmph, to hypnotize me, of all people...
+- **쿄고쿠 사츠키**: ― You're just full of surprises, Sensei.
+
+5. **「쿄고쿠 사츠키 인연 스토리 5」**
+
+- **Pandemonium Society Member**: Ah, Schale's Sensei. What brings you here today?
+- **Pandemonium Society Member**: Ah, Satsuki is...
+- **Pandemonium Society Member**: W-Well...
+- **Pandemonium Society Member**: Well, yes, you might say that...
+- **Pandemonium Society Member**: Well, you never know who might be afraid of needles, I suppose...
+- **Medical Emergency Club Member**: Satsuki? Satsuki!
+- **Medical Emergency Club Member**: You're the only one left!
+- **Medical Emergency Club Member**: I'll make it quick and painless, so please come out!
+- **쿄고쿠 사츠키**: Don't lie to me! In what world is there a "painless" shot? I'm fine! Just go away!
+- **Medical Emergency Club Member**: All Gehenna students are required to take this shot. I know you know that.
+- **Medical Emergency Club Member**: You want to end up bedridden with a miserable cold?
+- **쿄고쿠 사츠키**: That won't happen! I've never gotten a cold in my life!
+- **Medical Emergency Club Member**: That's because you're...
+- **Medical Emergency Club Member**: A-Anyways! That's not the issue here!
+- **Pandemonium Society Member**: So as you can see...yeah.
+- **Medical Emergency Club Member**: Oh, Sensei.
+- **Medical Emergency Club Member**: Please go ahead. She won't listen to me at all...
+- **Medical Emergency Club Member**: I'll leave it to you, then.
+- **쿄고쿠 사츠키**: ...Sensei? Is it really you?
+- **쿄고쿠 사츠키**: ...No. There's no reason for Sensei to be here.
+- **쿄고쿠 사츠키**: Heehee, you do a great impression of Sensei, but you can't fool me. I'm the Pandemonium Society's Intelligence Committee Director, master of psychology...
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: ...Sensei, are you really there?
+- **쿄고쿠 사츠키**: ...It is you. So then why are you here...?
+- **쿄고쿠 사츠키**: Ah, you saw my MomoTalk?
+- **쿄고쿠 사츠키**: Heehee, I suppose you saw right through my "emergency rescue request."
+- **쿄고쿠 사츠키**: Well, you see the problem. An unprecedented crisis, same as always...
+- **쿄고쿠 사츠키**: Now get me out of here.
+- **쿄고쿠 사츠키**: I really, really, REALLY don't want the shot!
+- **쿄고쿠 사츠키**: I don't like getting hurt! Especially shots, they're the worst!
+- **쿄고쿠 사츠키**: That sharp little needle, piercing through my poor, delicate skin like a spear...
+- **쿄고쿠 사츠키**: Then they press the syringe, and some mystery drug slips into my veins, into ME...
+- **쿄고쿠 사츠키**: Sensei...it's not that simple.
+- **쿄고쿠 사츠키**: Do you think you could endure it, Sensei?
+- **쿄고쿠 사츠키**: Not just the physical pain, but the terror of seeing that needle get closer and closer...
+- **쿄고쿠 사츠키**: And then that cold alcohol swab, rubbing against your skin, marking you for death!
+- **쿄고쿠 사츠키**: Tch, even so...
+- **쿄고쿠 사츠키**: ...What's with that face?
+- **쿄고쿠 사츠키**: Anyway, I just don't want to! As a student, I exercise my right to decline.
+- **Medical Emergency Club Member**: That's not a thing!
+- **쿄고쿠 사츠키**: Oh, can't you just check my name off the list and not worry about it?
+- **Medical Emergency Club Member**: That would be medical fraud, so no!
+- **Medical Emergency Club Member**: Hmm, yes. I do have a few...
+- **쿄고쿠 사츠키**: Huh...?
+- **쿄고쿠 사츠키**: Well...aren't you afraid of shots too, Sensei? It hurts a lot, you know!
+- **Medical Emergency Club Member**: You know, if Sensei were going that far for me, I'd just get the shot.
+- **쿄고쿠 사츠키**: Will you shut up?! I'm thinking...
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: ...Together. At the same time.
+- **쿄고쿠 사츠키**: ...Tch...
+- **쿄고쿠 사츠키**: Fine.
+- **쿄고쿠 사츠키**: Give me the shot.
+
+6. **「쿄고쿠 사츠키 인연 스토리 6」**
+
+- **쿄고쿠 사츠키**: Hi, Sensei.
+- **쿄고쿠 사츠키**: Heehee, of course. You work at Schale, one of the most important institutions in Kivotos...
+- **쿄고쿠 사츠키**: ...a veritable treasure trove of top secret information, hidden from the masses.
+- **쿄고쿠 사츠키**: And as head of the Intelligence Committee, one of the most important organizations in Gehenna, I'm well suited to be a Student Rep here.
+- **쿄고쿠 사츠키**: And through your work, I'll gather all the information I can.
+- **쿄고쿠 사츠키**: This is...quite a pile you've got here.
+- **쿄고쿠 사츠키**: Are you testing my ability to pick out what's important?
+- **쿄고쿠 사츠키**: Well, that makes sense. The Intelligence Committee has to be able to find needles in a haystack.
+- **쿄고쿠 사츠키**: I'll be done with this in the blink of an eye.
+- **쿄고쿠 사츠키**: How'd I do, Sensei? I got it all done for you in no time at all, right?
+- **쿄고쿠 사츠키**: Always a pleasure to show off my information processing skills.
+- **쿄고쿠 사츠키**: Whenever I'm your Student Rep, you know the work is in good, swift hands. Heehee.
+- **쿄고쿠 사츠키**: Hmm, I'm hungry. Sensei, do you want to go get a—
+- **쿄고쿠 사츠키**: Oh, what's going on?
+- **쿄고쿠 사츠키**: ...!
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: ...
+- **쿄고쿠 사츠키**: *gasp*
+- **쿄고쿠 사츠키**: I'm fine. I just...wasn't expecting it to get so dark all of a sudden.
+- **쿄고쿠 사츠키**: A power outage at this hour, that's not good...
+- **쿄고쿠 사츠키**: ...!
+- **쿄고쿠 사츠키**: I got startled by the loud noise, okay?
+- **쿄고쿠 사츠키**: *inhale* *exhale* Sensei? Where are you? I can't see you. It's too dark...
+- **쿄고쿠 사츠키**: ...You're over there? Okay. Don't move. I'm coming your way.
+- **쿄고쿠 사츠키**: Just keep making noise so I know where you are.
+- **쿄고쿠 사츠키**: Whistle, sing, tap dance, whatever.
+- **쿄고쿠 사츠키**: I'm fine. This place gets DANGEROUS when it's dark.
+- **쿄고쿠 사츠키**: VERY dangerous. Don't go off alone, Sensei. You stay right next to me.
+- **쿄고쿠 사츠키**: *sigh* Once again, you impress me, Sensei...
+- **쿄고쿠 사츠키**: You've found all my weaknesses.
+- **쿄고쿠 사츠키**: Well, no use denying it now.
+- **쿄고쿠 사츠키**: I am scared. And I hate scary things, and I REALLY despise the dark.
+- **쿄고쿠 사츠키**: So in a situation like this...
+- **쿄고쿠 사츠키**: If you weren't here, I... I might have fainted...
+- **쿄고쿠 사츠키**: Is it going to be dark for much longer?
+- **쿄고쿠 사츠키**: ...What do you mean, you're not sure? This is Schale! You don't know how your own office works?
+- **쿄고쿠 사츠키**: Ugh... I hate this so much...
+- **쿄고쿠 사츠키**: Right. And then, once it gets brighter, we can move.
+- **쿄고쿠 사츠키**: Now you come here. Stay right next to me.
+- **쿄고쿠 사츠키**: !!
+- **쿄고쿠 사츠키**: *sigh* Finally...
+- **쿄고쿠 사츠키**: All right then, Sensei. Shall we clock out?
+- **쿄고쿠 사츠키**: So you found another one of my weaknesses today.
+- **쿄고쿠 사츠키**: Nothing ever goes as planned when I'm around you.
+- **쿄고쿠 사츠키**: But no worries.
+- **쿄고쿠 사츠키**: The Sensei I know would never exploit any of my weakness. Right?
+- **쿄고쿠 사츠키**: Fufu, I thought you might say that.
+- **쿄고쿠 사츠키**: Of course, I can't promise the same, if our roles are ever reversed.
+- **쿄고쿠 사츠키**: Well, now that we've established all that...
+- **쿄고쿠 사츠키**: You want to go get a bite to eat? I'm really hungry.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/쿄고쿠 사츠키
+- https://bluearchive.wiki (원문 스토리 스크립트)

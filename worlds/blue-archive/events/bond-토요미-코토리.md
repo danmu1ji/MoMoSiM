@@ -1,0 +1,279 @@
+# 토요미 코토리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 토요미 코토리, 선생(샬레)
+
+1. **「토요미 코토리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「토요미 코토리 인연 스토리 2」**
+
+- **Millennium Student A**: Ugh... This is too much. Get me outta here!
+- **Millennium Student B**: My head... My ears can't take any more of this! Help...! HELP!
+- **Millennium Student A**: Ah, is that you, Sensei?
+- **Millennium Student B**: My savior. I'll do anything, Sensei! Just, please, change places with me!!
+- **토요미 코토리**: Wait! Where are you going? We still have a lot left! We're just getting started!
+- **Millennium Student A**: Eeeeeek!
+- **Millennium Student B**: We're sorry. I don't know what we did wrong, but please spare us!
+- **토요미 코토리**: Spare you? Ignorance isn't a sin! I mean, it's dangerous and could lead to sin...
+- **토요미 코토리**: ...but that's why we have to fight and always be open to learning!
+- **토요미 코토리**: Now, as I was saying! The canned food's manufacturing process didn't start in cans but bottles as a method of military food storage. Later, because of market competition...
+- **토요미 코토리**: ...the bottled food era ended and the iron-canned food era began. If you're wondering why the corned beef can was trapezoidal unlike the other canned flat meats...
+- **Millennium Student B**: Gahhhhhh!!
+- **토요미 코토리**: Oh. Hello, Sensei!
+- **토요미 코토리**: What's going on here...? I'm not sure what you mean. Nothing unusual.
+- **토요미 코토리**: They asked me why canned corned beef was trapezoidal, so I was simply explaining...
+- **Millennium Student A**: S-Simply?! It's already been two hours!
+- **Millennium Student B**: You've been going on about the history of mining aluminum and the techniques of the miners!
+- **토요미 코토리**: Of course I am! That's important historical context you need to know!
+- **토요미 코토리**: How can you expect to understand the big picture if you don't know the little details?
+- **Millennium Student A**: That doesn't mean we have to know EVERYTHING!
+- **Millennium Student B**: Yeah! We simply wanted to know why it was shaped like that!
+- **토요미 코토리**: ...!
+- **Millennium Student B**: ...Never mind.
+- **Millennium Student A**: We may have gone too far in a few places...
+- **토요미 코토리**: So you were looking for more scientific reasoning! That's my specialty!
+- **토요미 코토리**: Then maybe I should start with why aluminum is used in the first place. As you know, aluminum, or "Al," is a metal with the atomic number of 13 on the periodic table.
+- **토요미 코토리**: Compared to conventional metals used before it, it has greater resistance from external environments due to the reactivity and passivation of its surface...
+- **Millennium Student A**: Ahhh! Stop! Stop it! Arrrggghhh!
+- **Millennium Student B**: I'm developing PTSD! I won't be able look at corned beef for years!
+- **토요미 코토리**: W-Wait! Where you are going? Stop right there! I said stop!
+- **토요미 코토리**: ...
+- **토요미 코토리**: Hmm. They left before I could get to the important stuff...
+- **토요미 코토리**: I wonder why everybody is so reluctant to learn. Don't you feel happy when you learn something you didn't know before?
+- **토요미 코토리**: You understand, don't you, Sensei? You are a teacher, after all.
+- **토요미 코토리**: I knew I could trust you to be on the front lines of the war against ignorance!
+- **토요미 코토리**: I've always respected that about you. Especially because...
+- **토요미 코토리**: R-Really? Hmm. I suppose that's true.
+- **토요미 코토리**: That's why I tried to start with the basics...
+- **토요미 코토리**: ...
+- **토요미 코토리**: That reminds me, Sensei. You receive all kinds of questions from students.
+- **토요미 코토리**: Some even want to answer questions in class when you don't call on them.
+- **토요미 코토리**: How do you do that?! How can I become like you?!
+- **토요미 코토리**: It's amazing! I want to be the same kind of teacher you are!
+- **토요미 코토리**: My dream is to one day give lectures in a hall full of people wanting to learn!
+- **토요미 코토리**: ...Uh.
+- **토요미 코토리**: I-I got a little carried away there, didn't I? Haha...
+- **토요미 코토리**: Huh? You think I really like explaining things?
+- **토요미 코토리**: You're not incorrect, but there's more to it than that.
+- **토요미 코토리**: Well, I can't deny that...
+- **토요미 코토리**: ...but to be more precise, I like seeing the look on people's faces when they learn something new.
+- **토요미 코토리**: I like teaching people new things so that I can have someone to talk to about them once they're caught up.
+- **토요미 코토리**: ...I may like explaining some things, but I'm really bad at explaining how I feel.
+- **토요미 코토리**: Do you think I'm...too talkative?
+- **토요미 코토리**: Really? Do you think so?
+- **토요미 코토리**: (At least Sensei doesn't think I'm strange...)
+- **토요미 코토리**: A baby ch-chick...? R-Really?
+- **토요미 코토리**: (Still, I never thought someone would call me cute...!)
+- **토요미 코토리**: That's fortunate. I was worried I may have made a bad impression...
+- **토요미 코토리**: I'm so glad that at least you understand me, Sensei!
+- **토요미 코토리**: Heehee...
+
+3. **「토요미 코토리 인연 스토리 3」**
+
+- **토요미 코토리**: ...
+- **토요미 코토리**: H-Hello, Sensei! Fine weather we're having, huh?
+- **토요미 코토리**: I can't believe it's the evening already. Haha...
+- **토요미 코토리**: What? I-It's nothing. I'm the same as always.
+- **토요미 코토리**: What? I-It's nothing. I'm the same as always.
+- **토요미 코토리**: Some people I was trying to explain things to ran away...like always.
+- **토요미 코토리**: But that happens all the time. Ahaha...
+- **토요미 코토리**: I was thinking maybe I wasn't doing a good job of explaining things this week.
+- **토요미 코토리**: That could be why I couldn't hold people's interest to the end, but maybe that isn't it...
+- **토요미 코토리**: What if it's simpler than that? Maybe no one wants to hear my explanations at all. That's what I think.
+- **토요미 코토리**: No matter how much I research and learn...
+- **토요미 코토리**: ...there's no one who wants to hear my lectures. I'm at a loss.
+- **토요미 코토리**: I don't talk constantly just to pretend to be a know-it-all.
+- **토요미 코토리**: I just want to be...kind of like you... That's all I want.
+- **토요미 코토리**: ...
+- **토요미 코토리**: Maybe I am too talkative. Haha...
+- **토요미 코토리**: It's not like anyone is interested in what I have to say anyway! Maybe I should just keep my mouth shut...
+- **토요미 코토리**: What?
+- **토요미 코토리**: Canned corned beef? Where's this coming from all of a sudden?
+- **토요미 코토리**: Before...? You didn't hear...
+- **토요미 코토리**: Canned corned beef...has been on your mind?
+- **토요미 코토리**: ...
+- **토요미 코토리**: ...!
+- **토요미 코토리**: Th-That's... Wow, I see that got you curious!
+- **토요미 코토리**: Ahaha! If that's what you want to know, you came to the right place! Allow me to explain...!
+- **토요미 코토리**: Previously, they used to heat food in champagne bottles to keep it from spoiling, and they would cork up the bottle when it started contracting in order to seal it, but the problem was...
+- **토요미 코토리**: ...and that's why corned beef cans are trapezoidal and why they have an opener on the bottom instead of the top! Which reminds me. The reason most openers are on the top is...
+- **토요미 코토리**: ...because of the way...
+- **토요미 코토리**: ...
+- **토요미 코토리**: ...
+- **토요미 코토리**: Sensei, did...you...?
+- **토요미 코토리**: Never mind! Actually, it's not nothing!
+- **토요미 코토리**: Actually! It occurred to me that you asked...to make me feel better!
+- **토요미 코토리**: ...
+- **토요미 코토리**: Heehee.
+- **토요미 코토리**: Thank you.
+
+4. **「토요미 코토리 인연 스토리 4」**
+
+- **토요미 코토리**: There you are, Sensei! I was waiting for you!
+- **토요미 코토리**: I called you here today because...!
+- **Librarian**: (stare)
+- **토요미 코토리**: Uh.
+- **토요미 코토리**: This is a library. We should whisper, or the librarians will...
+- **토요미 코토리**: Well, the librarians here are pretty scary. We have a history...
+- **토요미 코토리**: What? No, of course I haven't been blacklisted!
+- **토요미 코토리**: ...But I am on the warning list. They often tell me to quiet down.
+- **토요미 코토리**: Heehee.
+- **토요미 코토리**: Anyway, the reason I asked you here, Sensei...is this!
+- **토요미 코토리**: Why psychology books?
+- **토요미 코토리**: For one, it's more than just that. I also have a few biographies and gossip magazines...
+- **토요미 코토리**: Another student asked me a few questions recently.
+- **토요미 코토리**: It surprised me, since the students usually run away. I was actually a little nervous.
+- **토요미 코토리**: What do you mean I don't look nervous? Trust me when I say I am!
+- **토요미 코토리**: I wanted to answer their question as flawlessly and perfectly as I could.
+- **토요미 코토리**: What they asked me was...
+- **Female Student**: "It had to do with their feelings, didn't it?"
+- **Female Student**: "Something like, 'Why do I feel this way? You have to know, Kotori.'"
+- **토요미 코토리**: ...Exactly. She was talking about the feeling of her heart racing, and I didn't know what to say.
+- **토요미 코토리**: I could have gone on for hours and hours if it were a scientific question.
+- **토요미 코토리**: But since there's no topic I can't explain, I told her that I'd answer her question later.
+- **토요미 코토리**: I have to find out what feeling could be making her heart race!
+- **토요미 코토리**: ...And that's where I'm at now.
+- **토요미 코토리**: But I'm still no closer to finding an answer. I'm stuck.
+- **토요미 코토리**: The books all have conflicting information, and don't get me started on how useless the internet has been...
+- **토요미 코토리**: It'd be impossible to create a database which could answer the question definitively.
+- **토요미 코토리**: What should I do, Sensei? What would you do?
+- **토요미 코토리**: You wouldn't happen to know what this feeling is, would you?
+- **토요미 코토리**: Does something like that exist? Where would I find something like that...
+- **토요미 코토리**: Does something like that exist? Where would I find something like that...
+- **토요미 코토리**: Huh?
+- **토요미 코토리**: Me?
+- **토요미 코토리**: Why me...?
+- **토요미 코토리**: I should think about my own feelings?
+- **토요미 코토리**: I don't know what you mean...
+- **토요미 코토리**: I'm not like she is. I'm completely different...
+- **토요미 코토리**: You think I've felt the same way before?
+- **토요미 코토리**: I suppose I could think again about how she looked when she asked.
+- **토요미 코토리**: Hmm.
+- **토요미 코토리**: If that's your advice, Sensei, then let me think on it.
+- **토요미 코토리**: When she asked me her question, her expression was like...
+- **토요미 코토리**: Hmm. What could have made me act like that? If it was me...
+- **토요미 코토리**: If I was in that situation...
+- **토요미 코토리**: In that situation I would have been thinking of...
+- **토요미 코토리**: Ah-ha! Eureka! I understand now!
+- **토요미 코토리**: Which means, she was feeling...
+- **토요미 코토리**: ...because that's how I feel...when I think of Sensei...
+- **토요미 코토리**: ...!
+- **토요미 코토리**: Well, uh. Sensei... Could I...
+- **토요미 코토리**: Could I...use the restroom real quick?
+- **토요미 코토리**: I won't take long!
+- **토요미 코토리**: I'll be right back!
+
+5. **「토요미 코토리 인연 스토리 5」**
+
+- **토요미 코토리**: You made it Sensei! I've been waiting for a whole hour, heehee!
+- **토요미 코토리**: Why am I the only one here? Wait...
+- **토요미 코토리**: How weird! I swear there were just a few people here.
+- **토요미 코토리**: They asked me something and I answered! But they suddenly rushed off after that.
+- **토요미 코토리**: Is something wrong Sensei? Do you know where they went?
+- **토요미 코토리**: Is something wrong Sensei? Do you know where they went?
+- **토요미 코토리**: Hahaha! Anyways, that doesn't matter. Today's focus is Sensei!
+- **토요미 코토리**: Can you believe it? I'm shocked! I never thought I would be so lucky.
+- **토요미 코토리**: The one and only Sensei! Our resident problem-solver, sole advisor of Schale, and an adult!
+- **토요미 코토리**: That very Sensei has come to me, out of everyone, to ask a question!
+- **토요미 코토리**: Am I dreaming? Is this an alternate reality? This is my life's greatest honor! My truest...
+- **토요미 코토리**: ...Ah!
+- **토요미 코토리**: Ahem! I got a little bit carried away there.
+- **토요미 코토리**: Here you are, coming to me in need, and I'm rambling away. Oh, Kotori! I didn't mean to be impolite.
+- **토요미 코토리**: A-Anyway! I want to pay you back for all of the times you've helped me.
+- **토요미 코토리**: So I studied really hard for this! Do you want to talk about physics? Machine guns? Mechanics?
+- **토요미 코토리**: It doesn't matter what you ask, I'll have an answer!
+- **토요미 코토리**: So, what will it be, Sensei? What mystery should we unveil together?
+- **토요미 코토리**: What's Sensei's question mark? What is it??
+- **토요미 코토리**: Aha! That's your question! An easy answer!
+- **토요미 코토리**: Aha! That's your question! An easy answer!
+- **토요미 코토리**: So you see, about myself...
+- **토요미 코토리**: The thing about me is...
+- **토요미 코토리**: Ahaha... Well o-of course...
+- **토요미 코토리**: ...?
+- **토요미 코토리**: Hmm...?
+- **토요미 코토리**: Huh?
+- **토요미 코토리**: ― Wh-What...?!
+- **토요미 코토리**: ― That wasn't the kind of question I was expecting!
+- **토요미 코토리**: ― I’m sorry,
+- **토요미 코토리**: ― but I still don't quite understand. Could you ask me that just one more time?
+- **토요미 코토리**: ― ...So I DID hear you correctly. Um... Okay, so... Something about me...
+- **토요미 코토리**: ― ...So I DID hear you correctly. Um... Okay, so... Something about me...
+- **토요미 코토리**: ― What am I supposed to say here...?
+- **토요미 코토리**: ― A-And what is the reasoning behind your line of questioning?
+- **토요미 코토리**: ― I can't fathom the logic!
+- **토요미 코토리**: ― Oh, uh, not that you need a specific reason or anything!
+- **토요미 코토리**: ― ...Huh? O-Of course I can answer your question! Talking about myself should be easy...
+- **토요미 코토리**: ― S-So, something, something about me?!
+- **토요미 코토리**: ― In my free time, I like to... Um... Well...! I like researching! And learning new things!
+- **토요미 코토리**: ― And thinking about you, and...!
+- **토요미 코토리**: ― ...? Wait. Wh-What did I just say...?
+- **토요미 코토리**: ― That I like learning new things, and thinking about you...?
+- **토요미 코토리**: ― Aha. Ah, hahaha...
+- **토요미 코토리**: ― Well what I meant was...! I was trying to say, umm...!
+- **토요미 코토리**: UGH! Uh... Augh...!
+- **토요미 코토리**: I-I'm, well, I mean, uh...
+- **토요미 코토리**: I-I'm, well, I mean, uh...
+- **토요미 코토리**: ...E...
+- **토요미 코토리**: E...
+- **토요미 코토리**: EXCUSEEEE MEEEEE!!!
+
+6. **「토요미 코토리 인연 스토리 6」**
+
+- **토요미 코토리**: Ah, Sensei!
+- **토요미 코토리**: What're you doing at Millennium?! Did you have work to do here?
+- **토요미 코토리**: ...No? Is it a personal matter, then?
+- **토요미 코토리**: ...Huh? Me?
+- **토요미 코토리**: You came to see me?
+- **토요미 코토리**: ...But why?
+- **토요미 코토리**: Ah...
+- **토요미 코토리**: Hmm... I see...
+- **토요미 코토리**: I-I apologize. I never intended to concern you, Sensei.
+- **토요미 코토리**: I was speaking too thoughtlessly. I didn't think you would come all this way just for me.
+- **토요미 코토리**: But as you can see, my glasses have been repaired... So, very fortunately, no issues to be concerned about!
+- **토요미 코토리**: Ah. Um. Maybe that's actually unfortunate?
+- **토요미 코토리**: After all, that means I made you come all the way out here for absolutely no reason.
+- **토요미 코토리**: Awww...
+- **토요미 코토리**: Thank you so much.
+- **토요미 코토리**: ...What?
+- **토요미 코토리**: ...You're curious about something?
+- **토요미 코토리**: ...C-Curious...about something?!
+- **토요미 코토리**: Yes! Please, tell me! What are you curious about, Sensei?!
+- **토요미 코토리**: Ask me anything you desire, Sensei! I, Toyomi Kotori, will answer any question you pose. And if I don't know, I'll find out and then still answer you!
+- **토요미 코토리**: Anything to repay you for coming all the way just to see me!
+- **토요미 코토리**: Yes, of course!
+- **토요미 코토리**: It's okay! Anything!
+- **토요미 코토리**: Ah! You're curious about my glasses? Well, you see...!
+- **토요미 코토리**: ...Um.
+- **토요미 코토리**: My...my glasses? Well...this...ummm...
+- **토요미 코토리**: Gah. I wasn't expecting this question at all, so I'm at a loss for words!
+- **토요미 코토리**: I'm suddenly getting this feeling of déjà vu...
+- **토요미 코토리**: Ahaha... The personal nature of your questions always makes me feel this way.
+- **토요미 코토리**: Err...
+- **토요미 코토리**: ...No! This isn't right! I won't let this happen!
+- **토요미 코토리**: I told you I would answer any question, so that's what I will do! Pull yourself together, Kotori!
+- **토요미 코토리**: Um... Uh... *inhale* *exhale*
+- **토요미 코토리**: It's okay. I've centered myself, and as promised, I shall answer!
+- **토요미 코토리**: ...It's not as big of an issue as I'm making it seem.
+- **토요미 코토리**: Sensei, take a look at this side of my glasses. It looks a bit unusual, right?
+- **토요미 코토리**: This unique shape makes it difficult to get a lens replacement!
+- **토요미 코토리**: But you see, these glasses have a special effect that ordinary glasses do not!
+- **토요미 코토리**: To an extent, it's a very intentional design on my part!
+- **토요미 코토리**: As you well know, I'm prone to giving a lot of lectures on different things. And when I explain things, I can get a little long-winded.
+- **토요미 코토리**: That's why these glasses are designed to give people who are listening to these lectures something to focus on!
+- **토요미 코토리**: Basically, it's a focus point for your eyes. Surprisingly, it actually works quite effectively!
+- **토요미 코토리**: Fu. Fu. Fu. You understand it now, Sensei!
+- **토요미 코토리**: Even small features like this can help people concentrate and subsequently absorb the information I'm delivering!
+- **토요미 코토리**: ...Although these days, people seem to run away whenever they see my glasses.
+- **토요미 코토리**: Yes! And regardless, it's still quite effective for newbies who've never heard one of my lectures before!
+- **토요미 코토리**: When my glasses broke this time, I did think about going back to a regular pair of glasses that are easier to maintain...
+- **토요미 코토리**: ...Heehee.
+- **토요미 코토리**: You know what, it's absolutely the best option to keep them.
+- **토요미 코토리**: After all, if I hadn't, this wonderful situation never would've happened!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/토요미 코토리
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,329 @@
+# 후와 렌게 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 후와 렌게, 선생(샬레)
+
+1. **「후와 렌게 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「후와 렌게 인연 스토리 2」**
+
+- **후와 렌게**: Ha!
+- **후와 렌게**: Hiyah!
+- **후와 렌게**: Again!
+- **후와 렌게**: Ha!
+- **후와 렌게**: Great. Now the finisher!
+- **후와 렌게**: Hwah!!!
+- **후와 렌게**: Wh-Who...? Sensei?!
+- **후와 렌게**: ...How did I do that?
+- **후와 렌게**: Well, combining Hyakkaryouran's marksmanship techniques with a little bit of... Kind of like... Er, how do I explain this to you?
+- **후와 렌게**: Yup. Without fail.
+- **후와 렌게**: Despite recent events, the Hyakkaryouran Resolution Council does play an important role in keeping Hyakkiyako students safe.
+- **후와 렌게**: We wouldn't be able to do that if we weren't the strongest around.
+- **후와 렌게**: It's my job to keep everyone in tip-top shape, so I run shooting and conditioning drills every morning.
+- **후와 렌게**: I've been working on creating some new routines today. And I gotta say, I just can't miss! I'm feeling great. Heehee.
+- **후와 렌게**: Wh-What?
+- **후와 렌게**: I won't do you any favors even if you sweet talk me, you know.
+- **후와 렌게**: It's really nothing special. This is expected of me, you know?
+- **후와 렌게**: I mean, don't get me wrong. I'm not complaining about a little bit of praise. Coming from you...it actually makes me kinda happy...
+- **후와 렌게**: Let's just forget I said that.
+- **후와 렌게**: Um... Moving on...
+- **후와 렌게**: I thought you were coming after morning training! You're early, Sensei!
+- **후와 렌게**: Shoot. I must've really worried you, huh?
+- **후와 렌게**: It's a nice feeling, being someone's priority...
+- **후와 렌게**: N-Not that I want you to waste your time sitting around waiting for me! I'm sorry... I should've planned better.
+- **후와 렌게**: I'm not exactly ready yet...
+- **후와 렌게**: H-Hey! Don't move!
+- **후와 렌게**: N-No! Time out! Pause! Sit!
+- **후와 렌게**: I said, don't move another inch, Sensei!
+- **후와 렌게**: No, not at all. It's not you.
+- **후와 렌게**: Look, I just finished my morning training. Do you get it?
+- **후와 렌게**: I'm worried that if you get too close...
+- **후와 렌게**: I'll...you know! It'll be gross!
+- **후와 렌게**: You're fine, Sensei. But I need you to just wait right there, please.
+- **후와 렌게**: This situation is still salvageable, I promise.
+- **후와 렌게**: Yes!!! This...way...the smell...will neutralize!
+- **후와 렌게**: Hyah! Dig deeper!
+- **후와 렌게**: One hundred reps!
+- **후와 렌게**: Phew. All right. Thanks for waiting, Sensei.
+- **후와 렌게**: It comes with the job description, you know?
+- **후와 렌게**: Anyways, now that's settled...
+- **후와 렌게**: It's a little more embarrassing when we're face-to-face, I have to admit.
+- **후와 렌게**: Um...
+- **후와 렌게**: I'm getting to my point!
+- **후와 렌게**: Man, this is harder to say out loud than I thought it'd be.
+- **후와 렌게**: Ugh! Get it together, Renge!
+- **후와 렌게**: I'm the Hyakkaryouran Assault Squad Captain! I don't cower in fear at any obstacle!
+- **후와 렌게**: Yes! Follow me, Sensei!
+- **후와 렌게**: So the reason I asked you here today...
+- **후와 렌게**: R-Right! You see, it's about... Well, um...
+- **후와 렌게**: Okay. Sensei, I've come to the realization that I'm getting older. The flow of time is an unstoppable force that I can't fight!
+- **후와 렌게**: Ugh... How do I say this...
+- **후와 렌게**: My youth! I'm losing my youth, Sensei!
+- **후와 렌게**: I'm not the type to just sit around and let life do what it wants to me! I have to take this problem by the horns! And that's where you come in, Sensei!
+- **후와 렌게**: Ah... I still didn't explain it well, huh?
+- **후와 렌게**: Let me try again.
+- **후와 렌게**: There'll come a time when these school days are nothing but a faint memory I try to pick out of the mist like a swirling dust mote.
+- **후와 렌게**: What if I look back, and all I find are memories of me dutifully working at the Hyakkaryouran? I'll sigh my deepest sigh and wish I hadn't let my youth pass me by.
+- **후와 렌게**: Wouldn't that be terrible? It's horrifying to even think about!
+- **후와 렌게**: I can't wake up on my death bed and realize that I'm weighed down by a thousand regrets!
+- **후와 렌게**: Don't you want to be able to look back on your life and smile softly at the fulfilling events that litter its timeline?
+
+3. **「후와 렌게 인연 스토리 3」**
+
+- **후와 렌게**: Hm, you're starting with the important questions.
+- **후와 렌게**: I pushed you so hard to help me with this, but it's a little overwhelming now that we're here.
+- **후와 렌게**: We're both beginners in this pursuit of youth, and there's no blueprint for us to follow.
+- **후와 렌게**: Trying to find our way down this path is like navigating a foggy sea with no compass...
+- **후와 렌게**: Mentor! If you underestimate youth, it'll get the best of you before you know it!
+- **후와 렌게**: Any pursuit requires proper training. Novices like us can't just jump headfirst into youth activities, or else...
+- **후와 렌게**: The unprepared body and mind might not be able to handle the gravity of youth!
+- **후와 렌게**: We could suffer from acute youthlaxic shock before we know what's hit us!
+- **후와 렌게**: It's okay, Mentor. We just need to approach with caution and make sure we don't skip any steps.
+- **후와 렌게**: It's just like training. I don't start newbie Hyakkaryouran members on our most difficult courses right off the bat.
+- **후와 렌게**: So don't worry! We're going to tackle this together.
+- **후와 렌게**: I've actually been designing potential scenarios for youth activities.
+- **후와 렌게**: W-Well...!
+- **후와 렌게**: I won't be ashamed! I HAVE been planning for this! It's my life dream, after all.
+- **후와 렌게**: In fact, I did a lot of research about youth and what that means.
+- **후와 렌게**: The literature on the subject tells me that relationships are the essence of youth!
+- **후와 렌게**: There's all kinds of different relationships students experience. Rivalries, for example!
+- **후와 렌게**: The two rivals orbit around each other's successes and failures. They push themselves to their limits and stand in the fiery pits of hell to face and best the other!
+- **후와 렌게**: It's the push and pull of conflict and respect, of hate and love!
+- **후와 렌게**: What could be a better representation of youth than the blazing passion of rivals?
+- **후와 렌게**: If rivalries aren't for you, there are other kinds of relationships too!
+- **후와 렌게**: Our world is made up of a menagerie of different kinds of relationships that are paired with vibrant stories of youth!
+- **후와 렌게**: So I prepared a scenario to play out for this monumental and life-changing first youth activity.
+- **후와 렌게**: Transfer student!
+- **후와 렌게**: From now on, we will pursue the experiences of a transfer student, Sensei—
+- **후와 렌게**: No! Mentor!
+- **후와 렌게**: You don't know why, Mentor?
+- **후와 렌게**: We're emulating the lessons from the work "Koi About Love" and its author to pursue my youth.
+- **후와 렌게**: As you well know, the author's first story followed the adventures of an unexpected transfer student and the heroine.
+- **후와 렌게**: An unexpected visitor from afar... Each day brings a new heart-pounding plot twist that keeps you guessing what path you'll travel down next!
+- **후와 렌게**: So our youth activities today will start just like that story.
+- **후와 렌게**: Ours will be titled something like... The Essence of Youth: Transfer Student!
+- **후와 렌게**: Heehee! You're exactly right!
+- **후와 렌게**: You understood my intent right away! As expected of Mentor!
+- **후와 렌게**: Here! This is an essential prop for this scene.
+- **후와 렌게**: Yes, exactly! Then you know exactly what to do when you hear my signal. I'll get in position.
+- **후와 렌게**: Everything is in order.
+- **후와 렌게**: I'm holding toast and the ground is nice and firm. Perfect for sprinting as if I'm late for school.
+- **후와 렌게**: The sun is shining just right, and I can feel the breeze gently running through my hair.
+- **후와 렌게**: The stage is set! It's the picture perfect setting for a scene of youth!
+- **후와 렌게**: Every transfer student begins their episode like this...!
+- **후와 렌게**: It's the "I'm late for my first day at my new school, so I'm running as fast as I can with toast in my mouth, and I crashed into a student in an alleyway" event!
+- **후와 렌게**: It's time! With toast in my mouth, I'll chase down my burning youth! Run, Renge, run! With all my might...!
+- **후와 렌게**: And cue the line of youth!
+- **후와 렌게**: "Ah! I'm late! I'm so late!"
+- **후와 렌게**: Heeheehee! It's almost your turn, Mentor!
+- **후와 렌게**: Hyaaah!
+- **후와 렌게**: W-W-Whoa! Sensei?! We were right at the climax of the scene! Why did you dodge?
+- **후와 렌게**: The goal is to valiantly crash into the transfer student and make a memorable first impression we carry for the rest of our lives!
+- **후와 렌게**: U-Um... Oh. Really?
+- **후와 렌게**: I suppose I shouldn't argue...
+- **후와 렌게**: Yes! You're my mentor for a reason!
+- **후와 렌게**: No sweat. There's a lot of scenes for this type of relationship!
+- **후와 렌게**: We've already had our unforgettable encounter with toast, so next...
+- **후와 렌게**: I'm already seated at my desk, when suddenly...
+- **후와 렌게**: You! I remember you! We crashed...saw each other in the alleyway!
+- **후와 렌게**: You might've gotten away from me once, but I won't let you off so easily this time!
+- **후와 렌게**: The second encounter after unexpectedly finding out the new student is in my class...
+- **후와 렌게**: That would be...
+- **후와 렌게**: What?!
+
+4. **「후와 렌게 인연 스토리 4」**
+
+- **???**: Okay. One...two...
+- **???**: GOOD MORNING!
+- **후와 렌게**: Do you plan on staying in bed all day, sleepyhead?! It's morning already!
+- **후와 렌게**: Isn't it obvious?
+- **후와 렌게**: I'm fulfilling my duties as your childhood friend!
+- **후와 렌게**: You overslept, so of course I had to come in and wake you up!
+- **후와 렌게**: I already told you on MomoTalk.
+- **후와 렌게**: There are certain relationships people experience in their youth that we absolutely cannot skip over!
+- **후와 렌게**: Childhood friends! I'm here today as Sensei's friend who grew up by their side.
+- **후와 렌게**: C'mon, Sensei! You're normally a little quicker on the uptake.
+- **후와 렌게**: There's something important to consider here. How does one define a childhood friend, Sensei?
+- **후와 렌게**: Are there established laws around this topic? Are there conditions you have to fulfill to be childhood friends?
+- **후와 렌게**: No! There's no industry standard for something like this.
+- **후와 렌게**: A childhood friend, by definition, is someone you've been close to since you were young. By "young," we mean in the past, or more precisely, before the present moment.
+- **후와 렌게**: It just takes a little bit of imagination and an even tinier amount of exaggeration!
+- **후와 렌게**: We've known each other before this morning, so if we decide to be childhood friends, that's what we are!
+- **후와 렌게**: Don't focus on the details! What's important is the bright and shining future we're reaching towards!
+- **후와 렌게**: Again, details, details!
+- **후와 렌게**: So, Sensei—I mean, Mentor!
+- **후와 렌게**: I've dubbed today's episode "The Essence of Youth: Childhood Friend"!
+- **후와 렌게**: We've cleared the "wake your childhood friend up in the morning" event already!
+- **후와 렌게**: So, on to the next!
+- **후와 렌게**: Let's see here... The second event we need to clear...
+- **후와 렌게**: It has to be the "walking to school together" event!
+- **후와 렌게**: Apparently, childhood friends walk to school together every day and discuss this and that.
+- **후와 렌게**: I read it in a novel written by the author of "Koi About Love".
+- **후와 렌게**: Let's head to school, Mentor!
+- **후와 렌게**: Something about this feels off...
+- **후와 렌게**: Is something as mundane as this really a youth activity?
+- **후와 렌게**: The sweet bliss of youth that childhood friends share... Shouldn't it be a medley of bitterness and nostalgia?
+- **후와 렌게**: How do we create that atmosphere? What am I missing here...?
+- **후와 렌게**: That's a good point!
+- **후와 렌게**: Childhood friends would rely on the shared interests they've cultivated over time.
+- **후와 렌게**: They probably talk about their problems and listen to each other!
+- **후와 렌게**: You were so quick to get to the root of the problem! I'm starting to see that it's all in the details!
+- **후와 렌게**: On something casual like the morning walk to school, the topics of conversation would probably be light and easy.
+- **후와 렌게**: Hm. I can do this.
+- **후와 렌게**: I suppose it makes sense for me to start.
+- **후와 렌게**: Did you watch TV last night?
+- **후와 렌게**: I saw a report that someone spotted a chupacabra in a mountain behind a town in the South District!
+- **후와 렌게**: People love chupacabras...
+- **후와 렌게**: Let's go catch it! We'd definitely go viral on social media!
+- **후와 렌게**: Oh. Really? Why not?
+- **후와 렌게**: ...It'd be better to talk about sports or a popular drama?
+- **후와 렌게**: Is that a typical youth topic? Because I don't really keep up with those kinds of things.
+- **후와 렌게**: A chupacabra is way more interesting and youthful! Everyone loves a good chupacabra story!
+- **후와 렌게**: ...Some people don't even know what that is?
+- **후와 렌게**: Oh. I didn't think of that. Having a casual conversation with my childhood friend doesn't come as naturally as I thought it would.
+- **후와 렌게**: Hm... Well, that's that! We can move on to the next event.
+- **후와 렌게**: We still have a lot of time, after all. No need to despair.
+- **후와 렌게**: I'll check my research. What should our third event be...?
+- **후와 렌게**: Oh! I've got it! The "childhood friends tutor each other in their weakest subjects" event!
+- **후와 렌게**: I got the stamp of approval from my mentor! Nice!
+- **후와 렌게**: I've been thinking about what I could teach you though...
+- **후와 렌게**: And there's really only one thing I know how.
+- **후와 렌게**: *inhale*
+- **후와 렌게**: *exhale* Keep your body low. Take a half step forward.
+- **후와 렌게**: Don't look so worried, Sensei.
+- **후와 렌게**: I'm teaching you self-defense! I run a lot of these drills at the Hyakkaryouran, so you're in good hands.
+- **후와 렌게**: There's all kinds of courses, like what to do in a shootout, how to defend against an attacker, or even how to navigate using just the stars!
+
+5. **「후와 렌게 인연 스토리 5」**
+
+- **후와 렌게**: Sen—
+- **후와 렌게**: Ahem! Mentor! I'm here!
+- **후와 렌게**: Let's have another great day of pursuing our youth!
+- **후와 렌게**: ...Are you okay, Mentor? You seem a bit drained. You don't have the same level of focus you normally do.
+- **후와 렌게**: Hm, is that so?
+- **후와 렌게**: Do you promise that's all it is?
+- **후와 렌게**: Wh-What?!
+- **후와 렌게**: Y-You can't just say things like that, Sensei!
+- **후와 렌게**: It's a good thing I'm a youth apprentice! Otherwise that line might've knocked me off my feet!
+- **후와 렌게**: You truly are the mentor of youth!
+- **후와 렌게**: Well, if you're feeling okay, then we have a long list of youth activities to tackle today!
+- **후와 렌게**: We don't have time to dawdle.
+- **후와 렌게**: Wow!
+- **후와 렌게**: It's been a fulfilling, youthful day, Mentor!
+- **후와 렌게**: I've gained a lot of experience today! I've wracked up so many points, I might even level up!
+- **후와 렌게**: I'm going to become a youth master before you know it, Mentor.
+- **후와 렌게**: I'm a big believer in following the proper process in all things!
+- **후와 렌게**: Thank you as usual for participating in—
+- **후와 렌게**: Huh? What's wrong? You're looking a little pale.
+- **후와 렌게**: M-Mentor?!
+- **후와 렌게**: Say something! Mentor!
+- **후와 렌게**: ...?
+- **후와 렌게**: So, to summarize...
+- **후와 렌게**: You were too immersed in your work and skipped all your meals today?
+- **후와 렌게**: And then, after spending the entire day with me, you passed out from hunger?
+- **후와 렌게**: ...Ughhhh.
+- **후와 렌게**: Sensei! How could you do something like this?!
+- **후와 렌게**: It doesn't matter how much work you have! Good nutrition is the cornerstone of health!
+- **후와 렌게**: It's the foundation for everything in the world! It's absolutely unacceptable to be skipping meals!
+- **후와 렌게**: What would've happened if I wasn't here today? What if you fainted on the street while you were alone?!
+- **후와 렌게**: Wait, wait, wait. If Sensei was too busy to even eat...
+- **후와 렌게**: Did that happen...
+- **후와 렌게**: ...because of me?
+- **후와 렌게**: I understand that, but...
+- **후와 렌게**: If I hadn't forced you into this youth mentorship with me, maybe your work wouldn't have piled up so much.
+- **후와 렌게**: You've been helping me without a second thought for yourself.
+- **후와 렌게**: This all happened because your schedule was overloaded with youth activities. Because of me...
+- **후와 렌게**: Sensei...
+- **후와 렌게**: ...
+- **후와 렌게**: You seriously have to watch what you say in situations like this!
+- **후와 렌게**: That's another line you would've gotten me with if I wasn't a youth expert!
+- **후와 렌게**: How many times do I have to tell you to not worry about the little details!
+- **후와 렌게**: (All of this happened because of me and my pursuit of my youth. I have to make it up to Mentor somehow...)
+- **후와 렌게**: Ah.
+- **후와 렌게**: I've had a good idea, so let's call it here today, okay?
+- **후와 렌게**: I have to go! But don't forget to eat something, Sensei! Seriously!
+- **후와 렌게**: I'll see you soon!
+- **후와 렌게**: Sensei! I was wondering if I could interest you in—
+- **후와 렌게**: ...Huh? Am I scammer? You won't let it happen again?!
+- **후와 렌게**: Wh-What in the world are you saying?! Well. Actually. I guess that was kind of a suspicious opener.
+- **후와 렌게**: But it really is me, Renge! It's not a scam! And I have an important question.
+- **후와 렌게**: Well, um... I was just wondering if you had a favorite dish...or, you know, anything you can't eat. Any allergies?
+- **후와 렌게**: ...Huh? Why am I asking?
+- **후와 렌게**: I-It's for a school project! I'm surveying a ton of people. Every single member of the Hyakkaryouran, in fact!
+- **후와 렌게**: Asking you was just an off-hand thought. Nothing serious, okay?!
+- **후와 렌게**: ...Okay. Let me just write that down... Perfect!
+- **후와 렌게**: I've got everything I need now! You better watch your back, Sensei!
+- **후와 렌게**: I'll see you tomorrow!
+- **후와 렌게**: I-I am! Kind of! I'm just mentally preparing myself to walk through the doors.
+- **후와 렌게**: Ugh! Actually walking into the building and handing it to you is too much, even for Youth Expert Renge!
+
+6. **「후와 렌게 인연 스토리 6」**
+
+- **후와 렌게**: Perfectly synchronized and super punctual.
+- **후와 렌게**: ...As expected, Mentor!
+- **후와 렌게**: Well then! Let's move slow and take it all in.
+- **후와 렌게**: Oh, this is nice!
+- **후와 렌게**: Look, this hyottoko mask...
+- **후와 렌게**: ...you'd look so funny with this, Mentor!
+- **후와 렌게**: Ahaha! Oh, that's great!
+- **후와 렌게**: Now, let's tie this furoshiki on your head!
+- **후와 렌게**: Ahahahaha...!
+- **후와 렌게**: We need to buy this now. Excuse me, can you ring us up?!
+- **Shop Owner**: Thank you so much! We don't have a couple's discount, but please enjoy this complimentary reusable bag!
+- **후와 렌게**: C-Couple?! Oh, no, we're just...
+- **후와 렌게**: I-It's not like that!
+- **후와 렌게**: And stop making weird jokes with that funny mask on!
+- **후와 렌게**: Okay! Just as long as you stop with that freaky laugh!
+- **Shop Owner**: ...Ah, such a lively reaction. What fun!
+- **Shop Owner**: ...The joys of youth...
+- **후와 렌게**: My ribbon...?
+- **후와 렌게**: Oh, this?
+- **후와 렌게**: A story... Mm...yes. But it's not MY story.
+- **후와 렌게**: ...Well, I suppose I can tell you.
+- **후와 렌게**: There's a novel I like. It's for youths and it's about a spirited youth.
+- **후와 렌게**: And the protagonist wears a white ribbon like this.
+- **후와 렌게**: It looks ordinary, but it's her trademark. It gives her strength.
+- **후와 렌게**: It symbolizes vitality and carefree fun, and...so much more.
+- **후와 렌게**: I thought it was a really nice idea...so, I tried wearing one myself.
+- **Shop Owner**: Haha! Thank you for sharing your story. I know the exact inspiration!
+- **Shop Owner**: We have lots of ribbons with that design, so take a look. Please!
+- **후와 렌게**: You heard all that?
+- **후와 렌게**: Are you sure you want to buy it?
+- **후와 렌게**: Ugh, but getting this from you means...!
+- **후와 렌게**: Th-That's not it! I-I really like it, and I'm so grateful, but...!
+- **후와 렌게**: M-Mmm...
+- **Shop Owner**: She clearly likes it, so you should just buy her one.
+- **후와 렌게**: Ahhh...!
+- **후와 렌게**: O-Okay. I'll take it. Since this is...special...
+- **후와 렌게**: I-I don't know! Can we stop talking about it?
+- **후와 렌게**: I-I think that's enough shopping, so we should wrap up these youth activities.
+- **후와 렌게**: Thank you for the gift! See you later! Uh... BYE!
+- **Shop Owner**: By any chance, have you read the novel she was referring to?
+- **Shop Owner**: Hm, it seems like you didn't know.
+- **Shop Owner**: There's a reason why I stock these ribbons. So many young couples look for them.
+- **Shop Owner**: You see, that white ribbon represents...
+- **후와 렌게**: Ugh, and I just accepted!
+- **후와 렌게**: I took it...
+- **후와 렌게**: The ribbon that was gifted to the protagonist...
+- **후와 렌게**: The ribbon that was the first gift from her lover...!
+- **후와 렌게**: Wh-What should I do? I didn't intend to, but why did Mentor...
+- **후와 렌게**: Did they know about the novel? It didn't seem like they did...
+- **후와 렌게**: Or were they playing dumb? Was it a prank? We were laughing...
+- **후와 렌게**: Unless...
+- **후와 렌게**: Aaaah! I don't know! Why me?!
+- **후와 렌게**: Y-Yeah, sure but...
+- **후와 렌게**: Mentor? Wh-What's this about?
+- **후와 렌게**: Mentor...
+- **후와 렌게**: So you knew what you were doing?!
+- **후와 렌게**: You knew the whole time?
+- **후와 렌게**: ...!
+- **후와 렌게**: Y-You have a point...!
+- **후와 렌게**: U-Uhh! I-It's not that I dislike the ribbon, but...!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/후와 렌게
+- https://bluearchive.wiki (원문 스토리 스크립트)

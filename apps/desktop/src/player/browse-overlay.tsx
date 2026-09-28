@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Entity } from '@world-player/schema';
-import { LazyAssetImage, LazyAudio } from './lazy-asset';
+import { LazyAssetImage } from './lazy-asset';
 import type { WorldData } from '@world-player/engine/desktop';
 import { charactersInCategory, charactersUnder, documentBody, documentNodes, loadWorldDocuments, resolveMedia, subcategoriesOf, breadcrumbFor } from '@world-player/engine/desktop';
 import { BannerImage } from './banner-image';
@@ -92,19 +92,17 @@ export function BrowseOverlay({ data, categoryId, characterId, language = 'ko', 
   </div>;
 }
 
-/** Renders a world document: text stays readable, media/audio directives become real assets. */
+/** Renders readable text and still images from a world document. */
 function DocBody({ data, text }: { data: WorldData; text: string }) {
   const nodes = React.useMemo(() => documentNodes(text), [text]);
 
   return <div className="doc-body">{nodes.map((node, index) => {
     if (node.type === 'lineBreak') return <br key={index} />;
-    if (node.type === 'media' || node.type === 'audio') {
+    if (node.type === 'media') {
       const safe = resolveMedia(data, [node])[0];
       const asset = safe.asset ? data.media.get(safe.asset) : undefined;
       if (!asset) return <span className="media" key={index}>[이미지 없음: {node.asset}]</span>;
-      return node.type === 'audio'
-        ? <span key={index}><LazyAudio data={data as never} assetId={asset.id} /><span className="voice-label">{asset.description}</span></span>
-        : <LazyAssetImage key={index} data={data as never} assetId={asset.id} alt={asset.description} className="doc-image" />;
+      return <LazyAssetImage key={index} data={data as never} assetId={asset.id} alt={asset.description} className="doc-image" />;
     }
     return <pre className="doc-text" key={index}>{node.text}</pre>;
   })}</div>;

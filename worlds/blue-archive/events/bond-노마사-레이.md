@@ -1,0 +1,266 @@
+# 노마사 레이 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 노마사 레이, 선생(샬레)
+
+1. **「노마사 레이 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「노마사 레이 인연 스토리 2」**
+
+- **노마사 레이**: Ah, Sensei, you're here! Thanks for coming!
+- **노마사 레이**: ...And one more high five! Heehee.
+- **노마사 레이**: And one more down low! Liiike...that!
+- **노마사 레이**: All right, now go ahead and watch, Sensei.
+- **노마사 레이**: I'm starting today's training!
+- **Training Assistance Robot**: Strike three! You're out!
+- **노마사 레이**: Tch...! You mixed it up with a fastball. Very Millennium of you!
+- **노마사 레이**: I'll hit the next one for sure!
+- **노마사 레이**: I see it!
+- **Training Assistance Robot**: Good hit, Nomasa Rei. But your angle was a bit too high.
+- **Training Assistance Robot**: Flyout. Not bad.
+- **노마사 레이**: *sigh*
+- **Training Assistance Robot**: Ground ball.
+- **노마사 레이**: Ugh...
+- **Training Assistance Robot**: Infield fly.
+- **노마사 레이**: Come on!
+- **Training Assistance Robot**: Whiff. Strike three.
+- **노마사 레이**: Eek...!
+- **노마사 레이**: Good practice...
+- **노마사 레이**: Ugh, why does my hitting still suck?
+- **노마사 레이**: Every ball I hit was either a flyout, or a ground ball, or a liner.
+- **노마사 레이**: I mean, at least I got on base, once, but...
+- **노마사 레이**: ...
+- **노마사 레이**: I think I know, actually.
+- **노마사 레이**: Yeah, I think so. My timing's off.
+- **노마사 레이**: There's a saying that "hitting is timing, and pitching is upsetting timing."
+- **노마사 레이**: ...Or was it the other way around?
+- **노마사 레이**: Anyways, yeah. Once the pitcher winds up, there's a certain amount of time before it crosses the plate.
+- **노마사 레이**: The batter needs to plot that time out and know exactly when to swing.
+- **노마사 레이**: Ugh, but it's not easy. Sometimes, they throw fastballs, sometimes it's breaking balls, or different types of breaking balls.
+- **노마사 레이**: I can follow the ball with my eyes, usually, but that always throws my timing off...
+- **노마사 레이**: Timing practice? That's a thing?
+- **노마사 레이**: I'd love it if there were a drill for that, but...
+- **노마사 레이**: ...if there is, how come no one's ever heard of it?
+- **노마사 레이**: Hmm? You want me to think outside the box and just trust you for now?
+- **노마사 레이**: I-I can do that. Right, Sensei? ...Okay, geez, I'm going! You don't have to push me like that...
+- **노마사 레이**: ...Isn't this an arcade?!
+- **노마사 레이**: What could this possibly have to do with timing practice?
+- **노마사 레이**: Rhythm...games? What are those? I've actually never really been to one of these before...
+- **노마사 레이**: I'll know when I see it? Uhh...
+- **노마사 레이**: Okay. I'll trust you, Sensei...
+- **노마사 레이**: I see. So THIS is a rhythm game.
+- **노마사 레이**: So these little sticks come falling down, and when they hit the boxes, I push the buttons?
+- **노마사 레이**: ...That DOES make sense for timing practice. I couldn't have imagined.
+- **노마사 레이**: ...Wait, there's more of these! Like that one with the guitar, or the one with the drum kit, or... Are those taiko drums?
+- **노마사 레이**: ...Okay, let's not go TOO far off track here. I'm an absolute beginner at this stuff.
+- **노마사 레이**: Here, since we're already AT the stick game, let me just try that...
+- **노마사 레이**: Yep, yep, got it, got it, nailed it! Just gotta keep it up, keep it up...
+- **Spectating Gamer A**: Oh, look over at the BearMania IDX machine! That girl is rocking it!
+- **Spectating Gamer B**: She's doing that new Level 12 song. They just put it in three days ago! That's song's beatable?! By humans?!
+- **Spectating Gamer A**: She couldn't have memorized the chart in three days. Is she...tracking it all on the fly?
+- **노마사 레이**: Oh, they threw in an off beat there...and then a spam pattern... Wow, I see it now!
+- **노마사 레이**: Hey look, Sensei! I beat the final difficulty! Um, by the way...
+- **노마사 레이**: Who are...all these people?
+- **노마사 레이**: Seriously? I just watched them fall and timed the hits. Does that make me number one?
+- **노마사 레이**: So everybody here is...
+- **Amazed Gamer**: Did you hear that? She WAS tracking them on the fly!
+- **Surprised Gamer**: I've heard legends of rhythm game prodigies, but to see one up close like this...
+- **Amazed Gamer**: I don't know about other games, but on this one, she could probably take UZQueen!
+- **Surprised Gamer**: Sensei just called her "Rei" earlier, right? So is she going to be "Rei Queen?" Are we witnessing her origin story?!
+
+3. **「노마사 레이 인연 스토리 3」**
+
+- **노마사 레이**: ...And that's why I want to practice pitching!
+- **노마사 레이**: Hm? Do I normally play pitcher?
+- **노마사 레이**: Well, no. There are a few really great players who can pitch AND hit...
+- **노마사 레이**: Two-way players, they call them.
+- **노마사 레이**: But I am in no way on that level. Not yet, at least.
+- **노마사 레이**: I hope I can be someday!
+- **노마사 레이**: But if I can look at the batter from the pitcher's perspective, that might make me a better hitter.
+- **노마사 레이**: And it could make it easier to guess the next pitch.
+- **노마사 레이**: Eventually, if I can start predicting their pitches, I can swing based on that.
+- **노마사 레이**: They call it "guess hitting."
+- **노마사 레이**: That would naturally increase my hit rate, AND my slugging percentage, and THEN...
+- **노마사 레이**: Then I could hit a home run, right?!
+- **노마사 레이**: Right? So that's how it's gonna be!
+- **노마사 레이**: I'll start pitcher practice today!
+- **Training Assistance Robot**: Hit by pitch! Batter, advance!
+- **노마사 레이**: Ugh...! Okay, I focused too much on speed. Too much force on my shoulders.
+- **노마사 레이**: Next time for sure!
+- **Training Assistance Robot**: Base on ball! Batter, advance!
+- **노마사 레이**: No way, I'm SURE I aimed right down the middle!
+- **노마사 레이**: ...Hey, no. A pitcher has to be calm... Gotta breathe and come back to my senses!
+- **Training Assistance Robot**: Clean hit! Home run!
+- **노마사 레이**: Great, I can't HIT home runs, but I can give them up?!
+- **노마사 레이**: I think my pitches are too focused. I shouldn't drag the count!
+- **Training Assistance Robot**: Hit by pitch. And the batter training robot's left arm has been damaged.
+- **노마사 레이**: Ugh...
+- **Training Assistance Robot**: Hit by pitch. And the batter training robot's abdomen has been damaged.
+- **노마사 레이**: Please...!
+- **Training Assistance Robot**: Hit by pitch. The batter training robot has been hit in the head. Not to worry. Only the main camera is broken.
+- **Training Assistance Robot**: ...There are no available batter training robots remaining. Would you like to end today's training?
+- **노마사 레이**: Eek...!
+- **노마사 레이**: Why can't I do this?!
+- **노마사 레이**: ...*sniff*
+- **노마사 레이**: Sensei? You've got a good idea for training, right? Don't you?
+- **노마사 레이**: I can't think of anything, so whatever you can come up with...
+- **노마사 레이**: Well, ball control, of course.
+- **노마사 레이**: They say, "Throw strikes, because home plate doesn't move."
+- **노마사 레이**: They also say you should learn curve balls after you master controlling fastballs.
+- **노마사 레이**: What?!
+- **노마사 레이**: H-How, though...?
+- **노마사 레이**: We're back at the arcade again?!
+- **노마사 레이**: I don't think more timing practice is going to help...
+- **노마사 레이**: Huh? There's other stuff here? Like what?
+- **노마사 레이**: These are...darts? Is that what you call them?
+- **노마사 레이**: Aha. So these are the darts, and I throw them into the dart board, and try to get the highest score?
+- **노마사 레이**: Well, that could help my concentration, and maybe improve control of my hand. Sure, I'll give it a shot, then!
+- **노마사 레이**: Hiyah!
+- **Dart Game AI**: Another bullseye! That's five in a row! One dart left.
+- **노마사 레이**: I really feel like I'm concentrating here. Okay, last one...
+- **Spectating Gamer A**: Hey, look! She just landed five bullseyes in a row!
+- **Spectating Gamer B**: Does she even have any SPACE left for another bullseye now?
+- **노마사 레이**: *inhale*
+- **노마사 레이**: Hiya!
+- **Dart Game AI**: Perfect bullseyes all around! Congrats! You broke our record for the day!
+- **노마사 레이**: ...
+- **노마사 레이**: No, this isn't it!
+- **노마사 레이**: These darts are too light compared to baseballs!
+- **노마사 레이**: For ball control practice, what I'm going to need is...
+- **노마사 레이**: ...Hmm, something moderately heavy, difficult to throw, but not impossible...
+- **노마사 레이**: !
+- **노마사 레이**: Sensei, I got it!
+
+4. **「노마사 레이 인연 스토리 4」**
+
+- **노마사 레이**: Of course it is! These two teams have a long history of being rivals!
+- **노마사 레이**: And their fans have a weird love-hate relationship with each other.
+- **노마사 레이**: It's one of the best classic match-ups in baseball history!
+- **???**: Waah... Waaah...!!
+- **노마사 레이**: Huh? Did I hear someone crying in the middle of all that cheering...?
+- **Lost Child**: Mom...Dad...where are you...?
+- **노마사 레이**: S-Sensei, look...
+- **노마사 레이**: Wh-What should we do?
+- **노마사 레이**: Ah, right! I should tell the stadium first. I don't know why I didn't think of that right away.
+- **노마사 레이**: Here, follow me, Sensei. I know where to go.
+- **노마사 레이**: And hey, we'll stay with you until you find your parents, okay?
+- **Lost Child**: Really...?
+- **노마사 레이**: So, do you like baseball?
+- **Lost Child**: Baseball...? I don't know. Mom and Dad do, I guess, or they wouldn't have brought me here.
+- **Lost Child**: But I don't know where they are now... Waah...
+- **노마사 레이**: I-It's fine. It's okay! We'll stay with you.
+- **노마사 레이**: Huh? Is that a foul ball coming this way...?
+- **노마사 레이**: Oh, here we go...
+- **노마사 레이**: Got it! Woo, my lucky day!
+- **Lost Child**: ...
+- **노마사 레이**: Would you like to have it?
+- **Lost Child**: A baseball...?
+- **노마사 레이**: See, baseball's a lot different from other sports that use a ball to score with.
+- **Lost Child**: How so...?
+- **노마사 레이**: Well, with other sports, the ball itself is what scores the points. So they don't usually change it out in mid-game, and they don't give it away to the fans like this.
+- **노마사 레이**: But baseball's different. In baseball, people score the points. So the ball's less important, and we don't hang onto it as much.
+- **노마사 레이**: And even in the middle of the game, if a ball goes flying out to a fan, the fan gets to keep it. It's a game that gives.
+- **노마사 레이**: The ball just follows the fan home. Isn't that amazing?
+- **Lost Child**: Eh, I guess.
+- **노마사 레이**: Y-You guess?!
+- **Referee**: Strike three! You're out!
+- **노마사 레이**: Ah, did you see that? That foul ball made the batter impatient.
+- **노마사 레이**: The pitcher took advantage of that, and faked like they were going to throw a falling curve ball...
+- **노마사 레이**: Then, boom! Fastball straight to the center! What a showdown!
+- **Lost Child**: I don't even know what any of that means!
+- **Lost Child**: ...But I bet Mom and Dad do. They must REALLY care about this game. They haven't even come to find me yet.
+- **Lost Child**: Why DO they care, anyway? This game's boring. It's just a bunch of people standing around. Not like basketball or soccer...
+- **Lost Child**: Even when they catch the ball, they just run a little bit and then stop again...
+- **Lost Child**: This sucks! I hate Mom, I hate Dad... I hate baseball!
+- **노마사 레이**: ...
+- **노마사 레이**: (Baseball is boring...?)
+- **노마사 레이**: (Now that I think about it, I might have said the same thing at that age.)
+- **노마사 레이**: Here's the thing. Baseball's SUPPOSED to be boring.
+- **노마사 레이**: H-Hang on, Sensei...
+- **노마사 레이**: *cough* So it's like this. When you're playing defense in baseball, you want everything to stick to the same routine.
+- **노마사 레이**: If all three batters hit their first pitch as grounders or flyouts, that's what's best for you.
+- **노마사 레이**: If that doesn't happen, someone's made a mistake. The trick is to keep things "boring" by not making any.
+- **노마사 레이**: So when it looks boring, it's because the whole team is doing their absolute best to keep it that way.
+- **노마사 레이**: You have to struggle as hard as you can to look as nonchalant as possible.
+- **노마사 레이**: And I kind of love the irony of that.
+- **노마사 레이**: You know swans, right? Up above the surface, they're just floating like clouds...but under the surface, their feet are always going like crazy.
+- **노마사 레이**: Having to do your best to seem ordinary and not get noticed...
+- **노마사 레이**: ...that's commendable, I think. There's something cool about it.
+- **Lost Child**: ...
+- **Lost Child**: ...Yeah?
+- **노마사 레이**: Yeah, I'd say so.
+- **Lost Child**: Huh...
+- **Lost Child**: That IS pretty cool. Maybe baseball's okay...
+- **노마사 레이**: Right?
+- **Announcer**: Sixth batter gets a GREAT hit on that falling curve ball!
+
+5. **「노마사 레이 인연 스토리 5」**
+
+- **노마사 레이**: Whoa... Now that I've got them all together, there's a LOT of them.
+- **노마사 레이**: One baseball with ripped thread, one torn glove, one bent aluminum bat...
+- **노마사 레이**: What's this? A uniform with a dirt stain that doesn't come off...? Seriously, they should try hand washing these first...
+- **노마사 레이**: Everyone knows hand washing is the only way to get this much dirt out...
+- **노마사 레이**: *sigh* I should start by writing a list of what to repair. Equipment first.
+- **노마사 레이**: Hm? S-Sensei? ...Oh no, this is my job. Just standard Millennium Baseball Club grunt work.
+- **노마사 레이**: Hey, are you already sorting them? H-Hold on! If you're going to help, then let's do it together, at least...
+- **노마사 레이**: Now, based on this glove's tear angle, angle of incidence, and estimated collision energy at the time of the catch...
+- **노마사 레이**: ...this glove must've been torn catching a liner, rather than a fly ball.
+- **노마사 레이**: Fly balls' downward acceleration comes from gravity, of course. Which means there's a limit to how fast they can fall.
+- **노마사 레이**: Even at terminal velocity, a falling ball wouldn't leave this much of an impression.
+- **노마사 레이**: Look. You see how the whole leather lace got torn from the web? That's the filler part between the thumb and the index finger.
+- **노마사 레이**: It must've been a clean liner. Probably would've been a base hit, if it hadn't gone straight to the defender.
+- **노마사 레이**: Now, for this one, see all these torn threads?
+- **노마사 레이**: These must have come from a wide sweeper.
+- **노마사 레이**: It's a breaking ball, one of the slider types. It curves horizontally.
+- **노마사 레이**: See, the original slider uses a four-seam grip. With the sweeper, it's two-seam. And you've got to get the horizontal movement just right!
+- **노마사 레이**: If you pull it off, the ball naturally flows toward the outside, where it's harder for the batter to cut. It's great for the whiff rate.
+- **노마사 레이**: You know about sabermetrics pitch-value statistics? Sliders are always number one.
+- **노마사 레이**: Ah.
+- **노마사 레이**: ...
+- **노마사 레이**: Yes, if you count the Millennium Pitching & Hitting Machine...
+- **노마사 레이**: Now check out this bat. The bent angle. Kind of suspicious, don't you think?
+- **노마사 레이**: How so? Well, if it was damaged during the batting process, it would've bent here, not here!
+- **노마사 레이**: When you run the numbers on the stress and the point of application, the ball just wouldn't have hit that spot! Unless the batter swung at some crazy angle.
+- **노마사 레이**: More likely, they were dragging the bat, fell down, and that's how it got bent.
+- **노마사 레이**: I should ask the captain to remind everyone, they need to take better care of their equipment.
+- **노마사 레이**: Hm? What do you mean, Sensei?
+- **노마사 레이**: Oh, you mean like when I use dynamics to analyze the equipment? Yeah, that's par for the course around here, I'd say.
+- **노마사 레이**: You...seem like you understand.
+- **노마사 레이**: Ah, now we have this.
+- **노마사 레이**: This one is not for repair.
+- **노마사 레이**: ...
+- **노마사 레이**: There is, actually...
+- **노마사 레이**: ― This is the first...
+- **노마사 레이**: ― homerun ball I ever caught.
+- **노마사 레이**: ― Ever since I started playing,
+- **노마사 레이**: ― I've always kept it with me.
+- **노마사 레이**: ― When I witnessed that first home run...
+- **노마사 레이**: ― I told myself I'd hit one too, someday.
+- **노마사 레이**: ― Right now...
+- **노마사 레이**: ― I have it enshrined in my cabinet.
+- **노마사 레이**: ― Whenever I feel like I want to give up, I look at it.
+- **노마사 레이**: ― It reminds me of when I first started. It always lifts my spirits up.
+- **노마사 레이**: ― ...To me, it's both a memento and a good luck charm.
+- **노마사 레이**: It's funny, isn't it, Sensei?
+- **노마사 레이**: Scientifically, it's just a small round object.
+- **노마사 레이**: Old leather, with 108 stitches, wrapped around cork and a rubber core.
+- **노마사 레이**: But still, just looking at it makes me feel warm and ready.
+- **노마사 레이**: It picks me up and makes me want to try again.
+- **노마사 레이**: It really is.
+- **노마사 레이**: Really...
+- **노마사 레이**: Um, Sensei?
+- **노마사 레이**: You know, um...
+- **노마사 레이**: I hope...one day, I can be...
+- **노마사 레이**: ...someONE precious.
+- **노마사 레이**: To you, Sensei.
+- **노마사 레이**: What?!!
+- **노마사 레이**: ...
+- **노마사 레이**: Is that so? Well... Heehee. Sure that's good.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/노마사 레이
+- https://bluearchive.wiki (원문 스토리 스크립트)

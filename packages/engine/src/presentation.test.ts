@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { eventMemory, mediaDirectives, buildPrompt } from './core';
-import { defaultVoice, presentMessage, resolveChatImage } from './presentation';
+import { presentMessage, resolveChatImage } from './presentation';
 import type { Character, ChatNode, Entity } from '@world-player/schema';
 import type { WorldData } from './core';
 
@@ -8,13 +8,11 @@ const media = new Map([
   ['banner-aria', { id: 'banner-aria', file: 'assets/images/banner-aria.png', kind: 'profile' as const, description: '아리아 프로필', tags: [] }],
   ['lobby-aria', { id: 'lobby-aria', file: 'assets/images/lobby-aria.jpg', kind: 'illustration' as const, description: '아리아 로비', tags: [] }],
   ['lobby-aria_night', { id: 'lobby-aria_night', file: 'assets/images/lobby-aria_night.jpg', kind: 'illustration' as const, description: '아리아(야간) 로비', tags: [] }],
-  ['voice-aria-base-aria_greeting', { id: 'voice-aria-base-aria_greeting', file: 'assets/audio/gachaget.ogg', kind: 'audio' as const, description: 'Harbor Notes. Aria. Hello.', tags: [] }],
-  ['voice-aria-base-aria_title', { id: 'voice-aria-base-aria_title', file: 'assets/audio/title.ogg', kind: 'audio' as const, description: 'Harbor Notes', tags: [] }],
 ]);
 
 const character: Character = {
   id: 'character:aria', type: 'character', name: '아리아', tags: [], relations: [],
-  banner: 'banner-aria', chatImage: 'lobby-aria', voice: 'voice-aria-base-aria_greeting',
+  banner: 'banner-aria', chatImage: 'lobby-aria',
 };
 const data = { media, entities: new Map<string, Entity>([[character.id, character]]) } as unknown as WorldData;
 
@@ -34,9 +32,8 @@ describe('chat presentation', () => {
     expect(resolveChatImage({ media: new Map([...media].filter(([id]) => id !== 'lobby-aria')) as WorldData['media'], entities: data.entities } as unknown as WorldData, onlyVariant)).toBe('lobby-aria_night');
   });
 
-  it('hoists image and audio to the top and keeps the dialogue text', () => {
+  it('hoists the image to the top and keeps the dialogue text', () => {
     const nodes: ChatNode[] = [
-      { type: 'audio', asset: 'voice-aria-base-aria_title' },
       { type: 'text', text: '안녕.' },
       { type: 'lineBreak' },
       { type: 'media', asset: 'lobby-aria_night' },
@@ -44,34 +41,12 @@ describe('chat presentation', () => {
     ];
     const presented = presentMessage({ data, character, nodes });
     expect(presented.image).toBe('lobby-aria_night');       // 응답에 든 사진이 캐릭터 기본 사진을 이긴다
-    expect(presented.audio).toEqual(['voice-aria-base-aria_title']);
     expect(presented.text.map(node => node.type)).toEqual(['text', 'lineBreak', 'strong']);
-  });
-
-  it('음성은 캐릭터가 명시적으로 고른 경우에만 붙는다(기본 음성을 끼워넣지 않는다)', () => {
-    const withoutAudio = presentMessage({ data, character, nodes: [{ type: 'text', text: '…' }] });
-    // 사진은 캐릭터 기본값으로 채우지만, 음성은 없다 — 필요 없는 답변에 재생 버튼이 붙지 않도록.
-    expect(withoutAudio.image).toBe('lobby-aria');
-    expect(withoutAudio.audio).toEqual([]);
-    const withAudio = presentMessage({ data, character, nodes: [{ type: 'audio', asset: 'voice-aria-base-aria_title' }, { type: 'text', text: '…' }] });
-    expect(withAudio.audio).toEqual(['voice-aria-base-aria_title']);
-    // voice 필드 자체는 남아 있다(자동 삽입에만 쓰지 않는다)
-    expect(defaultVoice(data, character)).toBe('voice-aria-base-aria_greeting');
-  });
-
-  it('shows at most one voice button per message', () => {
-    const many: ChatNode[] = [
-      { type: 'audio', asset: 'voice-aria-base-aria_title' },
-      { type: 'audio', asset: 'voice-aria-base-aria_greeting' },
-      { type: 'text', text: '…' },
-    ];
-    expect(presentMessage({ data, character, nodes: many }).audio).toHaveLength(1);
   });
 
   it('finds the speaker by display name as well as by entity id', () => {
     const byName = presentMessage({ data, speakerId: '아리아', nodes: [{ type: 'text', text: '…' }] });
     expect(byName.image).toBe('lobby-aria');
-    expect(byName.audio).toEqual([]);
     const byId = presentMessage({ data, speakerId: 'character:aria', nodes: [{ type: 'text', text: '…' }] });
     expect(byId.image).toBe('lobby-aria');
   });
@@ -79,19 +54,14 @@ describe('chat presentation', () => {
   it('never attaches media to a player message', () => {
     const presented = presentMessage({ data, nodes: [{ type: 'text', text: '플레이어 발화' }] });
     expect(presented.image).toBeUndefined();
-    expect(presented.audio).toEqual([]);
   });
 });
 
 describe('prompt media directives', () => {
-  it('offers the chat image and the voice lines with their transcriptions', () => {
+  it('offers the chat image without audio directives', () => {
     const section = mediaDirectives(data, character);
     expect(section).toContain('[[media:lobby-aria]]');
-    expect(section).toContain('[[audio:voice-aria-base-aria_greeting]]');
-    expect(section).toContain("Harbor Notes".slice(0, 10));
-    // 음성은 기본이 아니라 예외임을 프롬프트가 분명히 말해야 한다
-    expect(section).toContain('음성은 선택 사항이며 드물게만 사용한다.');
-    expect(section).toContain('요청받았거나 짧은 반응');
+    expect(section).not.toContain('audio');
     const prompt = buildPrompt({ data, world: { id: 'w', name: 'W', version: '1', summary: '', entrypoints: [], tags: [] }, character, slice: { id: 'now', label: '지금', position: 0 }, player: { name: 'P', description: 'd' }, visible: [] });
     expect(prompt).toContain('[[media:lobby-aria]]');
   });

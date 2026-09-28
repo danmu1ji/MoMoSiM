@@ -85,7 +85,5 @@ describe('lazy world loading', () => {
   it('maps mime types for the player', () => {
     expect(mimeFor('a.png')).toBe('image/png');
     expect(mimeFor('a.jpg')).toBe('image/jpeg');
-    expect(mimeFor('a.ogg', 'audio')).toBe('audio/ogg');
-    expect(mimeFor('a.mp3', 'audio')).toBe('audio/mpeg');
   });
 });

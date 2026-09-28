@@ -1,0 +1,236 @@
+# 시모쿠라 메구 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 시모쿠라 메구, 선생(샬레)
+
+1. **「시모쿠라 메구 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「시모쿠라 메구 인연 스토리 2」**
+
+- **시모쿠라 메구**: Ah.
+- **시모쿠라 메구**: Sensei!
+- **시모쿠라 메구**: Yes! I'm actually in a lot of trouble right now!
+- **시모쿠라 메구**: Yes! I'm actually in a lot of trouble right now!
+- **시모쿠라 메구**: At this rate, I'm going to go broke! Broke, I say! My wallet is going to go from thin to empty!
+- **시모쿠라 메구**: ...Hm? You wanna know why?
+- **시모쿠라 메구**: Well, the problem...
+- **시모쿠라 메구**: It started with this...
+- **시모쿠라 메구**: Yeah. And also this...
+- **시모쿠라 메구**: Yeah. And also this...
+- **시모쿠라 메구**: Yeah!
+- **시모쿠라 메구**: Or, well, maybe I should say they WERE Morimori.
+- **시모쿠라 메구**: I've just been failing... I didn't realize it, but apparently it's no easy feat to eat a Morimori.
+- **시모쿠라 메구**: Not easy at all! Morimori is surprisingly delicate.
+- **시모쿠라 메구**: It'll melt with a flare! At the drop of a hat!
+- **시모쿠라 메구**: ...Eh? You don't know what I mean by flare or fail?
+- **시모쿠라 메구**: Hmm.
+- **시모쿠라 메구**: Hmm... How do I explain this?
+- **시모쿠라 메구**: You want me to go through everything that happened, step-by-step?
+- **시모쿠라 메구**: Okay! Sure!
+- **시모쿠라 메구**: Well, it started when I bought a Morimori ice cream to eat from this convenience store.
+- **시모쿠라 메구**: Morimori is delicious, but...this one was really, really hard!
+- **시모쿠라 메구**: I couldn't even get my teeth into it.
+- **시모쿠라 메구**: Because it was frozen solid! I know it's called ice cream, but that's too much ice and not enough cream!
+- **시모쿠라 메구**: So...what was I supposed to do? I thought about it really hard!
+- **시모쿠라 메구**: Then I realized. If it's too frozen, it needs to be thawed out. I may not be the sharpest sledgehammer in the toolbox, but I know that much!
+- **시모쿠라 메구**: So...
+- **시모쿠라 메구**: Yeah! You're so smart, Sensei!
+- **시모쿠라 메구**: You saw the solution right away!
+- **시모쿠라 메구**: I used my Molten Meg-Ma!
+- **시모쿠라 메구**: ...? Sensei? What's wrong? What's up with your face all of a sudden?
+- **시모쿠라 메구**: Oh? You wanna try something different this time? Why?
+- **시모쿠라 메구**: ...Hmm. If I try the same thing again, it'll turn out the same way...
+- **시모쿠라 메구**: I see! If a flamethrower won't work, why not explosives? Oh! Or a welder, maybe?
+- **시모쿠라 메구**: I knew I could count on you, Sensei!
+- **시모쿠라 메구**: Oh, is that not different enough?
+- **시모쿠라 메구**: Oh no...now I'm stumped again. I can't break through Morimori with my teeth, and I can't use tools to thaw it...
+- **시모쿠라 메구**: So what can I do...?
+- **시모쿠라 메구**: Sensei, do you know something? You're a teacher, so teach me!
+- **시모쿠라 메구**: Please! I can't figure out how to eat Morimori!
+- **시모쿠라 메구**: Hmm?
+- **시모쿠라 메구**: You wanna know when I bought this Morimori?
+- **시모쿠라 메구**: Well, about when I contacted you, I guess...
+- **시모쿠라 메구**: ...? What do you mean?
+- **시모쿠라 메구**: Hm? You want me to try eating it again?
+- **시모쿠라 메구**: But my teeth will hurt!
+- **시모쿠라 메구**: ...Um, but...
+- **시모쿠라 메구**: It's Sensei's good advice, isn't it?
+- **시모쿠라 메구**: If Sensei thinks so, it must be worth a try.
+- **시모쿠라 메구**: So...
+- **시모쿠라 메구**: Here goes nothing!
+- **시모쿠라 메구**: ...!? Huh...?
+- **시모쿠라 메구**: It's working! It's working! I can eat it now!
+- **시모쿠라 메구**: Mmmm! Delicious, refreshing Morimori!
+- **시모쿠라 메구**: How did this happen?
+- **시모쿠라 메구**: Did you melt because Sensei's here? Is that it, Morimori?
+- **시모쿠라 메구**: Whoa...
+- **시모쿠라 메구**: ...I don't get how that works.
+- **시모쿠라 메구**: But it sounds wise, so it must be true!
+- **시모쿠라 메구**: Sensei, I knew you were smart!
+
+3. **「시모쿠라 메구 인연 스토리 3」**
+
+- **시모쿠라 메구**: Sensei! You're here. Good. I've been waiting!
+- **시모쿠라 메구**: Oh? You think I look serious?
+- **시모쿠라 메구**: Well, I am! This is very very serious!
+- **시모쿠라 메구**: Oh, you wanna know what's going on?
+- **시모쿠라 메구**: Um... So...
+- **시모쿠라 메구**: ...
+- **시모쿠라 메구**: ...Nothing! Nothing is going on! Forever!
+- **시모쿠라 메구**: Right! I knew I could count on you, Sensei!
+- **시모쿠라 메구**: You understood right away!
+- **시모쿠라 메구**: Anyway, before the nothing, we were trying to build a hot spring in a spot the president found.
+- **시모쿠라 메구**: But as soon as we started blasting, a whole bunch of troops came rushing at us from all directions. More than usual, even!
+- **시모쿠라 메구**: I just assumed we'd have to fight again, but the president told us to scatter and hide.
+- **시모쿠라 메구**: So... Now I'm hiding. Like this.
+- **시모쿠라 메구**: And then... And then...
+- **시모쿠라 메구**: I stayed... Hiding, like this. They told me not to get caught, so...
+- **시모쿠라 메구**: So I'm just supposed to stay put here... But... It's really hard! It's hard to do!
+- **시모쿠라 메구**: Sensei... How are you supposed to stay put? I really don't get it!
+- **시모쿠라 메구**: Hmm.... Is that right?
+- **시모쿠라 메구**: Maybe!
+- **시모쿠라 메구**: Time's passing so slowly! I feel like I'm trapped!
+- **시모쿠라 메구**: This is worse than when we get put in the Prefect Team's cells sometimes! At least then I had things to do!
+- **시모쿠라 메구**: And I was with some other club members, too.
+- **시모쿠라 메구**: But now! Now...!
+- **시모쿠라 메구**: Ughhhhh!!
+- **시모쿠라 메구**: ...What?
+- **시모쿠라 메구**: Sensei? What did you say?
+- **시모쿠라 메구**: ...Oh, this?
+- **시모쿠라 메구**: Um, it's just a decoration that we were going to put in the hot springs when it was done...
+- **시모쿠라 메구**: What was the word, again? Ken...dama?
+- **시모쿠라 메구**: I think that's what she called it...
+- **시모쿠라 메구**: I don't know much about it! I was just holding onto it so we could use it when we were done.
+- **시모쿠라 메구**: Why do you ask?
+- **시모쿠라 메구**: Sensei, do you know something about it?
+- **시모쿠라 메구**: What? ... Oh?
+- **시모쿠라 메구**: This is a toy? I didn't know that! How does it work?
+- **시모쿠라 메구**: Oh, that would be great! Please show me!
+- **시모쿠라 메구**: ...!
+- **시모쿠라 메구**: Wow! Wow wow! What is this?!
+- **시모쿠라 메구**: That's amazing! How are you doing that?
+- **시모쿠라 메구**: Can I try? Sensei, I wanna try! Let me see it!
+- **시모쿠라 메구**: Okay, here goes!
+- **시모쿠라 메구**: ...Ugh. It's not working... Why can't I do it?
+- **시모쿠라 메구**: Hey, Sensei, how come you could do it and I can't? Is there a trick to it?
+- **시모쿠라 메구**: You think I'll get better with practice?
+- **시모쿠라 메구**: Hmm... Well, if you say so, Sensei, I'll trust you.
+- **시모쿠라 메구**: Okay!
+- **시모쿠라 메구**: Watch, Sensei! I'm going to figure it out!
+- **시모쿠라 메구**: Let me try again!
+
+4. **「시모쿠라 메구 인연 스토리 4」**
+
+- **시모쿠라 메구**: Oh! You picked up.
+- **시모쿠라 메구**: Sensei! Are you there? You must be, because you picked up the phone. Right, Sensei?
+- **시모쿠라 메구**: There's no time, Sensei! I'll explain when you get here. Please come right away!
+- **시모쿠라 메구**: Right now! Hurry! We're in a hurry, okay? I'll send you the location!
+- **시모쿠라 메구**: ...! Sensei! Is that you, Sensei? It is, right?
+- **시모쿠라 메구**: Sensei, over here! Over here!
+- **시모쿠라 메구**: Sensei!!
+- **시모쿠라 메구**: ― Oh! Sensei, there you are!
+- **시모쿠라 메구**: ― I've been waiting!
+- **시모쿠라 메구**: ― Were you busy? Sorry!
+- **시모쿠라 메구**: ― It's kinda urgent!
+- **시모쿠라 메구**: ― Oh, yeah! Yeah, I made it, but...
+- **시모쿠라 메구**: ― Oh, yeah! Yeah, I made it, but...
+- **시모쿠라 메구**: ― The thing is that this hot spring won't last for very long.
+- **시모쿠라 메구**: ― There's only a few hours left!
+- **시모쿠라 메구**: ― That's why I really wanted you to come out here before it dries up!
+- **시모쿠라 메구**: ― ...Huh? Yeah...
+- **시모쿠라 메구**: ― I made it on my own. Why?
+- **시모쿠라 메구**: ― Well, I'm from the Hot Springs Department, of course!
+- **시모쿠라 메구**: ― It's my job to bring
+- **시모쿠라 메구**: ― hot water to people in need!
+- **시모쿠라 메구**: ― And, um...
+- **시모쿠라 메구**: ― I want to help you out especially! Heehee!
+- **시모쿠라 메구**: ― All right! Don't be shy!
+- **시모쿠라 메구**: ― Hop on in, the water's fine!
+- **시모쿠라 메구**: ― It's a super-special hot spring I made just for you!
+- **시모쿠라 메구**: Hey, Sensei?
+- **시모쿠라 메구**: Why are you just standing there? Don't you want to get in?
+- **시모쿠라 메구**: You wanna know how long I've been working on it?
+- **시모쿠라 메구**: Um, I'm not sure... I guess I started right after we talked earlier...
+- **시모쿠라 메구**: So, since this morning?
+- **시모쿠라 메구**: ... Um, Sensei?
+- **시모쿠라 메구**: Is something wrong? What is it?
+- **시모쿠라 메구**: ...Me?
+- **시모쿠라 메구**: What? Isn't it obvious? I'm just dirty from working on this!
+- **시모쿠라 메구**: Hahaha! No, don't worry about it! This is all in a day's work for a member of the Hot Springs Department!
+- **시모쿠라 메구**: Well, in that case, I guess we could both go in!
+- **시모쿠라 메구**: I think two people could fit, although it might be a bit crowded...
+- **시모쿠라 메구**: ...Oh, you want me to go first?
+- **시모쿠라 메구**: Hmm... Isn't it weird for me to use it first, though? I made it for you!
+- **시모쿠라 메구**: Well, I guess if that's what you want, it must be okay. The hot spring should have enough time left for both of us.
+- **시모쿠라 메구**: I'll go ahead and wash up, then! Just wait a bit, okay, Sensei?
+
+5. **「시모쿠라 메구 인연 스토리 5」**
+
+- **시모쿠라 메구**: Hey, hey! Sensei!! Over here!
+- **시모쿠라 메구**: Huh? What do you mean?
+- **시모쿠라 메구**: I'm just about to make some ramen.
+- **시모쿠라 메구**: Oh, you wanna know why I came here specifically?
+- **시모쿠라 메구**: Er...
+- **시모쿠라 메구**: I...haven't really thought about it.
+- **시모쿠라 메구**: I guess I just always find somewhere out of the way to go make ramen.
+- **시모쿠라 메구**: It's nice... There's no one here to interrupt me, or try to steal a bite, or to start chattering away...
+- **시모쿠라 메구**: Or, y'know, something like that!
+- **시모쿠라 메구**: Basically... I think...
+- **시모쿠라 메구**: I'd say it's just nice to be able to focus on watching the ramen boil.
+- **시모쿠라 메구**: ...Oh, you still don't get it? Hm... How do I explain focusing on the ramen...
+- **시모쿠라 메구**: Um...
+- **시모쿠라 메구**: ...I dunno what to say...
+- **시모쿠라 메구**: No, um, not quite...
+- **시모쿠라 메구**: I mean, I'm eating instant ramen because I don't actually know how to cook.
+- **시모쿠라 메구**: It's just... When I'm watching a pot of ramen boil...
+- **시모쿠라 메구**: When I really look at it...
+- **시모쿠라 메구**: It looks a bit...like a hot spring.
+- **시모쿠라 메구**: Hm, I'm not quite sure what it is! But...
+- **시모쿠라 메구**: Well, think about it, Sensei.
+- **시모쿠라 메구**: Oh, is it a little backwards for me to say that to you...?
+- **시모쿠라 메구**: ...Anyways!
+- **시모쿠라 메구**: Imagine, Sensei! Picture a boiling pot of ramen!
+- **시모쿠라 메구**: The noodles are stiff and fragile at first, but they gradually stretch out in the bubbling water.
+- **시모쿠라 메구**: Plus, there's the warmth and the rising steam.
+- **시모쿠라 메구**: So it's basically like a hot spring for noodles! Right? Aren't I right?
+- **시모쿠라 메구**: And then, adding in veggies or other ingredients, and watching them disperse and relax in the hot bath... It just makes me happy to look at!
+- **시모쿠라 메구**: It's the best, most restful feeling in the whole world!
+- **시모쿠라 메구**: Oh...
+- **시모쿠라 메구**: You're right, you're right! It is the same for other soups!
+- **시모쿠라 메구**: I like those too for sure! But the only thing I know how to make is ramen.
+- **시모쿠라 메구**: And whenever I want to see it, I can make it right away! I don't have to wait!
+- **시모쿠라 메구**: So that's why I like it! Yeah, that's it! I think that's right.
+- **시모쿠라 메구**: Heehee! I knew you'd get it, Sensei! You're so smart.
+- **시모쿠라 메구**: Anyway! Enough talk. Let me start the ramen for you!
+- **시모쿠라 메구**: Just wait a minute, Sensei! We can watch it together.
+- **시모쿠라 메구**: Go ahead and sit! I'll make sure it's delicious.
+- **시모쿠라 메구**: Wow! I'm so full!
+- **시모쿠라 메구**: What about you, Sensei? Are you still hungry? I can make more if you want!
+- **시모쿠라 메구**: Oh, you sure? I don't mind making more!
+- **시모쿠라 메구**: Okay! That's good.
+- **시모쿠라 메구**: I guess I made the perfect amount!
+- **시모쿠라 메구**: Heh... This is nice.
+- **시모쿠라 메구**: Ah!
+- **시모쿠라 메구**: Look, the ham's still floating in the soup. Look at it go round and round and round and round!
+- **시모쿠라 메구**: Hahahaha! Sensei, you're saying weird stuff. You're jealous of ham?
+- **시모쿠라 메구**: Of course, it does sound nice... Soaking in a warm hot spring...
+- **시모쿠라 메구**: Haha, but if you were ham, I'd say...
+- **시모쿠라 메구**: Can't wait to dig into Sensei!
+- **시모쿠라 메구**: ... And I'd eat up! Hahaha!
+- **시모쿠라 메구**: Whew.
+- **시모쿠라 메구**: Heehee. Don't make me laugh any more! I'll get hungry again!
+- **시모쿠라 메구**: Okay, now that we've eaten...
+- **시모쿠라 메구**: Hup!
+- **시모쿠라 메구**: Time to get back to hot springs construction!
+- **시모쿠라 메구**: Heehee. Of course!
+- **시모쿠라 메구**: I came out here to check out some ramen as a break. I'm in the middle of a lot of work!
+- **시모쿠라 메구**: I've got a very important hot spring to dig! Don't you think everyone should get to stretch out and soak in some hot water, just like those noodles?
+- **시모쿠라 메구**: That's the mission of the Hot Springs Department!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/시모쿠라 메구
+- https://bluearchive.wiki (원문 스토리 스크립트)

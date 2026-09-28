@@ -1,6 +1,6 @@
 export type EntityType = 'world' | 'category' | 'character' | 'location' | 'event';
 export type KnowledgeLevel = 'full' | 'partial' | 'public' | 'hidden' | 'unknown';
-export type MediaKind = 'profile' | 'portrait' | 'sprite' | 'background' | 'expression' | 'illustration' | 'audio';
+export type MediaKind = 'profile' | 'portrait' | 'sprite' | 'background' | 'expression' | 'illustration';
 
 export interface Theme { mode?: 'custom'; colors?: { primary: string; secondary: string; accent: string }; assets?: { logo?: string } }
 export interface WorldManifest { schemaVersion: string; id: string; name: string; version: string; entry: string; }
@@ -19,8 +19,6 @@ export interface Character extends Entity {
   prompt?: MarkdownRef;
   /** 대화 말풍선 상단에 넣는 사진(미디어 id). 프로필(`banner`)과 별개로 설정할 수 있다. */
   chatImage?: string;
-  /** 말풍선 상단에 재생 버튼으로 넣는 기본 음성(미디어 id). 선택사항 — 없으면 음성 없이 표시된다. */
-  voice?: string;
   personalityEn?: MarkdownRef;
   speechEn?: MarkdownRef;
   promptEn?: MarkdownRef;
@@ -52,6 +50,6 @@ export interface MediaAsset { id: string; file: string; kind: MediaKind; descrip
 export interface PlayerProfile { name: string; description: string; tags: string[] }
 export interface Conversation { id: string; world: string; timeSlice: string; participants: string[]; location?: string; currentEvent?: string; recentSpeakers?: string[]; player: PlayerProfile; provider?: { id: string; model: string } }
 export type Speaker = { type: 'player' | 'character'; id: string };
-export type ChatNode = { type: 'text' | 'emphasis' | 'strong' | 'media' | 'audio' | 'lineBreak' | 'image'; text?: string; asset?: string; imageDataUrl?: string; alt?: string };
+export type ChatNode = { type: 'text' | 'emphasis' | 'strong' | 'media' | 'lineBreak' | 'image'; text?: string; asset?: string; imageDataUrl?: string; alt?: string };
 export interface ChatMessage { id: string; speaker: Speaker; content: ChatNode[]; timestamp: string }
 export interface ValidationIssue { level: 'error' | 'warning'; code: string; message: string; entity?: string }

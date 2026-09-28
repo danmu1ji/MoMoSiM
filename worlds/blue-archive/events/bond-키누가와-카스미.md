@@ -1,0 +1,246 @@
+# 키누가와 카스미 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 키누가와 카스미, 선생(샬레)
+
+1. **「키누가와 카스미 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「키누가와 카스미 인연 스토리 2」**
+
+- **???**: Is someone there?
+- **???**: Ah, Sensei! Good timing!
+- **???**: Come right over here!
+- **키누가와 카스미**: Sensei!
+- **키누가와 카스미**: I'm here!
+- **키누가와 카스미**: No, not there! Over here!
+- **키누가와 카스미**: ― Wow! Wahaha!
+- **키누가와 카스미**: ― You couldn't have arrived at a better time!
+- **키누가와 카스미**: ― Welcome, Sensei...
+- **키누가와 카스미**: ― ...to my top secret hideout! Number 86 to be exact!
+- **키누가와 카스미**: ― What am I doing here?
+- **키누가와 카스미**: ― I can't believe you had to ask, Sensei.
+- **키누가와 카스미**: ― You know I only ever do one thing.
+- **키누가와 카스미**: ― It's my favorite thing in the whole world...
+- **키누가와 카스미**: ― Researching new and exciting hot spring spots!
+- **키누가와 카스미**: ― Haha! Sensei!
+- **키누가와 카스미**: ― Haha! Sensei!
+- **키누가와 카스미**: ― The look on your face is priceless. Haha!
+- **키누가와 카스미**: ― Eh-hem. Anyway... Yes, it's exactly what you think.
+- **키누가와 카스미**: ― I'm looking for the perfect spot to blast into oblivion!
+- **키누가와 카스미**: ― Hm... Maybe here?
+- **키누가와 카스미**: ― No. That spot's no good. It needs to be epic!
+- **키누가와 카스미**: ― What? Sensei? Why are you looking at me like that?
+- **키누가와 카스미**: ― What's wrong?
+- **키누가와 카스미**: If you have an opinion, I'd love to hear it.
+- **키누가와 카스미**: I know what I'm looking for in a perfect demo location, but sometimes I appreciate input from others!
+- **키누가와 카스미**: Of course, I don't take just anyone's opinion. But you're Sensei. Of course I want to know what you think!
+- **키누가와 카스미**: Huh?
+- **키누가와 카스미**: Oh, there's a perfectly reasonable explanation for why I'm at my eighty-sixth hideout this month...
+- **키누가와 카스미**: Haha! The answer is obvious, Sensei. I'm on the lamb!
+- **키누가와 카스미**: Gehenna put a fat bounty on my head, so I have to be careful where I show my face.
+- **키누가와 카스미**: Plus, planning a demolition demands a lot of focus.
+- **키누가와 카스미**: Which means I need somewhere off the beaten path to do it, you know? Somewhere quiet.
+- **키누가와 카스미**: I won't bore you with the details. What's important is the demo plan itself!
+- **키누가와 카스미**: I've got a few ideas brewing. Just for fun, I'll point out locations with my toes, and you can tell me what you think!
+- **키누가와 카스미**: Let's see... Hm...
+- **키누가와 카스미**: How about here, where the department store is? A hot spring would be way better than some dumb store.
+- **키누가와 카스미**: You're not feeling that one? Hm... Maybe...
+- **키누가와 카스미**: Here? The subway transfer station is basically a giant hole in the ground as it is, which means we could dig even deeper!
+- **키누가와 카스미**: No? A fresher target, huh? Hm... Well, if you say so.
+- **키누가와 카스미**: Then... Hm.
+- **키누가와 카스미**: Ummmm!
+- **키누가와 카스미**: Hm...!
+- **키누가와 카스미**: You're a thinker, aren't you Sensei? No matter what I pick, you find a reason not to use it.
+- **키누가와 카스미**: Well, that ends now! I can't stand the rejection any longer!
+- **키누가와 카스미**: This next one is also the last one on my list of potential demo sites.
+- **키누가와 카스미**: So even if you don't like it, you have to like it. Got it? Okay, here we go...
+- **키누가와 카스미**: It's...
+- **키누가와 카스미**: Here!
+- **키누가와 카스미**: Wahaha! I can tell by the look on your face that you're relieved.
+- **키누가와 카스미**: Or, well... It's the least displeased you've looked so far. Ha!
+- **키누가와 카스미**: So, what do you say, Sensei? This is the spot, right? No objections?
+- **키누가와 카스미**: All right, all right! It really came down to the wire, but we finally found one we agree on!
+- **키누가와 카스미**: Now that I have your vote of confidence, I'll start work and keep you updated on progress!
+- **키누가와 카스미**: This worked out quite nicely, if I say so myself! I'm satisfied!
+- **키누가와 카스미**: Thanks for meeting with me today, Sensei! See you next time!
+- **키누가와 카스미**: Oh! I nearly forgot my gear!
+- **키누가와 카스미**: ...well, then...
+- **키누가와 카스미**: See you later, Sensei!
+
+3. **「키누가와 카스미 인연 스토리 3」**
+
+- **키누가와 카스미**: As usual, Sensei, you're right on time!
+- **키누가와 카스미**: And yes indeed! Welcome to secret hideout number 89!
+- **키누가와 카스미**: I know, I know. It's three numbers higher than last time.
+- **키누가와 카스미**: What can I say? Two didn't agree with me, and one didn't agree with my explosives, so here we are.
+- **키누가와 카스미**: But that's all debris in the dump now. Hideout numbers don't matter in the grand scheme of things.
+- **키누가와 카스미**: No, siree! We have far more important topics to discuss than my nomadic existence.
+- **키누가와 카스미**: Now, follow me, Sensei. I have a fantastic plan I want to share with you!
+- **키누가와 카스미**: Mm hm! Yes, this is just the spot.
+- **키누가와 카스미**: I'm sorry the locale's so...unsavory, but I need somewhere tucked away if I want to stay hidden.
+- **키누가와 카스미**: I'm quite popular these days—infamous even. There are people looking for me everywhere.
+- **키누가와 카스미**: The Prefect Team, the Helmet Gangsters, arms manufacturers, clubs impacted by past demolitions...
+- **키누가와 카스미**: But such is life, right? I know everything will work out once I hit a hot spring!
+- **키누가와 카스미**: ...Hm? What's with that face, Sensei?
+- **키누가와 카스미**: Huh?
+- **키누가와 카스미**: ...I wouldn't say it's easy to keep going in the face of adversity, no...
+- **키누가와 카스미**: And, sure, it's not exactly encouraging when I fail at something.
+- **키누가와 카스미**: ...Haha.
+- **키누가와 카스미**: But if you don't mind me saying it, Sensei, you're looking at this all wrong.
+- **키누가와 카스미**: Creating an amazing new hot spring isn't my only measure of success.
+- **키누가와 카스미**: Yes, that's my goal. But that doesn't necessarily mean that failing to do so is a loss.
+- **키누가와 카스미**: Sensei...
+- **키누가와 카스미**: What I really enjoy—what I love—is demolition.
+- **키누가와 카스미**: Any opportunity to work with explosives, successful or not, is a win in my book.
+- **키누가와 카스미**: Doesn't matter what it is. Big, small, successful, unsuccessful...
+- **키누가와 카스미**: Blasting that gets you chased, blasting that gets sabotaged, blasting that works despite sabotage...
+- **키누가와 카스미**: I see amazing sights thanks to demos I perform in unique and far-flung locales.
+- **키누가와 카스미**: Even when the Prefect Team sabotages a demo I spent months planning and preparing, I still find joy in the process.
+- **키누가와 카스미**: As long as there's potential for a hot spring, I'm happy! In fact, even a vague hope is good enough!
+- **키누가와 카스미**: You're looking at me like I'm crazy. Listen, what I'm trying to say is, it's not the destination, it's the journey.
+- **키누가와 카스미**: From finding a worthy spot to planning, prepping, and the demo itself, I love it all! You can understand that, right?
+- **키누가와 카스미**: Oh, and speaking of worthy spots, you should know...
+- **키누가와 카스미**: ...I've got my eye on the Schale building.
+- **키누가와 카스미**: Wahahaha! The look on your face!
+- **키누가와 카스미**: Don't you see, Sensei?
+- **키누가와 카스미**: I want you to be more involved in my plans.
+- **키누가와 카스미**: And I figured revealing that might keep you coming back...if only to ensure I don't make good on my threat!
+- **키누가와 카스미**: I know you all probably think I'm a pain in the neck, but that doesn't matter to me.
+- **키누가와 카스미**: I've known what I wanted for a while now, even before you got here, Sensei!
+- **키누가와 카스미**: So, knowing that, I hope you'll take me more seriously in the future.
+- **키누가와 카스미**: Can you understand that, Sensei? It's really important to me that you do...
+- **키누가와 카스미**: ...for both of us.
+- **키누가와 카스미**: Now, why don't we discuss my next idea?
+- **키누가와 카스미**: And if necessary...
+- **키누가와 카스미**: You can stay late with me!
+- **키누가와 카스미**: Wahaha! Good, good! I wouldn't have it any other way!
+- **키누가와 카스미**: Now, let's do some serious searching, shall we?
+- **키누가와 카스미**: We need to find the perfect spot!
+- **키누가와 카스미**: A spot that will make me, you, and everyone else happy!
+
+4. **「키누가와 카스미 인연 스토리 4」**
+
+- **키누가와 카스미**: Hm! Of course. I see.
+- **키누가와 카스미**: It's a quiet, clean place to study...and secluded.
+- **키누가와 카스미**: Schale's lounge would keep me safe from my pursuers. Nice!
+- **키누가와 카스미**: But I have to ask...
+- **키누가와 카스미**: Sensei, are you sure about this? This is me we're talking about.
+- **키누가와 카스미**: Me! The one who told you Schale is one of my ideal demolition sites...
+- **키누가와 카스미**: Aren't you worried? Shouldn't you be keeping me as far away from here as possible?
+- **키누가와 카스미**: ...!
+- **키누가와 카스미**: Wahaha! Man, you're so magnanimous that it's almost comical.
+- **키누가와 카스미**: ...Fine. I'm not going to look a gift horse in the mouth.
+- **키누가와 카스미**: This is a rare opportunity. I need to take advantage.
+- **키누가와 카스미**: Hup!
+- **키누가와 카스미**: I have here the best resources related to civil engineering, geography, architecture...
+- **키누가와 카스미**: They're all research materials or academic papers from well-known scholars!
+- **키누가와 카스미**: ...Hm? What's wrong? You've got that look again. You get saucer eyes a lot when you're around me.
+- **키누가와 카스미**: ...Haha.
+- **키누가와 카스미**: Just kidding. I know why you look that way.
+- **키누가와 카스미**: You didn't expect this.
+- **키누가와 카스미**: Seeing me, of all people, sitting down and studying like a proper student must be a strange experience for you.
+- **키누가와 카스미**: But you should know that the Hot Springs Department doesn't just blow things up willy-nilly and call it a hot spring.
+- **키누가와 카스미**: No. We do things RIGHT. We follow proper civil engineering and construction methods to the letter.
+- **키누가와 카스미**: I know on the surface we seem like a bunch of bomb-wielding hooligans, and people judge us for that.
+- **키누가와 카스미**: Who could blame them? Everyone's entitled to their own perspective. And we don't owe them an explanation.
+- **키누가와 카스미**: We have a limited amount of time in this world, and we can't waste it trying to make everyone else happy. Know what I mean?
+- **키누가와 카스미**: Now, in that spirit, let's get started, shall we? I have a lot of ground to cover today.
+- **키누가와 카스미**: Sensei...
+- **키누가와 카스미**: ...I'll make good use of this space.
+- **키누가와 카스미**: ...
+- **키누가와 카스미**: ...Oh, I see.
+- **키누가와 카스미**: ...
+- **키누가와 카스미**: Upsy-daisy!
+- **키누가와 카스미**: Don't worry about me, Sensei. You keep focusing on your work, and I'll just...
+- **키누가와 카스미**: ...Mm. That's the good stuff.
+- **키누가와 카스미**: Here, Sensei, have some of this coffee.
+- **키누가와 카스미**: I noticed your cup was empty, so I made a pot during my last break. Why don't you take a break too?
+- **키누가와 카스미**: We worked side-by-side for hours without a word. It must be some kind of record!
+- **키누가와 카스미**: Don't misunderstand. I didn't hate it. In fact, I quite enjoyed myself.
+- **키누가와 카스미**: You may not know it, but it's hard to find a good person to study with in silence like that...
+- **키누가와 카스미**: ...especially among the people I'm usually around.
+- **키누가와 카스미**: Researching has always been more of a solo activity for me. So this was...
+- **키누가와 카스미**: Ahem! Well, I guess it's because it was you. Who better to research with than Sensei?
+- **키누가와 카스미**: It's your job to both manage students and do paperwork as an educator, right?
+- **키누가와 카스미**: You might just be the only person in the whole world capable of understanding me...
+- **키누가와 카스미**: ...Nah! Who am I kidding? We're complete opposites!
+- **키누가와 카스미**: But I wasn't lying when I said I had fun doing this.
+- **키누가와 카스미**: If I could, I'd stay here studying indefinitely.
+- **키누가와 카스미**: ...Hm? That's really okay?
+- **키누가와 카스미**: You'd...prefer that I come here every day to study...
+- **키누가와 카스미**: ...Wahaha!
+- **키누가와 카스미**: Good one, Sensei! Really funny. But you know I could never be tied down to one place like that. As they say, I'm a free spirit!
+- **키누가와 카스미**: I'm not ready for that kind of commitment yet. It's tempting, but I have to pass.
+- **키누가와 카스미**: However, if I need a change of scenery...
+- **키누가와 카스미**: I'll take you up on your offer.
+- **키누가와 카스미**: In the future, anyway.
+
+5. **「키누가와 카스미 인연 스토리 5」**
+
+- **키누가와 카스미**: This place is so quiet that I could hear you coming from a mile away! Wahaha!
+- **키누가와 카스미**: I told you it wasn't life-threatening or anything... But I should have seen this coming.
+- **키누가와 카스미**: Sensei! Hey!
+- **키누가와 카스미**: This way! Over here!
+- **키누가와 카스미**: So this is kinda...embarrassing. But you were also the only one I could call.
+- **키누가와 카스미**: Thanks, Sensei. I know how busy you are, so I really appreciate this.
+- **키누가와 카스미**: ...Hm? Am I hurt?
+- **키누가와 카스미**: Oh, um, not at all! I'm totally fine! Haha! Really, I'm all right!
+- **키누가와 카스미**: I'm fine! Don't look so concerned. It'll just make me feel more embarrassed than I already do.
+- **키누가와 카스미**: It's so silly. I was wandering the mountain trail when my slipper broke. Then, of course, I slipped...and fell...
+- **키누가와 카스미**: I'm sure it's nothing more than a slight sprain! I'm not bleeding. There's nothing to worry about!
+- **키누가와 카스미**: Seriously! Look! I can show you!
+- **키누가와 카스미**: ...See! Look at my ankle.
+- **키누가와 카스미**: It's fine. And that scrape isn't even deep enough to draw blood.
+- **키누가와 카스미**: ...What? Why am I here alone?
+- **키누가와 카스미**: I'm surveying the area, of course. It's a prospective hot spring, and I wanted to see it with my own eyes.
+- **키누가와 카스미**: This place is relatively secluded, but normally, my survey spots are in the middle of cities.
+- **키누가와 카스미**: Whenever I go out with the other club members, we draw a lot of unwanted attention.
+- **키누가와 카스미**: So I've gotten used to doing surveys by myself. It's a lot faster and easier.
+- **키누가와 카스미**: Besides, I'm not exactly a reclusive book worm, you know? I like to get out and about.
+- **키누가와 카스미**: ...Huh?
+- **키누가와 카스미**: ...You want to know what I think of this place?
+- **키누가와 카스미**: Well... Hm... If I'm being completely honest...
+- **키누가와 카스미**: ...It's a no-go!
+- **키누가와 카스미**: A complete dud! DOA! Not even worth consideration!
+- **키누가와 카스미**: It's...exceedingly ordinary. Not only is it a terrible location for a hot spring, but even the demolition would be boring.
+- **키누가와 카스미**: There's no geographic feature that would make for a unique blast. Nothing. It's awful in every sense of the word.
+- **키누가와 카스미**: Choosing this place was the most rookie mistake in the book.
+- **키누가와 카스미**: And on top of aaaaaall that...I ruined a slipper. *sigh*
+- **키누가와 카스미**: I'm sorry to just unload on you after I dragged you all the way out here.
+- **키누가와 카스미**: Hey, speaking of... Did you bring what I asked for?
+- **키누가와 카스미**: Wahaha! I knew I could count on you, Sensei!
+- **키누가와 카스미**: I'm all done here. So why don't I put that on, and we can walk down together?
+- **키누가와 카스미**: Huh?
+- **키누가와 카스미**: ...What'd you bring them all the way up here for if you're not going to give them to me?
+- **키누가와 카스미**: ...What?
+- **키누가와 카스미**: You want to carry me down? You can't be serious...
+- **키누가와 카스미**: Hm...
+- **키누가와 카스미**: Well... Eh... Mm...
+- **키누가와 카스미**: I suppose... But... Hmm...
+- **키누가와 카스미**: Uh, so... Hmm...
+- **키누가와 카스미**: I-Is that my only option?
+- **키누가와 카스미**: It's just... It's so embarassing...
+- **키누가와 카스미**: I mean, I know I sprained my ankle...and it's swelled up bigger than a mushroom cloud...but that doesn't mean I'm completely helpless!
+- **키누가와 카스미**: I can still walk as long as it's super slow. I'd just need a little support.
+- **키누가와 카스미**: Ugh! A piggy back ride, of all things! From Sensei!
+- **키누가와 카스미**: Uhh...!
+- **키누가와 카스미**: Do I absolutely have to?
+- **키누가와 카스미**: Hmm... I see...
+- **키누가와 카스미**: I-I guess I don't have a choice here, do I?
+- **키누가와 카스미**: Haha. Hahaha... Hahaha...!
+- **키누가와 카스미**: You certainly have a knack for negotiation. I've never felt so outmatched as I do right now.
+- **키누가와 카스미**: You know, if other people see us acting that close with each other, they might talk. Are you prepared to handle that, Sensei?
+- **키누가와 카스미**: ...So what if I'm stalling? ...Okay, fine! But you'd better give me that slipper the second we're down the mountain, okay?
+- **키누가와 카스미**: My fate now lies with you, Sensei.
+- **키누가와 카스미**: I-It's nothing. I was just thinking.
+- **키누가와 카스미**: ...Haha.
+- **키누가와 카스미**: It's just... Today's survey outing...
+- **키누가와 카스미**: It wasn't a total loss.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/키누가와 카스미
+- https://bluearchive.wiki (원문 스토리 스크립트)

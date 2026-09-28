@@ -1,0 +1,6 @@
+# Nozomi — official English introduction
+
+A student at the Highlander Railway Academy and an officer of the CCC (Central Control Center). She has a cheerful and lively personality and doesn't worry about small details. Perhaps because of this, Nozomi often gets into trouble with her older twin sister Hikari. Although she's the type to jump right into anything that looks interesting, she is very diligent when it comes to her responsibility for train operations.
+
+Source: https://bluearchive.wiki/wiki/Nozomi
+Status: source-extracted-unreviewed

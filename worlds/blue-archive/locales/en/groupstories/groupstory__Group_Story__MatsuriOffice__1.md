@@ -1,0 +1,109 @@
+# Group Story / MatsuriOffice / 1
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/MatsuriOffice/1
+Status: source-extracted-unreviewed
+
+
+> (It's a leisurely holiday afternoon. Members of the Festival Operations Department have gathered at a corner of Momoyodou.)
+- Shizuko (Festival Operations Department): Whiteboard, check. Dry erase marker, check. Yep, we're good to go!
+- Shizuko (Festival Operations Department): Whenever you're ready, Pina.
+- Pina (Festival Operations Department): Understood!
+- Pina (Festival Operations Department): Now that we have the president's blessing, we will begin!
+- Pina (Festival Operations Department): Now we'll commence with the meeting of the Festival Operations Department! Hiyah!
+- Shizuko (Festival Operations Department): Hmmm...
+- Shizuko (Festival Operations Department): I can't help but wonder... Do we really have to start our meetings like this every time?
+- Pina (Festival Operations Department): Yes! Proper procedure is essential, President!
+- Pina (Festival Operations Department): The Festival Department's regular meeting is an important and delicate ritual!
+- Pina (Festival Operations Department): It's essential we all give it our best effort!
+- Shizuko (Festival Operations Department): If you say so, Pina.
+- Shizuko (Festival Operations Department): Anyway, let's get to the point. The reason why we've gathered here today is simple...
+- Shizuko (Festival Operations Department): The Crowcawcaw shopping district will be holding a festival this coming month.
+- Shizuko (Festival Operations Department): Since we at the Festival Department have been commissioned to be the producers of this festival, we need to give it our all!
+- Shizuko (Festival Operations Department): Unfortunately...Umika isn't with us at the moment. She's doing an on-site investigation for a festival in Gehenna.
+- Shizuko (Festival Operations Department): It's just you and me, Pina. If the two of us put our heads together, we should be able to pull this off.
+- Pina (Festival Operations Department): Got it!
+- Shizuko (Festival Operations Department): Let's get down to business. Do you have any ideas that could help us make this festival a smash hit?
+- Shizuko (Festival Operations Department): I'm open to whatever ideas you've got. Even something small might get the ball rolling.
+- Pina (Festival Operations Department): Hmm...
+- Kaede (Inner Discipline Club): Oh! Me! Me! Me! I've got one! I have a good idea!
+- Tsubaki (Inner Discipline Club): *yawns*
+- Mimori (Inner Discipline Club): Oh, my...
+- Shizuko (Festival Operations Department): Ah, ha!
+- Shizuko (Festival Operations Department): I've been trying to ignore you! Stop getting in the way!
+- Shizuko (Festival Operations Department): More importantly, why are members of the Inner Discipline Club here? Who let these outsiders attend?!
+- Shizuko (Festival Operations Department): Is Momoyodou taking the day off too?!
+- Tsubaki (Inner Discipline Club): *yawn* So, let me explain what happened...
+- Mimori (Inner Discipline Club): The Inner Discipline Club was going on a picnic, so we stopped by to buy some snacks...
+- Mimori (Inner Discipline Club): But we didn't realize that Momoyodou had a holiday today. I'm sorry, Shizuko.
+- Pina (Festival Operations Department): I had to invite them after seeing their sad faces at the front gate, President!
+- Shizuko (Festival Operations Department): Pina?!
+- Pina (Festival Operations Department): We gotta help those in need!
+- Kaede (Inner Discipline Club): That's the truth! I win!
+- Shizuko (Festival Operations Department): I mean, she's right. I know she's right, but...
+- Mimori (Inner Discipline Club): As an apology, here's a packed lunch I made for myself. Would you like to eat it together, Shizuko?
+- Shizuko (Festival Operations Department): Hmm? Ah, thanks! Whoa, does this rice ball have a character on it?
+- Shizuko (Festival Operations Department): That looks delicious! Let me take one...
+- Shizuko (Festival Operations Department): Wait, what am I saying?!
+- Shizuko (Festival Operations Department): This is the Festival Department's regularly scheduled club time! We can't have outsiders here!
+- Pina (Festival Operations Department): That's not true, President!
+- Shizuko (Festival Operations Department): Pina...?
+- Pina (Festival Operations Department): I think that we should take ideas for the festival from outsiders as well, not just come up with our own!
+- Shizuko (Festival Operations Department): Ugh...
+- Pina (Festival Operations Department): Stagnant water is sure to stink!
+- Pina (Festival Operations Department): In other words, in order to make this organization better, we need to embrace other people's perspectives!
+- Pina (Festival Operations Department): It's an idea that was captured perfectly in Loyal Cat's Fist!
+- Shizuko (Festival Operations Department): Ugh, I knew that was from your silly movie!
+- Shizuko (Festival Operations Department): Still... *sigh*
+- Shizuko (Festival Operations Department): All right, Pina. You have a point...
+- Shizuko (Festival Operations Department): Getting a fresh perspective from an outsider can be valuable from time to time...
+- Shizuko (Festival Operations Department): Doing so might even reveal something important that we've been missing.
+- Shizuko (Festival Operations Department): All right, then! I'll allow it!
+- Shizuko (Festival Operations Department): Okay, Inner Discipline Club, if you have a good idea, we're all ears.
+- Kaede (Inner Discipline Club): Huh? For real? Are we allowed to do that?
+- Shizuko (Festival Operations Department): How can you ask that after everything we just said?!
+- Tsubaki (Inner Discipline Club): An idea for the festival? Eh, I don't really care, just so long as I get to sleep... *snores*
+- Shizuko (Festival Operations Department): Hey! Festivals aren't for sleeping!
+- Mimori (Inner Discipline Club): What about you, Kaede?
+- Kaede (Inner Discipline Club): Who, me?
+- Kaede (Inner Discipline Club): As someone who trains hard every day to become a proper lady...
+- Shizuko (Festival Operations Department): (Does she actually have something to say, or is she just here to hang out?)
+- Kaede (Inner Discipline Club): ...I've got a grown-up plan that will bring customers in by the boatload!
+- Shizuko (Festival Operations Department): ...Hold up! A "grown-up" plan? What are you plotting?
+- Pina (Festival Operations Department): Ooh, a grown-up plan! That's exciting!
+- Kaede (Inner Discipline Club): I'm pretty sure that people will flock in from everywhere if we try this out!
+- Shizuko (Festival Operations Department): "Grown-up..." "Flock in from everywhere..."
+- Shizuko (Festival Operations Department): Don't tell me... Are you gonna do something vulgar?!
+- Kaede (Inner Discipline Club): Vulgar?
+- Mimori (Inner Discipline Club): "Vulgar" can mean something shameless, Kaede...
+- Kaede (Inner Discipline Club): Oh! That would definitely be shameless!
+- Mimori (Inner Discipline Club): Excuse me?
+- Shizuko (Festival Operations Department): No! Even if it's for a successful festival, the Festival Department has codes and ethics to upkeep!
+- Shizuko (Festival Operations Department): Even though the shopping district that commissioned us is suffering from a decline in customers, and many stores are on the brink of closing down...
+- Shizuko (Festival Operations Department): And then, when I think about the Merchant Guild president in tears, asking for our help...
+- Shizuko (Festival Operations Department): I want to do whatever I can, I really mean it! Except...
+- Kaede (Inner Discipline Club): So you're getting cold feet now? I see...the president of Festival Department is nothing but a kid...
+- Shizuko (Festival Operations Department): ...B-But!
+- Kaede (Inner Discipline Club): What are you, a little kid? Stop hesitating and spit it out!
+- Kaede (Inner Discipline Club): Well, it would be a forbidden event...
+- Kaede (Inner Discipline Club): A special sale where we'd sell boxes full of cards from Mushiqueen, the popular trading card game. We could sell one box per person!
+- Shizuko (Festival Operations Department): What? "Forbidden"? Say that again...?
+- Pina (Festival Operations Department): Aren't Mushiqueen cards available in very limited quantities? They're usually limited to two packs per person!
+- Pina (Festival Operations Department): You're going to sell one whole box to each person?!
+- Pina (Festival Operations Department): That'll summon a legion of Mushiqueen players from all over Kivotos!
+- Shizuko (Festival Operations Department): Hmm...
+- Kaede (Inner Discipline Club): Correct! And on top of that, we'll hold a special Mushiqueen tournament!
+- Kaede (Inner Discipline Club): Wait, doing this might bring in students from other schools...not only from Hyakkiyako, but Gehenna and even Trinity!
+- Kaede (Inner Discipline Club): If that happens, it would be a tournament of epic proportions. It'll determine the mightiest Mushiqueen player in all of Kivotos!
+- Mimori (Inner Discipline Club): Wow. This is gonna be a great festival.
+- Tsubaki (Inner Discipline Club): Total... Zzz... Chaos...
+- Pina (Festival Operations Department): *gulps* ...This could cause a full-scale war between the academies!
+- Pina (Festival Operations Department): No problem! I won't lose!
+- Pina (Festival Operations Department): President Shizuko! Even if war breaks out, please let me handle it!
+- Shizuko (Festival Operations Department): So, uh, how are we supposed to get the super rare cards...?
+- Shizuko (Festival Operations Department): Never mind that, what I'm trying to say is...
+- Shizuko (Festival Operations Department): The meeting for the festival...the procedure...
+- Shizuko (Festival Operations Department): Ugh...
+- Shizuko (Festival Operations Department): Help me, Umika! When are you coming back?!
+> The Festival Department's Meeting!

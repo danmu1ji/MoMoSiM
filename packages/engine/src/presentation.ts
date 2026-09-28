@@ -2,15 +2,13 @@ import type { ChatNode, Character, Entity } from '@world-player/schema';
 import type { WorldData } from './core.js';
 
 /**
- * 말풍선 상단 영역. 세계관 작성자가 캐릭터에 지정한 `chatImage`/`voice`와,
- * 모델이 응답에 넣은 `[[media:...]]`/`[[audio:...]]` 지시문을 합쳐 하나의 표현으로 만든다.
+ * 말풍선 상단 영역. 세계관 작성자가 캐릭터에 지정한 `chatImage`와
+ * 모델이 응답에 넣은 `[[media:...]]` 지시문을 합쳐 하나의 표현으로 만든다.
  */
 export interface PresentedMessage {
   /** 말풍선 최상단 사진(미디어 id). 없으면 사진 없이 텍스트만 표시한다. */
   image?: string;
-  /** 최상단 재생 버튼으로 표시할 음성(미디어 id 배열). 비어 있으면 음성 없음. */
-  audio: string[];
-  /** 사진·음성을 걷어낸 나머지 본문 노드. */
+  /** 이미지를 걷어낸 나머지 본문 노드. */
   text: ChatNode[];
 }
 
@@ -49,27 +47,17 @@ export function resolveChatImage(data: WorldData | undefined, character: Charact
   return character.banner && data.media.has(character.banner) ? character.banner : undefined;
 }
 
-/** 캐릭터에 지정된 음성 자산(참고용). 답변에 자동으로 붙지는 않는다 — 캐릭터가 고를 때만 재생된다. */
-export function defaultVoice(data: WorldData | undefined, character: Character | Entity | undefined): string | undefined {
-  const voice = (character as Character | undefined)?.voice;
-  return data && voice && data.media.has(voice) ? voice : undefined;
-}
-
 /**
- * 메시지 노드를 말풍선 상단(사진·음성)과 본문으로 나눈다.
- * 모델이 지시문을 문장 중간에 넣어도 항상 상단에 고정되도록 여기서 끌어올린다(hoist).
+ * 메시지 노드를 말풍선 상단 이미지와 본문으로 나눈다.
+ * 모델이 이미지 지시문을 문장 중간에 넣어도 항상 상단에 고정되도록 여기서 끌어올린다.
  */
 export function presentMessage(input: { data?: WorldData; character?: Character | Entity; speakerId?: string; nodes: ChatNode[] }): PresentedMessage {
   const fromNodes = input.nodes.filter(node => node.type === 'media' && node.asset);
-  const audio = input.nodes.filter(node => node.type === 'audio' && node.asset).map(node => node.asset!).filter(asset => !input.data || input.data.media.has(asset));
-  const text = input.nodes.filter(node => node.type !== 'media' && node.type !== 'audio');
+  const text = input.nodes.filter(node => node.type !== 'media');
 
   const character = input.character ?? lookupSpeaker(input.data, input.speakerId);
   const fromCharacter = resolveChatImage(input.data, character);
   const image = fromNodes[0]?.asset && (!input.data || input.data.media.has(fromNodes[0].asset!)) ? fromNodes[0].asset : fromCharacter;
 
-  // 예전에는 답변에 음성이 없으면 캐릭터의 기본 음성을 자동으로 붙였다. 그 결과 말할 필요가 없는
-  // 답변에도 재생 버튼이 항상 따라붙었다. 지금은 **캐릭터가 명시적으로 고른 경우에만** 음성이 붙는다.
-  // 상단 재생 버튼은 하나만 — 모델이 여러 지시문을 내도 말풍선이 플레이어로 뒤덮이지 않게 한다.
-  return { image, audio: audio.slice(0, 1), text };
+  return { image, text };
 }

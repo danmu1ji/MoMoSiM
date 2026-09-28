@@ -32,6 +32,12 @@ describe('markdown importer', () => {
     expect(strFromU8(archive['world.yaml'])).toContain('imported-world');
   });
 
+  it('removes unsupported audio directives without turning them into entity links', () => {
+    const data = importMarkdownFolder({ 'characters/aria.md': '---\ntype: character\n---\n# Aria\n\nHello. [[audio:old-voice-id]]\n' }, { id: 'audio-free', name: 'Audio free' });
+    expect(data.documents.get('characters/aria.md')).not.toContain('[[audio:');
+    expect(data.entities.get('character:aria')?.relations).toEqual([]);
+  });
+
   it('declares the link target ids it expects and slugs non-Latin names', () => {
     expect(slugify('항구 기록')).toBe('항구-기록');
     expect(slugify('  A/B  ')).toBe('a-b');

@@ -1,0 +1,155 @@
+# Group Story / NinpoKenkyubu / 1
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/NinpoKenkyubu/1
+Status: source-extracted-unreviewed
+
+
+> Classroom in Hyakkiyako Old Schoolhouse 38
+- Michiru (Ninjutsu Research Club): Yay! We're finally done filming!
+- Tsukuyo (Ninjutsu Research Club): W-wonderful work, P-President... Would you like some water?
+- Michiru (Ninjutsu Research Club): Thanks, Tsukuyo.
+- Tsukuyo (Ninjutsu Research Club): I also b-brought a towel to wipe your b-brow... and some h-homemade lemon honey!
+- Michiru (Ninjutsu Research Club): Wow! Really?
+- Michiru (Ninjutsu Research Club): Heehee! Don't mind if I do!
+- Michiru (Ninjutsu Research Club): We really make a great team, don't we? Like we were meant to be together.
+- Michiru (Ninjutsu Research Club): And you were way more prepared than I expected, Tsukuyo!
+- Tsukuyo (Ninjutsu Research Club): Oh, it was n-nothing... That's what I'm h-here for...
+- Michiru (Ninjutsu Research Club): Nonsense! You were so helpful at today's shoot!
+- Michiru (Ninjutsu Research Club): If it weren't for your expert skills with that light reflector...
+- Michiru (Ninjutsu Research Club): ...we never would have caught that incredible scene!
+- Michiru (Ninjutsu Research Club): The way the shadows wrapped around the ninja prisoner... Ah!
+- Tsukuyo (Ninjutsu Research Club): Th-That's true... Still... I wish I could be m-more helpful during filming...
+- Tsukuyo (Ninjutsu Research Club): The best I can ever h-hope to be is a filming assistant...
+- Tsukuyo (Ninjutsu Research Club): And I c-can't even do that well... Like this morning...
+- Michiru (Ninjutsu Research Club): Oh that...
+- Michiru (Ninjutsu Research Club): Tsukuyo! Yes, just hold the reflector right there! Perfect!
+- Tsukuyo (Ninjutsu Research Club): O-Okay! Hold the reflector. Simple...
+- Tsukuyo (Ninjutsu Research Club): Huh? Oh, um...
+- Tsukuyo (Ninjutsu Research Club): Hello, there. P-Please don't stand that close.
+- Tsukuyo (Ninjutsu Research Club): I'm doing something v-very important.
+- Tsukuyo (Ninjutsu Research Club): Weaving around my l-legs like that makes it hard for me to do my j-job.
+- Tsukuyo (Ninjutsu Research Club): Please! I don't want to get in t-trouble!
+- Park-Visiting Child A: Whoa! Look at all those cats over there!
+- Park-Visiting Child B: It's like some kind of cat family reunion!
+- Park-Visiting Child A: That's so cool! I'm gonna take a picture!
+- Tsukuyo (Ninjutsu Research Club): Ah! P-Please don't take pictures!
+- Tsukuyo (Ninjutsu Research Club): W-We're in the middle of filming!
+- Michiru (Ninjutsu Research Club): Haha! That was quite a disaster, wasn't it?
+- Tsukuyo (Ninjutsu Research Club): *sniffle* It... It was another 30 minutes before... before we could start shooting again...
+- Tsukuyo (Ninjutsu Research Club): I-I'm so sorry, P-President!
+- Tsukuyo (Ninjutsu Research Club): It's all my f-fault!
+- Michiru (Ninjutsu Research Club): It's not your fault, Tsukuyo.
+- Michiru (Ninjutsu Research Club): They probably just saw all that sunlight and thought it would be a great place to nap.
+- Tsukuyo (Ninjutsu Research Club): *sniffle* Then... I-I'll have to bring treats to distract them n-next time.
+- Michiru (Ninjutsu Research Club): Next time?! I doubt it'll happen again. There's no need to be that well-prepared!
+- Michiru (Ninjutsu Research Club): We'll be just fine without cat treats.
+- Michiru (Ninjutsu Research Club): What do you say, Dame Tsukuyo?
+- Tsukuyo (Ninjutsu Research Club): H-Huh? D-Dame?
+- Tsukuyo (Ninjutsu Research Club): Yeah! Isn't that the proper title for a ninja?
+- Tsukuyo (Ninjutsu Research Club): Well... Y-Yes, sure!
+- Michiru (Ninjutsu Research Club): Let's forget about this morning and focus on what's next!
+- Michiru (Ninjutsu Research Club): It's time to edit the video we captured today!
+- Tsukuyo (Ninjutsu Research Club): U-Understood!
+> About an hour later...
+- Michiru (Ninjutsu Research Club): Hm...
+- Michiru (Ninjutsu Research Club): Hmm...
+- Michiru (Ninjutsu Research Club): Agh!
+- Tsukuyo (Ninjutsu Research Club): P-President! What's wrong?
+- Michiru (Ninjutsu Research Club): I hate to say it, but...
+- Michiru (Ninjutsu Research Club): ...This isn't good enough.
+- Tsukuyo (Ninjutsu Research Club): It's n-not?
+- Michiru (Ninjutsu Research Club): Not even close. I envisioned perfect composition, camera work, edits...
+- Michiru (Ninjutsu Research Club): Between my eye and your skills, I thought...
+- Michiru (Ninjutsu Research Club): Well, I thought it would have more bang!
+- Michiru (Ninjutsu Research Club): And flash! It was going to be so cool!
+- Michiru (Ninjutsu Research Club): But this... It doesn't have that panache I was going for. I can't upload this...
+- Tsukuyo (Ninjutsu Research Club): Oh no...
+- Michiru (Ninjutsu Research Club): It's fine, I suppose. It happens to the best of us.
+- Tsukuyo (Ninjutsu Research Club): I'm so s-sorry! I hope it's not because of m-me!
+- Michiru (Ninjutsu Research Club): Huh?
+- Tsukuyo (Ninjutsu Research Club): I wasn't g-good enough... You worked so hard, and I just g-got in the way!
+- Tsukuyo (Ninjutsu Research Club): I'm a t-terrible n-ninja! *sob*
+- Michiru (Ninjutsu Research Club): It's not because of you, Tsukuyo!
+- Michiru (Ninjutsu Research Club): You're still learning.
+- Michiru (Ninjutsu Research Club): You can't blame yourself for not knowing everything.
+- Tsukuyo (Ninjutsu Research Club): *sob* R-Really...?
+- Michiru (Ninjutsu Research Club): Really. Anyway I haven't liked a lot of our videos recently.
+- Michiru (Ninjutsu Research Club): I think we're just running out of fresh ideas...
+- Michiru (Ninjutsu Research Club): We might have to consider...
+- Tsukuyo (Ninjutsu Research Club): What?
+- Michiru (Ninjutsu Research Club): A new club member.
+- Tsukuyo (Ninjutsu Research Club): A n-new club member!
+- Michiru (Ninjutsu Research Club): I know the Ninjutsu Research Club isn't an official club yet.
+- Michiru (Ninjutsu Research Club): So we don't get any club funds like the others.
+- Michiru (Ninjutsu Research Club): Plus we're banished to a corner of Hyakkiyako... And we're basically trespassing anytime we go into the old school...
+- Tsukuyo (Ninjutsu Research Club): Uh...
+- Michiru (Ninjutsu Research Club): But we can't let that stop us!
+- Michiru (Ninjutsu Research Club): I want more people to learn about ninjas! I want everyone in Kivotos to see how cool and hip and awesome ninjas are!
+- Michiru (Ninjutsu Research Club): It's been months since we started the "Michiruchi, a Girl's Ninja Scroll" channel to do just that...
+- Michiru (Ninjutsu Research Club): But we have no more subscribers than when we started.
+- Michiru (Ninjutsu Research Club): Worse, no one's interacting with our videos. Not even negative comments!
+- Michiru (Ninjutsu Research Club): The only comment we got recently was this.
+- Michiru (Ninjutsu Research Club): This one right here.
+- Michiru (Ninjutsu Research Club): O.C. said, "This is so much fun! It's the best!"
+- Michiru (Ninjutsu Research Club): But you wrote this comment, Tsukuyo!
+- Tsukuyo (Ninjutsu Research Club): That's b-because I really like your v-videos.
+- Tsukuyo (Ninjutsu Research Club): I d-don't always understand them, but...
+- Tsukuyo (Ninjutsu Research Club): I'm sorry.
+- Michiru (Ninjutsu Research Club): No, no! I'm glad you like them. But commenting on our own videos is so...
+- Michiru (Ninjutsu Research Club): Ugh. We just need new content, something fresh...
+- Michiru (Ninjutsu Research Club): And a new club member is bound to freshen things up!
+- Tsukuyo (Ninjutsu Research Club): Hm... A new club member...
+- Tsukuyo (Ninjutsu Research Club): I hope they're a r-real ninja! Heehee!
+- Michiru (Ninjutsu Research Club): I doubt it. I don't think ninjas even exist anymore.
+- Tsukuyo (Ninjutsu Research Club): Oh, really? I d-didn't know that.
+- Michiru (Ninjutsu Research Club): Yeah. I thought it was common knowledge.
+- Michiru (Ninjutsu Research Club): Regardless, they existed at some point.
+- Michiru (Ninjutsu Research Club): Which means we can still learn from their philosophy!
+- Michiru (Ninjutsu Research Club): Once we've fully adopted the ninja mindset and ideology, we can consider ourselves true ninja companions!
+- Michiru (Ninjutsu Research Club): The only problem is... Ninja companions are hard to find.
+- Michiru (Ninjutsu Research Club): We need someone who doesn't think ninjas are stupid, agrees with us, and wants to join the Ninjutsu Research Club.
+- Michiru (Ninjutsu Research Club): Someone who's perfectly in sync with us! And she should be cute, because... Well, what better way to represent ninjas?
+- Michiru (Ninjutsu Research Club): I wonder if there's anyone like that out there?
+- Tsukuyo (Ninjutsu Research Club): I'm sorry... I don't have any f-friends like that...
+- Tsukuyo (Ninjutsu Research Club): And I'm not c-cute...
+- Michiru (Ninjutsu Research Club): What? You're super cute, Tsukuyo!
+- Tsukuyo (Ninjutsu Research Club): Oh, t-thank you. But since we're not an official club...
+- Tsukuyo (Ninjutsu Research Club): Do you think anyone will w-want to join?
+- Michiru (Ninjutsu Research Club): Straight to the point, huh, Tsukuyo?
+- Tsukuyo (Ninjutsu Research Club): I'm s-sorry!
+- Michiru (Ninjutsu Research Club): No, you're right. That's bound to be a problem.
+- Michiru (Ninjutsu Research Club): But sitting around moping about it won't help.
+- Michiru (Ninjutsu Research Club): We'll always succeed if we try hard enough! After all, we're ninja companions teaching the world about the ninja way of life!
+- Michiru (Ninjutsu Research Club): And we're way past the point of being mere fans. We may as well call ourselves ninjas right now!
+- Michiru (Ninjutsu Research Club): One day, everyone will know who we are—the Ninjutsu Research Club!
+- Michiru (Ninjutsu Research Club): We'll never give up! No matter what!
+- Michiru (Ninjutsu Research Club): Come on! Let's recruit a new club member and get more subscribers! We'll be an official club in no time!
+- Michiru (Ninjutsu Research Club): Remember the philosophy in Ninja Ninpero.
+- Michiru (Ninjutsu Research Club): A ninja never gives up, no matter the adversity!
+- Tsukuyo (Ninjutsu Research Club): Y-Yes!
+- Michiru (Ninjutsu Research Club): Okay. Let me figure out what we'll be filming tomorrow. In the meantime, you can—
+- Tsukuyo (Ninjutsu Research Club): Huh?!
+- Michiru (Ninjutsu Research Club): What?
+- Tsukuyo (Ninjutsu Research Club): We have a g-guest?
+- Michiru (Ninjutsu Research Club): A guest here? Is that even possible?!
+- Tsukuyo (Ninjutsu Research Club): Hm...
+- Michiru (Ninjutsu Research Club): Maybe it's Hyakkaryouran! Or a raccoon from the Yin-Yang Club?
+- Michiru (Ninjutsu Research Club): I bet they found out we've been trespassing and came here to kick us out!
+- Tsukuyo (Ninjutsu Research Club): Kick us... Huh?!
+- Michiru (Ninjutsu Research Club): I always knew this day would come.
+- Tsukuyo (Ninjutsu Research Club): President! What do we d-do?!
+- Michiru (Ninjutsu Research Club): Stay calm, Tsukuyo! Remember that saying...
+- Michiru (Ninjutsu Research Club): Even when facing a tiger, um... Remain calm, um... something, something... you'll succeed!
+- Tsukuyo (Ninjutsu Research Club): A t-tiger? That sounds scary!
+- ???: Excuse me!
+- Tsukuyo (Ninjutsu Research Club): President?
+- Michiru (Ninjutsu Research Club): Stuff it! We're not leaving! Long live the Ninjutsu Research Club!
+- Izuna (Ninjutsu Research Club): ...?
+- Michiru (Ninjutsu Research Club): Wait... You don't look like you're from the Yin-Yang Club or Hyakkaryouran.
+- Tsukuyo (Ninjutsu Research Club): Who are y-you?
+- Izuna (Ninjutsu Research Club): Oh! I should introduce myself. My name is Izuna!
+- Izuna (Ninjutsu Research Club): I want to join the Ninjutsu Research Club!
+- Michiru (Ninjutsu Research Club): ...
+- Michiru (Ninjutsu Research Club): ...Eh?

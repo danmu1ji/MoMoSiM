@@ -1,20 +1,19 @@
 # Release readiness
 
-## Prepared
+## Prepared in the current working tree
 
-- Player-only Vite build; editor pages and launcher have been removed.
-- Source installer supports Windows, macOS, and Linux, optional local TTS/reference/image/world assets, and private GitHub release downloads with SHA-256 verification.
-- `NOTICE.md` records current third-party model, runtime, direct application library, font, and wiki-text provenance.
-- Generated builds, abandoned model environments, and downloaded benchmark weights were removed; benchmark reports, scripts, logs, and demo audio were retained.
+- The web player has no editor page or audio playback/voice generation controls.
+- The Blue Archive package source and generated `.😭` archive contain only text and metadata; images, audio, and derived voice references were removed.
+- `worlds/` archives are listed in the startup world picker, and the repository ignore rules allow the media-free package to ship.
+- Python entry points replace shell and PowerShell launchers. The installer prepares Node.js, pnpm, dependencies, and a build before it finishes.
+- `NOTICE.md`, bilingual READMEs, the volunteer artwork contribution specification, and local model setup helper are present.
 
-## Required before publication
+## Remaining publication work
 
-1. Create the private `danmu1ji/momo-sim` repository and authenticate. The current `origin` still points at `danmu1ji/world-player`; this checkout has substantial existing uncommitted work, so review and stage an intentional file list before pushing.
-2. Choose and publish a license for original MoMoSiM code. No project-wide license is declared yet.
-3. Record the exact CrispASR release, binary hashes, and matching upstream third-party notices. The runtime currently downloads the moving `latest` release.
-4. Keep Blue Archive art, game audio, and derived voice references out of releases until redistribution rights are confirmed. The installer asks for an explicit rights confirmation if locally present assets are selected; that confirmation is not itself a license.
-5. Capture stable Fandom revision IDs for every adapted appearance description. Several profiles currently record that the accessible copy did not expose the revision ID.
-6. Produce platform release archives named with `windows`, `macos`, or `linux` (or `universal`) plus `SHA256SUMS.txt`; the installer verifies these checksums before extraction. Build and smoke-test each package on its target platform.
-7. Generate and review a dependency inventory/SBOM and complete license set for each exact shipped release, including transitive packages, runtime-downloaded components, platform-specific integrations, and retained notices.
+1. Choose and publish a license for original DanmuTalk code.
+2. Review the Blue Archive-derived text sources and their attribution/licensing obligations before distributing that package.
+3. Select and legally review the artwork contribution license wording before enabling public submissions.
+4. Generate and review a complete dependency inventory/SBOM for each exact release artifact, including transitive packages and platform integrations.
+5. Build and smoke-test Windows, macOS, and Linux installs on their target platforms.
 
-The installer can be used from a source checkout now. A GitHub update download cannot succeed until the private repository contains a compatible release and the caller has authorized GitHub access with `gh auth login` or `GH_TOKEN`.
+No release has been published by this change; nothing was pushed.

@@ -1,0 +1,380 @@
+# 네코즈카 히비키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 8편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 네코즈카 히비키, 선생(샬레)
+
+1. **「네코즈카 히비키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「네코즈카 히비키 인연 스토리 2」**
+
+- **네코즈카 히비키**: Neither of those is a good choice.
+- **네코즈카 히비키**: Neither of those is a good choice.
+- **네코즈카 히비키**: What's up, Sensei? The General Student Council sent me a request, so I was in the neighborhood.
+- **네코즈카 히비키**: What kind? You know, just regular maintenance on the machinery.
+- **네코즈카 히비키**: Some of the devices used at the General Student Council were originally owned by Millennium.
+- **네코즈카 히비키**: But no one around here seems to know how any of it works.
+- **네코즈카 히비키**: Anyway, your phone is going to be fine, so don't worry.
+- **네코즈카 히비키**: That means I can help you.
+- **네코즈카 히비키**: I can make it into something more than just a boring old cell phone.
+- **네코즈카 히비키**: I'm part of the Engineering Department! No one from Millennium knows their way around machines better than we do.
+- **네코즈카 히비키**: That's why we're proud to call ourselves meisters!
+- **네코즈카 히비키**: So after taking a look at your phone...
+- **네코즈카 히비키**: ...I'd say you overloaded the motherboard while charging it.
+- **네코즈카 히비키**: You should be good if you replace a capacitor on it...
+- **네코즈카 히비키**: ...but I think it wouldn't hurt to go the extra step while we're at it.
+- **네코즈카 히비키**: Hmm... How about adding a self-destruction system?
+- **네코즈카 히비키**: I know, right? I'll get on it right away.
+- **네코즈카 히비키**: Oh... Right.
+- **네코즈카 히비키**: I just remembered they put in a rule about us not making self-destruction systems anymore...
+- **네코즈카 히비키**: *sigh* Our club has a checkered past, and a few members have backstories that follow them everywhere.
+- **네코즈카 히비키**: But we have our reasons for that. Our club is always looking for ways to innovate.
+- **네코즈카 히비키**: So, sorry. Looks like I'll need to get approval from the higher-ups before I can add that function for you.
+- **네코즈카 히비키**: Putting that aside, Sensei... I bet you're wondering why you'd need a self-destruction function—especially after I just fixed it.
+- **네코즈카 히비키**: Stop and think about it.
+- **네코즈카 히비키**: Your cell phone contains lots of important information—the kind even your other devices don't have.
+- **네코즈카 히비키**: You know, like personal information tied to your identity.
+- **네코즈카 히비키**: What better way to protect it than to build in a self-destruct function? It's so simple.
+- **네코즈카 히비키**: What, you think self-destructing goes against the whole point of protecting it?
+- **네코즈카 히비키**: And that way your phone can double as a bomb or grenade if you ever need one!
+- **네코즈카 히비키**: Fine, fine. I guess I can't force you to see the light.
+- **네코즈카 히비키**: There. Your phone's all fixed.
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: It should work fine now.
+- **네코즈카 히비키**: Give me a call if your phone or any of your other electronics go on the fritz.
+- **네코즈카 히비키**: I'd be happy to lend a hand.
+
+3. **「네코즈카 히비키 인연 스토리 3」**
+
+- **네코즈카 히비키**: *cough* *cough*
+- **네코즈카 히비키**: Maybe we used too much gunpowder? I never claimed to be an expert in chemistry...
+- **네코즈카 히비키**: Huh?
+- **네코즈카 히비키**: Sensei...?
+- **네코즈카 히비키**: That...? It's no big deal.
+- **네코즈카 히비키**: This is what I texted you about. I'm putting a fireworks machine together!
+- **네코즈카 히비키**: Hyakkiyako is famous for its fireworks shows...
+- **네코즈카 히비키**: ...and Millennium is lending a hand with the night festival's prep.
+- **네코즈카 히비키**: That's where I come in. I'm making a machine that will make the fireworks show one to remember.
+- **네코즈카 히비키**: The explosion was...just a little setback.
+- **네코즈카 히비키**: Anyway, I asked you to come over because there's something I want to show you.
+- **네코즈카 히비키**: I'm working on something that can create fireworks with pure science and technology, rather than old fashioned chemistry.
+- **네코즈카 히비키**: It's a new type of machine unlike anything that's been used before! I've developed a true to life hologram projector!
+- **네코즈카 히비키**: Sure is. I call it a volumetric display.
+- **네코즈카 히비키**: Well, it's not like this has never been done before.
+- **네코즈카 히비키**: Hologram technology has been around for a while, you know.
+- **네코즈카 히비키**: You know those shiny bits inside cash and on credit cards that prevent counterfeiting? That's a type of hologram too.
+- **네코즈카 히비키**: Basically, this projector is going to display all types of fireworks into the night sky.
+- **네코즈카 히비키**: And it won't be nearly as dangerous as using fireworks full of gunpowder. With enough resources, we can put up as many fireworks as we want.
+- **네코즈카 히비키**: Huh? You think it's missing something?
+- **네코즈카 히비키**: Hologram fireworks won't have the same impact as real fireworks?
+- **네코즈카 히비키**: That's where you're wrong! The fact that they're holograms is what makes them unique.
+- **네코즈카 히비키**: I think they can be just as good as, or even better than, real fireworks!
+- **네코즈카 히비키**: Though...you're not looking very convinced.
+- **네코즈카 히비키**: Maybe you know more about fireworks than I do.
+- **네코즈카 히비키**: All right. Let's hear your thoughts, then.
+- **네코즈카 히비키**: What about this? I didn't put as many hours into this one as I did the hologram project...
+- **네코즈카 히비키**: ...but it emits light, has colored smoke, and has a really nice grand finale explosion built in.
+- **네코즈카 히비키**: It's the closest solution I have to the real thing.
+- **네코즈카 히비키**: Well, it did once burn down a crime syndicate's hideout.
+- **네코즈카 히비키**: Well, it did once burn down a crime syndicate's hideout.
+- **네코즈카 히비키**: People were yelling and screaming at the top of their lungs when that happened... That's kind of like a fireworks show, right?
+- **네코즈카 히비키**: What, you don't think that'll work either? Never in a million years?
+- **네코즈카 히비키**: Well, that's a shame. I guess I could always recreate the explosion I set off earlier and count that as fireworks.
+- **네코즈카 히비키**: But that would be way too easy to do! Where's the fun in that?
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: *sigh* I'm so embarrassed.
+- **네코즈카 히비키**: I just wanted to impress you with something cool.
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: Heehee. Thanks.
+- **네코즈카 히비키**: Wait! I wouldn't touch those switches.
+- **네코즈카 히비키**: One of them will launch this missile.
+- **네코즈카 히비키**: Oh...
+- **네코즈카 히비키**: Oh...
+- **네코즈카 히비키**: Oh, no... It launched!
+- **네코즈카 히비키**: ...
+
+4. **「네코즈카 히비키 인연 스토리 4」**
+
+- **네코즈카 히비키**: There you are!
+- **네코즈카 히비키**: This is the first time the sports department has sent me a request.
+- **네코즈카 히비키**: Now if only I knew anything about baseball.
+- **네코즈카 히비키**: All I know is that you have to hit the ball with a bat and get a home run.
+- **네코즈카 히비키**: I'm pretty sure, anyway. You have to hit the ball the pitcher throws to score points for your team.
+- **네코즈카 히비키**: I'm pretty sure, anyway. You have to hit the ball the pitcher throws to score points for your team.
+- **네코즈카 히비키**: When it comes to inventing, the most important thing is...
+- **네코즈카 히비키**: ...knowing what "purpose" your invention will serve.
+- **네코즈카 히비키**: So I asked myself, "How can I help the Millennium Baseball Club reach their goal of making the Interhigh Championship?"
+- **네코즈카 히비키**: I came to one simple conclusion:
+- **네코즈카 히비키**: To do that, they have to be skilled enough to get base hits against even the best pitcher.
+- **네코즈카 히비키**: I then got to work on creating something special.
+- **네코즈카 히비키**: I call it the "Pitching Machine from Hell."
+- **네코즈카 히비키**: All I need to do now is test and fine-tune it.
+- **네코즈카 히비키**: Sensei.
+- **네코즈카 히비키**: Would you do me the honor of standing in the batter's box?
+- **네코즈카 히비키**: You don't have to worry about that.
+- **네코즈카 히비키**: Even I know that the goal of baseball isn't to kill the batter.
+- **네코즈카 히비키**: So that's what you think, huh...?
+- **네코즈카 히비키**: Let's get started.
+- **네코즈카 히비키**: First up: annihilation mode... Wait, I decided not to include that feature.
+- **네코즈카 히비키**: One more time.
+- **네코즈카 히비키**: Fire! Oops, I mean...
+- **네코즈카 히비키**: Let's get pitching!
+- **네코즈카 히비키**: The average speed of a major league pitcher is about 140 kilometers per hour.
+- **네코즈카 히비키**: A pitcher who was crowned MVP of the Interhigh Championship is sure to throw just as fast.
+- **네코즈카 히비키**: Keep in mind speed is relative, though.
+- **네코즈카 히비키**: So if you practiced against balls even faster than that...then hitting balls at 140 kilometers per hour should be a piece of cake.
+- **네코즈카 히비키**: Ready? Here comes the first pitch.
+- **네코즈카 히비키**: Since we're only warming up, I'll only crank this one up to Mach 2.
+- **네코즈카 히비키**: Don't worry.
+- **네코즈카 히비키**: I know that.
+- **네코즈카 히비키**: What kind of pitching machine would it be if it didn't have a curveball?
+- **네코즈카 히비키**: Pitchers that only throw fastballs are easy to hit against, right?
+- **네코즈카 히비키**: There's also forkballs, sinkers, sliders...even knuckleballs.
+- **네코즈카 히비키**: Part of the game is pitching in an unpredictable trajectory...
+- **네코즈카 히비키**: Changeups are slower than fastballs, but they can be just as menacing.
+- **네코즈카 히비키**: But hitting typical changeups and straight pitches isn't enough.
+- **네코즈카 히비키**: That alone won't earn the team a berth into the Interhigh Championship.
+- **네코즈카 히비키**: So I racked my brain until I thought of a special function to help them out.
+- **네코즈카 히비키**: Don't be alarmed, now.
+- **네코즈카 히비키**: This pitching machine can throw something called a "Magicball."
+- **네코즈카 히비키**: As soon as it leaves the pitcher's hand...it disappears.
+- **네코즈카 히비키**: Or is the Magicball the one that goes up in flames? I can't remember.
+- **네코즈카 히비키**: Wait... There's also the one that splits up into a bunch of different balls so that you can't tell which one to hit.
+- **네코즈카 히비키**: There's also the one that emits a magnetic field and electrocutes the batter...
+- **네코즈카 히비키**: Actually, it's quite simple.
+- **네코즈카 히비키**: Actually, it's quite simple.
+- **네코즈카 히비키**: The driving principle is basic: the Magicball uses optical camouflage and the flaming ball is coated with a flammable material so it can ignite.
+- **네코즈카 히비키**: The Magicball has technology you're familiar with. It uses a hologram of multiple balls flying at the same speed.
+- **네코즈카 히비키**: As for the magnetball...
+- **네코즈카 히비키**: Huh? You think that's cheating?
+- **네코즈카 히비키**: *sigh* I'll never understand sports.
+- **네코즈카 히비키**: Still, I get your point. I'll do what I can within the rules to make improvements to the changeups.
+- **네코즈카 히비키**: Thanks for all the help, Sensei.
+- **네코즈카 히비키**: There's one other thing I wanted to add too...
+- **네코즈카 히비키**: A wireless speaker.
+- **네코즈카 히비키**: Experienced pitchers don't need to waste time throwing checks to first base.
+- **네코즈카 히비키**: They can guarantee strikes without having to even pitch the ball—with words and mind games.
+- **네코즈카 히비키**: That's why I gave my pitching machine the ability to trash talk.
+
+5. **「네코즈카 히비키 인연 스토리 5」**
+
+- **네코즈카 히비키**: Sleep is vital to your health.
+- **네코즈카 히비키**: I've always been able to fall asleep anywhere as long as I can lie down.
+- **네코즈카 히비키**: I can't imagine how awful it must be to have insomnia...
+- **네코즈카 히비키**: ...but I do know a lot of people suffer from it.
+- **네코즈카 히비키**: Huh? You think I've begun to get bags under my eyes?
+- **네코즈카 히비키**: I suppose I have been pulling too many all-nighters these days...
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: Come on, don't stare at me like that.
+- **네코즈카 히비키**: Anyway! Nighttime can be stressful for insomniacs.
+- **네코즈카 히비키**: That's why I've developed two new products.
+- **네코즈카 히비키**: The first one is what I like to call...
+- **네코즈카 히비키**: ...the Fainting Machine.
+- **네코즈카 히비키**: On the contrary.
+- **네코즈카 히비키**: It's more like a bed.
+- **네코즈카 히비키**: Granted, there are always exceptions...
+- **네코즈카 히비키**: ...but most people spend a third of their life sleeping.
+- **네코즈카 히비키**: In other words, you spend a third of your life lying on your bed.
+- **네코즈카 히비키**: Here. Try lying down on this pillow-shaped machine.
+- **네코즈카 히비키**: What, are you still concerned about the "fainting" part?
+- **네코즈카 히비키**: Well...it's not like I'm in expert in ergonomics...
+- **네코즈카 히비키**: All I know is that people often claim to be well-rested after waking up from fainting.
+- **네코즈카 히비키**: Do you think fainting is unhealthy to begin with?
+- **네코즈카 히비키**: Hm... Good point.
+- **네코즈카 히비키**: To be fair, this is still only a prototype.
+- **네코즈카 히비키**: I have something else that you might be interested in.
+- **네코즈카 히비키**: I call it...
+- **네코즈카 히비키**: ...the Knockout Pipe.
+- **네코즈카 히비키**: Why are you backing away from me?
+- **네코즈카 히비키**: Hear me out first.
+- **네코즈카 히비키**: This method may be a bit crude...but the Knockout Pipe is scientifically proven to work!
+- **네코즈카 히비키**: You worry too much. It's only meant to strike the occipital region of your head.
+- **네코즈카 히비키**: It's not going to KILL you.
+- **네코즈카 히비키**: That's not all. This bad boy...
+- **네코즈카 히비키**: ...is equipped with my favorite feature.
+- **네코즈카 히비키**: Bluetooth.
+- **네코즈카 히비키**: Bluetooth.
+- **네코즈카 히비키**: It comes pre-loaded with 10 different physics lectures that will put you right to sleep.
+- **네코즈카 히비키**: There are also over 200 sleep-inducing songs, depending on what genres you're into.
+- **네코즈카 히비키**: Really?
+- **네코즈카 히비키**: Really?
+- **네코즈카 히비키**: Okay, Sensei. I've prepared this bed for you.
+- **네코즈카 히비키**: Please lie down.
+- **네코즈카 히비키**: Great. Now to turn on the music.
+- **네코즈카 히비키**: The Knockout Pipe is now...good to go!
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: Heh... You must have been pretty tired, Sensei.
+- **네코즈카 히비키**: You passed out as soon as the music started.
+- **네코즈카 히비키**: I'm calling this one a success thanks to you.
+- **네코즈카 히비키**: And...
+- **네코즈카 히비키**: ...Heehee.
+- **네코즈카 히비키**: You look so cute when you're sleeping.
+
+6. **「네코즈카 히비키 인연 스토리 6」**
+
+- **네코즈카 히비키**: Oh, Sensei.
+- **네코즈카 히비키**: Are you here to checkout a book?
+- **네코즈카 히비키**: What? Wondering what I'm doing here?
+- **네코즈카 히비키**: Heh. I bet you're curious about this book I'm reading.
+- **네코즈카 히비키**: Take a guess!
+- **네코즈카 히비키**: Haha. Nope!
+- **네코즈카 히비키**: Haha. Nope!
+- **네코즈카 히비키**: Haha. Nope!
+- **네코즈카 히비키**: Ta-da! It's this.
+- **네코즈카 히비키**: You're not the first person to be surprised.
+- **네코즈카 히비키**: The thing is...after all the lab time we've spent together, Sensei...
+- **네코즈카 히비키**: ...I want to understand human emotions just as well as I understand logic.
+- **네코즈카 히비키**: The reality is that physics and psychology couldn't be more different.
+- **네코즈카 히비키**: It's a totally new domain for me.
+- **네코즈카 히비키**: Physics can answer why there's a ripple effect when a stone drops in a body of water...
+- **네코즈카 히비키**: ...but only psychology can explore why the words we say to one another can cause the same effect on someone's heart.
+- **네코즈카 히비키**: I don't have experience in those kinds of subjects...so that's why I wanted to study it.
+- **네코즈카 히비키**: And maybe...what I learn will prove useful to you too, Sensei!
+- **네코즈카 히비키**: Heh. Thanks. I appreciate it.
+- **네코즈카 히비키**: Hmm? Now that I think about it...
+- **네코즈카 히비키**: You don't look like you came here to borrow a book, Sensei.
+- **네코즈카 히비키**: Oh, I get it.
+- **네코즈카 히비키**: Well, look no further. I've created the perfect thing for just this situation...
+- **네코즈카 히비키**: Hey, now... It doesn't have a self-destruct feature...
+- **네코즈카 히비키**: But all right.
+- **네코즈카 히비키**: A Millennium meister knows how to take those kinds of orders too.
+- **네코즈카 히비키**: I've invented...
+- **네코즈카 히비키**: ...something that could change the world of umbrellas as we know it.
+- **네코즈카 히비키**: Fine. I guess I don't have much choice.
+- **네코즈카 히비키**: If you want a regular old umbrella...the only one I have is my own.
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: ...Heehee.
+- **네코즈카 히비키**: Should we share it?
+- **네코즈카 히비키**: It just so happens I was about to make my way to Schale.
+- **네코즈카 히비키**: Ah, wait a minute. There's another book I need.
+- **네코즈카 히비키**: Let's go, Sensei.
+- **네코즈카 히비키**: ...I guess an ordinary umbrella isn't so bad.
+
+7. **「네코즈카 히비키 인연 스토리 7」**
+
+- **네코즈카 히비키**: Sensei!
+- **네코즈카 히비키**: About time.
+- **네코즈카 히비키**: Thanks, but I don't have time for chitchat.
+- **네코즈카 히비키**: Someone is causing trouble in Power Plant 1, just across the Millennium bridge.
+- **네코즈카 히비키**: It must be a group that holds a grudge against Millennium.
+- **네코즈카 히비키**: The academy is going to lose power at this rate.
+- **네코즈카 히비키**: We're lucky this is happening in broad daylight.
+- **네코즈카 히비키**: If something isn't done to fix this by nightfall...
+- **네코즈카 히비키**: ...then all of Millennium will be stranded in the dark.
+- **네코즈카 히비키**: I'm dead serious.
+- **네코즈카 히비키**: Does a high-tech academy like this look like it has candles and flashlights lying around?
+- **네코즈카 히비키**: More importantly...there's a big event scheduled for tonight.
+- **네코즈카 히비키**: A lot of students have been looking forward to it.
+- **네코즈카 히비키**: Especially me!
+- **네코즈카 히비키**: We have to do something about the power plant.
+- **네코즈카 히비키**: The Engineering Department's leaders are doing everything they can to fix the power from this side.
+- **네코즈카 히비키**: The power plant is my responsibility, though, so I have to go myself.
+- **네코즈카 히비키**: I need your help, Sensei.
+- **네코즈카 히비키**: This is worse than I thought...
+- **네코즈카 히비키**: There must have been a fierce battle here.
+- **네코즈카 히비키**: Okay, Sensei. Let's get to work!
+- **네코즈카 히비키**: Checking the first core... Oh, no. It's totally busted.
+- **네코즈카 히비키**: Switching with the auxiliary core I brought and...perfect. That's the first core connected!
+- **네코즈카 히비키**: Energy flow confirmed! Thank goodness the power supply itself wasn't damaged.
+- **네코즈카 히비키**: Still, this is going to take a while.
+- **네코즈카 히비키**: All 13 cores could be in the same condition.
+- **네코즈카 히비키**: Even if we go as fast as we can, we might not finish before dark.
+- **네코즈카 히비키**: Third core checked! Luckily, it's not too damaged, so if we just restore the wires...!
+- **네코즈카 히비키**: Seventh core down... I was barely able to repair it. Phew. That was really hard.
+- **네코즈카 히비키**: We're only about...halfway there.
+- **네코즈카 히비키**: We're only about...halfway there.
+- **네코즈카 히비키**: What should we do? If we don't make it in time...
+- **네코즈카 히비키**: *sob*
+- **네코즈카 히비키**: ...Right.
+- **네코즈카 히비키**: ...No!
+- **네코즈카 히비키**: I can't give up.
+- **네코즈카 히비키**: I may not finish on time...
+- **네코즈카 히비키**: ...but what kind of meister would I be if I gave up now?
+- **네코즈카 히비키**: That's...what you wanted to hear, right, Sensei?
+- **네코즈카 히비키**: Yeah. I'll do everything I can.
+- **네코즈카 히비키**: I'm going to give it...my all?
+- **네코즈카 히비키**: Hey, the eighth core seems fine.
+- **네코즈카 히비키**: D-Don't tell me...!
+- **네코즈카 히비키**: The ninth core is barely damaged?
+- **네코즈카 히비키**: I'm going to finish with time to spare at this rate!
+- **네코즈카 히비키**: Sensei!
+- **네코즈카 히비키**: Hurry!
+- **SYSTEM**: All 13 cores connected! Restarting the system now...
+- **네코즈카 히비키**: Please work... Please work...
+- **네코즈카 히비키**: Yes! We did it!
+- **네코즈카 히비키**: Thank you so much, Sensei!
+- **네코즈카 히비키**: I was able to get the power back on thanks to you.
+- **네코즈카 히비키**: This is only a temporary fix, though. Proper repairs will have to be done later, but still...
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: I want to repay you for all of your support, Sensei.
+- **네코즈카 히비키**: Do you remember my promise? When I said I'd show you something even better than the fireworks?
+- **네코즈카 히비키**: I think it's time I made good on that.
+- **네코즈카 히비키**: Could you follow me for a bit?
+- **네코즈카 히비키**: I know I'm only reiterating myself...but let me say it again.
+- **네코즈카 히비키**: ― Thank you, Sensei. You made this great view possible.
+
+8. **「네코즈카 히비키 인연 스토리 8」**
+
+- **네코즈카 히비키**: Ah, Sensei. Just a second...
+- **네코즈카 히비키**: Here. Your newly repaired bike.
+- **네코즈카 히비키**: I really considered adding some mods.
+- **네코즈카 히비키**: But then I remembered how many times you explicitly insisted that I "only do repairs," so I stopped myself.
+- **네코즈카 히비키**: Although I really would have liked to add a high-velocity grenade launcher or flamethrower. For safety reasons, of course...
+- **네코즈카 히비키**: You could at least switch to airless, titanium tires.
+- **네코즈카 히비키**: I mean, what will you do if you run into spike strips on the road? Your tires would get completely shredded.
+- **네코즈카 히비키**: Well, I guess if that's really what you want...I'll let it go. Just this once.
+- **네코즈카 히비키**: But...modifications are every engineer's dream. Why are you so afraid of them?
+- **네코즈카 히비키**: You think that sometimes purity is best...? Hm...
+- **네코즈카 히비키**: There's a certain beauty there that I can respect. Respecting something's origins can have meaning, too.
+- **네코즈카 히비키**: However! Adding more functions through modifications is also beautiful! The act of maximizing efficiency to its ultimate level...
+- **네코즈카 히비키**: And it's unwieldy to juggle a whole menagerie of tools. Isn't it better to combine multiple different features into one?
+- **네코즈카 히비키**: The more I think about it, the more I think we should spice up your bike.
+- **네코즈카 히비키**: Heehee. You get it, Sensei!
+- **네코즈카 히비키**: For example... Let me see...
+- **네코즈카 히비키**: Ah, yes. Behold these beauties.
+- **네코즈카 히비키**: You could call them that. But now that they've undergone modification after modification...
+- **네코즈카 히비키**: ...they're a priceless masterpiece. The embodiment of versatility and functionality.
+- **네코즈카 히비키**: They have so many uses now that my work would suffer if I didn't have them.
+- **네코즈카 히비키**: Exactly. Naturally, they have the inherent feature of eye protection.
+- **네코즈카 히비키**: But not just from welding sparks. They can also withstand the harsh gusts of the desert or wind pressure from a freefall.
+- **네코즈카 히비키**: These goggles also protect against blue light, UV rays, and bullets.
+- **네코즈카 히비키**: Oh, and its zoom feature is really useful for when I'm sewing.
+- **네코즈카 히비키**: Precisely. All good cosplay begins with sewing, after all.
+- **네코즈카 히비키**: Starting with fabric cutting to seam treatments, you have to determine and implement the appropriate method on a case-by-case basis.
+- **네코즈카 히비키**: Even with the newest sewing machines, threading a tight stitch in a small area again and again is a battle of the senses. Crystal clear vision is essential.
+- **네코즈카 히비키**: That's why I added a 15-level multifocal lens. At maximum level, you can even view the stitches and fabric on a molecular level.
+- **네코즈카 히비키**: I technically haven't had the need for it yet, but it's important to know the capability is there.
+- **네코즈카 히비키**: Can you guess at some of the other functionalities, Sensei?
+- **네코즈카 히비키**: Heehee. You hit the mark. I've added a survey feature, which includes a GPS-system.
+- **네코즈카 히비키**: You'll never need to work with another operator to fire mortars again, as long as you have these goggles.
+- **네코즈카 히비키**: Infrared navigation? Of course. Night operations are no obstacle.
+- **네코즈카 히비키**: On my pride as a meister, I can confidently say I've added every possible feature a student would need.
+- **네코즈카 히비키**: O-Oh... Uh... Self-destruct...?
+- **네코즈카 히비키**: Um... For these goggles...
+- **네코즈카 히비키**: No, I didn't install a self-destruct feature.
+- **네코즈카 히비키**: You are correct that it's almost a given to add it to a meister's inventions.
+- **네코즈카 히비키**: But...for some strange reason, I didn't feel the same urge with this particular masterpiece.
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: I can't put my finger on it. Maybe I still haven't fully matured into the mindset of a true meister.
+- **네코즈카 히비키**: Why's that?
+- **네코즈카 히비키**: ...
+- **네코즈카 히비키**: You're right, Sensei.
+- **네코즈카 히비키**: I've been using these goggles for...a long time now.
+- **네코즈카 히비키**: At first, I just liked their aesthetic. But then, I put a lot of work into them, modifying them whenever the situation arose.
+- **네코즈카 히비키**: After all this time...
+- **네코즈카 히비키**: You're right. They became really important to me, somewhere along the way.
+- **네코즈카 히비키**: These feelings...stopped me from adding a self-destruct feature.
+- **네코즈카 히비키**: I didn't want to even consider a situation where they could explode. I guess they're pretty sentimental to me.
+- **네코즈카 히비키**: Even if I would never use it, I was averse to the hypothetical.
+- **네코즈카 히비키**: ...Yeah. I hope so too.
+- **네코즈카 히비키**: Hm... It's nothing.
+- **네코즈카 히비키**: I was just thinking...
+- **네코즈카 히비키**: You don't need a self-destruct feature either, Sensei.
+- **네코즈카 히비키**: So please stay with me, for as long as I want.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/네코즈카 히비키
+- https://bluearchive.wiki (원문 스토리 스크립트)

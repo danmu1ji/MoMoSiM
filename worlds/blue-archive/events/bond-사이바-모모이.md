@@ -1,0 +1,266 @@
+# 사이바 모모이 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 사이바 모모이, 선생(샬레)
+
+1. **「사이바 모모이 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「사이바 모모이 인연 스토리 2」**
+
+- **사이바 모모이**: Oh, welcome Sensei!
+- **사이바 모모이**: Oh, welcome Sensei!
+- **사이바 모모이**: Ahem! Today, I have no plans except...
+- **사이바 모모이**: ...studying.
+- **사이바 모모이**: That's right. I wanna study up so I can make more fun games.
+- **사이바 모모이**: The most essential form of study to make a good game is...
+- **사이바 모모이**: Trying a wide variety of games, in my opinion.
+- **사이바 모모이**: Right? Exactly.
+- **사이바 모모이**: Uh... N-No...!
+- **사이바 모모이**: You should be praising your adorable student for how ambitious she is!
+- **사이바 모모이**: I know, I know. Our Game Development Department specializes solely in retro games.
+- **사이바 모모이**: But, even so...that's why we should broaden our horizons!
+- **사이바 모모이**: We should dig into all kinds of game genres and take our creativity as far as it can go!
+- **사이바 모모이**: So, with that in mind, this is the game we prepared!
+- **사이바 모모이**: Yes! It's the latest game in the Spirits series, and the new pinnacle of the Spirits-like genre!
+- **사이바 모모이**: The appeal of this game is its famously insane difficulty!
+- **사이바 모모이**: Above all, the Dark Spirits series is very unique in how it tells its story.
+- **사이바 모모이**: Instead of explaining the story up front, it makes you examine notes and lore scattered across the world to piece it all together...
+- **사이바 모모이**: It makes the player follow closely and dig deeper into the narrative and worldbuilding...
+- **사이바 모모이**: Wh-What's with that expression?
+- **사이바 모모이**: It'll be easier to show you than for me to explain it.
+- **사이바 모모이**: Now, watch this, Sensei!
+- **사이바 모모이**: Oh! You know it, Sensei!
+- **사이바 모모이**: Yes! You could definitely say that.
+- **사이바 모모이**: Sensei! Watch me closely as I play.
+- **사이바 모모이**: Oh, here's the first enemy!
+- **사이바 모모이**: I-It looks really strong...
+- **사이바 모모이**: But I just filled up my potion bottle at the well, so I'm not scared one bit!
+- **사이바 모모이**: Take that!
+- **사이바 모모이**: Aaaaaah?! I d-died in one hit?!
+- **사이바 모모이**: N-No way! A-Again! One more try!
+- **사이바 모모이**: Heeheehee... It'll be different this time!
+- **사이바 모모이**: Dodged it just in time! Booyah! How's that?!
+- **사이바 모모이**: Huh! Wait, not enough stamina?!
+- **사이바 모모이**: What?! What is this?!
+- **사이바 모모이**: Grrr! I won't give up!
+- **사이바 모모이**: Uh, ugh...
+- **사이바 모모이**: Sensei. Right now, I'm just...a water flea... A tiny, insignificant water flea...
+- **사이바 모모이**: A water flea... that can't even beat the first boss...
+- **사이바 모모이**: This is my thirty-fourth game over...
+- **사이바 모모이**: I can't make any progress! How does this game even work?!
+- **사이바 모모이**: That son of a... Talk about unbalanced! It's too strong!
+- **사이바 모모이**: ...Sensei, you'll help me out?
+- **사이바 모모이**: Ugh... Asking someone else to play something I can't even beat...
+- **사이바 모모이**: That's a real blow to my pride as a gamer...
+- **사이바 모모이**: But I have to get past this if I want to see the next part of the story...
+- **사이바 모모이**: *sigh* I-I guess I have no choice... This part, just this part, Sensei!
+- **사이바 모모이**: It's for research! Just beat this part for me, okay?
+- **사이바 모모이**: Wow...
+- **사이바 모모이**: Wow! You really defeated it! Amazing, Sensei!
+- **사이바 모모이**: Oh! Sensei, look over there in the corner! There's a treasure chest!
+- **사이바 모모이**: Oh! Sensei, look over there in the corner! There's a treasure chest!
+- **사이바 모모이**: Oh! It's a new enemy! This one is sniping us with arrows like a coward!
+- **사이바 모모이**: Sensei! Defeat it!
+- **사이바 모모이**: Yeah, right there, Sensei! There must be a hidden passage in that tunnel.
+- **사이바 모모이**: *munch* *munch* *nom* *nom* Oh, these cod roe crackers are delicious. Would you like one, Sensei?
+- **사이바 모모이**: Huh? Sensei! Be careful! It's a new boss! It's probably resistant to electricity!
+- **사이바 모모이**: It was really fascinating! A really fascinating story! Amazing, Sensei!
+- **사이바 모모이**: Wow! That was fun!
+- **사이바 모모이**: Games are fun to play alone, but also fun to play together!
+
+3. **「사이바 모모이 인연 스토리 3」**
+
+- **사이바 모모이**: It's just some crackpot criticism from internet trolls!
+- **사이바 모모이**: Um, so...
+- **사이바 모모이**: Some retro games are being remade because of the recent boom in crowdfunding.
+- **사이바 모모이**: Personally, I'd like to support this movement.
+- **사이바 모모이**: And commend them for taking on the challenge.
+- **사이바 모모이**: But look...
+- **사이바 모모이**: Everyone is blatantly badmouthing the retro game we just released!
+- **사이바 모모이**: Well, you could say they unintentionally caught my attention...
+- **사이바 모모이**: Like how you might open a wrapped piece of cheese, only to find it moldy...
+- **사이바 모모이**: I-I didn't search for them because I like them!
+- **사이바 모모이**: It was all part of my market research...
+- **사이바 모모이**: More than that, these guys have garbage opinions to begin with!
+- **사이바 모모이**: Saying stuff like, "Stories aren't important in retro games."
+- **사이바 모모이**: Or, "When does the heroine show up?"
+- **사이바 모모이**: Or, "No plot twist?!"
+- **사이바 모모이**: Their standards are so shallow!
+- **사이바 모모이**: Is a conventional story, where a hero ventures out to defeat the demon lord, bad just because it's conventional?
+- **사이바 모모이**: It's nonsense to think following a cliché is stupid, and that a story is only good when it breaks convention with a plot twist!
+- **사이바 모모이**: Those arrogant fools say that a good game story is "one that leaves a strong impression on the player."
+- **사이바 모모이**: Anybody with a pulse could say that!
+- **사이바 모모이**: If you know game stories so well, write one yourself!
+- **사이바 모모이**: *sigh*
+- **사이바 모모이**: Wa...
+- **사이바 모모이**: Waaah! This is infuriating! I'm infuriated!
+- **사이바 모모이**: I just wanna punch those jerks right through my monitor!
+- **사이바 모모이**: But...I can't seem to write the way I want to! I'm so angry!
+- **사이바 모모이**: ...I'm sorry, Sensei.
+- **사이바 모모이**: I got so worked up, and dumped it all at you.
+- **사이바 모모이**: ...Huh? Why would you say that?
+- **사이바 모모이**: ...Huh? Why would you say that?
+- **사이바 모모이**: ...Oh, gosh.
+- **사이바 모모이**: O-Okay. Thank you, Sensei.
+- **사이바 모모이**: Honestly, I don't know either.
+- **사이바 모모이**: I don't know what I should write or how I should write it.
+- **사이바 모모이**: At this rate, I don't think I'm qualified to be the scenario writer for the Game Development Department...
+- **사이바 모모이**: What do you know?
+- **사이바 모모이**: What do you know?
+- **사이바 모모이**: ...Heh.
+- **사이바 모모이**: ...Heh.
+- **사이바 모모이**: Heh...I-I see.
+- **사이바 모모이**: Yes, the story that I want to write...
+- **사이바 모모이**: It's the best story ever told!
+- **사이바 모모이**: Yes! After hearing you out, I think I kind of get it.
+- **사이바 모모이**: All right! My motivation is maxed out!
+- **사이바 모모이**: I came up with a great idea after listening to you!
+- **사이바 모모이**: A special story that is rooted in conventions, but also goes far beyond that!
+- **사이바 모모이**: So next time, read the script for my next story and let me know what you think, Sensei!
+- **사이바 모모이**: What should I do, Sensei?
+- **사이바 모모이**: I finally came up with an idea, and it's completely contradictory! I can't think of anything else! Please help me!
+- **사이바 모모이**: Waaahhh!
+
+4. **「사이바 모모이 인연 스토리 4」**
+
+- **사이바 모모이**: Beep! Sensei, you're five minutes late! Favorability decrease!
+- **사이바 모모이**: Ahem! I'll tell you why I asked you to come here.
+- **사이바 모모이**: Ahem! I'll tell you why I asked you to come here.
+- **사이바 모모이**: I want to study retro dating sims with you, Sensei.
+- **사이바 모모이**: The Game Development Department has been talking about researching more genres of retro games.
+- **사이바 모모이**: And we talked about making a prototype.
+- **사이바 모모이**: One of the ideas we had was a simulation game where you date beautiful girls.
+- **사이바 모모이**: Yes, that's right!
+- **사이바 모모이**: Dating simulation and romance adventure games are mostly focused on their storylines, you know?
+- **사이바 모모이**: Depending on which option you choose for a particular event in the game,
+- **사이바 모모이**: your favorability changes, which affects the ending.
+- **사이바 모모이**: Yeah! Sensei's current favorability is negative five!
+- **사이바 모모이**: It's already dangerously low!
+- **사이바 모모이**: If you don't pick the right option, you can't watch the event cutscene or reach a happy ending!
+- **사이바 모모이**: Now, Sensei!
+- **사이바 모모이**: Please help me out so we can make an authentic dating simulator!
+- **사이바 모모이**: Heehee, let's go, then!
+- **사이바 모모이**: That's right!
+- **사이바 모모이**: Here, you have your first choice to make!
+- **사이바 모모이**: You've arrived at the arcade with the heroine.
+- **사이바 모모이**: What do you want to do first?
+- **사이바 모모이**: Boo! Favorability, negative five!
+- **사이바 모모이**: The heroine wasn't very interested in the claw machine!
+- **사이바 모모이**: Oh...really?
+- **사이바 모모이**: Hmm, if you say so, Sensei...
+- **사이바 모모이**: Well, I guess this could be an exception...
+- **사이바 모모이**: Because it was so sweet that you wanted to win me a plush, I'll raise favorability by ten!
+- **사이바 모모이**: Don't waste your time thinking about it. Let's go, let's go!
+- **사이바 모모이**: Wow! We're on the same page, Sensei!
+- **사이바 모모이**: Favorability plus five hundred!
+- **사이바 모모이**: Well, I've been wanting to clear Wonder Girl's One-Coin Challenge!
+- **사이바 모모이**: All right! Challenge accepted!
+- **사이바 모모이**: Let's go head to head!
+- **사이바 모모이**: I've been playing my butt off at the arcade. I'm hungry... *peek*
+- **사이바 모모이**: *peek*
+- **사이바 모모이**: Yes! Correct!
+- **사이바 모모이**: Now, the heroine is hungry!
+- **사이바 모모이**: What kind of food will you pick?
+- **사이바 모모이**: S-Standard choice for a date...! (She flinches.)
+- **사이바 모모이**: I-It's nothing, Sensei!
+- **사이바 모모이**: How did you know the standard choice? That's the correct option!
+- **사이바 모모이**: Your favorability is now plus one hundred and fifty! Let's go!
+- **사이바 모모이**: ...your meal is entirely free?!
+- **사이바 모모이**: As a gamer, I can't turn this opportunity down, Sensei!
+- **사이바 모모이**: Challenge accepted!
+- **사이바 모모이**: What? Really?! It's real!
+- **사이바 모모이**: If we eat their special spicy curry, we get a balloon in the shape of the Supreme Sword from Legend of Zinda as a reward...
+- **사이바 모모이**: Let's go, Sensei!
+- **사이바 모모이**: Yeah! Favorability plus a hundred million! Hurry!
+- **사이바 모모이**: It says, "while supplies last."
+- **사이바 모모이**: We have to go before they run out!
+- **사이바 모모이**: Come on, hurry! This'll be a great challenge for the both of us!
+- **사이바 모모이**: We must clear it!
+- **사이바 모모이**: *gulp* *munch* *gulp* I-It's delicious!
+- **사이바 모모이**: Push a little harder, Sensei! We're almost there!
+- **사이바 모모이**: No, Sensei!
+- **사이바 모모이**: Stop that nonsense, or I'll give you penalty points!
+- **사이바 모모이**: Wow, we were together all day, Sensei!
+- **사이바 모모이**: It was a lot of fun!
+- **사이바 모모이**: The ending... What are you talking about?
+
+5. **「사이바 모모이 인연 스토리 5」**
+
+- **사이바 모모이**: Ugh, I wish I had known earlier!
+- **사이바 모모이**: There's a stamp rally going on for the Ultra Marine Sisters' fortieth anniversary...
+- **사이바 모모이**: This event is truly worthy of a fortieth anniversary celebration. There are forty stamp locations all over Haru Habara, and if you collect them all, you can exchange them all for an exclusive reward.
+- **사이바 모모이**: But the deadline is at 2 PM today...
+- **사이바 모모이**: What do I do, Sensei? There are less than two hours left!
+- **사이바 모모이**: It's been a while since I've been to an event that was offering a prize I really wanted!
+- **사이바 모모이**: Huh...?
+- **사이바 모모이**: B-But, Sensei, what are you saying?
+- **사이바 모모이**: What's that?
+- **사이바 모모이**: What's that?
+- **사이바 모모이**: Oh... You mean two-player co-op!
+- **사이바 모모이**: You're absolutely right, Sensei!
+- **사이바 모모이**: There is no such thing...as an impossible quest!
+- **사이바 모모이**: Okay, Sensei! Let's split up here!
+- **사이바 모모이**: Let's each take half of the targets and collect all the stamps!
+- **사이바 모모이**: I'm counting on you, Sensei.
+- **사이바 모모이**: Oh, Sensei, here. Over here.
+- **사이바 모모이**: ― Look, Sensei! I filled out this stamp card!
+- **사이바 모모이**: ― Now this quest is cleared! Yay!
+- **사이바 모모이**: ― I wasn't sure how it was going to go at first...
+- **사이바 모모이**: ― But you and I...we make a great team, Sensei!
+- **사이바 모모이**: ― Wooow! Sensei...
+- **사이바 모모이**: ― You're so sweaty! Are you okay?
+- **사이바 모모이**: ― Hahaha! I'm glad you said it's okay.
+- **사이바 모모이**: ― I had lots of fun today thanks to you, Sensei!
+- **사이바 모모이**: ― If there's ever another event like this...
+- **사이바 모모이**: ― ...we should go together again, Sensei!
+- **사이바 모모이**: We're...on time! Come on, let's go to the exchange center.
+- **사이바 모모이**: Let's go nab our hard-earned spoils!
+- **사이바 모모이**: As thanks, I'll buy you a drink on the way back!
+
+6. **「사이바 모모이 인연 스토리 6」**
+
+- **사이바 모모이**: Sensei! It's done! Charging complete!
+- **사이바 모모이**: It looks like your drift is a little off, but all right!
+- **사이바 모모이**: Eyaaa–!!
+- **사이바 모모이**: Huh, huh?!!
+- **사이바 모모이**: O-Of course! True immersion is a sign of a real gamer!
+- **사이바 모모이**: Ah?
+- **사이바 모모이**: Blech?!
+- **사이바 모모이**: Ugh! What a mess!
+- **사이바 모모이**: Well... It's just...the tower of stuff next to me toppled over.
+- **사이바 모모이**: Thank you, Sensei... Huh?
+- **사이바 모모이**: Oh, here it is! I was wondering where this was!
+- **사이바 모모이**: What is it, you ask? Fu. Fu. Fu... This...
+- **사이바 모모이**: ...is the game console Midori and I got a long time ago. It's part of a set.
+- **사이바 모모이**: Huh? No. I was a gamer way before this!
+- **사이바 모모이**: This is just a set I got with Midori. It's cute, right?
+- **사이바 모모이**: But, now that you mention it, it may have been Midori's first gaming console. And that's pretty cool.
+- **사이바 모모이**: I-I was storing it properly!
+- **사이바 모모이**: See? It's well-kept with a stand and a transparent case!
+- **사이바 모모이**: Huh? Isn't it almost a little meaningless if I can't find it where it is normally? W-Well, you have a point... A bad point...
+- **사이바 모모이**: Look! I think I did a pretty good job!
+- **사이바 모모이**: Huh? You want to know why I took such care to preserve it?
+- **사이바 모모이**: ...
+- **사이바 모모이**: Well, as an older sister, I have to be responsible!
+- **사이바 모모이**: Before we started gaming together, we weren't really close.
+- **사이바 모모이**: I was trying to find a way to bond...and, so I suggested we get matching consoles.
+- **사이바 모모이**: Which...led to us buying them together.
+- **사이바 모모이**: I figured that if I got it for her as a gift, then she'd take care of it.
+- **사이바 모모이**: Fu. Fu. Fu... And "Operation: Make Midori a Gamer" was a resounding success.
+- **사이바 모모이**: What's important is that it made us closer, right? All's well that ends well?
+- **사이바 모모이**: Wait... Are we actually close...? I feel like Midori teases me all the time.
+- **사이바 모모이**: Why'd you have to say that out loud?
+- **사이바 모모이**: Anyway, I don't like that you said I'm losing overall. Is that really true, Sensei?
+- **사이바 모모이**: R-Right! That's it! See, I'm not actually worse at gaming.
+- **사이바 모모이**: Huh...? Wah?!
+- **사이바 모모이**: Wh-While we were talking...
+- **사이바 모모이**: The monster escaped!
+- **사이바 모모이**: No! It'll be such a pain to track it down again!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/사이바 모모이
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -1,0 +1,240 @@
+# 엔도우 시미코 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 엔도우 시미코, 선생(샬레)
+
+1. **「엔도우 시미코 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「엔도우 시미코 인연 스토리 2」**
+
+- **엔도우 시미코**: Hiya, Sensei! I'm glad you're here.
+- **엔도우 시미코**: I guess I did invite you over. Heehee. Thanks all the same.
+- **엔도우 시미코**: What's even funnier is that there isn't much to do here.
+- **엔도우 시미코**: Oh, I'm sorry. Could you lower your voice just a little bit? Everyone else is reading...
+- **엔도우 시미코**: We can get away with a little small talk. The library is big enough and our voices won't echo.
+- **엔도우 시미코**: I just don't want things to get too loud, that's all.
+- **엔도우 시미코**: Can I recommend something to read while you're here?
+- **엔도우 시미코**: If it's coming from me, then you know you won't regret it!
+- **엔도우 시미코**: What do you like to read? Novels? Essays? Non-fiction? Science magazines...?
+- **엔도우 시미코**: Oh... That's very you. Wonderful! I have just the thing...
+- **엔도우 시미코**: Oh... That's very you. Wonderful! I have just the thing...
+- **엔도우 시미코**: What you want should be riiiiight over here... Wait.
+- **엔도우 시미코**: Huh? Did you hear that?
+- **Obnoxious Patron**: Hahaha! This is hilarious! Heeheehee! Oh, my stomach! No more!
+- **Obnoxious Patron**: What, you punks got a problem with me? You own this library or something? Huh?!
+- **Obnoxious Patron**: *munch* These chips are awesome. Whoops, I spilled some crumbs. Oh, well!
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: Would you mind waiting just a moment, Sensei? I can't overlook this as the librarian.
+- **엔도우 시미코**: Excuse me. You're causing a disturbance.
+- **Obnoxious Patron**: Huh? Who? Me?
+- **엔도우 시미코**: Yes, you. This is a library. Can you please keep your voice down?
+- **엔도우 시미코**: Quiet conversations are allowed within the library, but you have to keep your voices down.
+- **엔도우 시미코**: Food, on the other hand, is strictly forbidden! You can only bring beverages inside sealed containers, and you have to use a straw!
+- **엔도우 시미코**: Please be considerate to the other visitors!
+- **Obnoxious Patron**: *sigh* Is this a joke? Why's a geek like you trying to tell me what to do? Leave me alone and let me read in peace!
+- **Obnoxious Patron**: Actually, stay where you are. I'm gonna make you regret talking to me like that.
+- **엔도우 시미코**: ...!
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: What did you just do?
+- **엔도우 시미코**: D-Did you just fold that page?
+- **Obnoxious Patron**: Huh? Well, duh! How else am I supposed to keep track of where I was?
+- **엔도우 시미코**: Why, you...!
+- **엔도우 시미코**: You're so...profane!
+- **Obnoxious Patron**: ...?!
+- **Obnoxious Patron**: Wh-What was that? Wh-Why did everything turn gray...?
+- **Obnoxious Patron**: These are...my first steps? My first day at elementary school? Birthday parties... All these memories...
+- **Obnoxious Patron**: What's that? A river? Who's that on the other side...? Some old geezer is waving his hand...
+- **Obnoxious Patron**: That's...a book? The corner...? On my head...?
+- **엔도우 시미코**: I could forgive every other rule you broke, but damaging a book cannot go unpunished!
+- **엔도우 시미코**: Fools that don't understand the value of books need to be taught a lesson!
+- **엔도우 시미코**: You'll be paying out of pocket for the book you creased!
+- **Obnoxious Patron**: U-Ugh... My head... What just happened?
+- **Obnoxious Patron**: I nearly died! Was that a revolving lantern just now?!
+- **엔도우 시미코**: It takes more than that to kill someone. I read a book that taught me how to adjust the strength of the blow.
+- **Obnoxious Patron**: Wh-What the hell? What's wrong with you?! You call yourself a librarian?!
+- **Obnoxious Patron**: You little...! If that's how you want to play it, then take this!
+- **Obnoxious Patron**: ...?
+- **Obnoxious Patron**: What...? What happened?
+- **Obnoxious Patron**: What in the...? Did you just stop my punch with one hand?
+- **엔도우 시미코**: "Don't judge a book by its cover."
+- **엔도우 시미코**: Every reader knows that simple rule. Did you think you could push me around just because I'm a librarian?
+- **엔도우 시미코**: Do you have any idea how many books a librarian has to carry a day?
+- **엔도우 시미코**: I'm so ripped that taking care of punks like you is a piece of cake!
+- **Obnoxious Patron**: Wh-What the hell...? Hold on! Are you...lifting me off the floor?!
+- **Obnoxious Patron**: A-Argh! L-Let me down! I said let me down!
+- **엔도우 시미코**: Whew.
+- **엔도우 시미코**: I would throw you out the window, but that would only cause an even bigger scene.
+- **엔도우 시미코**: So I'll let you off with a warning. Next time, I won't be Ms. Nice Librarian, got it?
+- **Obnoxious Patron**: Okay! Okay! Just let me down...
+- **Obnoxious Patron**: I'm sorry...
+
+3. **「엔도우 시미코 인연 스토리 3」**
+
+- **엔도우 시미코**: And this book goes over here... Heehee. I'm almost done categorizing.
+- **엔도우 시미코**: Oh. Hi, Sensei! What are you doing here at this hour?
+- **엔도우 시미코**: Oh! Wasn't I raising my voice? Don't worry—we're past closing time.
+- **엔도우 시미코**: You and I are the only ones here.
+- **엔도우 시미코**: That's right, I spend a lot of time here after hours. Someone has to organize the books, after all.
+- **엔도우 시미코**: And besides...
+- **엔도우 시미코**: I spend so much of my day helping others that I don't get any time to read for myself.
+- **엔도우 시미코**: Now is usually when I get in some quality reading time!
+- **엔도우 시미코**: So I'm practically at the library 24 hours a day.
+- **엔도우 시미코**: Anyway... That text I sent you wasn't supposed to be serious. I'm surprised you came here so late.
+- **엔도우 시미코**: Do you still have work to do?
+- **엔도우 시미코**: Ahaha...
+- **엔도우 시미코**: Ahaha...
+- **엔도우 시미코**: Well, suit yourself. Wait here for a little bit. I'll set up a study space for you.
+- **엔도우 시미코**: Oh, don't worry. I'm a pro when it comes to pulling all-nighters.
+- **엔도우 시미코**: I'll even put on a pot of coffee for you. I hope you don't mind drinking it with a straw and lid, though.
+- **엔도우 시미코**: I'll put this cushion in the back of the seat and place this pillow right here...
+- **엔도우 시미코**: Ta-da! What do you think? I set it up just the way I like it!
+- **엔도우 시미코**: You can stay up all night without feeling the least bit tired in this arrangement!
+- **엔도우 시미코**: Sensei... There you go saying embarrassing things like that again!
+- **엔도우 시미코**: Sensei... There you go saying embarrassing things like that again!
+- **엔도우 시미코**: Come and sit here. I'll take the seat next to you, so just let me know if you need anything!
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: ...Huh? Oh, I'm sorry. I didn't mean to stare. Was I bothering you?
+- **엔도우 시미코**: I-I just wanted to make sure you're comfortable and see if you needed anything...
+- **엔도우 시미코**: It also dawned on me that I invited you here and all we've done is read and work.
+- **엔도우 시미코**: I know we've both been so immersed in what we're reading.
+- **엔도우 시미코**: Just knowing that we're in the same space together feels so...
+- **엔도우 시미코**: It's a pleasant feeling, but...
+- **엔도우 시미코**: ...conversely, I can't help but feel a little selfish.
+- **엔도우 시미코**: I'm enjoying myself, but I never asked you whether this is how you like to spend an evening.
+- **엔도우 시미코**: It feels as though...I was being inconsiderate by forcing you into something I like.
+- **엔도우 시미코**: Was that...childish of me...?
+- **엔도우 시미코**: Perhaps I've been immature this entire time without realizing it.
+- **엔도우 시미코**: Or maybe it's my imagination. I dunno. Ahaha...
+- **엔도우 시미코**: ...!
+- **엔도우 시미코**: ...!
+- **엔도우 시미코**: Ugh. You didn't even deny that I was acting like a child. Now I'm all embarrassed.
+- **엔도우 시미코**: ...Heehee.
+- **엔도우 시미코**: I can accept that. There's no point in denying me being childish sometimes.
+- **엔도우 시미코**: As long as you promise to keep it a secret, okay?
+- **엔도우 시미코**: And I won't tell anyone you were getting your work done here instead of your office.
+- **엔도우 시미코**: ...Besides, this time of night is perfect for keeping secrets.
+- **엔도우 시미코**: So thank you for keeping me company, Sensei.
+- **엔도우 시미코**: If it's all right with you...
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: ...I hope you'll indulge my childishness more often.
+
+4. **「엔도우 시미코 인연 스토리 4」**
+
+- **엔도우 시미코**: You're here, Sensei! This way!
+- **엔도우 시미코**: Haha... Something on your mind? You look a little surprised.
+- **엔도우 시미코**: Wondering why there's no one at the library today? We're closed today, silly.
+- **엔도우 시미코**: Even the library needs days off to organize the space and stuff like that.
+- **엔도우 시미코**: Anyway, I called you today because...
+- **엔도우 시미코**: ...we'll be busy with this!
+- **엔도우 시미코**: Bingo! I'm glad you recognize it!
+- **엔도우 시미코**: N-No! This is just a book scanner!
+- **엔도우 시미코**: When you put a book under the beam...
+- **엔도우 시미코**: See? It scans and automatically categorizes the book for you.
+- **엔도우 시미코**: I have a little scavenger hunt prepared for today. I call it, "Search for the Hidden Books."
+- **엔도우 시미코**: This is a public library, so a lot of students from different academies visit here.
+- **엔도우 시미코**: Consequently, it becomes quite difficult to keep all of the books organized.
+- **엔도우 시미코**: I often find books on the shelves that aren't even registered to this library!
+- **엔도우 시미코**: The library has accumulated hundreds of these "hidden books" over the years!
+- **엔도우 시미코**: Pardon me?
+- **엔도우 시미코**: I sound excited? Um, do I really? W-Well, I...
+- **엔도우 시미코**: Haha... I guess I did forget to use my inside voice just now.
+- **엔도우 시미코**: Consider this. If there are that many unregistered books scattered around the library...
+- **엔도우 시미코**: ...then there must be a mysterious book out there that even I've never seen before.
+- **엔도우 시미코**: Think about it! A whole new book! Opportunities like that don't come around every day for me.
+- **엔도우 시미코**: ...Ha.
+- **엔도우 시미코**: I got a little carried away again...
+- **엔도우 시미코**: A-Anyway! That's why I asked for your help.
+- **엔도우 시미코**: So...are you up for it, Sensei? I know I should have asked earlier, but are you free today?
+- **엔도우 시미코**: Putting it that way, I sound like I'm your manager or something.
+- **엔도우 시미코**: I enjoy categorizing books, but maybe it sounds like menial work to you...
+- **엔도우 시미코**: Yay! I'm so thankful to hear you say that!
+- **엔도우 시미코**: Yay! I'm so thankful to hear you say that!
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: This is...
+- **엔도우 시미코**: ...getting out of hand. A lot of these books are duplicates too.
+- **엔도우 시미코**: We still haven't found a book I've never seen before. Maybe it doesn't exist after all.
+- **엔도우 시미코**: I wonder if the students have really left this many books behind by accident.
+- **엔도우 시미코**: Or maybe it was their way of donating books they didn't know how to get rid of.
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: Well...this was a letdown.
+- **엔도우 시미코**: *sigh*
+- **엔도우 시미코**: Sorry, Sensei. I promised you a scavenger hunt, but it was just a waste of time.
+- **엔도우 시미코**: Huh? Is that really how you feel?
+- **엔도우 시미코**: Huh? Is that really how you feel?
+- **엔도우 시미코**: But...all you did today was organize books with me.
+- **엔도우 시미코**: You've already found the treasure you were looking for? Where?
+- **엔도우 시미코**: Huh?
+- **엔도우 시미코**: What are you getting at?
+- **엔도우 시미코**: Why do you look so happy?
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: ...!
+- **엔도우 시미코**: Wh-Where is this coming from?! You can't just say things like that out of the blue!
+- **엔도우 시미코**: I know we're friends, but you're making me blush!
+- **엔도우 시미코**: You're so...!
+- **엔도우 시미코**: ...
+- **엔도우 시미코**: Heehee...
+- **엔도우 시미코**: Hahaha! Oh, you. I'll let you off the hook this time.
+- **엔도우 시미코**: But knowing that you had a good time makes me feel better. Thank you, Sensei.
+- **엔도우 시미코**: And...
+- **엔도우 시미코**: ...now that I think about it, I found something I treasure too.
+- **엔도우 시미코**: And it holds a lot of value to me.
+- **엔도우 시미코**: Wanna know what it is? Heehee.
+- **엔도우 시미코**: It's a secret.
+
+5. **「엔도우 시미코 인연 스토리 5」**
+
+- **엔도우 시미코**: Oh, Sensei! I've been waiting for you.
+- **엔도우 시미코**: Why am I here?
+- **엔도우 시미코**: B-Because...I want to help you, Sensei.
+- **엔도우 시미코**: Huh? You only ever see me reading books?
+- **엔도우 시미코**: Oh, hahaha. I guess that's not entirely wrong.
+- **엔도우 시미코**: It does make sense.
+- **엔도우 시미코**: Heehee.
+- **엔도우 시미코**: I do love reading books, but that's not the only thing I enjoy about the library.
+- **엔도우 시미코**: I actually prefer reading at home.
+- **엔도우 시미코**: I like volunteering at the library for a different reason.
+- **엔도우 시미코**: Because of times like these!
+- **엔도우 시미코**: Yes! So I'm very excited right now. I didn't think you'd really come.
+- **엔도우 시미코**: Yes! So I'm very excited right now. I didn't think you'd really come.
+- **엔도우 시미코**: A librarian's greatest joy is to find a book for someone that they couldn't find elsewhere!
+- **엔도우 시미코**: I don't know what book you need right now, but I'm sure it's hard to find!
+- **엔도우 시미코**: If it was easy, you could've found it on the internet.
+- **엔도우 시미코**: Heehee! I knew it.
+- **엔도우 시미코**: Heehee! I knew it.
+- **엔도우 시미코**: Since so much is available on the internet now, libraries are slowly becoming obsolete.
+- **엔도우 시미코**: But surprisingly, there's also a lot that can only be found in books!
+- **엔도우 시미코**: Information not many people are looking for and stories that aren't easy to access are still preserved on paper.
+- **엔도우 시미코**: As a librarian, it's so fun to search for that kind of stuff!
+- **엔도우 시미코**: And on top of that...
+- **엔도우 시미코**: ...Oh, it's nothing! Okay, what kind of a book are you looking for?
+- **엔도우 시미코**: ...Oh, it's nothing! Okay, what kind of a book are you looking for?
+- **엔도우 시미코**: The library is well organized by genres and names, but it's also huge!
+- **엔도우 시미코**: ...Hmm, okay. I got it.
+- **엔도우 시미코**: If that's the case... Come this way!
+- **엔도우 시미코**: Huh?
+- **엔도우 시미코**: ― Wh-
+- **엔도우 시미코**: ― What a coincidence.
+- **엔도우 시미코**: ― I was trying to
+- **엔도우 시미코**: ― find it first, for Sensei.
+- **엔도우 시미코**: ― And it looks like
+- **엔도우 시미코**: ― I won! Heehee.
+- **엔도우 시미코**: ― Hm,
+- **엔도우 시미코**: ― should I let you have it?
+- **엔도우 시미코**: ― ...I'm kidding.
+- **엔도우 시미코**: ― I'll make a record of the rental and give it to you.
+- **엔도우 시미코**: ― I'm happy you found it.
+- **엔도우 시미코**: ― How was it? Did you enjoy
+- **엔도우 시미코**: ― your time at the library?
+- **엔도우 시미코**: ― There's no place like this library.
+- **엔도우 시미코**: ― I think it's a really unique experience.
+- **엔도우 시미코**: ― Please come anytime
+- **엔도우 시미코**: ― you need anything.
+- **엔도우 시미코**: ― I'll be waiting!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/엔도우 시미코
+- https://bluearchive.wiki (원문 스토리 스크립트)

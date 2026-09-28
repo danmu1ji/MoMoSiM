@@ -1,0 +1,178 @@
+# Group Story / NinpoKenkyubu / 2
+
+Original English wiki story transcript. No Korean dialogue is translated.
+
+Source: https://bluearchive.wiki/wiki/Group_Story/NinpoKenkyubu/2
+Status: source-extracted-unreviewed
+
+
+- Izuna (Ninjutsu Research Club): Wow!
+- Izuna (Ninjutsu Research Club): So this is the Ninjutsu Research Club! I've always wanted to see it!
+- Michiru (Ninjutsu Research Club): Pst! Tsukuyo!
+- Tsukuyo (Ninjutsu Research Club): Huh?
+- Michiru (Ninjutsu Research Club): Tsukuyo! What do we do? She's cute, but she's so nosy!
+- Tsukuyo (Ninjutsu Research Club): You t-think she's suspicious?
+- Michiru (Ninjutsu Research Club): Of course I do! Nobody knows about this place but us!
+- Michiru (Ninjutsu Research Club): And she just shows up out of nowhere looking to join? It's fishy...
+- Michiru (Ninjutsu Research Club): Extremely fishy!
+- Tsukuyo (Ninjutsu Research Club): But... That's how I j-joined...
+- Michiru (Ninjutsu Research Club): No! You're different! I recruited you personally, Tsukuyo. Remember?
+- Tsukuyo (Ninjutsu Research Club): Oh, that's right...
+- Michiru (Ninjutsu Research Club): She must be some kind of spy from the Yin-Yang Club or a Hyakkaryouran assassin!
+- Michiru (Ninjutsu Research Club): It's unlikely, but still...
+- Tsukuyo (Ninjutsu Research Club): She makes me nervous.
+- Tsukuyo (Ninjutsu Research Club): We know nothing about her.
+- Tsukuyo (Ninjutsu Research Club): B-But... This could be our first step to becoming a r-real club!
+- Michiru (Ninjutsu Research Club): Yeah, I know I said I wanted a new club member. But she's just some random person who walked in off the street. Hm...
+- Michiru (Ninjutsu Research Club): Ah! I know what to do.
+- Michiru (Ninjutsu Research Club): We'll conduct a special interview!
+- Tsukuyo (Ninjutsu Research Club): S-special interview?
+- Michiru (Ninjutsu Research Club): Yep! Then I'll know if she's a good fit for the Ninjutsu Research Club!
+- Michiru (Ninjutsu Research Club): You don't mind doing an interview, do you Izuna?
+- Izuna (Ninjutsu Research Club): Of course not! You have to make sure an amateur ninja wouldn't be a liability during missions.
+- Izuna (Ninjutsu Research Club): I completely understand!
+- Michiru (Ninjutsu Research Club): Yes, uh... Exactly.
+- Michiru (Ninjutsu Research Club): Tsukuyo, why don't you get a drink for our guest?
+- Tsukuyo (Ninjutsu Research Club): Right!
+- Tsukuyo (Ninjutsu Research Club): U-Um...
+- Tsukuyo (Ninjutsu Research Club): H-Here. I h-hope you like it.
+- Izuna (Ninjutsu Research Club): Oh, thank you!
+- Tsukuyo (Ninjutsu Research Club): I'm s-sorry we can't offer you m-more.
+- Izuna (Ninjutsu Research Club): It's okay! Nin nin!
+- Tsukuyo (Ninjutsu Research Club): Nin nin? No, it's not—I'm not sure...
+- Tsukuyo (Ninjutsu Research Club): I'm sorry it's not tea or anything f-fancy.
+- Tsukuyo (Ninjutsu Research Club): It's just t-tap water...
+- Izuna (Ninjutsu Research Club): Tap water?
+- Tsukuyo (Ninjutsu Research Club): I'm sorry! I can't believe we're offering t-tap water to a g-guest!
+- Tsukuyo (Ninjutsu Research Club): I don't mean to be r-rude! It's just hard to find t-tea leaves here.
+- Tsukuyo (Ninjutsu Research Club): Especially without club f-funds... *sniffle*
+- Michiru (Ninjutsu Research Club): It's okay, Tsukuyo!
+- Michiru (Ninjutsu Research Club): We're lucky to have such a good water supply system! We should be proud to serve tap water!
+- Tsukuyo (Ninjutsu Research Club): I d-don't know about that, President!
+- Izuna (Ninjutsu Research Club): Incredible!
+- Michiru (Ninjutsu Research Club): Huh?
+- Tsukuyo (Ninjutsu Research Club): What?
+- Izuna (Ninjutsu Research Club): I saw a ninja documentary about this ages ago.
+- Izuna (Ninjutsu Research Club): A true ninja should always be satisfied with chilled water. Anything more is too lavish!
+- Izuna (Ninjutsu Research Club): To see you practicing this in daily life... You're so much more dedicated than the rumors say! I'm impressed!
+- Michiru (Ninjutsu Research Club): Yeah...
+- Michiru (Ninjutsu Research Club): Ahem... Anyway, let's start the interview.
+- Michiru (Ninjutsu Research Club): How did you find our club, Izuna?
+- Michiru (Ninjutsu Research Club): We're quite far removed from the Hyakkiyako area.
+- Michiru (Ninjutsu Research Club): There's not much in the way of transportation or amenities here.
+- Michiru (Ninjutsu Research Club): (In fact, we chose this location to stay under the Yin-Yang Club and Hyakkaryouran's radar...)
+- Tsukuyo (Ninjutsu Research Club): I'll admit it was hard to find. And if I miss the bus, it will be nearly impossible to get to school.
+- Tsukuyo (Ninjutsu Research Club): And the b-building is old, so the water and electricity g-get cut off sometimes. Plus, there's not a single c-convenience store in sight...
+- Michiru (Ninjutsu Research Club): What are you trying to say, Tsukuyo?!
+- Tsukuyo (Ninjutsu Research Club): N-Nothing! This is a g-great location!
+- Tsukuyo (Ninjutsu Research Club): Y-You can see all the stars at night...it's perfect for filming the president's ninjutsu...
+- Michiru (Ninjutsu Research Club): Exactly. And the best part is, no one ever complains no matter what we do.
+- Michiru (Ninjutsu Research Club): My latest creation is a ninjutsu I'm calling the Sparkling Fire technique. It's sort of my masterpiece.
+- Izuna (Ninjutsu Research Club): You're filming your very own ninjutsu training?
+- Michiru (Ninjutsu Research Club): Hmm?
+- Izuna (Ninjutsu Research Club): Oh! I saw this clue out on the street.
+- Tsukuyo (Ninjutsu Research Club): Isn't that—
+- Michiru (Ninjutsu Research Club): My flyer! You found my flyer! I must have posted that a good six months ago!
+- Izuna (Ninjutsu Research Club): Yes, well, I recognized the clue on it from Shiba Dog Wang Wang's masterpiece "Shiba Dog and Ninja".
+- Michiru (Ninjutsu Research Club): You understood that?!
+- Tsukuyo (Ninjutsu Research Club): Amazing...
+- Michiru (Ninjutsu Research Club): (She must like the same movies as I do... The flyer worked!)
+- Michiru (Ninjutsu Research Club): (After those Hyakkaryouran punks were the only ones who noticed them and told us we were littering, I thought it was a total failure.)
+- Michiru (Ninjutsu Research Club): (But if she understood, maybe...)
+- Michiru (Ninjutsu Research Club): Ahem! You're pretty sharp! Let's move on to the second question.
+- Michiru (Ninjutsu Research Club): The most important question of all...
+- Izuna (Ninjutsu Research Club): I'm ready! *gulp*
+- Michiru (Ninjutsu Research Club): Why do you want to join the Ninjutsu Research Club?
+- Izuna (Ninjutsu Research Club): Oh...
+- Izuna (Ninjutsu Research Club): That's easy. I want to be just like you!
+- Michiru (Ninjutsu Research Club): You do?
+- Tsukuyo (Ninjutsu Research Club): What?
+- Izuna (Ninjutsu Research Club): There was this video on the "Michiruchi, a Girl's Ninja Scroll" channel...
+- Izuna (Ninjutsu Research Club): After I saw "Must Watch! Boulder Gets DESTROYED with One Simple Move!" I was hooked!
+- Michiru (Ninjutsu Research Club): You know, that video was actually—
+- Tsukuyo (Ninjutsu Research Club): That's our most successful video, President!
+- Michiru (Ninjutsu Research Club): Hm... We did work pretty hard on that one.
+- Michiru (Ninjutsu Research Club): (The rock was mostly broken already, and we had to line up the shot just right to make it look like one hit... But we got a lot of views!)
+- Michiru (Ninjutsu Research Club): (So she's been watching our videos...)
+- Michiru (Ninjutsu Research Club): (That's why she wants to join. She's a fan! Hahaha!)
+- Michiru (Ninjutsu Research Club): Does that mean you're one of our subscribers, Izuna?
+- Izuna (Ninjutsu Research Club): Yes!
+- Tsukuyo (Ninjutsu Research Club): P-President! A real subscriber is sitting right in front of us! I can't b-believe this!
+- Tsukuyo (Ninjutsu Research Club): We really do have fans! We need to record this! Can we take a p-picture?
+- Michiru (Ninjutsu Research Club): What are you talking about? Of course we have fans!
+- Izuna (Ninjutsu Research Club): Yep! That video is how I know you can make me the best ninja in Kivotos!
+- Michiru (Ninjutsu Research Club): Huh?
+- Tsukuyo (Ninjutsu Research Club): The b-best ninja in K-Kivotos?
+- Tsukuyo (Ninjutsu Research Club): Y-You're amazing, Izuna!
+- Michiru (Ninjutsu Research Club): You really believe that, huh?
+- Michiru (Ninjutsu Research Club): ...Great! I like your passion! A ninja should be ambitious!
+- Michiru (Ninjutsu Research Club): Considering how much you like Shiba Dog Wang Wang's work, and how determined you are to be like us...
+- Michiru (Ninjutsu Research Club): There's no doubt about it.
+- Michiru (Ninjutsu Research Club): You're a perfect fit!
+- Izuna (Ninjutsu Research Club): Yay! I'm so glad I found you!
+- Tsukuyo (Ninjutsu Research Club): I think we found the one you were looking for, P-President.
+- Izuna (Ninjutsu Research Club): Of course, I still have a long way to go to reach your level!
+- Michiru (Ninjutsu Research Club): Not at all!
+- Michiru (Ninjutsu Research Club): We're basically the same!
+- Izuna (Ninjutsu Research Club): What?
+- Michiru (Ninjutsu Research Club): Listen, if you were clever enough to find us based on this flyer, then you love ninjas as much as we do. And that's what counts!
+- Izuna (Ninjutsu Research Club): ...?!
+- Izuna (Ninjutsu Research Club): Yes! I absolutely love ninjas!
+- Izuna (Ninjutsu Research Club): I used to be so alone. Nobody understood me.
+- Izuna (Ninjutsu Research Club): And when that villain took advantage of me to ruin the festival, they made me feel so dumb and helpless...
+- Michiru (Ninjutsu Research Club): (Dumb and helpless?)
+- Michiru (Ninjutsu Research Club): (I wonder if she's talking about Komisen.)
+- Michiru (Ninjutsu Research Club): (Hm... A villain at Komisen...)
+- Michiru (Ninjutsu Research Club): Izuna, this villain...
+- Michiru (Ninjutsu Research Club): Did they wreak havoc at the festival just for fun?
+- Izuna (Ninjutsu Research Club): Yes! How did you know?
+- Michiru (Ninjutsu Research Club): It's pretty common.
+- Michiru (Ninjutsu Research Club): People like that think they're better than everyone else. They take pleasure in tearing down anyone they don't respect.
+- Michiru (Ninjutsu Research Club): Unfortunately, the people they hurt the most end up being their friends and family.
+- Izuna (Ninjutsu Research Club): The world is full of villains like Date Meowru.
+- Izuna (Ninjutsu Research Club): Wow... The ninja life is so cruel.
+- Michiru (Ninjutsu Research Club): Yet, despite all that, you still admire them.
+- Tsukuyo (Ninjutsu Research Club): If it were me, I wouldn't want anything to do with ninjas after that!
+- Tsukuyo (Ninjutsu Research Club): But you...
+- Izuna (Ninjutsu Research Club): Yeah...
+- Izuna (Ninjutsu Research Club): It was kind of worth it. I got to meet the lord!
+- Michiru (Ninjutsu Research Club): ...Eh?
+> Izuna explains...
+- Izuna (Ninjutsu Research Club): ...And that's how I became the lord's ninja!
+- Michiru (Ninjutsu Research Club): I see...
+- Michiru (Ninjutsu Research Club): (That was like a full-on action movie.)
+- Michiru (Ninjutsu Research Club): (The lord she keeps talking about. Is it some kind of weird roleplay?)
+- Michiru (Ninjutsu Research Club): I think I've heard of Schale before...
+- Tsukuyo (Ninjutsu Research Club): P-President... *sniffle*
+- Michiru (Ninjutsu Research Club): Tsukuyo? Why are you crying?
+- Tsukuyo (Ninjutsu Research Club): Izuna has been through so m-much... I'm so moved by her story...
+- Tsukuyo (Ninjutsu Research Club): You've overcome so much!
+- Izuna (Ninjutsu Research Club): Yes. It was hard, but I'm okay now.
+- Izuna (Ninjutsu Research Club): I'm really lucky I met the lord. They made sure I could keep dreaming!
+- Tsukuyo (Ninjutsu Research Club): Yes! It was such a beautiful story!
+- Michiru (Ninjutsu Research Club): I know we just met, but...
+- Michiru (Ninjutsu Research Club): I can already tell you have a good heart. That was a great story!
+- Michiru (Ninjutsu Research Club): I'd really like to meet this lord of yours!
+- Izuna (Ninjutsu Research Club): If there's ever an opportunity, sure!
+- Izuna (Ninjutsu Research Club): Anyway, that's how I ended up at the Ninjutsu Research Club.
+- Izuna (Ninjutsu Research Club): Is that a good enough answer?
+- Tsukuyo (Ninjutsu Research Club): P-President?
+- Michiru (Ninjutsu Research Club): Good enough? That was amazing!
+- Michiru (Ninjutsu Research Club): Everything you've been through! Your life story! Your dream!
+- Michiru (Ninjutsu Research Club): That's the essence of the Ninjutsu Research Club!
+- Michiru (Ninjutsu Research Club): Starting today, you're an official member, Izuna.
+- Tsukuyo (Ninjutsu Research Club): Welcome to the Ninjutsu Research Club!
+- Izuna (Ninjutsu Research Club): Me? Part of the Ninjutsu Research Club?
+- Izuna (Ninjutsu Research Club): We're going to be such a great team!
+- Izuna (Ninjutsu Research Club): I can't wait to work with you, President and Dame Tsukuyo!
+- Michiru (Ninjutsu Research Club): Hm, no one besides Tsukuyo has ever called me President before...
+- Michiru (Ninjutsu Research Club): I like it!
+- Tsukuyo (Ninjutsu Research Club): Dame Tsukuyo... Heehee!
+- Tsukuyo (Ninjutsu Research Club): I look forward to working with you, Izuna.
+- Izuna (Ninjutsu Research Club): Me too! I will do my absolute best!
+- Izuna (Ninjutsu Research Club): I'll be the best ninja in Kivotos! Nin nin!
+- Michiru (Ninjutsu Research Club): Yes! We're going to be an official club! Let's do it! A hundred subscribers for "Michiruchi, a Girl's Ninja Scroll"!
+- Tsukuyo (Ninjutsu Research Club): I know we can do it if we work together!
+- Izuna (Ninjutsu Research Club): Yes! Nin nin!
+> And that's how the three met and shared their dreams with one another. Soon they'd meet the lord...
+> The Girls Get Together

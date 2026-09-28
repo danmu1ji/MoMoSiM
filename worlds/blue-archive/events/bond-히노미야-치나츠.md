@@ -1,0 +1,321 @@
+# 히노미야 치나츠 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 히노미야 치나츠, 선생(샬레)
+
+1. **「히노미야 치나츠 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「히노미야 치나츠 인연 스토리 2」**
+
+- **히노미야 치나츠**: *sigh*
+- **히노미야 치나츠**: Is this ever going to end? All of this work piled up, and the others aren't doing anything to help.
+- **히노미야 치나츠**: (struggle) And it's so heavy too. Though that shouldn't surprise me at this point.
+- **히노미야 치나츠**: Huh?
+- **히노미야 치나츠**: ...?!
+- **히노미야 치나츠**: ...?!
+- **히노미야 치나츠**: S-Sensei?! What are you doing here?
+- **히노미야 치나츠**: You're here because of the last text I sent?
+- **히노미야 치나츠**: W-Well, yes, b-but I didn't expect you to drop what you were doing and rush over here.
+- **히노미야 치나츠**: A-And the answer is no! I can handle carrying these documents just fine.
+- **히노미야 치나츠**: Excuse me? No, I said I was fine.
+- **히노미야 치나츠**: You...really want to carry half of them?
+- **히노미야 치나츠**: I shouldn't be asking a teacher to do this for me...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Fine. You're offering, so it would be rude to turn you down.
+- **히노미야 치나츠**: Then please...and thank you.
+- **히노미야 치나츠**: Here you are.
+- **히노미야 치나츠**: Hmm?
+- **히노미야 치나츠**: Heavier than you thought it would be? Paper is deceptively heavy when you stack it up like this.
+- **히노미야 치나츠**: You've made my life so much easier. Thanks again.
+- **히노미야 치나츠**: You want to know where we're headed? Just follow me. We're going straight down the stairs here...
+- **히노미야 치나츠**: I promise it's not far, so I'd appreciate it if you could come with me.
+- **히노미야 치나츠**: You can't believe that I was about to go down the stairs with all of these files?
+- **히노미야 치나츠**: I don't think it would have been that dangerous. Well, maybe a little...
+- **히노미야 치나츠**: Heehee...
+- **히노미야 치나츠**: Now that I think about it, you're the first person to say something like that to me. Thank you.
+- **히노미야 치나츠**: I would have managed. I'm used to things like this.
+- **히노미야 치나츠**: As I'm sure you've noticed, the students of Gehenna have unique personalities, to say the least...
+- **히노미야 치나츠**: Many of them would never bother with this kind of menial work. They always try to avoid it.
+- **히노미야 치나츠**: So it often times falls to me to get it done.
+- **히노미야 치나츠**: So I have a lot of practice in dealing with these kinds of things. That's all.
+- **히노미야 치나츠**: Hmm? What about me?
+- **히노미야 치나츠**: Am I in charge of paperwork? No, I'm the head of the Medical Committee.
+- **히노미야 치나츠**: *sigh* I don't get why a medical officer would have to do this either.
+- **히노미야 치나츠**: I wish we had more people to take care of this kind of work.
+- **히노미야 치나츠**: It's not something I particularly enjoy doing. But, like I said before...
+- **히노미야 치나츠**: ...if no one does it, then it'll just keep piling up. Someone has to do it.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Though this kind of work suits someone boring like me. Haha...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: ...Excuse me?
+- **히노미야 치나츠**: I must have blacked out for a second, because you couldn't possibly be talking about me.
+- **히노미야 치나츠**: M-More importantly...! I should apologize for taking up your time like this. You came all the way here, and yet I...
+- **히노미야 치나츠**: W-We should hurry.
+- **히노미야 치나츠**: Here we are, Sensei.
+- **히노미야 치나츠**: Thanks for your help. You can leave your stack there. I can take it from here.
+- **히노미야 치나츠**: What was that? You want to help until I'm completely done?
+- **히노미야 치나츠**: But...why?
+- **히노미야 치나츠**: You don't...
+- **히노미야 치나츠**: I'm not sure what to say. No one's ever offered like this before.
+- **히노미야 치나츠**: Hmm?
+- **히노미야 치나츠**: I should just go with the flow? Think of us as two people who have been working together from the beginning?
+- **히노미야 치나츠**: You'll help me until the job is done?
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Heehee...
+- **히노미야 치나츠**: It's nice of you to offer, but I couldn't agree to that. The last thing I want to do is inconvenience you.
+- **히노미야 치나츠**: ...But I will admit this.
+- **히노미야 치나츠**: Today's work was much less tedious with you here, Sensei.
+- **히노미야 치나츠**: I won't ask you to help me every day, but as long as you're up to it...
+
+3. **「히노미야 치나츠 인연 스토리 3」**
+
+- **히노미야 치나츠**: There you are, Sensei. Over here.
+- **히노미야 치나츠**: Surprised that I asked to meet you at the arcade?
+- **히노미야 치나츠**: Well, I suppose we do usually meet in places less...exciting than this.
+- **히노미야 치나츠**: I had a feeling it might catch you off guard.
+- **히노미야 치나츠**: Admittedly, I do prefer quieter spaces. Places like reading rooms or the infirmary...
+- **히노미야 치나츠**: ...but even I have days where I want a change of pace.
+- **히노미야 치나츠**: I drop by the arcade sometimes like anyone else, and I often like to go shopping.
+- **히노미야 치나츠**: Especially on a day like this.
+- **히노미야 치나츠**: ...Where I have no Prefect Team duties on my plate.
+- **히노미야 치나츠**: That's right. A whole day off.
+- **히노미야 치나츠**: Though it's not for the entire Prefect Team. This is my vacation.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Because I...requested that. Even I get personal time off.
+- **히노미야 치나츠**: Anyway, that means I can spend it however I want.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: S-So, if you don't mind, Sensei...
+- **히노미야 치나츠**: ...I was hoping you'd spend the day with me.
+- **히노미야 치나츠**: Think of it as my way of repaying you for helping me before.
+- **히노미야 치나츠**: I-It's hard for me to make time outside of days like this.
+- **히노미야 치나츠**: I know I'm just repeating myself at this point, but...
+- **히노미야 치나츠**: ...is this all right with you? I'm not being a nuisance, am I?
+- **히노미야 치나츠**: It isn't as though I don't enjoy spending time with the others. It has its charms.
+- **히노미야 치나츠**: It isn't as though I don't enjoy spending time with the others. It has its charms.
+- **히노미야 치나츠**: But even so, sometimes I need a break from them as well.
+- **히노미야 치나츠**: They each can be a little hard to wrangle sometimes...
+- **히노미야 치나츠**: It gets tiring when it feels like you're the one babysitting.
+- **히노미야 치나츠**: ...Pardon me. It must sound like all I do is complain.
+- **히노미야 치나츠**: You must know what that feeling is like from being a teacher.
+- **히노미야 치나츠**: Listen to me drone on and on. I suppose what I'm trying to say is...
+- **히노미야 치나츠**: ...?!
+- **히노미야 치나츠**: ...?!
+- **히노미야 치나츠**: Did you really just...?
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Never mind. I...understand.
+- **히노미야 치나츠**: I can't tell if you're okay with this or if you just want to spoil me...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: But regardless, you already agreed to it, so I'll take you up on that offer.
+- **히노미야 치나츠**: So I trust you, and once again: Thank you for doing this.
+- **히노미야 치나츠**: ...Truly.
+- **히노미야 치나츠**: That's it, Sensei. We cleared the entire schedule I had made.
+- **히노미야 치나츠**: So...what did you think? Today was special for me...
+- **히노미야 치나츠**: ...but I could understand if you thought it was mundane.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Y-You always say things like that...
+- **히노미야 치나츠**: Still...that's good. I'm glad you feel that way.
+- **히노미야 치나츠**: I was worried you wouldn't agree to today, to be honest.. There's no one else that I can relax with...
+- **히노미야 치나츠**: I-If it's all right with you, I'd like to...
+- **히노미야 치나츠**: ...go out with you again like this...in the near future.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: O-Only if you're okay with it, of course...! If you don't want to, then...!
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Heehee...
+- **히노미야 치나츠**: You can be such an enigma, Sensei.
+- **히노미야 치나츠**: It would really be fine if I asked you out again?
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Okay, then.
+- **히노미야 치나츠**: Thank you, Sensei. Then I'll be looking forward to it.
+- **히노미야 치나츠**: But don't plan on me bothering you too often. Prefect Team members don't get very many days off.
+- **히노미야 치나츠**: ...
+
+4. **「히노미야 치나츠 인연 스토리 4」**
+
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Sensei?
+- **히노미야 치나츠**: Sensei?
+- **히노미야 치나츠**: You're in the infirmary. I was the one who brought you here.
+- **히노미야 치나츠**: ...Hm? You're wondering why you're here?
+- **히노미야 치나츠**: I'd like to know that as well. What happened to you before I found you?
+- **히노미야 치나츠**: After our last text, I arrived at the meeting spot...
+- **히노미야 치나츠**: ...And I found you lying on the ground unconscious with a lump on your head as big as my fist.
+- **히노미야 치나츠**: Can you tell me what happened, Sensei? Were you attacked?
+- **히노미야 치나츠**: Do you remember anything?
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: *sigh*
+- **히노미야 치나츠**: I see. So you fainted...from overworking.
+- **히노미야 치나츠**: Meaning the lump on your head must be from either when you hit it on the desk or when you passed out.
+- **히노미야 치나츠**: Well, you have no serious injuries, so you should be fine once you've rested.
+- **히노미야 치나츠**: You...still have more work left to do?
+- **히노미야 치나츠**: And you have to get back to finishing it right away?
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: No can do, Sensei.
+- **히노미야 치나츠**: I'm terribly sorry, but I can't let you do that.
+- **히노미야 치나츠**: I'll stay here and make sure you don't go anywhere if I have to.
+- **히노미야 치나츠**: I'm in charge of medical aid, which means you're under my care. I won't look the other way.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: Moreover, there's something I was hoping I wouldn't have to say...
+- **히노미야 치나츠**: I can have quite the temper, Sensei.
+- **히노미야 치나츠**: I may have overstepped my bounds, but I ran a full diagnosis on you while you were asleep.
+- **히노미야 치나츠**: You're extremely fatigued, to the point that it's a miracle that you're still alive.
+- **히노미야 치나츠**: No matter how committed you are to your job and the well-being of your students...
+- **히노미야 치나츠**: ...you won't be able to help anyone if you run yourself into the ground.
+- **히노미야 치나츠**: If you keep pushing yourself like this...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: M-My apologies. I'm nagging you again.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: B-But from now on, whenever you have too much work, I'd rather you call me.
+- **히노미야 치나츠**: I can't carry out every duty you have and make decisions on your behalf...
+- **히노미야 치나츠**: ...but I can help with simple tasks like sorting and organizing at the very least.
+- **히노미야 치나츠**: For as long as we've known each other, you're the one who's always helping me. So I want you to, um...
+- **히노미야 치나츠**: ...give me a chance...to repay you.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: I-Is that okay with you, Sensei...?
+- **히노미야 치나츠**: I'm glad that you understa—
+- **히노미야 치나츠**: I'm glad that you understa—
+- **히노미야 치나츠**: ...?
+- **히노미야 치나츠**: Sensei...
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: *sigh* There's no need to apologize. I know what to expect from you.
+- **히노미야 치나츠**: ...
+- **히노미야 치나츠**: I was nervous about telling you that because I was afraid you'd find me annoying...
+- **히노미야 치나츠**: So thank you for agreeing. Now that I've said it, it should be...well...
+- **히노미야 치나츠**: ...easier for me to reach out to you, Sensei.
+- **히노미야 치나츠**: I want it to just be the two of us taking care of each other from now on.
+
+5. **「히노미야 치나츠 인연 스토리 5」**
+
+- **히노미야 치나츠**: You're here, Sensei. Thanks for accepting my request.
+- **히노미야 치나츠**: Though I didn't expect you so soon.
+- **히노미야 치나츠**: Work will be much easier thanks to you.
+- **히노미야 치나츠**: But I don't keep the documents here.
+- **히노미야 치나츠**: All that paperwork can be a bit cumbersome, so I don't do it here.
+- **히노미야 치나츠**: Come with me...
+- **히노미야 치나츠**: Hm... I'm sorry the place is such a mess.
+- **히노미야 치나츠**: I should have straightened up. I'm sorry...
+- **히노미야 치나츠**: Ahaha... Thank you for understanding.
+- **히노미야 치나츠**: Oh, yeah. Well... I spend a lot of time here...
+- **히노미야 치나츠**: Nobody in the Prefect Team is willing to help me with the busy work.
+- **히노미야 치나츠**: So I'm pretty much the only one who ever uses this space.
+- **히노미야 치나츠**: When I'm on standby or working late, I come here.
+- **히노미야 치나츠**: The cot's come in handy more than once.
+- **히노미야 치나츠**: Schale is the same, huh?
+- **히노미야 치나츠**: Well then, ahaha... I guess we both work too hard.
+- **히노미야 치나츠**: Anyway, the documents are right here.
+- **히노미야 치나츠**: Well...
+- **히노미야 치나츠**: Work piles up fast here. I suppose Schale is a little different.
+- **히노미야 치나츠**: Years...?
+- **히노미야 치나츠**: No, no. This is just the past week.
+- **히노미야 치나츠**: The head prefect already approved them, so we just have to organize everything.
+- **히노미야 치나츠**: I'm sorry. Is this too much? I didn't have anyone else to ask.
+- **히노미야 치나츠**: Hm... I thought you might say that.
+- **히노미야 치나츠**: Hm... I thought you might say that.
+- **히노미야 치나츠**: I mean, I knew you'd agree to help if I asked, but...
+- **히노미야 치나츠**: I didn't want to be presumptuous.
+- **히노미야 치나츠**: If I'd had any other option, I—
+- **히노미야 치나츠**: Never mind. Thank you for your help, Sensei.
+- **히노미야 치나츠**: *sigh*
+- **히노미야 치나츠**: That's it for now. Good thing too. It's really late...
+- **히노미야 치나츠**: Hm? You think that was a lot?
+- **히노미야 치나츠**: Trust me. This is nothing.
+- **히노미야 치나츠**: Regardless, I never would have finished this tonight if it weren't for you.
+- **히노미야 치나츠**: ...Huh?
+- **히노미야 치나츠**: You want to know about the wallpaper and poster?
+- **히노미야 치나츠**: Wh-What about them?
+- **히노미야 치나츠**: You think they're weird, don't you?
+- **히노미야 치나츠**: Y-You don't?
+- **히노미야 치나츠**: *sigh* ...I'm glad. You had me worried for a moment there.
+- **히노미야 치나츠**: Like I said before, the lounge has kinda morphed over time.
+- **히노미야 치나츠**: It's more like my home away from home now.
+- **히노미야 치나츠**: ...?
+- **히노미야 치나츠**: It may as well be my home at this point...
+- **히노미야 치나츠**: Hm... It's late at night...
+- **히노미야 치나츠**: ...and I'm in what's basically my room...
+- **히노미야 치나츠**: ...with Sensei. Just the two of us...alone together...
+- **히노미야 치나츠**: Uh... Uhhh...
+- **히노미야 치나츠**: ...!
+- **히노미야 치나츠**: ― You know... Now that I think about it... Uh...
+- **히노미야 치나츠**: ― This situation is... Uh...
+- **히노미야 치나츠**: ― It's a bit... inappropriate...
+- **히노미야 치나츠**: ― Don't you think? Sensei...?
+- **히노미야 치나츠**: ― Please... Say something... Anything...
+- **히노미야 치나츠**: ― If you don't say anything...
+- **히노미야 치나츠**: ― It's going to be really awkward...
+- **히노미야 치나츠**: ― Not because of you! I just mean... Ugh! I'm sorry.
+- **히노미야 치나츠**: ― I don't mean to be rude. I just... I don't know what to say...
+- **히노미야 치나츠**: ― OR what to do! Ugh!
+- **히노미야 치나츠**: ― *sigh*
+
+6. **「히노미야 치나츠 인연 스토리 6」**
+
+- **???**: Hmm? Sensei?
+- **???**: Fancy running into you here...
+- **히노미야 치나츠**: Y-Yes. It's me.
+- **히노미야 치나츠**: What a grandiose reaction. I appreciate it.
+- **히노미야 치나츠**: But I wouldn't have expected to see you here in the street so soon. Perhaps you took my message too seriously...
+- **히노미야 치나츠**: ...Ah.
+- **히노미야 치나츠**: Well, don't mistake my meaning, I...
+- **히노미야 치나츠**: ...Pardon?
+- **히노미야 치나츠**: Am I not on my day off? Yes, I am. Just as I told you.
+- **히노미야 치나츠**: ...My bag?
+- **히노미야 치나츠**: Ah, this, you mean.
+- **히노미야 치나츠**: Ah. So that's what you meant. My apologies. Perhaps I didn't explain well enough.
+- **히노미야 치나츠**: I have a day off from the Prefect Team specifically. I was planning to use it to visit the Medical Emergency Club.
+- **히노미야 치나츠**: Not that I think they're in dire straits, but they are always busy, so I'm sure they could use an extra hand.
+- **히노미야 치나츠**: Well, I don't know if you remember, but I started out with the Medical Emergency Club.
+- **히노미야 치나츠**: Ever since then, I've carried this bag...and the knowledge of all the procedures I learned.
+- **히노미야 치나츠**: Their president, and the others, are...
+- **히노미야 치나츠**: ...well, they're all rather odd, but their skills are unquestionable.
+- **히노미야 치나츠**: Fufu. I never found them particularly hard to deal with.
+- **히노미야 치나츠**: And we all help each other with the work.
+- **히노미야 치나츠**: ...Pardon?
+- **히노미야 치나츠**: You want to ask me something?
+- **히노미야 치나츠**: Hm... What could you want to know? I can guess, given the circumstances, but...
+- **히노미야 치나츠**: ...please feel free to ask. I'll answer to the best of my ability.
+- **히노미야 치나츠**: I guessed right. Fufu.
+- **히노미야 치나츠**: Well, no worries, I can answer that easily enough.
+- **히노미야 치나츠**: You're not the first one to ask me, you know.
+- **히노미야 치나츠**: To put it simply...let's say...
+- **히노미야 치나츠**: ...someone had to.
+- **히노미야 치나츠**: To be honest about it, I couldn't leave them the way they were.
+- **히노미야 치나츠**: ...That's right.
+- **히노미야 치나츠**: The Prefect Team and the Medical Emergency Club may be on good terms, but they're not the same organization.
+- **히노미야 치나츠**: The two presidents are on good terms as well, but there's no chain of command between them.
+- **히노미야 치나츠**: That said, the Prefect Team's work often results in casualties.
+- **히노미야 치나츠**: The Medical Emergency Club always deploys whenever that happens, of course, but the response can't always be immediate.
+- **히노미야 치나츠**: When I was with the Medical Emergency Club, I saw all that firsthand.
+- **히노미야 치나츠**: And I thought, "The Prefect Team should have someone there who can handle medical responses right away."
+- **히노미야 치나츠**: Of course, neither of the two presidents are particularly flexible, so any talk of reorganization soon died in committee.
+- **히노미야 치나츠**: I'm sure everyone had their reasons, of course. Both presidents know the way things are.
+- **히노미야 치나츠**: But the only remaining option...was to be that "someone" myself.
+- **히노미야 치나츠**: And that's how I came to be where I am. Does that answer your question?
+- **히노미야 치나츠**: Honestly, I don't mean to flatter myself, but the Prefect Team's resilience on the front line has improved since I transferred over...
+- **히노미야 치나츠**: ...or so the Head Prefect has said. I'm sure it's true. She makes it a point to speak objectively, after all.
+- **히노미야 치나츠**: I-I swear I wasn't fishing for compliments when I brought this up.
+- **히노미야 치나츠**: But anyway, for that reason, I sometimes check in with the Medical Emergency Club.
+- **히노미야 치나츠**: And that's where I happen to be going right now.
+- **히노미야 치나츠**: ...Um...
+- **히노미야 치나츠**: So...what are you up to today, Sensei? From the message earlier, I'm sure today was...
+- **히노미야 치나츠**: ...Yes?
+- **히노미야 치나츠**: You have business at the Medical Emergency Club too?
+- **히노미야 치나츠**: ...All of a sudden?
+- **히노미야 치나츠**: Did...something JUST come up?
+- **히노미야 치나츠**: Hah. You're hopeless, Sensei.
+- **히노미야 치나츠**: What can I say?
+- **히노미야 치나츠**: Well...fine. Many hands make light work, right? I'm sure the Medical Emergency Club will agree.
+- **히노미야 치나츠**: Once again, I feel like I'm in your debt.
+- **히노미야 치나츠**: So with that in mind...
+- **히노미야 치나츠**: ...since you're visiting us this time, well...
+- **히노미야 치나츠**: ...on my next day off...why don't I...
+- **히노미야 치나츠**: ...go to Schale and help you?
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/히노미야 치나츠
+- https://bluearchive.wiki (원문 스토리 스크립트)

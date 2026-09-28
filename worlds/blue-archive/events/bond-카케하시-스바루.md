@@ -1,0 +1,329 @@
+# 카케하시 스바루 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카케하시 스바루, 선생(샬레)
+
+1. **「카케하시 스바루 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카케하시 스바루 인연 스토리 2」**
+
+- **카케하시 스바루**: So, you really came, Sensei...
+- **카케하시 스바루**: Indeed it does.
+- **카케하시 스바루**: Go ahead.
+- **카케하시 스바루**: ...I know.
+- **카케하시 스바루**: That said, it still feels unfamiliar.
+- **카케하시 스바루**: Haha, well... Everything changed so fast.
+- **카케하시 스바루**: Hmm? My patrol work?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: To be frank, it's hard to explain how that happened.
+- **카케하시 스바루**: I'm now, in essence, the Head Prefect...if we were considered a traditional school.
+- **카케하시 스바루**: I suppose that I'm in charge of keeping the school in order.
+- **카케하시 스바루**: It's convenient, though. I barely have to worry about outside attacks.
+- **카케하시 스바루**: Oh, why? Isn't it obvious?
+- **카케하시 스바루**: Haha! Think about it, Sensei.
+- **카케하시 스바루**: Who would dare to cause trouble in Arius?
+- **카케하시 스바루**: ...For multiple reasons.
+- **카케하시 스바루**: Let's take a look.
+- **카케하시 스바루**: Everyone! What is this? An outside invasion?
+- **Arius Student A**: Oh? Not at all, Subaru.
+- **Arius Student B**: She's right. We're just...
+- **Arius Student A**: Having a respectful discussion...in the traditional Arius style.
+- **카케하시 스바루**: Ah, I see...
+- **Arius Student A**: Oh, you didn't know, Sensei?
+- **Arius Student B**: Sorry! We forgot that you are an outsider!
+- **Arius Student A**: You see, in Arius, actions speak louder than words!
+- **Arius Student B**: Right! So...
+- **Arius Student A**: Whenever we have a disagreement, a respectful discussion...
+- **Arius Student B**: We demonstrate the strength of our words...and our actions!
+- **Arius Student A**: Like how I told you that 5.56 millimeter is where it's at!
+- **Arius Student B**: Please, that would barely tickle! The 7.62mm rounds are weighty and reliable.
+- **Arius Student A**: Oh please! As if the Squad didn't use 5.56mm for years!
+- **Arius Student B**: That was for special circumstances! Normally, we relied on 7.62mm.
+- **Arius Student A**: Think about it. What's the point of taking a shot if you can't even control the recoil, huh?
+- **Arius Student A**: It's much smarter to deliver additional hits with a rapid-fire attack!
+- **Arius Student B**: You're kidding, right? If the flash suppressor is properly installed, you won't even feel the difference.
+- **Arius Student B**: The idea that 7.62mm has bad recoil comes from someone who doesn't know how to hold a gun properly.
+- **Arius Student A**: You're neglecting the issue of ammo capacity! Can you carry 300 7.62mm rounds, pipsqueak?
+- **Arius Student A**: Nowadays, precision fire is a luxury. Sustained suppressive fire is much more important!
+- **Arius Student B**: You know that bullets aren't free, right?
+- **카케하시 스바루**: Both of you, that's enough.
+- **Arius Student A**: But...!
+- **Arius Student B**: Wait...!
+- **카케하시 스바루**: I've listened carefully. And truth is that neither of you is wrong.
+- **카케하시 스바루**: But how did you even start this discussion?
+- **Arius Student A**: Th-That's...
+- **Arius Student B**: We were trying to decide which ammo would best protect our school.
+- **카케하시 스바루**: That's good. And I can see that both of you want nothing more than to keep our school safe. That's the important part!
+- **카케하시 스바루**: And it's natural to have different approaches to the same problem.
+- **카케하시 스바루**: So, perhaps it's time for us to rethink the traditional Arius discussion style.
+- **카케하시 스바루**: A house divided against itself cannot stand, right?
+- **Arius Student A**: ...She's right.
+- **Arius Student B**: Right... We're not the same old Arius. We're a new, stronger team!
+- **카케하시 스바루**: Precisely! Now, please consider that as we move forward.
+- **카케하시 스바루**: You talked about conserving the cost of ammo, and the two of you wasted plenty during your discussion. Now, who does that help?
+- **Arius Students A & B**: I-I'm really sorry, Subaru.
+- **카케하시 스바루**: And I'm grateful that you two are so impassioned about our school!
+- **카케하시 스바루**: We have a long way to go together as we rebuild. And I sympathize with wanting to revert to our previous protocols.
+- **카케하시 스바루**: But please try to think more creatively. I promise you that I'll do my best as well.
+- **카케하시 스바루**: If you have any questions or concerns, please do not hesitate to reach out.
+- **Arius Student A**: ...! Will do, Subaru!
+
+3. **「카케하시 스바루 인연 스토리 3」**
+
+- **카케하시 스바루**: Hello, Sen...sei?
+- **카케하시 스바루**: Wh-What's all this?
+- **카케하시 스바루**: This is far too much. And honestly, this kind of thing makes me feel really uncomfortable... You should tone it down.
+- **카케하시 스바루**: The fact that you're trying to treat me, to coddle my feelings... I think I actually feel worse.
+- **카케하시 스바루**: Then again... I can't say that I want you to treat me coldly.
+- **카케하시 스바루**: Haha. There's nothing more unpredictable than a high school girl. Haven't you heard?
+- **카케하시 스바루**: Then, though this is my first time on Student Rep duty, I ask that you take the lead.
+- **카케하시 스바루**: *sigh*
+- **카케하시 스바루**: Oh, thank you, Sensei.
+- **카케하시 스바루**: Coffee... Fufu.
+- **카케하시 스바루**: Did you know this, Sensei? We used to drink something like coffee or tea back in Arius, too. It didn't taste the same, but it was a ritual.
+- **카케하시 스바루**: Right. We'd take red leaf lettuce, dandelion, desiccated turnip roots, thistle leaves, and vegetable waste leftover from the commissary.
+- **카케하시 스바루**: If you roast and grind those things enough, you end up with something slightly coffee-colored...
+- **카케하시 스바루**: We had something called "water time." It was when a star trainee was awarded a warm cup of water, which could be used for a...beverage.
+- **카케하시 스바루**: You had to mix it in secret. You couldn't let anyone accuse you of extravagance.
+- **카케하시 스바루**: What did I just say? You're making too much of a fuss! I can't!
+- **카케하시 스바루**: Um, Sensei?
+- **카케하시 스바루**: You said...I can talk to you about things, right?
+- **카케하시 스바루**: Tone it down!
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: It's really different...being outside.
+- **카케하시 스바루**: I mean, that's obvious, isn't it?
+- **카케하시 스바루**: But, maybe that's why...
+- **카케하시 스바루**: I feel like, most days...I don't know exactly how to say it.
+- **카케하시 스바루**: Am I anxious? Shaky? Seething? Or maybe it's some sort of a mix of all three.
+- **카케하시 스바루**: Hmm, the reason... If you must ask...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: I suppose it's everything I can't forgive. I can't move on.
+- **카케하시 스바루**: Whether the subject is Trinity, or Arius...
+- **카케하시 스바루**: ...myself...
+- **카케하시 스바루**: It's complicated. Yes, very complicated...
+- **카케하시 스바루**: Part of me wants to see Trinity simply...suffer for once. Experience a single hardship, something to make it all feel fair.
+- **카케하시 스바루**: ...Then again, until Arius truly stands taller than Trinity...
+- **카케하시 스바루**: I'd like Trinity to be there, firm and solid, like nothing happened.
+- **카케하시 스바루**: It's even worse when I think about the actual Trinity students. Their names, faces, promises...
+- **카케하시 스바루**: I want all of us Arius students to do better than them. I want it to be undeniable.
+- **카케하시 스바루**: ...But I'd rather not...resort to underhanded means again. I'm trying to keep it legal, even moral.
+- **카케하시 스바루**: Huh? The phrase for that is "friendly rivalry"?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: I...don't know if I like hearing that.
+- **카케하시 스바루**: I know you're right...or right enough! And that makes me feel worse.
+- **카케하시 스바루**: *sigh*
+- **카케하시 스바루**: Yes, we are. Now do you regret it? Trying to get close to me? Letting me tell you every muddled thought in my head?
+- **카케하시 스바루**: Huh? You appreciate my honesty? It's okay that I'm annoyed? Because you're sick of seeing me put on a smile for the other students?
+- **카케하시 스바루**: ...!
+- **카케하시 스바루**: You are TRULY the worst, Sensei...
+- **카케하시 스바루**: You're such a bad person...
+- **카케하시 스바루**: Huh? What do you mean...?
+- **카케하시 스바루**: Are you saying that my irresoluteness isn't a flaw...
+- **카케하시 스바루**: ...but it's still what makes me a person?
+- **카케하시 스바루**: Can't you just tell me the right answer?
+- **카케하시 스바루**: So, you're saying not to take on so much at once? Think over my feelings little by little, like I'm sorting a junk drawer?
+- **카케하시 스바루**: ...You're telling me to take responsibility for my next choice.
+- **카케하시 스바루**: And if I can't take all the pressure, I should contact you. Anytime? Truly?
+- **카케하시 스바루**: Ahaha, what nonsense... You've solved nothing, Sensei.
+- **카케하시 스바루**: ...Really?
+- **카케하시 스바루**: Honestly, life is such a mess, more than I ever imagined...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: I thought there'd be so much more to living.
+- **카케하시 스바루**: What are you saying? You're supposed to be an educator. How could you be so irresponsible and flighty?
+
+4. **「카케하시 스바루 인연 스토리 4」**
+
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: H-Hello, Sensei.
+- **카케하시 스바루**: What am I doing, you ask? O-Of course...
+- **카케하시 스바루**: I'm working as a part-timer...
+- **카케하시 스바루**: N-No, it's nothing weird like you think! By working "customer service," I'm actually...
+- **카케하시 스바루**: Look. After a brief discussion at school, we started working here. I've been forced to deal with all sorts of crooks, troublemakers, and...jerks, basically!
+- **카케하시 스바루**: That said, I am acquiring some "real world" experience, and have made a little money.
+- **카케하시 스바루**: Right...?
+- **카케하시 스바루**: I'd probably learn more if I worked INSIDE the cafe, but, nevertheless...
+- **카케하시 스바루**: Why am I in charge of the sign? I don't know, truthfully. They said something about how holding it like this makes for a good picture.
+- **카케하시 스바루**: Wow. That was exactly what the owner said, word for word.
+- **카케하시 스바루**: Although I still don't understand what you two mean.
+- **카케하시 스바루**: Huh? Nevertheless, you're glad to see me working hard?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Well then! Please, spend some money! Do it for the hard-working students who're just trying to make a living!
+- **카케하시 스바루**: Thank you! Follow me!
+- **카케하시 스바루**: How about it, Sensei? They clean up well, huh?
+- **카케하시 스바루**: Everyone was hesitant at first, but then they saw the uniforms.
+- **카케하시 스바루**: They said they were cute, that they wanted to try them on...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: I'm a senior, and I didn't even notice how much they needed this. How pathetic.
+- **카케하시 스바루**: ...Yes, I suppose.
+- **카케하시 스바루**: Over here, [USERNAME]! We have a customer!
+- **Part-Timer Arius Student**: Welcome! Thank you for visiting! I'll take you to your seat!
+- **카케하시 스바루**: Hm? M-Me?! But I'm in charge of the sign! The door!
+- **카케하시 스바루**: I must bring in more guests to increase the cafe's sales!
+- **Store Manager**: Yes. How may I help you?
+- **Store Manager**: Ah, so she is your student. She's lovely.
+- **Store Manager**: So you've come to check in on my business? You'd like a word in private?
+- **Store Manager**: Oh? You want to order a round of cake and drinks for everyone?
+- **Store Manager**: And you'll foot the bill! Oh, yes!
+- **Store Manager**: Of course you can have a moment with her. Subaru! Please, this nice person would like to talk to you.
+- **카케하시 스바루**: ...Is this...allowed?
+- **카케하시 스바루**: You are a very interesting teacher.
+- **카케하시 스바루**: Sensei?
+- **카케하시 스바루**: Aren't you proud of them? My girls...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Flatter me all you want. I have nothing to offer.
+- **카케하시 스바루**: Huh? You meant it?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: You know, I heard a nasty rumor about you, Sensei.
+- **카케하시 스바루**: It's that if some misfortune befalls you, you had it coming!
+- **카케하시 스바루**: Why am I bringing this up?
+- **카케하시 스바루**: You're smart, aren't you? Why don't you try to figure it out on your own?
+- **Aggressive Customer**: What's this? I came for the free cake, but this service is a joke!
+- **Part-Timer Arius Student**: Wh-What's the matter, please?
+- **Aggressive Customer**: You barely talked to me, and didn't even smile! You should care more about the customer.
+- **Aggressive Customer**: Although I'll never be coming back to this dump anyway!
+- **Part-Timer Arius Student**: Oh, I'm so sorry! I'll do better. But please, don't abandon the cafe because of my carelessness!
+- **Aggressive Customer**: I'll do whatever I want! Don't boss me around! And what's with your stupid outfit? It's flimsy and feels like paper!
+- **Part-Timer Arius Student**: Kyaah?!
+- **Store Manager**: E-Excuse me?! Please don't touch her uniform.
+- **카케하시 스바루**: ...!
+- **Aggressive Customer**: Whaaa?!?! Wh-What are you?
+- **카케하시 스바루**: I'm sorry, please excuse my rudeness. But it seemed like you lost your balance as you were barging out!
+- **카케하시 스바루**: How about I help you up, if I may?
+- **Part-Timer Arius Student**: Subaru's showing off her close-quarters combat! Take a look!
+- **Aggressive Customer**: Lady, drop it! Ow ow ow...! I'm gonna dislocate my wrist or elbow at this rate! Let me go!
+- **카케하시 스바루**: Hahaha. Oh, what's that? You seem to be a little off-balance.
+- **카케하시 스바루**: ...I'd hate to twist your arm. But maybe I'll have to.
+
+5. **「카케하시 스바루 인연 스토리 5」**
+
+- **카케하시 스바루**: Tone it down!
+- **카케하시 스바루**: I really hate when you do this, Sensei!
+- **카케하시 스바루**: So, about what I wanted to buy...
+- **카케하시 스바루**: R-Right, about that...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: It's some sheet music.
+- **카케하시 스바루**: U-Um... A...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Music? Like a score, possibly. Preferably one that transfers easily to the harmonica!
+- **카케하시 스바루**: Whoa...
+- **카케하시 스바루**: Happy?
+- **카케하시 스바루**: Maybe, maybe not.
+- **카케하시 스바루**: That said, that was enjoyable for my first time shopping.
+- **카케하시 스바루**: Huh? Shopping?
+- **카케하시 스바루**: No way. I'm not made of money.
+- **카케하시 스바루**: Huh? You don't think I spent a lot?
+- **카케하시 스바루**: I mean, you're right, but...
+- **카케하시 스바루**: Well... You have a point... And it is fun, in its own way, just to browse.
+- **카케하시 스바루**: But it also creates a sense of yearning that I could do without.
+- **카케하시 스바루**: Of course, that can create motivation, which translates into action.
+- **카케하시 스바루**: Still, I think that kind of desire is rarely satisfied, especially through consumption.
+- **카케하시 스바루**: In the end, no one's ever truly fulfilled, are they? How tragic.
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Sensei, in the end...I may have wanted a final answer. I wanted the anguish to end.
+- **카케하시 스바루**: Of course, that's just as absurd as endlessly wanting things. Still, I can't help but wonder, in a way, if there is some kind of ultimate happiness we can obtain.
+- **카케하시 스바루**: I want to hold onto that faint hope, at least.
+- **카케하시 스바루**: I've faced too many unsolvable problems, so many questions without answers. It's exhausting.
+- **카케하시 스바루**: ...Thank you.
+- **카케하시 스바루**: Haha. But it's obvious it won't work anyway. I'm wasting time by overthinking, as usual.
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: ...!
+- **카케하시 스바루**: ...You're right.
+- **카케하시 스바루**: I suppose there are few things that vanish instantly, like a played music note.
+- **카케하시 스바루**: Sometimes I feel a little embarrassed.
+- **카케하시 스바루**: I shouldn't feel ashamed of my hobby? I know that, intellectually.
+- **카케하시 스바루**: It soothes my heart, and the juniors really like it too, but...
+- **카케하시 스바루**: Sometimes I wonder if I'm not just an old soul...
+- **카케하시 스바루**: ...but more of an imposter. Like I'm emulating some childish archetype I saw in a classic movie.
+- **카케하시 스바루**: Oh... That's so embarrassing. Why did I say that?
+- **카케하시 스바루**: Don't keep asking. It's not your problem. It's mine.
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Sensei?
+- **카케하시 스바루**: If you'd like, would you walk with me to the riverbank?
+- **카케하시 스바루**: I have something I'd like for you to hear.
+- **카케하시 스바루**: ― It feels refreshing.
+- **카케하시 스바루**: ― This is my first time playing for a solo audience...
+- **카케하시 스바루**: ― How was it?
+- **카케하시 스바루**: ― Was it weird, or anything...?
+- **카케하시 스바루**: ― That...
+- **카케하시 스바루**: ― I can trust your words, right?
+- **카케하시 스바루**: ― ...Thank you.
+- **카케하시 스바루**: ― The thing is, I wish I could
+- **카케하시 스바루**: ― do more things...
+- **카케하시 스바루**: ― But right now,
+- **카케하시 스바루**: ― this is about all I can do...
+- **카케하시 스바루**: ― What?
+- **카케하시 스바루**: ― You'd love to see me practice and perform for you again?
+- **카케하시 스바루**: ― Since I bought so many music sheets...?
+- **카케하시 스바루**: ― Th-That's...
+- **카케하시 스바루**: ― I'll...think about it
+
+6. **「카케하시 스바루 인연 스토리 6」**
+
+- **Arius Student A**: Hello, Subaru! Oh, Sensei, you too!
+- **카케하시 스바루**: Hello. I hope you're doing well.
+- **Arius Student A**: Oh? Subaru, isn't that the...
+- **Arius Student A**: ...legendary corn stick? In the rumored and limited-time barbecue cheese flavor?
+- **카케하시 스바루**: Wh-What?
+- **카케하시 스바루**: Well, yes...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Do you want it?
+- **Arius Student A**: I'd...be honored!
+- **카케하시 스바루**: Haha, very well. Here you go.
+- **Arius Student A**: Really? Sweet, thank you!
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: (I'd been saving that for later...)
+- **카케하시 스바루**: Huh? Of course I am. It's nothing.
+- **카케하시 스바루**: Oh, but my face said I wasn't alright?
+- **카케하시 스바루**: Stop looking at my face so much! You're just making things up!
+- **Arius Student B**: Wait, the custard-flavored juice?
+- **Arius Student B**: Custard is already such a tasty dessert. And they made it into a juice? Wow.
+- **카케하시 스바루**: That's right. It's nice and cold.
+- **Arius Student B**: ...
+- **Arius Student B**: Umm... Subaru...?
+- **Arius Student B**: If I may... Can I have a sip?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: More than that. Take the whole thing.
+- **Arius Student B**: Are you sure?!
+- **카케하시 스바루**: Positive. But try to share with the others too, okay?
+- **Arius Student B**: Thank you so much!
+- **카케하시 스바루**: (That wasn't easy to get...)
+- **카케하시 스바루**: What?!
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Yes, of course. Always.
+- **Arius Student C**: Thank you!
+- **카케하시 스바루**: Don't mention it.
+- **Arius Student D**: Amazing! You're the best, Subaru!
+- **카케하시 스바루**: It... It was nothing. Enjoy.
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Wh-Why are you looking at me like that...?
+- **카케하시 스바루**: No... You got it all wrong.
+- **카케하시 스바루**: But still...
+- **카케하시 스바루**: That last treat, though... It's a bit of a shame.
+- **카케하시 스바루**: ...Huh?
+- **카케하시 스바루**: S-Sensei? What is this place...?
+- **카케하시 스바루**: Huh? "Eat first and ask questions later"?
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Oh, I see what this is. Look, I'm not a charity ca—
+- **Waiter**: Here is your order. Please take your time and enjoy.
+- **카케하시 스바루**: O-Of course! I'm fine!
+- **카케하시 스바루**: B-But, let me just ask you this...
+- **카케하시 스바루**: ...Did you...order only...my favorites, somehow...?
+- **카케하시 스바루**: !
+- **카케하시 스바루**: Th-That's a touching sentiment.
+- **카케하시 스바루**: Huh? What?
+- **카케하시 스바루**: M-Maybe you ate some without thinking...?
+- **카케하시 스바루**: I should work on my excuses?
+- **카케하시 스바루**: Th-That's a pretty good lesson, Sensei.
+- **카케하시 스바루**: ...
+- **카케하시 스바루**: Yes, I confess! It was me.
+- **카케하시 스바루**: ...I bet you dislike high school girls who eat this much, huh?
+- **카케하시 스바루**: Y-You mean it?
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카케하시 스바루
+- https://bluearchive.wiki (원문 스토리 스크립트)

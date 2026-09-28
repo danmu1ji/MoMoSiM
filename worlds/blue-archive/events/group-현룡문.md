@@ -1,0 +1,218 @@
+# 현룡문 그룹 스토리
+
+원문(bluearchive.wiki) 그룹 스토리 스크립트 4화를 한국어 정본 이름으로 옮긴 기록이다.
+
+- 등장: Genryumon Member, Genryumon Member A, Genryumon Member B, Genryumon Members A & B, Peking Opera Club Member, Plum Blossom Students, Shanhaijing Student A, Shanhaijing Student B, 류우게 키사키, 스노하라 코코나, 아케시로 루미, 우루시바라 카구야, 카야마 레이죠, 코노에 미나
+
+1. **「현룡문 스토리 1화」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「현룡문 스토리 2화」**
+
+- **류우게 키사키**: One, two, three, four...
+- **류우게 키사키**: Phew. At this hour, even White Tiger Park is deserted.
+- **류우게 키사키**: Mm. It's the only time I can perform my morning stretches without being seen.
+- **류우게 키사키**: Fufu. The movement wakes up my mind, and my body reaps the benefits as well.
+- **류우게 키사키**: The freedom of operating without the constant surveillance of my bodyguards, or other attendants, is exhilarating as well.
+- **류우게 키사키**: Although... I suppose it'd be pleasant to sleep in from time to time.
+- **류우게 키사키**: ...
+- **류우게 키사키**: Enough sentimental daydreams. I must return soon.
+- **카야마 레이죠**: Just now...
+- **카야마 레이죠**: I hid, so I'd have a chance to confirm that I was really seeing what I was seeing!
+- **카야마 레이죠**: Was the president...practicing kung fu?!
+- **우루시바라 카구야**: I, Urushibara Kaguya, have witnessed something unbelievable...
+- **우루시바라 카구야**: I was sure I must have been utterly mistaken, as I've heard not a whisper of rumor or gossip pertaining to this topic!
+- **우루시바라 카구야**: They say that no matter how far apart two souls are, you need only come to a mutual understanding to feel like old neighbors.
+- **우루시바라 카구야**: And the president has finally understood our loyalty and passion for the Peking opera and is partaking herself!
+- **카야마 레이죠**: Honestly, I never liked the people of Genryumon.
+- **카야마 레이죠**: They're loud, rude, and arrogant, and think they make all the rules...
+- **카야마 레이죠**: ...To be fair, they're a necessary evil, at times.
+- **카야마 레이죠**: But Madam has always been a bit of an exception. For starters, I can reason with her, and she shows mercy here and there.
+- **카야마 레이죠**: For THAT president to be secretly practicing kung fu...!
+- **카야마 레이죠**: I'm so glad I didn't skip morning training. I knew there was a reason I woke up earlier than usual today, too!
+- **카야마 레이죠**: In that case, I've gotta take the opportunity and go to President Rumi...!
+- **카야마 레이죠**: Yeah, I can't lose this chance! I need to tell everyone. Okay, I'll start with our president! That's the best move!
+- **우루시바라 카구야**: ...The Peking Opera Club has had to operate inconspicuously recently, due to...an unfortunate incident.
+- **우루시바라 카구야**: Naturally, we never once questioned the president's decision!
+- **우루시바라 카구야**: But we feared deeply that we at the Peking Opera Club had lost her trust entirely, and we would never again happen upon another chance to prove our loyalty!
+- **우루시바라 카구야**: But, by practicing Peking opera dances herself, Madam has shown that, deep inside, she has not abandoned us at all!
+- **우루시바라 카구야**: How could one say that this is not the most exhilarating of news?
+- **우루시바라 카구야**: With this, the Peking Opera Club's budget will be set free! We shall put on the flashiest, most exquisite Peking opera performances yet! Yes!
+- **우루시바라 카구야**: The Peking Opera Club's overall atmosphere also happened to be a bit gloomy as of late, so I must spread this good news throughout the entire club!
+- **아케시로 루미**: So, Kisaki was practicing kung fu early in the morning?
+- **카야마 레이죠**: That's right, President! For there to be someone, other than me, who appreciates the beauty of kung fu, and for it to be Madam President, of all people...
+- **카야마 레이죠**: As a trainee, I can't help but be happy about this!
+- **아케시로 루미**: Um... That's uh...
+- **아케시로 루미**: ...
+- **아케시로 루미**: Yeah. I suppose.
+- **카야마 레이죠**: Is something bothering you, President?
+- **아케시로 루미**: No, it's nothing.
+- **아케시로 루미**: (It's just weird. The Kisaki I know isn't exactly the type to be gung-ho about kung fu.)
+- **아케시로 루미**: So... What's your plan, Reijo?
+- **카야마 레이죠**: Hm? Well, uh... I think I should spread the news far and wide, to all the other trainees.
+- **카야마 레이죠**: The number of students who train in martial arts is really low, not only in Shanhaijing, but also throughout Kivotos as a whole.
+- **카야마 레이죠**: Having even one more person join us is something for all of us to gather around and celebrate!
+- **카야마 레이죠**: That said, President! I'll be taking some time off today to address this!
+- **아케시로 루미**: It's nice to show enthusiasm and all, but...
+- **아케시로 루미**: Ah, well, it's a rare sight to see Reijo so pumped up.
+- **아케시로 루미**: But, Kisaki, well... Seems a bit odd.
+- **아케시로 루미**: I guess if Kisaki is actually secretly practicing kung fu...
+- **아케시로 루미**: ...maybe I'll give her some secret encouragement, in the form of snacks!
+- **Peking Opera Club Member**: Is that really true, President?
+- **우루시바라 카구야**: Of course! I saw it with my very own eyes!
+- **우루시바라 카구야**: I did keep my distance, as to not get caught, so some may question my testimony...
+- **우루시바라 카구야**: But I could see through the truth! With none other than my very own eyes!
+- **우루시바라 카구야**: That movement, her arm drawing an elegant circle, the postures pointing towards the sky! There can be no other conclusion! She was performing...
+- **우루시바라 카구야**: ...the Peking Opera Club's "Peking opera dance" itself!
+- **Peking Opera Club Member**: The Peking opera dance... The final culmination of all the Peking opera performance moves...
+- **Peking Opera Club Member**: The Peking Opera Club's unique dance!
+- **Peking Opera Club Member**: But President, isn't that kinda weird? How does Madam know about the club's secret dance? Considering it's a secret and all?
+- **우루시바라 카구야**: It isn't strange at all! The answer is perfectly obvious!
+- **우루시바라 카구야**: Madam knows everything!
+
+3. **「현룡문 스토리 3화」**
+
+- **류우게 키사키**: I must say, it's truly fortunate.
+- **류우게 키사키**: I've concluded the day's work before you arrived.
+- **류우게 키사키**: Fufu. I have very limited time. I can't afford to waste a moment of it.
+- **류우게 키사키**: Additionally, humans inherently are not existences that embrace "work" with open arms.
+- **류우게 키사키**: I wonder... I could not say I particularly like or dislike work.
+- **류우게 키사키**: I suppose the sentiment is more, "I do it because there is something that needs to be done."
+- **류우게 키사키**: And if it must be done, efficiency and speed are two tools at my disposal to reduce the work time.
+- **류우게 키사키**: Yes. I would say, "If you wish to not work, then do the work."
+- **류우게 키사키**: Hm? People in society may call such a mindset that of a "workaholic"?
+- **류우게 키사키**: What is that? Ah. People who are addicted to work itself?
+- **류우게 키사키**: One would expect that to be a boon upon any organization, but...
+- **류우게 키사키**: Did you know, Sensei?
+- **류우게 키사키**: A superior that's too diligent, too inflexible...they may tire out their employees.
+- **류우게 키사키**: With that in mind, me spending a moment of repose in the main room could potentially be seen as a benefit to Genryumon's future.
+- **류우게 키사키**: What do you think of that, Sensei?
+- **류우게 키사키**: I would, perhaps, say that you do quite enough of that already.
+- **Genryumon Member**: I-Instructor Kokona?! That is the president's room—
+- **스노하라 코코나**: Madam, Madam! Uh, um! Is it true?
+- **류우게 키사키**: Oh? If it isn't Instructor Kokona.
+- **스노하라 코코나**: Ah, I shouldn't be like this. I'm already a full-fledged lady and an instructor, so I need to follow proper etiquette.
+- **스노하라 코코나**: Hello, Madam! Greetings from the Disciplinary Support Department, Plum Blossom Garden first-year instructor, Sunohara Kokona!
+- **스노하라 코코나**: Sensei is here too? What's going on?
+- **스노하라 코코나**: That's no good, Sensei! You shouldn't waste the president's time for no reason!
+- **류우게 키사키**: It's of no concern, Instructor Kokona. Well, what brings you here? I haven't seen you quite this frantic in a while.
+- **스노하라 코코나**: Ah, right! There was something I wanted to ask!
+- **스노하라 코코나**: Is it true that you've started doing banzai stretches again?
+- **류우게 키사키**: B-Banzai stretches...?
+- **류우게 키사키**: U-Um...
+- **스노하라 코코나**: Madam?
+- **류우게 키사키**: Nothing. I'm just...curious as to where you heard this information from.
+- **스노하라 코코나**: Oh, that! I was going to tell you! A lot of people in Shanhaijing are talking about it!
+- **류우게 키사키**: ...What?
+- **스노하라 코코나**: On top of that, while I didn't really get them, there are a bunch of weird rumors going around.
+- **류우게 키사키**: Could you please tell me about these...rumors?
+- **스노하라 코코나**: Of course! So there's stuff like, "As expected, the president didn't give up on banzai stretches!"
+- **스노하라 코코나**: Oh, and, "the Genryumon president has been using every means possible to get taller, in secret."
+- **스노하라 코코나**: Another one was, "Genryumon must have made a special 'request' to Saya of the Eastern Alchemy Society."
+- **류우게 키사키**: No, that's, uh...
+- **스노하라 코코나**: I almost forgot! "Genryumon can always wipe out the Black Tortoise Promenade, but the reason why they don't do that...
+- **스노하라 코코나**: ...is because the Promenade has been secretly making them food that encourages growth!"
+- **스노하라 코코나**: There's also something like, "the day Madam grows taller is the day 'something' from Rikkagaku will be unleashed, which will make Shanhaijing the greatest academy in Kivotos".
+- **스노하라 코코나**: By the way, is the last one true, Madam...?
+- **류우게 키사키**: U-Um... Instructor Kokona? When it comes to rumors and hearsay, you can generally assume them to be false...
+- **스노하라 코코나**: Phew, okay! I'm glad that's what I told the children at Plum Blossom Garden!
+- **스노하라 코코나**: But I also thought it might be awesome to see you make Shanhaijing the greatest academy in all of Kivotos!
+- **류우게 키사키**: I'll do my utmost to reach that goal, without relying on fantasy and disorderly rumors...
+- **스노하라 코코나**: Okie dokie!
+- **류우게 키사키**: Oh, my. I feel agitated. There isn't a dark, ulterior motive behind my morning exercises.
+- **류우게 키사키**: To think that it sparked rumors about growing taller and strange, devious plots. Being the president can be exhausting.
+- **류우게 키사키**: Hm?
+- **류우게 키사키**: Do you...also believe that I will not grow, at all?
+- **류우게 키사키**: In other words, you believe I'll stay like this, forevermore?
+- **류우게 키사키**: Is that okay to you, Sensei?
+- **류우게 키사키**: Shouldn't humans exist to resist fate, persistently and endlessly?
+- **류우게 키사키**: Fufu... Then I shall ask again.
+- **류우게 키사키**: Does that mean you, Sensei, believe in the rumors that I exercise in hopes of growing taller?
+- **류우게 키사키**: Furthermore, do you believe me to be an irrational person, one who follows such irrational thought processes?
+- **류우게 키사키**: You've piqued my curiosity. In your mind, what kind of student is Ryuuge Kisaki?
+- **류우게 키사키**: Fufu. Don't worry so much, Sensei. At this rate, you're going to make me want to apologize.
+- **스노하라 코코나**: Excuse me...I feel like I've been forgotten.
+
+4. **「현룡문 스토리 4화」**
+
+- **류우게 키사키**: ...
+- **스노하라 코코나**: ...
+- **류우게 키사키**: Was I not scheduled to do morning exercises with the Plum Blossom Garden children and Instructor Kokona?
+- **Plum Blossom Students**: Kokona...? Madam...? What's going on...?
+- **카야마 레이죠**: President Kaguya...? What brings the Peking Opera Club here...?
+- **우루시바라 카구야**: I believe that is my question to ask? Why is Reijo from the Black Tortoise Promenade, and the Martial Arts Research Club, here?
+- **카야마 레이죠**: This is the strangest coincidence I've ever seen.
+- **우루시바라 카구야**: I must agree. To wander around the world like duckweed, come back, and meet...this is what they would truly call a "coincidence."
+- **카야마 레이죠**: Anyways, fine. The Martial Arts Research Club and I have business here..
+- **우루시바라 카구야**: As does the Peking Opera Club. Shall I say the word "coincidence" once more?
+- **카야마 레이죠**: I, Kayama Reijo, and the Martial Arts Research Club! Will join Madam's kung fu training starting today!
+- **우루시바라 카구야**: The Peking Opera Club! Will assist Madam's Peking opera practice to our fullest starting today!
+- **카야마 레이죠**: What?
+- **우루시바라 카구야**: Huh?
+- **류우게 키사키**: ...What?
+- **카야마 레이죠**: No, no. You've completely misunderstood. The president practices kung fu here at the White Tiger Park every day, early in the morning.
+- **우루시바라 카구야**: It would appear you are the one who's mistaken, Reijo. What the president is doing is Peking opera practice...to be precise, Peking opera dance.
+- **류우게 키사키**: No, I was only—
+- **카야마 레이죠**: I'm not sure where you heard those baseless rumors, but it's kung fu. That's why the Martial Arts Research Club is here with me.
+- **우루시바라 카구야**: You are the one advocating for false rumors, Reijo. It is absolutely the Peking opera dance. Do you not see the entirety of the Peking Opera Club before your very eyes?
+- **스노하라 코코나**: Sensei...? Madam...?
+- **카야마 레이죠**: False rumors?! I'm sorry to say you're the one barking up the wrong tree! I know I'm right, because...
+- **카야마 레이죠**: ...I saw it with my very own eyes!
+- **우루시바라 카구야**: What is this you're saying? You cannot be correct, for my claim is the same!
+- **우루시바라 카구야**: I personally witnessed the president's Peking opera dance practice!
+- **카야마 레이죠**: You're completely mistaken! That was definitely kung fu!
+- **카야마 레이죠**: The move that deflects attacks from enemies! That flawless transition to prepare for the next move! I even saw her perform a guard, preparing herself for an ambush!
+- **카야마 레이죠**: If you claim that's not kung fu...
+- **카야마 레이죠**: ...then you're saying that all the hard work and effort put in by the Martial Arts Research Club and I were meaningless!
+- **우루시바라 카구야**: (That was close... I nearly responded saying, "Absolutely! I am!")
+- **우루시바라 카구야**: This is no longer coincidence but, rather, fate. I can say something of similar import, Reijo!
+- **우루시바라 카구야**: The years of devotion to Peking opera. The days of training with a single purpose. What we've naturally gained from all that dedication is something we can call "discernment."
+- **우루시바라 카구야**: If you dare say that's not the Peking opera dance, then the Peking Opera Club and I, who have dedicated ourselves to Peking opera...
+- **우루시바라 카구야**: ...must have wasted the entirety of our lives!
+- **카야마 레이죠**: (...! That was dangerous. I almost responded by saying, "Isn't that true?")
+- **카야마 레이죠**: Do you even have eyes? How is any of that an opera dance?
+- **우루시바라 카구야**: I believe you're the one who needs corrective glasses! Does that look like some rogue-ish fighting ritual to you?
+- **카야마 레이죠**: It is KUNG FU!
+- **우루시바라 카구야**: No! It is PEKING OPERA!
+- **류우게 키사키**: It's...neither...
+- **스노하라 코코나**: Huh? Madam, more people have arrived...
+- **류우게 키사키**: What?
+- **Shanhaijing Student A**: Whoa, it really is the president! The president is here! Look!
+- **Shanhaijing Student B**: It's usually pretty difficult to even get a glimpse of her, but there she is.
+- **Shanhaijing Student A**: By the way, are we going to get scolded by Genryumon or something for this?
+- **Shanhaijing Student B**: Well, it seems like Genryumon is here to spectate, too.
+- **코노에 미나**: As the sun rises and sets, many will fall. It just happens to be our turn today...
+- **코노에 미나**: No matter what you do, or where you are, I, Konoe Mina...will follow you till the end!
+- **Genryumon Member A**: ...No one really fell, though...?
+- **Genryumon Member B**: Shush! If you point that out, she'll actually make it happen to one of us!
+- **코노에 미나**: Genryumon is here for you, Madam President!
+- **코노에 미나**: No matter what Madam President does...whether it be kung fu, Peking opera, or whatever else!
+- **코노에 미나**: Genryumon will assist you to our very last breath!
+- **Genryumon Member A**: I'm not really sure what the executive officer is on about right now, but I'm going to use this chance to take a photo of Madam...
+- **Genryumon Member B**: Send it to me later.
+- **Genryumon Member A**: 5,000 yen.
+- **Genryumon Member B**: Too expensive!
+- **코노에 미나**: I hear the sound of an unpleasant wind blowing... Be quiet!
+- **Genryumon Members A & B**: Y-Yes!
+- **아케시로 루미**: Huh, Kisaki really was doing...kung fu, Peking opera, or whatever in the morning...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/현룡문
+- https://namu.wiki/w/현룡문(블루 아카이브)
+- https://namu.wiki/w/Genryumon Member
+- https://namu.wiki/w/Genryumon Member A
+- https://namu.wiki/w/Genryumon Member B
+- https://namu.wiki/w/Genryumon Members A & B
+- https://namu.wiki/w/Peking Opera Club Member
+- https://namu.wiki/w/Plum Blossom Students
+- https://namu.wiki/w/Shanhaijing Student A
+- https://namu.wiki/w/Shanhaijing Student B
+- https://namu.wiki/w/류우게 키사키
+- https://namu.wiki/w/스노하라 코코나
+- https://namu.wiki/w/아케시로 루미
+- https://namu.wiki/w/우루시바라 카구야
+- https://namu.wiki/w/카야마 레이죠
+- https://namu.wiki/w/코노에 미나
+- https://bluearchive.wiki (원문 스토리 스크립트)

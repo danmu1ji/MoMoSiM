@@ -8,7 +8,7 @@ it('builds Arisu English prompts without rejecting Korean source metadata that i
   const arisu = {
     id: 'character:arisu', type: 'character', name: '아리스', nameEn: 'Arisu',
     summary: '밀레니엄 게임개발부의 안드로이드.', summaryEn: 'A Millennium student.',
-    voice: 'voice-arisu-base-title', tags: [], relations: [],
+    tags: [], relations: [],
   } as import('@world-player/schema').Character;
   const visible = {
     id: 'event:prologue', type: 'event', name: '프롤로그',
@@ -20,7 +20,7 @@ it('builds Arisu English prompts without rejecting Korean source metadata that i
   } as import('@world-player/schema').Entity;
   const data = {
     documents: new Map<string, string>(),
-    media: new Map([['voice-arisu-base-title', { id: 'voice-arisu-base-title', file: 'voice.ogg', kind: 'audio', description: 'Arisu 음성 — Blue Archive' }]]),
+    media: new Map(),
   } as unknown as import('./core').WorldData;
   const prompt = buildPrompt({
     data,
@@ -33,7 +33,7 @@ it('builds Arisu English prompts without rejecting Korean source metadata that i
   });
   expect(prompt).toContain('Time: Chapter 1: Prologue.');
   expect(prompt).not.toMatch(/[가-힣]/);
-  expect(mediaDirectives(data, arisu, 'en')).toContain('"Blue Archive"');
+  expect(mediaDirectives(data, arisu, 'en')).toBe('');
 });
 
 it('loads official English labels for every slice currently in the Blue Archive package', async () => {

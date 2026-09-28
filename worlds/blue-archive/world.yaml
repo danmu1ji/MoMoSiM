@@ -1,0 +1,695 @@
+id: blue-archive
+name: 블루 아카이브
+version: 0.1.0
+summary: '학원도시 키보토스. 구현 범위: 아비도스 자치구, 밀레니엄 사이언스 스쿨, 게헨나 학원, 트리니티 종합학원, 백귀야행 연합학원, 산해경 고급중학교, 붉은겨울 연방학원, 발키리 경찰학교, SRT 특수학원,
+  아리우스 분교, 하이랜더 철도학원, 와일드헌트 예술학원, 오디세이아 해양학교.'
+entrypoints:
+- category:abydos
+- category:millennium
+- category:gehenna
+- category:trinity
+- category:hyakkiyako
+- category:shanhaijing
+- category:redwinter
+- category:valkyrie
+- category:srt
+- category:arius
+- category:highlander
+- category:wildhunt
+- category:odyssey
+- category:relations
+- character:shiroko
+- character:hoshino
+- character:rio
+- character:yuuka
+- character:hina
+- character:makoto
+- character:mika
+- character:nagisa
+tags:
+- blue-archive
+- kivotos
+- abydos
+- millennium
+- gehenna
+- trinity
+- relationships
+theme:
+  mode: custom
+  colors:
+    primary: '#1b3a6b'
+    secondary: '#8fb8de'
+    accent: '#f4d35e'
+knowledge:
+- target: event:v1c1
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:v1c2
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:volume-f
+  access: full
+  condition:
+    fromPosition: 510
+- target: event:v1c3
+  access: full
+  condition:
+    fromPosition: 750
+- target: event:resort
+  access: full
+  condition:
+    fromPosition: 360
+- target: event:ad-momoyodou-beach-house
+  access: full
+  condition:
+    fromPosition: 360
+- target: event:ad-new-years-rhapsody-68
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:ad-get-set-go
+  access: full
+  condition:
+    fromPosition: 360
+- target: event:ad-serenade-promenade
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:ad-mammon-ship
+  access: full
+  condition:
+    fromPosition: 1240
+- target: event:ad-group-story-fcf-1
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:ad-volume-f-operations
+  access: full
+  condition:
+    fromPosition: 530
+- target: event:v2
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:final
+  access: full
+  condition:
+    fromPosition: 510
+- target: event:v3
+  access: full
+  condition:
+    fromPosition: 282
+- target: event:v5
+  access: full
+  condition:
+    fromPosition: 700
+- target: event:v6
+  access: full
+  condition:
+    fromPosition: 1063
+- target: event:v4
+  access: full
+  condition:
+    fromPosition: 360
+- target: event:group-class227
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-cleannclearing
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:group-대책위원회
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-엔지니어부
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:group-급양부
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-선도부
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-gamedev
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-현룡문
+  access: full
+  condition:
+    fromPosition: 750
+- target: event:group-미식연구회
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-온천개발부
+  access: full
+  condition:
+    fromPosition: 880
+- target: event:group-방과후-디저트부
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-정의실현부
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-knightshospitaller
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-흥신소-68
+  access: full
+  condition:
+    fromPosition: 20
+- target: event:group-matsurioffice
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-매화원
+  access: full
+  condition:
+    fromPosition: 140
+- target: event:group-ninpokenkyubu
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-onmyobu
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-rabbitplatoon
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-redwintersecretary
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-shugyobu
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:group-티파티
+  access: full
+  condition:
+    fromPosition: 1000
+- target: event:group-세미나
+  access: full
+  condition:
+    fromPosition: 360
+- target: event:group-트레이닝부
+  access: full
+  condition:
+    fromPosition: 700
+- target: event:group-베리타스
+  access: full
+  condition:
+    fromPosition: 330
+- target: event:group-anzenkyoku
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:bond-쿠리무라-아이리
+  access: full
+- target: event:bond-무로카사-아카네
+  access: full
+- target: event:bond-와니부치-아카리
+  access: full
+- target: event:bond-아마우-아코
+  access: full
+- target: event:bond-우츠미-아오바
+  access: full
+- target: event:bond-텐도-아리스
+  access: full
+- target: event:bond-리쿠하치마-아루
+  access: full
+- target: event:bond-이치노세-아스나
+  access: full
+- target: event:bond-하카리-아츠코
+  access: full
+- target: event:bond-오쿠소라-아야네
+  access: full
+- target: event:bond-시라스-아즈사
+  access: full
+- target: event:bond-렌카와-체리노
+  access: full
+- target: event:bond-모토미야-치아키
+  access: full
+- target: event:bond-카가미-치히로
+  access: full
+- target: event:bond-히노미야-치나츠
+  access: full
+- target: event:bond-와라쿠-치세
+  access: full
+- target: event:bond-이즈미모토-에이미
+  access: full
+- target: event:bond-시라오-에리
+  access: full
+- target: event:bond-하타미-에리카
+  access: full
+- target: event:bond-네무가키-후부키
+  access: full
+- target: event:bond-아이키요-후우카
+  access: full
+- target: event:bond-와카사-후유
+  access: full
+- target: event:bond-아사가오-하나에
+  access: full
+- target: event:bond-우라와-하나코
+  access: full
+- target: event:bond-오마가리-하레
+  access: full
+- target: event:bond-이구사-하루카
+  access: full
+- target: event:bond-쿠로다테-하루나
+  access: full
+- target: event:bond-하네카와-하스미
+  access: full
+- target: event:bond-네코즈카-히비키
+  access: full
+- target: event:bond-아지타니-히후미
+  access: full
+- target: event:bond-타치바나-히카리
+  access: full
+- target: event:bond-아케보시-히마리
+  access: full
+- target: event:bond-소라사키-히나
+  access: full
+- target: event:bond-와카바-히나타
+  access: full
+- target: event:bond-츠치나가-히요리
+  access: full
+- target: event:bond-타카나시-호시노
+  access: full
+- target: event:bond-탄가-이부키
+  access: full
+- target: event:bond-나카마사-이치카
+  access: full
+- target: event:bond-시로미-이오리
+  access: full
+- target: event:bond-나츠메-이로하
+  access: full
+- target: event:bond-시시도우-이즈미
+  access: full
+- target: event:bond-쿠다-이즈나
+  access: full
+- target: event:bond-아카시-준코
+  access: full
+- target: event:bond-우시마키-주리
+  access: full
+- target: event:bond-이사미-카에데
+  access: full
+- target: event:bond-쿠와카미-카호
+  access: full
+- target: event:bond-kanna
+  access: full
+- target: event:bond-이타가키-카노에
+  access: full
+- target: event:bond-카쿠다테-카린
+  access: full
+- target: event:bond-키누가와-카스미
+  access: full
+- target: event:bond-오니카타-카요코
+  access: full
+- target: event:bond-쿄야마-카즈사
+  access: full
+- target: event:bond-텐도-케이
+  access: full
+- target: event:bond-키류-키쿄
+  access: full
+- target: event:bond-요자쿠라-키라라
+  access: full
+- target: event:bond-나카츠카사-키리노
+  access: full
+- target: event:bond-류우게-키사키
+  access: full
+- target: event:bond-시모에-코하루
+  access: full
+- target: event:bond-스노하라-코코나
+  access: full
+- target: event:bond-시마-코노카
+  access: full
+- target: event:bond-오토세-코타마
+  access: full
+- target: event:bond-토요미-코토리
+  access: full
+- target: event:bond-쿠로사키-코유키
+  access: full
+- target: event:bond-타카쿠라-쿠루미
+  access: full
+- target: event:bond-코누리-마키
+  access: full
+- target: event:bond-하누마-마코토
+  access: full
+- target: event:bond-이오치-마리
+  access: full
+- target: event:bond-이케쿠라-마리나
+  access: full
+- target: event:bond-시즈야마-마시로
+  access: full
+- target: event:bond-시모쿠라-메구
+  access: full
+- target: event:bond-히메키-메루
+  access: full
+- target: event:bond-치도리-미치루
+  access: full
+- target: event:bond-사이바-미도리
+  access: full
+- target: event:bond-미소노-미카
+  access: full
+- target: event:bond-미즈하-미모리
+  access: full
+- target: event:bond-코노에-미나
+  access: full
+- target: event:bond-아오모리-미네
+  access: full
+- target: event:bond-야스모리-미노리
+  access: full
+- target: event:bond-이마시노-미사키
+  access: full
+- target: event:bond-츠키유키-미야코
+  access: full
+- target: event:bond-사쿠라이-미요
+  access: full
+- target: event:bond-카스미자와-미유
+  access: full
+- target: event:bond-카제쿠라-모에
+  access: full
+- target: event:bond-아키이즈미-모미지
+  access: full
+- target: event:bond-사이바-모모이
+  access: full
+- target: event:bond-아사기-무츠키
+  access: full
+- target: event:bond-키리후지-나기사
+  access: full
+- target: event:bond-고료-나구사
+  access: full
+- target: event:bond-유토리-나츠
+  access: full
+- target: event:bond-미카모-네루
+  access: full
+- target: event:bond-요시노-니코
+  access: full
+- target: event:bond-아마치-니야
+  access: full
+- target: event:bond-우시오-노아
+  access: full
+- target: event:bond-아마미-노도카
+  access: full
+- target: event:bond-이자요이-노노미
+  access: full
+- target: event:bond-타치바나-노조미
+  access: full
+- target: event:bond-텐진야마-오토기
+  access: full
+- target: event:bond-아사히나-피나
+  access: full
+- target: event:bond-코마카제-라브
+  access: full
+- target: event:bond-노마사-레이
+  access: full
+- target: event:bond-카야마-레이죠
+  access: full
+- target: event:bond-우자와-레이사
+  access: full
+- target: event:bond-키누이-레나
+  access: full
+- target: event:bond-후와-렌게
+  access: full
+- target: event:bond-츠카츠키-리오
+  access: full
+- target: event:bond-우스바-리츠
+  access: full
+- target: event:bond-아케시로-루미
+  access: full
+- target: event:bond-소라이-사키
+  access: full
+- target: event:bond-우타즈미-사쿠라코
+  access: full
+- target: event:bond-조마에-사오리
+  access: full
+- target: event:bond-쿄고쿠-사츠키
+  access: full
+- target: event:bond-야쿠시-사야
+  access: full
+- target: event:bond-유리조노-세이아
+  access: full
+- target: event:bond-히무로-세나
+  access: full
+- target: event:bond-쿠로미-세리카
+  access: full
+- target: event:bond-스미-세리나
+  access: full
+- target: event:bond-마요이-시구레
+  access: full
+- target: event:bond-엔도우-시미코
+  access: full
+- target: event:bond-스나오오카미-시로코
+  access: full
+- target: event:bond-카와와-시즈코
+  access: full
+- target: event:bond-스노하라-슌
+  access: full
+- target: event:bond-카케하시-스바루
+  access: full
+- target: event:bond-오토하나-스미레
+  access: full
+- target: event:bond-모리즈키-스즈미
+  access: full
+- target: event:bond-미요시-타카네
+  access: full
+- target: event:bond-아스마-토키
+  access: full
+- target: event:bond-사시로-토모에
+  access: full
+- target: event:bond-카스가-츠바키
+  access: full
+- target: event:bond-오노-츠쿠요
+  access: full
+- target: event:bond-켄자키-츠루기
+  access: full
+- target: event:bond-코제키-우이
+  access: full
+- target: event:bond-사토하마-우미카
+  access: full
+- target: event:bond-시라이시-우타하
+  access: full
+- target: event:bond-코사카-와카모
+  access: full
+- target: event:bond-아라마키-야쿠모
+  access: full
+- target: event:bond-이바라기-요시미
+  access: full
+- target: event:bond-카데노코지-유카리
+  access: full
+- target: event:bond-하야세-유우카
+  access: full
+- target: event:bond-하나오카-유즈
+  access: full
+- target: event:mini-만마전의-붉은-겨울-순회록
+  access: full
+  condition:
+    fromPosition: 470
+- target: event:mini-테르마이-아카이-1-3
+  access: full
+  condition:
+    fromPosition: 620
+- target: event:mini-키라라와-에리카의-반짝반짝한-하루
+  access: full
+  condition:
+    fromPosition: 750
+- target: event:mini-하이랜더-운행-일지
+  access: full
+  condition:
+    fromPosition: 880
+- target: event:mini-주인-잃은-선물-1-3
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:mini-어느-2월-19일의-기록
+  access: full
+  condition:
+    fromPosition: 880
+- target: event:mini-미식과-쿠키-그리고-구호
+  access: full
+  condition:
+    fromPosition: 880
+- target: event:mini-어쩌다-마주친-그대
+  access: full
+  condition:
+    fromPosition: 880
+- target: event:mini-살벌-망량즈-나이트
+  access: full
+  condition:
+    fromPosition: 1000
+- target: event:mini-그러나-사감대는-달린다
+  access: full
+  condition:
+    fromPosition: 1063
+- target: event:mini-수동기의-끝-1-2
+  access: full
+  condition:
+    fromPosition: 1063
+- target: event:mini-칸바라-미스즈의-우울
+  access: full
+  condition:
+    fromPosition: 1120
+- target: event:mini-on-air-게헨나
+  access: full
+  condition:
+    fromPosition: 1220
+- target: event:mini-잡초는-홀로-피지-않는다
+  access: full
+  condition:
+    fromPosition: 1240
+- target: event:mini-약사의-방황길-1-6
+  access: full
+  condition:
+    fromPosition: 1240
+- target: event:mini-이부키-가출사건-1-3
+  access: full
+  condition:
+    fromPosition: 1300
+- target: event:mini-용궁으로-가는-길
+  access: full
+  condition:
+    fromPosition: 1120
+- target: category:kivotos
+  access: public
+- target: category:abydos
+  access: public
+- target: category:abydos-ftf
+  access: public
+- target: category:abydos-council
+  access: public
+- target: category:millennium
+  access: public
+- target: category:millennium-(미분류)
+  access: public
+- target: category:millennium-athletics-training-club
+  access: public
+- target: category:millennium-cleaning-&-clearing
+  access: public
+- target: category:millennium-engineering-department
+  access: public
+- target: category:millennium-game-development-club
+  access: public
+- target: category:millennium-seminar
+  access: public
+- target: category:millennium-super-phenomenon-task-force
+  access: public
+- target: category:millennium-veritas
+  access: public
+- target: category:gehenna
+  access: public
+- target: category:gehenna-(미분류)
+  access: public
+- target: category:gehenna-emergency-medicine-department
+  access: public
+- target: category:gehenna-gourmet-research-society
+  access: public
+- target: category:gehenna-hot-springs-department
+  access: public
+- target: category:gehenna-pandemonium-society
+  access: public
+- target: category:gehenna-prefect-team
+  access: public
+- target: category:gehenna-problem-solver-68
+  access: public
+- target: category:gehenna-school-lunch-club
+  access: public
+- target: category:gehenna-twinkle-twinkle-club
+  access: public
+- target: category:trinity
+  access: public
+- target: category:trinity-after-school-sweets-club
+  access: public
+- target: category:trinity-justice-task-force
+  access: public
+- target: category:trinity-library-committee
+  access: public
+- target: category:trinity-make-up-work-club
+  access: public
+- target: category:trinity-no-club
+  access: public
+- target: category:trinity-rescue-knights
+  access: public
+- target: category:trinity-tea-party
+  access: public
+- target: category:trinity-the-sisterhood
+  access: public
+- target: category:trinity-trinity's-vigilante-crew
+  access: public
+- target: category:hyakkiyako
+  access: public
+- target: category:hyakkiyako-(미분류)
+  access: public
+- target: category:shanhaijing
+  access: public
+- target: category:shanhaijing-(미분류)
+  access: public
+- target: category:shanhaijing-black-tortoise-promenade
+  access: public
+- target: category:shanhaijing-chinese-alchemy-study-group
+  access: public
+- target: category:shanhaijing-genryumon
+  access: public
+- target: category:shanhaijing-plum-blossom-garden
+  access: public
+- target: category:redwinter
+  access: public
+- target: category:redwinter-class-no.-227
+  access: public
+- target: category:redwinter-knowledge-liberation-front
+  access: public
+- target: category:redwinter-labor-party
+  access: public
+- target: category:redwinter-publishing-department
+  access: public
+- target: category:redwinter-red-winter-secretariat
+  access: public
+- target: category:valkyrie
+  access: public
+- target: category:valkyrie-(미분류)
+  access: public
+- target: category:srt
+  access: public
+- target: category:srt-(미분류)
+  access: public
+- target: category:srt-fox-squad
+  access: public
+- target: category:srt-rabbit-platoon
+  access: public
+- target: category:arius
+  access: public
+- target: category:arius-(미분류)
+  access: public
+- target: category:highlander
+  access: public
+- target: category:highlander-(미분류)
+  access: public
+- target: category:wildhunt
+  access: public
+- target: category:wildhunt-(미분류)
+  access: public
+- target: category:wildhunt-free-trade-cartel
+  access: public
+- target: category:wildhunt-occult-investigation-society
+  access: public
+- target: category:odyssey
+  access: public
+- target: category:odyssey-(미분류)
+  access: public
+- target: category:odyssey-diving-club
+  access: public
+- target: category:relations
+  access: public

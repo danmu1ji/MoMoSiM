@@ -1,0 +1,233 @@
+# 류우게 키사키 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 류우게 키사키, 선생(샬레)
+
+1. **「류우게 키사키 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「류우게 키사키 인연 스토리 2」**
+
+- **류우게 키사키**: I've been confined here!
+- **류우게 키사키**: Hm. It's due to internal Genryumon matters...complex political issues. It'd be a difficult endeavor to explain it all to you.
+- **류우게 키사키**: It includes factions like Black Tortoise Promenade, as well as Shanhaijing's dignity, in its position as an academy of Kivotos.
+- **류우게 키사키**: In addition, the continuous increase of interest rates and taxes, the lack of recovery in people's incomes, as well as the collapse of public education have all contributed. It is a menagerie of issues, all collapsing upon themselves.
+- **류우게 키사키**: We've reached the depths of this conflict, without an exit in sight.
+- **류우게 키사키**: Hm. As expected.
+- **류우게 키사키**: At times, action is more important than comprehension. Do you agree?
+- **류우게 키사키**: We must gaze towards the sky and climb the steps of the high mountain.
+- **류우게 키사키**: To put it simply, you, as an educator, must rise to your duty and help me overcome these circumstances. Sensei!
+- **류우게 키사키**: Hm. What a blessing, to have a friend who can ascertain my needs with such quickness.
+- **류우게 키사키**: However, secretly escaping Rikkagaku, the headquarters of Genryumon itself, would be a fool's errand. Not without a plan.
+- **류우게 키사키**: So, naturally, I've prepared one.
+- **류우게 키사키**: Yes. Here it is.
+- **류우게 키사키**: Now then, let us leave here, quietly.
+- **류우게 키사키**: Our escape from the main room was successful.
+- **류우게 키사키**: But this area appears to be even more dangerous?
+- **류우게 키사키**: While the criticism stings, you are correct, Sensei. This is the very center of Rikkagaku.
+- **류우게 키사키**: The patrols here operate on very strict schedules and rotations.
+- **Genryumon Member A**: Huh...? I'm the only one on duty right now.
+- **Genryumon Member A**: What's going on? Did I misread the schedule?
+- **Genryumon Member A**: No... A Genryumon member entrusted security would have never made such a rookie mistake!
+- **Genryumon Member A**: I may not know every detail about every member, but I don't recognize you! Is this a Black Tortoise Promenade covert mission?!
+- **류우게 키사키**: U-Um...!
+- **Genryumon Member A**: Oh, Sensei? You're here too...
+- **Genryumon Member A**: A-Apologies! Please take no offense at my failure to recognize you! I tunnel-visioned on the fact that there appeared to be a mistake in our patrol rotation!
+- **Genryumon Member A**: ...But if I think about it more, it's a bit strange. Why would you need Genryumon protection in the very heart of Rikkagaku, Sensei?
+- **류우게 키사키**: It's an extra security measure, under the guise of protection.
+- **Genryumon Member A**: Security measure...? Oh!
+- **Genryumon Member A**: So that means, this is a secret order, directly from the president...?
+- **류우게 키사키**: That's correct.
+- **Genryumon Member A**: I-I'm sorry, Sensei!
+- **Genryumon Member A**: I'm sure you've gotten acclimated already, but please enjoy everything Genryumon has to offer, to the fullest!
+- **류우게 키사키**: You've helped us overcome the first obstacle. Fufu.
+- **류우게 키사키**: Good work, Sensei. If we're able to avoid detection and escape Rikkagaku...
+- **류우게 키사키**: ...that would be quite the victory for us.
+- **류우게 키사키**: The news that a Genryumon member is attending to you should have spread all over Rikkagaku by now, Sensei...
+- **류우게 키사키**: Which means that it will be nigh impossible for said Genryumon member to leave the premises.
+- **류우게 키사키**: We must employ a different methodology for this case.
+- **Genryumon Member B**: What?! What's a Black Tortoise Promenade member doing here?!
+- **Genryumon Member B**: Get out of here immediately!
+- **류우게 키사키**: Fufu. Just as expected. Shall we run?
+- **류우게 키사키**: We've somehow escaped the heart of Rikkagaku.
+- **류우게 키사키**: But a Black Tortoise Promenade member roaming around Rikkagaku Street would garner much suspicion.
+- **류우게 키사키**: I must become someone whose presence by your side wouldn't garner a second glance, Sensei.
+- **류우게 키사키**: Fufu. Of course. It's...
+- **Kiki**: Hello, Sensei! I'm Kiki! Today, we're walking around outside of the Plum Blossom Garden, right, Sensei?
+- **Kiki**: Yay! Kiki likes Sensei best!
+- **Genryumon Member C**: Um, Sensei? Why are you here...? Oh, I see. You're playing with the Plum Blossom Garden children.
+- **Genryumon Member C**: Thank you for your hard work. And you, don't give Sensei a hard time!
+- **Kiki**: Don't worry! Instructor Shun already told me the same thing!
+- **Genryumon Member C**: All right, thank you.
+- **Genryumon Member C**: (...Huh? But...)
+- **Genryumon Member C**: (Why did a chill just run down my spine...?)
+- **류우게 키사키**: Hm.
+- **류우게 키사키**: Fufu. Great work, Sensei.
+- **류우게 키사키**: I sincerely appreciate your assistance in my escape play— Ahem! I mean, in escaping my confinement.
+- **류우게 키사키**: Huh? Was I really confined?
+- **류우게 키사키**: ...
+- **류우게 키사키**: Why would you ask such a thing, Sensei?
+- **류우게 키사키**: It didn't seem like the Genryumon members were really looking for me, in the Rikkagaku or nearby streets...?
+
+3. **「류우게 키사키 인연 스토리 3」**
+
+- **류우게 키사키**: ...So, this caused quite a stir.
+- **류우게 키사키**: It goes against tradition for Genryumon's president to collaborate with outsiders. Which puts you in a rather difficult position.
+- **류우게 키사키**: I, however, simply desired to abandon my post.
+- **류우게 키사키**: Fufu. I am making a joke.
+- **류우게 키사키**: However, behind every joke lies a grain of truth.
+- **류우게 키사키**: Fufu. Deciphering that is another aspect of the fun.
+- **류우게 키사키**: Now, let us return to our work.
+- **류우게 키사키**: I've never had the opportunity to divest my efforts into tasks that were not related to Genryumon. I am rather excited.
+- **류우게 키사키**: But before we begin...
+- **류우게 키사키**: I was told that it is a medicinal incense, intended to calm the nerves and promote healing.
+- **류우게 키사키**: The Eastern Alchemy Society secretly prepared it, when they heard that I would be the student rep.
+- **류우게 키사키**: Now, let us begin. Time is a precious commodity, after all.
+- **류우게 키사키**: Hm... It's become popular to record personal broadcasts, and these "challenge videos," in abandoned buildings of the old city.
+- **류우게 키사키**: Local residents have expressed a growing sense of anxiety about the noise and threat to security.
+- **류우게 키사키**: They appear to be requesting additional cooperation, including a statement, from Schale?
+- **류우게 키사키**: It's clear. The root of the cause is the abandoned building.
+- **류우게 키사키**: With the help of Genryumon, we will simply demolish it, down to its foundation.
+- **류우게 키사키**: Is that so? Such would be the norm in Shanhaijing.
+- **류우게 키사키**: ...We need to consider the context?
+- **류우게 키사키**: I suppose...but I still believe that these kinds of situations cannot be resolved without strong and commandeering leadership.
+- **류우게 키사키**: What's next? Large protests, held by students upset by the lack of firearm and ammo supply.
+- **류우게 키사키**: As it should be. A constant and efficient supply of firearms, as well as their maintenance, should be regarded with the utmost importance in Kivotos. Guns are as essential as food, clothing, and shelter.
+- **류우게 키사키**: Students hold an inherent right to protest, as well as the responsibility to endure the resulting criticism.
+- **류우게 키사키**: There is no need for further investigation. There appears to be an inappropriate use of funds here, as this ledger provided by the supplier appears to be manipulated.
+- **류우게 키사키**: It is the way of Genryumon to respond with quick and absolute force—
+- **류우게 키사키**: ...Is that so? In Shanhaijing, if you so desire, you may execute wrongdoers within the same day...
+- **류우게 키사키**: *sigh* Naturally, it would be ideal if people were to simply abide by the law.
+- **류우게 키사키**: However, you must understand, Sensei. In this world, people walk a thin line that must be meticulously managed.
+- **류우게 키사키**: Simply determine whether it is a false accusation or an infraction of the law, and apply the death penalty, if required.
+- **류우게 키사키**: I do mean that in a figurative sense—
+- **류우게 키사키**: Is that so...
+- **류우게 키사키**: Hm. That completes today's tasks, Sensei.
+- **류우게 키사키**: Your usual work time was nearly halved? Fufu. I'm pleased I could be of service.
+- **류우게 키사키**: Hm? My speed and judgment were impressive, but my suggested resolutions were...extreme?
+- **류우게 키사키**: How saddening. It would appear the world has not grown quite big enough to understand the ways of Shanhaijing, as of yet.
+- **류우게 키사키**: Then, Sensei. What are you going to do now?
+- **류우게 키사키**: Hm? Things ended much sooner than you expected, so you don't have any plans?
+- **류우게 키사키**: Did something happen, Sensei? You appear exhausted.
+- **류우게 키사키**: Ah. You were so inundated with work, you were unable to sleep for three days?
+- **류우게 키사키**: That's unacceptable. Someone as important as yourself must take care with their body. Shall we change locations, then?
+- **류우게 키사키**: Lay down here. I shall lend you my knee.
+- **류우게 키사키**: Yes, yes... Give yourself to the fragrance, and rest your eyes.
+- **류우게 키사키**: Breathe in, breathe out... That's right...
+- **류우게 키사키**: ...Are you dreaming, Sensei? You have a calm expression.
+- **류우게 키사키**: Although, they say dreaming is proof of not being in a deep sleep.
+- **류우게 키사키**: There's an old tale that goes like so.
+- **류우게 키사키**: There was once a person who dreamt they were a butterfly, flying about the world. They were thrilled, content with life.
+- **류우게 키사키**: The butterfly was so pleased, it knew not whether it was a person or something else entirely.
+- **류우게 키사키**: But, suddenly, they awoke from their dreams. They had reverted to their human form, no longer a butterfly.
+- **류우게 키사키**: They couldn't help but wonder. Is the butterfly me? Or am I the butterfly?
+- **류우게 키사키**: Or was there never any distinction? Something so insignificant...
+
+4. **「류우게 키사키 인연 스토리 4」**
+
+- **류우게 키사키**: Leave it to me.
+- **류우게 키사키**: Fufu. Are you pleased?
+- **류우게 키사키**: Hm? No one likes to work? I suppose I agree with the sentiment...
+- **류우게 키사키**: Regardless, your joy brings me joy as well, Sensei.
+- **류우게 키사키**: There are no other scheduled tasks, correct? Perhaps you should rest as well, Sensei.
+- **류우게 키사키**: Hm? It feels as if I am the boss? That would be a bit of a predicament.
+- **류우게 키사키**: Every person...has a role and a place.
+- **류우게 키사키**: Hm? Am I looking at the scenery? There's nothing especially intriguing...
+- **류우게 키사키**: Nor am I thinking about anything in particular. Simply...looking.
+- **류우게 키사키**: Yes? What is it, Sensei?
+- **류우게 키사키**: Huh? Of this building?
+- **류우게 키사키**: For what reason? It would be windy and rather dangerous, would it not?
+- **류우게 키사키**: You would like to see the view from the rooftop together?
+- **류우게 키사키**: ...
+- **류우게 키사키**: O-Okay. If that's what you wish, I see no reason to refuse, Sensei...
+- **류우게 키사키**: Ack...!
+- **류우게 키사키**: As I expected, the winds are rather strong. It's bright as well.
+- **류우게 키사키**: What was your objective here, Sensei?
+- **류우게 키사키**: Is that so...?
+- **류우게 키사키**: Fufu. I suppose that's true.
+- **류우게 키사키**: It feels strange.
+- **류우게 키사키**: If we wanted to, we could see such scenery in Shanhaijing as well.
+- **류우게 키사키**: We need only look, just like this.
+- **류우게 키사키**: Like this...
+- **류우게 키사키**: ...
+- **류우게 키사키**: If only we could go out a bit further...
+- **류우게 키사키**: ?!?!
+- **류우게 키사키**: D-Did you hear me say that?!
+- **류우게 키사키**: ...!
+- **류우게 키사키**: ...Surprisingly, you have terrible tendencies!
+- **류우게 키사키**: *deep breath*
+- **류우게 키사키**: I won't let you forget it, Sensei.
+- **류우게 키사키**: Hm...
+- **류우게 키사키**: I suppose I haven't said I wouldn't like to, yet.
+- **류우게 키사키**: ...
+- **류우게 키사키**: May I...look forward to it, Sensei?
+
+5. **「류우게 키사키 인연 스토리 5」**
+
+- **류우게 키사키**: Oh, my. Both the Genryumon and Eastern Alchemy Society... Everyone is making quite the fuss.
+- **류우게 키사키**: All over an outing with you, Sensei.
+- **류우게 키사키**: Nothing of great import.
+- **류우게 키사키**: Just that Genryumon's preparations for today's excursion lasted three days and two nights.
+- **류우게 키사키**: Hence, why I said a "fuss."
+- **류우게 키사키**: Meanwhile, the Eastern Alchemy Society prepared this for us.
+- **류우게 키사키**: Hm. It's supposed to be an inhaler for breathing in medicinal incense.
+- **류우게 키사키**: They went so far as to make a research agreement with a foreign organization, without reporting to Genryumon, to finish this in time for today.
+- **류우게 키사키**: Hm... Do you plan on being overprotective as well, Sensei?
+- **류우게 키사키**: *sigh* How long will you persist in treating me like a child?
+- **류우게 키사키**: It's not as if I don't understand such things, however...
+- **류우게 키사키**: Never mind. Let us lay this topic of discussion to rest.
+- **류우게 키사키**: Now. Where will we go today? What shall you show me?
+- **류우게 키사키**: As it's past lunchtime, we only have about half a day.
+- **류우게 키사키**: I shall trust and "leave it to you," Sensei.
+- **류우게 키사키**: This is...?
+- **류우게 키사키**: Naturally, I've heard of it. This is called a "subway," a mode of public transportation.
+- **류우게 키사키**: ...Is this not a novel experience for me?
+- **류우게 키사키**: ...
+- **류우게 키사키**: Heehee. Yes. I'll acknowledge that.
+- **류우게 키사키**: ...It is shakier than I expected, and rather loud...?
+- **류우게 키사키**: ...Is this an amusement park?
+- **류우게 키사키**: My reaction is milder than you expected? Well, after all, this is...
+- **류우게 키사키**: ...child's play, for me!
+- **류우게 키사키**: Even I can handle something like this.
+- **류우게 키사키**: The experience will be better if I try to enjoy myself...?
+- **류우게 키사키**: Understood. Again, I'll put my trust in you, Sensei. But that street, over there. It looks rather familiar.
+- **류우게 키사키**: Ah, I see. So they're themed streets, made to recreate the characteristics of each academy's district.
+- **류우게 키사키**: I see the Shanhaijing street.
+- **류우게 키사키**: I find the incorrect historical background represented here rather distasteful!
+- **류우게 키사키**: Is this...an arcade?
+- **류우게 키사키**: I'm not particularly skilled in this area...
+- **류우게 키사키**: Huh? There are games for beginners?
+- **류우게 키사키**: What must I do? "Hit the three differently colored buttons based on what you see on the screen! Clear the mini games, and climb the tower!"
+- **류우게 키사키**: ...Fear the unfamiliar, and progress shall not move.
+- **류우게 키사키**: Understood. Whatever it may be, let it come!
+- **류우게 키사키**: ...I did believe we would get further than the 7th floor.
+- **류우게 키사키**: Sensei. Do you not also think that this game depends on unfair methods? You really, truly stand by your statement that it is fair?
+- **류우게 키사키**: The speed at which you have to press the buttons subtly changed, faster and slower, throughout the game.
+- **류우게 키사키**: Hm...? Even that is a part of the design? Reacting to those changes is the charm of the game...?
+- **류우게 키사키**: ...I suppose I should not argue with the game designers.
+- **류우게 키사키**: However, that fails to alleviate my anger. Again! Let me try one more time!
+- **류우게 키사키**: We have more to do? I only asked for one more time, did I not?!
+- **류우게 키사키**: These are the stores? I see...
+- **류우게 키사키**: Older stores, such as these, often have hidden treasures?
+- **류우게 키사키**: While I do understand, this is uncharted territory for me.
+- **류우게 키사키**: Fufu. I have no choice. Again, I shall trust your decisions, Sensei.
+- **류우게 키사키**: Hm? Am I sure I won't...regret it?
+- **류우게 키사키**: ...
+- **류우게 키사키**: You aren't thinking anything...strange, are you?
+- **류우게 키사키**: ...?!
+- **류우게 키사키**: I-Is this...?!
+- **류우게 키사키**: No, I'm grateful for the gift, but...
+- **류우게 키사키**: Am I concerned it won't suit me?
+- **류우게 키사키**: It's more so... I don't believe that there would be many opportunities to wear this in Shanhaijing...
+- **류우게 키사키**: That doesn't matter? Even if no one else is around, you simply hope I'll wear it?
+- **류우게 키사키**: O-Okay. As...you wish, Sensei.
+- **류우게 키사키**: Hm? Even if it's just a little, I should think of you when I wear it?
+- **류우게 키사키**: ...
+- **류우게 키사키**: I shall do my best...
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/류우게 키사키
+- https://bluearchive.wiki (원문 스토리 스크립트)

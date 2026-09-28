@@ -1,0 +1,323 @@
+# 카쿠다테 카린 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 7편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 카쿠다테 카린, 선생(샬레)
+
+1. **「카쿠다테 카린 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「카쿠다테 카린 인연 스토리 2」**
+
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: This is Zero-Two. I've arrived at the front of the building where the hostages are being held.
+- **C&C Member**: Suspects are currently on computers. They appear to be trying to decode the password.
+- **카쿠다테 카린**: The file has not been sent yet, fortunately.
+- **카쿠다테 카린**: Ah. I've got a visual on the hostages' location.
+- **카쿠다테 카린**: They're likely members of the Student Council security department that tried to guard the file.
+- **카쿠다테 카린**: I'll prioritize rescuing the Millennium students before moving on... Huh?
+- **카쿠다테 카린**: S-Sensei?
+- **카쿠다테 카린**: What's Sensei doing here?
+- **C&C Member**: We received a report that Sensei was taken hostage while trying to protect the Millennium students!
+- **카쿠다테 카린**: Damn it. That fool!
+- **카쿠다테 카린**: Code Red! Zero-Two, moving in!
+- **C&C Member**: W-Wait!
+- **Helmet Gangster A**: Heh heh. We're ready to start transferring the file.
+- **Helmet Gangster A**: We'll be drowning in money once we deliver this to the client.
+- **Helmet Gangster A**: Wh-What was that?!
+- **Helmet Gangster B**: W-We're under attack! It's the Maid Club!
+- **Helmet Gangster A**: Damn it! How'd they sniff us out so quickly?!
+- **Helmet Gangster A**: If we can just send this file...!
+- **Helmet Gangster A**: Guh!
+- **Helmet Gangster B**: That firepower!
+- **Helmet Gangster B**: R-Run!
+- **카쿠다테 카린**: Sensei!
+- **카쿠다테 카린**: Are you all right? What are you doing here in the first place?
+- **카쿠다테 카린**: i3;카린;02;You were trying to rescue the Millennium students...
+- **카쿠다테 카린**: ...but then you were captured yourself?
+- **카쿠다테 카린**: You are unbelievable.
+- **카쿠다테 카린**: I respect your leadership and intentions.
+- **카쿠다테 카린**: Though I can't say the same for your decision making, especially because you couldn't survive a single gunshot.
+- **카쿠다테 카린**: If I hadn't come, you could have been...
+- **Helmet Gangster**: Fire!
+- **카쿠다테 카린**: Damn it all! There are still some left.
+- **카쿠다테 카린**: They don't know when to give up.
+- **Helmet Gangster**: Bwahaha. Give up?!
+- **Helmet Gangster**: You're the one who should surrender!
+- **Helmet Gangster**: Hey, maid. Your mission was to rescue the hostages and retrieve the file before it's sent. Isn't that right?
+- **Helmet Gangster**: Otherwise, you'd have put a bullet through the one operating the computer first.
+- **카쿠다테 카린**: ...!
+- **Helmet Gangster**: Too bad for you that the decoding and file transfer are already done! You failed!
+- **카쿠다테 카린**: What?!
+- **Helmet Gangster**: Hahaha! The file only had ten seconds left by the time you came blazing in. By now, our client already has it in their...
+- **Helmet Gangster**: Huh?
+- **Helmet Gangster**: Wh-What the hell?!
+- **카쿠다테 카린**: ...?
+- **Helmet Gangster**: The file transfer paused with one second remaining! But how...?
+- **Helmet Gangster**: Wait.
+- **Helmet Gangster**: What's that thing in Sensei's hand?!
+- **카쿠다테 카린**: Good job, Sensei! Amazing work!
+- **카쿠다테 카린**: Good job, Sensei! Amazing work!
+- **Helmet Gangster**: Gah! Give me that cable!
+- **카쿠다테 카린**: Go ahead. Take the cable back.
+- **카쿠다테 카린**: Go ahead. Take the cable back.
+- **카쿠다테 카린**: It hardly matters now.
+- **카쿠다테 카린**: *bang*
+- **Helmet Gangster**: Gaaah! The PC!
+- **Helmet Gangster**: Th-This isn't over!
+- **카쿠다테 카린**: Phew...
+- **카쿠다테 카린**: Mission accomplished...barely.
+- **카쿠다테 카린**: Go after them? No need. I also don't know how many of them are left.
+- **카쿠다테 카린**: My assignment wasn't to capture them, but only to protect the people here.
+
+3. **「카쿠다테 카린 인연 스토리 3」**
+
+- **카쿠다테 카린**: Sensei? What brings you to the library?
+- **카쿠다테 카린**: That's your line, is it? What am I doing here now that exams are over?
+- **카쿠다테 카린**: That would be because...I have make-up tests to take.
+- **카쿠다테 카린**: ...!
+- **카쿠다테 카린**: ...!
+- **카쿠다테 카린**: I-It's not what you think!
+- **카쿠다테 카린**: Well, I can't deny that I've never had high grades...
+- **카쿠다테 카린**: ...but this is the first time I've ever failed.
+- **카쿠다테 카린**: *sigh* It was out of my control.
+- **카쿠다테 카린**: C&C is a bit different from ordinary club activities.
+- **카쿠다테 카린**: It's a generic volunteer club by day, but at night its members are expected to become agents for Millennium's sake.
+- **카쿠다테 카린**: I have my studies, duties as an agent, and, in my case, work a part-time job. I'd still be busy even if there were three of me.
+- **카쿠다테 카린**: Correct. It's partly for the funds, but I'm also following one of my two dreams.
+- **카쿠다테 카린**: I have two, and one of them is to be the hostess of my own cute cafe.
+- **카쿠다테 카린**: I know studying is important, but gaining experience working at different kinds of establishments is more relevant to my goal.
+- **카쿠다테 카린**: And I've never had a knack for studying...
+- **카쿠다테 카린**: Oh!
+- **카쿠다테 카린**: S-Sensei.
+- **카쿠다테 카린**: What if I said there's a student that needs your help?
+- **카쿠다테 카린**: You're a teacher, right?
+- **카쿠다테 카린**: Could you help me study?
+- **카쿠다테 카린**: I'm not asking you to tutor me. Here's a list of questions and answers that I put together.
+- **카쿠다테 카린**: Would you mind asking me random questions from the list?
+- **카쿠다테 카린**: Thanks!
+- **카쿠다테 카린**: N-No! Wh-Why would I include something like that?!
+- **카쿠다테 카린**: All right. Let's begin!
+- **카쿠다테 카린**: I know! The answer is dystopia!
+- **카쿠다테 카린**: It's deflation? Well, I was close.
+- **카쿠다테 카린**: I know! The answer is constitutional!
+- **카쿠다테 카린**: Executive? I-I knew that. I think it's fair to say that I got it half-right.
+- **카쿠다테 카린**: Come on, come on! Give me the next question.
+- **카쿠다테 카린**: You have a really nice voice, Sensei.
+- **카쿠다테 카린**: I think it'll help me memorize some of these answers.
+- **카쿠다테 카린**: That's easy! To be a good wife for... Wait!
+- **카쿠다테 카린**: Th-That's... You don't need to know about that...
+- **카쿠다테 카린**: At least not yet! F-Forget what you just heard!
+- **카쿠다테 카린**: Anyway, what's my next question?
+- **카쿠다테 카린**: I'll definitely get it right this time.
+
+4. **「카쿠다테 카린 인연 스토리 4」**
+
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: I'm sorry, Sensei. Even after you helped me study...
+- **카쿠다테 카린**: Now I have more make-up tests to do. It's hopeless.
+- **카쿠다테 카린**: I'll be held back at this rate.
+- **카쿠다테 카린**: Fortunately, they gave me credit for my activities with Schale and the Maid Club, so I just need to take care of some make-up work.
+- **카쿠다테 카린**: But if I don't get a passing grade for it...I'm finished.
+- **카쿠다테 카린**: They might change my call sign from Zero-Two to Zero-Brains.
+- **카쿠다테 카린**: That's why I'm putting my part-time job and Maid Club activities on hold!
+- **카쿠다테 카린**: I have to focus on my assignments and nothing else.
+- **카쿠다테 카린**: Oh, that's because...
+- **카쿠다테 카린**: ...the uniform is cute.
+- **카쿠다테 카린**: Wh-What do you mean, "That's it"?!
+- **카쿠다테 카린**: R-Right? You get it, Sensei.
+- **카쿠다테 카린**: It's a crucial point.
+- **카쿠다테 카린**: Originally, I was Seminar's...
+- **카쿠다테 카린**: ...security guard, more or less.
+- **카쿠다테 카린**: My role was to keep critical assets out of the hands of other academies' spies or outside organizations after Millennium's advanced tech.
+- **카쿠다테 카린**: Such as the ones we defeated together recently.
+- **카쿠다테 카린**: Anyway, I got tired of all the combat and espionage, so I decided to look for a new club.
+- **카쿠다테 카린**: That's when I came across the Maid Club.
+- **카쿠다테 카린**: I thought it would be a good opportunity to learn housekeeping skills, such as cleaning and cooking.
+- **카쿠다테 카린**: We would decorate the school together, spend the afternoons enjoying black tea and sweet biscuits...
+- **카쿠다테 카린**: Not to mention the adorable outfits.
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: *sigh* If only it were that simple.
+- **카쿠다테 카린**: Because I've grown to like it here.
+- **카쿠다테 카린**: My joining may have come from a misunderstanding.
+- **카쿠다테 카린**: Still, I'm grateful for the memories and colleagues I've gained since then.
+- **카쿠다테 카린**: In the beginning, I only saw our uniform as cute, but it means so much more to me now.
+- **카쿠다테 카린**: It symbolizes the pride I have in serving Millennium.
+- **카쿠다테 카린**: Good grief. How did we get so off topic?
+- **카쿠다테 카린**: Sensei, can you stick around until I finish this make-up assignment?
+- **카쿠다테 카린**: I would have already flunked if not for you, so I'll treat you to dinner once we leave.
+
+5. **「카쿠다테 카린 인연 스토리 5」**
+
+- **카쿠다테 카린**: *sigh*
+- **카쿠다테 카린**: Oh, there you are, Sensei.
+- **카쿠다테 카린**: You must want to know what's wrong. It's a long story.
+- **카쿠다테 카린**: I got into a fight with a friend.
+- **카쿠다테 카린**: She's perfectly fine and in the club room.
+- **카쿠다테 카린**: It was just a small argument.
+- **카쿠다테 카린**: Please don't get the wrong idea. It's not like we got physical.
+- **카쿠다테 카린**: We usually buy our lunch off campus and eat together in the club room.
+- **카쿠다테 카린**: The thing is—as embarrassing as this is to admit—I've been on a diet lately.
+- **카쿠다테 카린**: I tried on my school uniform for the first time in a while, and it was a tighter fit than I cared for...
+- **카쿠다테 카린**: My friend, on the other hand, has never had to watch what she eats.
+- **카쿠다테 카린**: She suddenly suggested that we go out for pizza.
+- **카쿠다테 카린**: Not only that, she also wanted a chocolate cake for dessert.
+- **카쿠다테 카린**: I've never been a picky eater, so I usually go along with whatever she suggests.
+- **카쿠다테 카린**: I wasn't feeling very hungry today and only wanted a salad...
+- **카쿠다테 카린**: Don't be ridiculous, Sensei.
+- **카쿠다테 카린**: For girls, eating different foods during lunch may as well be drawing a battle line in the sand.
+- **카쿠다테 카린**: Yeah, I know.
+- **카쿠다테 카린**: Yeah, I know.
+- **카쿠다테 카린**: Differences in opinion are meant to be resolved through mutual respect.
+- **카쿠다테 카린**: But I'm the one who's always going along with what she wants.
+- **카쿠다테 카린**: Why can't she do the same for me once in a while?
+- **카쿠다테 카린**: Doesn't she owe it to me? Isn't that fair?
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: Ha.
+- **카쿠다테 카린**: Haha.
+- **카쿠다테 카린**: You're right.
+- **카쿠다테 카린**: That attitude's a bit old-fashioned, but it is true. I understand.
+- **카쿠다테 카린**: Being friends is about trusting one another.
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: *sigh*
+- **카쿠다테 카린**: I know you're just saying that to comfort me, Sensei.
+- **카쿠다테 카린**: Hearing it back like that, though, makes me realize how twisted it is.
+- **카쿠다테 카린**: What matters is that we're together, not what we're eating when we are.
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: You're right.
+- **카쿠다테 카린**: Thank you for being honest, Sensei.
+- **카쿠다테 카린**: Sometimes, tough love is what we all need.
+- **카쿠다테 카린**: I can use it to help me grow as a person.
+- **카쿠다테 카린**: It's good to have someone to talk to about these kinds of things.
+- **카쿠다테 카린**: I'm going to apologize to my friend.
+- **카쿠다테 카린**: Thanks, Sensei. That's a real weight off my shoulders.
+- **카쿠다테 카린**: I should buy some pizza on my way back. A chocolate cake would be nice too.
+- **카쿠다테 카린**: Also...
+- **카쿠다테 카린**: I've put a lot of thought into it, and I don't think you and I can be friends, Sensei.
+- **카쿠다테 카린**: D-Don't get the wrong idea though!
+- **카쿠다테 카린**: What I mean to say is, you're not my friend...
+- **카쿠다테 카린**: ...but my master. Isn't that right?
+- **카쿠다테 카린**: Haha. Only kidding.
+- **카쿠다테 카린**: Thanks again, Sensei. I should be going now.
+- **카쿠다테 카린**: ...See you later.
+
+6. **「카쿠다테 카린 인연 스토리 6」**
+
+- **???**: La la la. Hmm hmm hmm.
+- **카쿠다테 카린**: Master's super-cute maid, Catherine, is here!
+- **카쿠다테 카린**: Welcome back, Master!
+- **카쿠다테 카린**: Welcome to Maidramatic! We've been waiting for you, Master!
+- **카쿠다테 카린**: Wh-What the...?!
+- **카쿠다테 카린**: S-Sensei, how did you...?
+- **카쿠다테 카린**: *sigh* I should have known.
+- **카쿠다테 카린**: *sigh* I should have known.
+- **카쿠다테 카린**: My friend asked me to...cover her shift at a dessert cafe where I can wear an adorable waitress uniform...
+- **카쿠다테 카린**: How was I supposed to turn down an offer like that?
+- **카쿠다테 카린**: It didn't click with me that she meant a full-on maid cafe...
+- **카쿠다테 카린**: M-More importantly! What are you doing here, Sensei?!
+- **카쿠다테 카린**: Seriously! Are teachers even allowed to come to places like this?
+- **카쿠다테 카린**: Some civil servant you are...
+- **카쿠다테 카린**: A-Anyway, get out! I can't do this job with you around. It's too embarrassing!
+- **카쿠다테 카린**: I mean, I know it isn't as though I'm working at a shady club or something.
+- **카쿠다테 카린**: But that doesn't make it any better! So I'm begging you. Please leave...
+- **Maid Cafe Manager**: No. Not like that, Catherine.
+- **Maid Cafe Manager**: You're supposed to be welcoming customers in.
+- **카쿠다테 카린**: Ugh. But, boss...
+- **카쿠다테 카린**: *sigh* Fine. If I have to. You are a paying customer. Actually...
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: You're a...master.
+- **카쿠다테 카린**: *sigh*
+- **카쿠다테 카린**: Come on in. Let me show you to your table.
+- **카쿠다테 카린**: Taking pictures or touching the maids is strictly prohibited, but I'm sure you knew that.
+- **카쿠다테 카린**: Definitely don't take a picture... Know that you could lose your life if even one photo about this got out.
+- **카쿠다테 카린**: Here's your menu. Take a look and tell me what you want...
+- **카쿠다테 카린**: Sensei—I mean, Master—how often do you frequent maid cafes?
+- **카쿠다테 카린**: Sensei—I mean, Master—how often do you frequent maid cafes?
+- **카쿠다테 카린**: I-I'm too shy to ever be like you.
+- **카쿠다테 카린**: What do you mean "your" people?
+- **카쿠다테 카린**: And how am I supposed to know? This is my first time working at a maid cafe.
+- **카쿠다테 카린**: Give me a second—I'll look it up. What do people like you want...from maid cafes...?
+- **카쿠다테 카린**: What?!
+- **카쿠다테 카린**: What in the...? Do maids really do this kind of thing?
+- **카쿠다테 카린**: W-With their feet? How shameful! Never! I could never do that!
+- **카쿠다테 카린**: How could I...? How am I...?
+- **카쿠다테 카린**: You want me to step all over you?!
+- **카쿠다테 카린**: I can't do something like that!
+- **카쿠다테 카린**: Huh? It's like a massage? *sigh* That makes no sense...
+- **카쿠다테 카린**: Gah. The manager is staring at me.
+- **카쿠다테 카린**: F-Fine. I can't give you what you asked for, but instead...
+- **카쿠다테 카린**: ...I'll do it.
+- **카쿠다테 카린**: Moe...moe...
+- **카쿠다테 카린**: Kyu...
+- **카쿠다테 카린**: Kyu...!
+- **카쿠다테 카린**: Kyuu...
+- **카쿠다테 카린**: Gaaah! I can't do this!
+
+7. **「카쿠다테 카린 인연 스토리 7」**
+
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: Please don't look at me like that.
+- **카쿠다테 카린**: My friend took her shift back, but the manager asked me to help out one last time. I would have felt bad if I refused.
+- **카쿠다테 카린**: *sigh* Besides, everyone here tells me I'm doing a good job. I wish I could earn this kind of praise for my schoolwork.
+- **카쿠다테 카린**: True. I can't deny that.
+- **카쿠다테 카린**: True. I can't deny that.
+- **카쿠다테 카린**: Anyway, today is my last day! No matter what.
+- **카쿠다테 카린**: All right, Sensei. Order whenever you're ready.
+- **카쿠다테 카린**: A-Are you still not over that?
+- **카쿠다테 카린**: Even the manager wasn't on board.
+- **카쿠다테 카린**: Also...I don't want to step on a teacher. It wouldn't feel right.
+- **카쿠다테 카린**: I can't argue with that.
+- **카쿠다테 카린**: Go ahead and lie do—
+- **Maid**: Kyah! M-Master! You can't do that!
+- **Drunkard**: Haha! You're so adorable! I feel like I've died and gone to heaven!
+- **카쿠다테 카린**: Ugh. They're wasted.
+- **카쿠다테 카린**: Drunks are the worst kinds of customers.
+- **카쿠다테 카린**: What the hell is the manager doing?
+- **Drunkard**: *hic* A real life maid's headband! Can I touch it?
+- **카쿠다테 카린**: Bastard...
+- **카쿠다테 카린**: I could always shut him up the easy way. No, wait. My gun isn't suitable for use indoors.
+- **카쿠다테 카린**: Besides, if word got out that a maid shot a customer...
+- **카쿠다테 카린**: Tch. What am I supposed to do...?!
+- **Drunkard**: Huh? Who're you?! I didn't order someone like you!
+- **Drunkard**: Wh-What?!
+- **Drunkard**: Wh-What?!
+- **Drunkard**: G-Good lord! I thought this was heaven, but it's eternal hell!
+- **Drunkard**: G-Good lord! I thought this was heaven, but it's eternal hell!
+- **Drunkard**: G-Get away from me! K-Keep the change and let me out!
+- **Maid**: Th-Thank you!
+- **카쿠다테 카린**: ...Incredible.
+- **카쿠다테 카린**: I owe you one for that. Thank you, Sensei.
+- **Maid Cafe Manager**: I only stepped out for a second...and look what happened!
+- **Maid Cafe Manager**: I'll have to report this to Valkyrie.
+- **Maid Cafe Manager**: I appreciate the help, stranger.
+- **Maid Cafe Manager**: Here's a special membership card for our maid cafe.
+- **Maid Cafe Manager**: That will let you enter without paying the cover charge!
+- **Maid Cafe Manager**: Do you want something else? If it's something we can do...
+- **Maid Cafe Manager**: Do you want something else? If it's something we can do...
+- **카쿠다테 카린**: N-No. Don't tell me...
+- **카쿠다테 카린**: ?!
+- **Maid Cafe Manager**: *sigh* If that's what the customer wants.
+- **카쿠다테 카린**: What?! Since when is the customer always right here?!
+- **카쿠다테 카린**: W-Wait!
+- **카쿠다테 카린**: I-I don't think I'm ready...
+- **카쿠다테 카린**: Ugh. F-Fine!
+- **카쿠다테 카린**: ...I'll do it.
+- **카쿠다테 카린**: Okay, Sensei...
+- **카쿠다테 카린**: Lie down.
+- **카쿠다테 카린**: ― I-Is this really...a reward?
+- **카쿠다테 카린**: ― So... Um. This is...
+- **카쿠다테 카린**: ― ...really embarrassing. But if this is really what you want, Sensei.
+- **카쿠다테 카린**: ― You want me to do it a little harder...? O-Okay.
+- **카쿠다테 카린**: ― As long as you're happy, Sensei...then I'm happy too.
+- **카쿠다테 카린**: ― Ah! D-Don't get up so suddenly! I could have fallen!
+- **카쿠다테 카린**: You're a very...interesting person, Sensei.
+- **카쿠다테 카린**: Let me make something perfectly clear.
+- **카쿠다테 카린**: Today is the last time...I'll ever do something like that at this cafe.
+- **카쿠다테 카린**: ...
+- **카쿠다테 카린**: Heh. Don't look so disappointed.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/카쿠다테 카린
+- https://bluearchive.wiki (원문 스토리 스크립트)

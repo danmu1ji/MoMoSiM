@@ -1,0 +1,6 @@
+# Satsuki — official English introduction
+
+Satsuki is a council member of Gehenna Academy's "Pandemonium Society", and the head of its intelligence department. Although she has mastered various hypnotism techniques, there have only been precious few cases where Satsuki managed to succefully apply them. She is a tough girl who doesn't get discouraged even after repeated failures. She has a laid-back personality and does things at her own pace. Hates bugs and scary things.
+
+Source: https://bluearchive.wiki/wiki/Satsuki
+Status: source-extracted-unreviewed

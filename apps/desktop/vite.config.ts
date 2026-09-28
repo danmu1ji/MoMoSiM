@@ -2,12 +2,12 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { resolve } from 'node:path';
 import { createReadStream } from 'node:fs';
-import { stat } from 'node:fs/promises';
+import { readdir, stat } from 'node:fs/promises';
+import { dirname, resolve as resolvePath } from 'node:path';
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import { fetchProviderChat, fetchProviderModels } from '../../tools/provider-proxy.mjs';
-import { ensureTtsWorker, stopTtsWorker } from '../../tools/tts-worker.mjs';
 
-const blueArchivePackage = resolve(import.meta.dirname, '../../worlds/blue-archive.😭');
+const worldsDirectory = resolve(import.meta.dirname, '../../worlds');
 
 async function readJsonRequest(request: IncomingMessage, response: ServerResponse, maxBytes: number): Promise<Record<string, unknown> | undefined> {
   if (!/^application\/json(?:\s*;|\s*$)/i.test(request.headers['content-type'] ?? '')) {
@@ -37,28 +37,9 @@ async function readJsonRequest(request: IncomingMessage, response: ServerRespons
 
 export default defineConfig({
   plugins: [react(), {
-    name: 'blue-archive-dev-api',
+    name: 'danmutalk-dev-api',
     configureServer(server) {
-      server.httpServer?.once('close', stopTtsWorker);
       server.middlewares.use(async (request, response, next) => {
-        if (request.url?.split('?')[0] === '/api/tts/ensure') {
-          if (request.method !== 'POST') {
-            response.writeHead(405, { 'content-type': 'application/json; charset=utf-8' });
-            response.end(JSON.stringify({ error: 'method not allowed' }));
-            return;
-          }
-          try {
-            const payload = await readJsonRequest(request, response, 4096);
-            if (!payload) return;
-            const health = await ensureTtsWorker(typeof payload.endpoint === 'string' ? payload.endpoint : undefined);
-            response.writeHead(200, { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' });
-            response.end(JSON.stringify(health));
-          } catch (error) {
-            response.writeHead(503, { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' });
-            response.end(JSON.stringify({ error: error instanceof Error ? error.message : 'Could not start the local TTS service.' }));
-          }
-          return;
-        }
         if (request.url?.split('?')[0] === '/api/provider/chat/completions') {
           if (request.method !== 'POST') {
             response.writeHead(405, { 'content-type': 'application/json; charset=utf-8' });
@@ -112,9 +93,29 @@ export default defineConfig({
           }
           return;
         }
-        if (request.url?.split('?')[0] !== '/api/blue-archive') return next();
+        const path = request.url?.split('?')[0] ?? '';
+        if (path === '/api/worlds' && request.method === 'GET') {
+          try {
+            const entries = await readdir(worldsDirectory, { withFileTypes: true });
+            const worlds = entries.filter(entry => entry.isFile() && /\.(?:😭|zip)$/i.test(entry.name))
+              .map(entry => ({ name: entry.name, url: `/api/worlds/${encodeURIComponent(entry.name)}` }))
+              .sort((left, right) => left.name.localeCompare(right.name));
+            response.writeHead(200, { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' });
+            response.end(JSON.stringify({ worlds }));
+          } catch {
+            response.writeHead(200, { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' });
+            response.end(JSON.stringify({ worlds: [] }));
+          }
+          return;
+        }
+        if (!path.startsWith('/api/worlds/')) return next();
         try {
-          const info = await stat(blueArchivePackage);
+          const name = decodeURIComponent(path.slice('/api/worlds/'.length));
+          if (!name || name !== name.split(/[\\/]/).pop() || !/\.(?:😭|zip)$/i.test(name)) throw new Error('not a world archive');
+          const archive = resolvePath(worldsDirectory, name);
+          if (dirname(archive) !== worldsDirectory) throw new Error('invalid path');
+          const info = await stat(archive);
+          if (!info.isFile()) throw new Error('not a file');
           const range = request.headers.range?.match(/^bytes=(\d*)-(\d*)$/);
           if (request.headers.range && !range) {
             response.writeHead(416, { 'content-range': `bytes */${info.size}`, 'accept-ranges': 'bytes' });
@@ -143,10 +144,10 @@ export default defineConfig({
             'cache-control': 'no-cache',
           });
           if (request.method === 'HEAD') return response.end();
-          createReadStream(blueArchivePackage, { start, end }).pipe(response);
+          createReadStream(archive, { start, end }).pipe(response);
         } catch {
           response.writeHead(404, { 'content-type': 'application/json; charset=utf-8' });
-          response.end(JSON.stringify({ error: `Blue Archive package not found: ${blueArchivePackage}` }));
+          response.end(JSON.stringify({ error: 'World package not found in the worlds folder.' }));
         }
       });
     },

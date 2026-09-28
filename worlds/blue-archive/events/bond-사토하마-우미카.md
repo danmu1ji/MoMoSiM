@@ -1,0 +1,274 @@
+# 사토하마 우미카 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 사토하마 우미카, 선생(샬레)
+
+1. **「사토하마 우미카 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「사토하마 우미카 인연 스토리 2」**
+
+- **사토하마 우미카**: Ah, Sensei!
+- **사토하마 우미카**: Heeheehee. Welcome to the festival!
+- **사토하마 우미카**: It's a bit chaotic, isn't it? I'll help you in just a moment.
+- **사토하마 우미카**: This one really isn't even that big!
+- **사토하마 우미카**: Especially compared to main attractions like the Hyakkiyako Cherry Blossom Festival, the Whirlpool Movie Village Attraction Festival, or the Hyakkiyako Lantern Festival...
+- **사토하마 우미카**: Nothing seems too extravagant when you compare it to those festivals, right?
+- **사토하마 우미카**: Ah! But I shouldn't really be comparing festivals. How misguided of me!
+- **사토하마 우미카**: Each festival has its own special meaning, and at the end of the day, all of them are fun!
+- **사토하마 우미카**: Always catching and correcting my mistakes... You're so wise, Sensei!
+- **사토하마 우미카**: Hey now, don't dawdle! Follow along! As you can see, this festival includes a procession with a palanquin covered in all kinds of dolls!
+- **사토하마 우미카**: In the past, these dolls were primarily modeled after princesses, but...
+- **사토하마 우미카**: Nowadays, it has become a festival where the palanquin is loaded with as many diverse and beautiful dolls as it can carry, and paraded through the streets!
+- **사토하마 우미카**: ...I wonder if that's why so many dollmakers have been cozying up to the merchant guild and the event organizers...
+- **사토하마 우미카**: ...There's been some strange issues with contracts for the materials to build the palanquin as well...
+- **사토하마 우미카**: T-That aside, one thing hasn't changed: Every year they still place a large princess-shaped lantern in the center of the palanquin!
+- **사토하마 우미카**: And on this side, you can see festival-themed treats such as lotus flower-shaped candied apples, and a shaved ice dessert topped with a pink syrup made from strawberries and cherries!
+- **사토하마 우미카**: Look! The parade's performance has started! They're dancing to the music while marching behind the palanquin!
+- **사토하마 우미카**: Do you have your ticket? Excellent! There should be a coupon in it that you exchange up to four different items, including masks, fans, and even snacks!
+- **사토하마 우미카**: Phew... Following this palanquin parade for so long is exhausting...
+- **사토하마 우미카**: Who me?
+- **사토하마 우미카**: Heeheehee... It's a bit embarrassing if you say it out loud, Sensei...
+- **사토하마 우미카**: ...
+- **사토하마 우미카**: Yes, I love festivals.
+- **사토하마 우미카**: Doesn't everyone?
+- **사토하마 우미카**: They're a brief escape from daily life, into a world of dreams...
+- **사토하마 우미카**: When I think about how I'm someone who gets to help guide people to that world, it makes me so excited!
+- **사토하마 우미카**: Huh... I guess you could say it sounds like a theme park...
+- **사토하마 우미카**: Th-There are a few similarities... I-It makes sense someone could think that way.
+- **사토하마 우미카**: But festivals feel so much more alive!
+- **사토하마 우미카**: Uh, I mean...
+- **사토하마 우미카**: As you can see, every festival is unique in its own way.
+- **사토하마 우미카**: Take this doll palanquin festival for example! The dolls carried last year are different from the ones on the palanquin this year!
+- **사토하마 우미카**: That's because the merchant guild prohibits last year's dolls from being entered in the festival.
+- **사토하마 우미카**: When it comes to preparing for festivals, I always approach each new event with a fresh wave of enthusiasm!
+- **사토하마 우미카**: I know you think they may be similar. And maybe they both try to bring people into a world of dreams. But festivals and theme parks are totally—
+- **사토하마 우미카**: O-Oh, s-sorry! I got carried away and started rambling...
+- **사토하마 우미카**: Huh? What do you mean it was nice to see this side of me? Ugh... It's so embarrassing...
+- **사토하마 우미카**: That said... Which one do you prefer, Sensei? Theme parks or festivals?!
+- **사토하마 우미카**: What? You "want to enjoy"? Not "enjoy"? What does that mean?
+- **사토하마 우미카**: Wait... Do your responsibilities at Schale make it hard for you to go to theme parks or festivals?
+- **사토하마 우미카**: I-I'm sorry, Sensei. I shouldn't have said anything...
+- **사토하마 우미카**: Hm... If finding time for festivals is difficult due to your work, then...
+- **사토하마 우미카**: !!
+- **사토하마 우미카**: Nope, nothing! It's just that...
+- **사토하마 우미카**: Heeheehee. I just had a great idea on how to solve my little...problem.
+- **사토하마 우미카**: Hm? What's the problem? That's a secret! I'll tell you when it's done.
+- **사토하마 우미카**: Anyway, since you're finally here, Sensei, let me show you around a bit more!
+- **사토하마 우미카**: Don't worry! As you can see, I'm going to become...Hyakkiyako's ultimate festival master!
+
+3. **「사토하마 우미카 인연 스토리 3」**
+
+- **사토하마 우미카**: Yay, Sensei!
+- **사토하마 우미카**: Welcome to Momoyodou! What would you like to order?
+- **사토하마 우미카**: We have all kinds of traditional treats! Strawberry anmitsu, yatsuhashi, red bean buns, manju, sticky rice cakes...
+- **사토하마 우미카**: And matcha to wash it down!
+- **사토하마 우미카**: All right! Order up! Please wait a moment!
+- **사토하마 우미카**: I agree... But we have days like this sometimes.
+- **사토하마 우미카**: It's not too often, thankfully, but maybe once or twice a week?
+- **사토하마 우미카**: What? You want me to sit down and take a break? I couldn't...
+- **사토하마 우미카**: Huh? It's okay if I have your permission...?
+- **사토하마 우미카**: W-Well then... I guess I'll go ahead and rest a little...
+- **사토하마 우미카**: *sigh*...Sitting down feels so good. My legs were aching...
+- **사토하마 우미카**: You're always so kind...and thoughtful too...
+- **사토하마 우미카**: Oh, right. There's a marimo festival at the lake in three days, so I need to prepare for it after Momoyodou closes.
+- **사토하마 우미카**: I also need to attend some lectures, and prepare for exams in between all that.
+- **사토하마 우미카**: Ah, Sensei! Don't cry! I'll feel really awkward if I make you cry!
+- **사토하마 우미카**: Students are expected to learn and study. That's just common sense...
+- **사토하마 우미카**: Sensei, why are you crying even harder?!
+- **사토하마 우미카**: Yep, they're coming along smoothly.
+- **사토하마 우미카**: Heeheehee... But that doesn't mean there's less work to do.
+- **사토하마 우미카**: Still, work is just another part of what makes a festival!
+- **사토하마 우미카**: Hmm? Why do I love festivals so much?
+- **사토하마 우미카**: ...Heehee.
+- **사토하마 우미카**: Well, they just bring back memories.
+- **사토하마 우미카**: When I was young, I lived in the countryside.
+- **사토하마 우미카**: The air was clean, and everything was tranquil...but there wasn't really much to do.
+- **사토하마 우미카**: It was relaxing, but you know, as a kid you want something exciting!
+- **사토하마 우미카**: I-Is that so?!
+- **사토하마 우미카**: Well to a child raised in the country, the festivals that happened once or twice a year were the most exciting thing around.
+- **사토하마 우미카**: About a month before the festival, the entire village would begin preparations. We'd cut bamboo and crafting paper, dye fabrics, and build the palanquin...
+- **사토하마 우미카**: I think back then was when it all started. Before I realized it, I was the kid who worked harder and faster to prepare for festivals than anyone else in the village.
+- **사토하마 우미카**: Eventually I went to Hyakkiyako. I've learned a lot, and many things have changed, but...
+- **사토하마 우미카**: Festivals are still one of my favorites.
+- **사토하마 우미카**: I can research festivals in Kivotos whenever I want. And if I plan ahead, I can experience them myself under the banner of a field trip.
+- **사토하마 우미카**: Planning and preparing a festival is no cakewalk though. I still have a lot to learn at Momoyodou, but...
+- **사토하마 우미카**: Whenever I hear the word festival, I still feel a rush of excitement!
+- **사토하마 우미카**: Though, a lot of folks say my fixation makes me a little ditzy. Or that I kill the mood with festival talk...
+- **사토하마 우미카**: Shouldn't it be...?
+- **사토하마 우미카**: But every time I get festival fever, I lose track of my surroundings and my mind goes blank...
+- **사토하마 우미카**: ...Really?
+- **사토하마 우미카**: If Sensei says, it must be true...right?
+- **사토하마 우미카**: Heeheehee. Thanks, Sensei. I feel a little better now.
+- **사토하마 우미카**: O-Of course, now that I'm working at Momoyodou, I'll do my best here too!
+- **사토하마 우미카**: ...Though, we still haven't had many customers today...
+- **Hyakkiyako Student A**: Hello! What's today's special?
+- **사토하마 우미카**: Oh, a customer! I'm off to work now, Sensei!
+- **사토하마 우미카**: Welcome! Let me help you find your seat!
+
+4. **「사토하마 우미카 인연 스토리 4」**
+
+- **???**: Huh? Is someone there?
+- **???**: Who cares! Today, we're the customers!
+- **Mouryo A**: How exciting!
+- **Mouryo B**: Yeahhh!! This is awesome!
+- **사토하마 우미카**: S-Sensei?! Why did you have to come now of all times?!
+- **사토하마 우미카**: I-I know I asked! And I really did hope you would come, but...!
+- **사토하마 우미카**: Seriously?! Mouryo?! You're really ticking me off!
+- **Mouryo A**: What are you saying?! We're here at Momoyodou as customers, remember?
+- **Mouryo B**: We even paid in advance!
+- **사토하마 우미카**: Ugh... I know that, and I know that the customer's always right...
+- **사토하마 우미카**: But that's a little hard to buy serving "patrons" like you!
+- **사토하마 우미카**: At this rate, Momoyodou's reputation will be ruined...
+- **사토하마 우미카**: So you're saying...as a server, it is vital that I offer "guidance" to disrespectful customers?
+- **사토하마 우미카**: For if I failed to do so, it would hamper the service we provide, and disrupt the peaceful experiences of other customers?
+- **사토하마 우미카**: We can't have that! In that case...
+- **사토하마 우미카**: Mouryo! For Momoyodou, its traditions...and the sake of all future customers!
+- **사토하마 우미카**: With all my heart, let me "teach" you the full power of Momoyodou's hospitality!
+- **Mouryo A**: Huh? Wh-What are you going on about?
+- **Mouryo B**: I have a bad feeling about this...
+- **사토하마 우미카**: Please take your seats!
+- **Mouryo A**: Uh, uhh? What?!
+- **Mouryo B**: Huh! You can't force me into a chair!
+- **사토하마 우미카**: Now then. We have teacups, green tea, oolong, saucers, tissues, and napkins! Everything's ready! Is there anything else you need?!
+- **Mouryo A**: That was so fast! And somehow it was still perfect?
+- **Mouryo B**: Hmph! There's no wet towels!
+- **사토하마 우미카**: I figured you'd mention those. I was just preparing them!
+- **Mouryo A**: Isn't this too many?!
+- **Mouryo B**: Y-Yeah. Two should be enough?
+- **사토하마 우미카**: Seeing as you personally requested them, I trust you'll make use of them all!
+- **사토하마 우미카**: Also, taking items outside of Momoyodou is prohibited.
+- **사토하마 우미카**: Is there anything else you need?
+- **Mouryo A**: Um...no, thank you.
+- **사토하마 우미카**: In that case, I'll take your order! Our menu at Momoyodou includes—
+- **Mouryo A**: Ugh. I can't understand any of this. It's giving me a headache...
+- **Mouryo B**: I can't place an order if I don't understand what they have...
+- **사토하마 우미카**: Oho, are you still confused? Let me start over from the beginning—
+- **Mouryo A**: No, no! That's not necessary! We'll just go ahead and order!
+- **Mouryo B**: More than that— Uh... We're sorry... We won't trouble you again...
+- **Mouryo A**: Yes...
+- **Mouryo B**: We got super excited about the festival happening here, and things got out of hand...
+- **Mouryo A**: Yeah, festival items started showing up three days ago, right?
+- **Mouryo B**: Plus, the merchant guild, equipment managers, street vendors, and event planners...
+- **Mouryo A**: All of them have been seen hanging around here.
+- **사토하마 우미카**: Have you all been stalking them?
+- **Mouryo A**: No. We're Mouryo. We know about almost everything related to the festivals held at Hyakkiyako.
+- **Mouryo B**: There weren't any festivals scheduled for a while. Then, we heard something was being planned at Momoyodou...
+- **사토하마 우미카**: N-No way! You Mouryo must have been misinformed!
+- **Mouryo A**: No way! That's not possible! We may have a bad reputation as troublemakers...
+- **Mouryo B**: But we take great pride in the festivals here at Hyakkiyako! It's part of being Mouryo!
+- **사토하마 우미카**: Ughhh!
+- **사토하마 우미카**: ...
+- **사토하마 우미카**: When I say you're wrong, just admit that you're wrong!
+- **Mouryo A**: Huh? Did we hit a real nerve?
+- **Mouryo B**: Look at her face, what do you think?!
+- **Mouryo A**: ...Should we leave?!
+- **Mouryo B**: Why not?! I think we've had our meal and our fun!
+- **사토하마 우미카**: ...
+- **사토하마 우미카**: I'm sorry, Sensei. I didn't mean to show this side of myself...
+- **사토하마 우미카**: I guess I was a little harsh...
+- **사토하마 우미카**: Okay, maybe a lot harsh, but...
+
+5. **「사토하마 우미카 인연 스토리 5」**
+
+- **사토하마 우미카**: Wow! Sensei!
+- **사토하마 우미카**: Is that so? I'm not entirely sure.
+- **사토하마 우미카**: I guess I just wanted to enthusiastically greet Sensei... Heeheehee.
+- **사토하마 우미카**: The reason I specifically invited you here today is...
+- **사토하마 우미카**: Still a secret!
+- **사토하마 우미카**: C-Come on! You're disappointed that quickly?!
+- **사토하마 우미카**: You know what, Sensei?
+- **사토하마 우미카**: I'm going to quietly leave through the back door.
+- **사토하마 우미카**: When I do, you count to ten...
+- **사토하마 우미카**: Then slowly, follow me out. Got it?
+- **사토하마 우미카**: Now, if you'll excuse me!
+- **사토하마 우미카**: ― Welcome to my festival, Sensei!
+- **사토하마 우미카**: ― Heeheehee. What do you think?
+- **사토하마 우미카**: ― All my work and preparations...were for this exact moment!!
+- **사토하마 우미카**: ― I didn't tell anyone, and there were no invitations.
+- **사토하마 우미카**: ― This festival...is just for you, Sensei!
+- **사토하마 우미카**: ― A festival all for you and me, with no interruptions...
+- **사토하마 우미카**: ― It's a bit embarrassing, but...I hope you like it!
+- **사토하마 우미카**: You mentioned it's hard to enjoy theme parks and festivals because of your work at Schale...
+- **사토하마 우미카**: Yes, if it's hard to find the time for a big festival because of work...maybe a one person festival will work better instead.
+- **사토하마 우미카**: Especially if you were already planning to visit.
+- **사토하마 우미카**: Heeheehee.
+- **사토하마 우미카**: Sensei! Now that you've finally arrived at the festival, let me guide you through it!
+- **사토하마 우미카**: Over here! Please take a look at this Sensei Fan!
+- **사토하마 우미카**: Also, don't miss out on a Sensei Skewer! Give it a try!
+- **사토하마 우미카**: Heeheehee. Well...I looked at your favorite items from Momoyodou's menu...
+- **사토하마 우미카**: And chose the sauce I thought you would like best!
+- **사토하마 우미카**: Next up, I'll start grilling some Sensei Okonomiyaki! Okonomiyaki is traditionally made up of your favorite ingredients...
+- **사토하마 우미카**: Therefore, I'll pack it with all the things you like! A true Sensei Okonomiyaki!
+- **사토하마 우미카**: Heeheehee. Don't underestimate our service over at Momoyodou!
+- **사토하마 우미카**: This festival also has Sensei Cotton Candy, Sensei Yo-Yo Fishing, a Sensei Shooting Range, and more!
+- **사토하마 우미카**: It's okay! Only the two of us will know about this festival! Oh, want to take a picture?
+- **사토하마 우미카**: There's also an extra special course waiting for you at the end!
+- **사토하마 우미카**: So, what are your thoughts on the Sensei Festival?
+- **사토하마 우미카**: Right? Right?
+- **사토하마 우미카**: I may be putting the cart before the horse, but...
+- **사토하마 우미카**: I don't think I'll ever forget this year's Sensei Festival.
+- **사토하마 우미카**: Really...?
+- **사토하마 우미카**: ...
+- **사토하마 우미카**: Well, it's not over yet! I mean my Sensei Festival is almost near its end, but it's not completely finished!
+- **사토하마 우미카**: Yes! Look this way!
+- **사토하마 우미카**: Of course! A festival should always end with fireworks!
+- **사토하마 우미카**: Umm... Sensei?
+- **사토하마 우미카**: Mind if I take a break and enjoy the fireworks with you?
+- **사토하마 우미카**: Thank you. Heeheehee.
+
+6. **「사토하마 우미카 인연 스토리 6」**
+
+- **사토하마 우미카**: I'm so sorry, Sensei!
+- **사토하마 우미카**: W-Well...
+- **사토하마 우미카**: I passed some festival preparations right around the corner...and I was watching...
+- **사토하마 우미카**: Yes. It looks like they're arranging a small celebration in the shopping district.
+- **사토하마 우미카**: I suppose it's more of a bazaar or crafts fair than a festival?
+- **사토하마 우미카**: Ugh... Even though it was a humble festival, it's so unlike me to be caught by surprise like that. I read all the festival newsletters.
+- **사토하마 우미카**: I suppose. Heeheehee.
+- **사토하마 우미카**: But still, when I see people committing to a celebration, curating an event...
+- **사토하마 우미카**: ...It inspires me like nothing else.
+- **사토하마 우미카**: I think having a place like a festival, where all are invited to rest and celebrate, makes daily life so much better.
+- **사토하마 우미카**: Huh? What do I mean? Well... So...
+- **사토하마 우미카**: I think a festival is...an invitation to escape. It's limited, ephemeral, and opens up a new world, all in a place that could otherwise be considered ordinary.
+- **사토하마 우미카**: Oh, of course, the experience doesn't ONLY apply to festivals. An amusement park, a vacation, and even games, movies, and books can provide that sense of escape.
+- **사토하마 우미카**: What's important...is that people can leave their daily lives for a moment and be transported into a new world!
+- **사토하마 우미카**: Yes. A new world, Sensei! I mean it!
+- **사토하마 우미카**: A world where everyone can unburden themselves... You could say, a place where you can embrace your inner whimsy and...foolishness, even!
+- **사토하마 우미카**: Having a lively festival commence in the early morning, then end with fireworks at night... Even that is like the opening and closing of a special world.
+- **사토하마 우미카**: Then after, people can return to their daily lives, only rejuvenated and full of new energy.
+- **사토하마 우미카**: Now that I said it, it's almost like a portal to another dimension...a bit like isekai, if you're familiar.
+- **사토하마 우미카**: Of course, even a good festival has its flaws...
+- **사토하마 우미카**: Like you could get so swept up in the excitement that you end up buying too many souvenirs!
+- **사토하마 우미카**: B-But, of course, there are some things I don't regret buying.
+- **사토하마 우미카**: This, for example. Take a look, Sensei.
+- **사토하마 우미카**: Yes. Heeheehee... I bought this doll at my very first festival.
+- **사토하마 우미카**: ...I was half my size then.
+- **사토하마 우미카**: Looking back, I don't even know why I bought it...
+- **사토하마 우미카**: But something about it caught my eye. I had to have it.
+- **사토하마 우미카**: That's right! I don't know, either!
+- **사토하마 우미카**: The merchant at the time told me to guess, and then he never told me the right answer!
+- **사토하마 우미카**: It was on my mind all day. I kept thinking that I should go back and demand an answer.
+- **사토하마 우미카**: Heeheehee. Well...and that's how I got to be the way I am.
+- **사토하마 우미카**: Yes! You could say that!
+- **사토하마 우미카**: But...I have a little more to add.
+- **사토하마 우미카**: I-It's not that amazing... I don't want to get you too excited.
+- **사토하마 우미카**: There's actually another one of these.
+- **사토하마 우미카**: Yes. Precisely.
+- **사토하마 우미카**: The merchant at the time carried them both, and then...
+- **사토하마 우미카**: ...and then...
+- **사토하마 우미카**: Oh, oh, it's nothing!
+- **사토하마 우미카**: Sorry, Sensei! I'm the Student Rep today! I should be more focused.
+- **사토하마 우미카**: Right! Work! I have to help you with work, right?!
+- **사토하마 우미카**: Now, now. Sensei! Let's hurry and finish the job!
+- **사토하마 우미카**: You know, another festival is opening tomorrow.
+- **사토하마 우미카**: If you don't mind, how about we...
+- **사토하마 우미카**: ...!
+- **사토하마 우미카**: Thank you!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/사토하마 우미카
+- https://bluearchive.wiki (원문 스토리 스크립트)

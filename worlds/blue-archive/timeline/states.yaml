@@ -1,0 +1,18 @@
+states:
+- id: shiroko-terror
+  character: character:shiroko
+  validFrom: vol-1-대책위원회-편-3장-그-꿈이-남기고-간-흔적들
+  priority: 100
+  personality:
+    markdown: states/shiroko-terror.md
+  knowledge:
+  - target: event:v1c3
+    access: full
+  validUntil: null
+- id: hoshino-battle
+  character: character:hoshino
+  validFrom: final-그리고-모든-기적이-시작되는-곳-편-1장-샬레-탈환작전
+  priority: 90
+  personality:
+    markdown: states/hoshino-battle.md
+  validUntil: null

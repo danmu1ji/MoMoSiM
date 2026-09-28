@@ -1,0 +1,268 @@
+# 이오치 마리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 이오치 마리, 선생(샬레)
+
+1. **「이오치 마리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「이오치 마리 인연 스토리 2」**
+
+- **???**: Over here, Sensei.
+- **이오치 마리**: I've been waiting for you.
+- **이오치 마리**: I know this is sudden, but thank you for coming.
+- **이오치 마리**: Huh?
+- **이오치 마리**: The time? Ah. Sorry. There wasn't a special reason or anything.
+- **이오치 마리**: This was just the only free moment I had today...
+- **이오치 마리**: Not at all. I'm happy you came.
+- **이오치 마리**: Not at all. I'm happy you came.
+- **이오치 마리**: I was just working at the cathedral as always. It wasn't particularly busy.
+- **이오치 마리**: You want to know more about my work?
+- **이오치 마리**: Ah. I see.
+- **이오치 마리**: Of course, I have many duties as a Sister.
+- **이오치 마리**: But my most important duty is listening to people's confessions and empathizing with their heart's sorrows.
+- **이오치 마리**: It isn't much, but sometimes all people need to find healing is an ear willing to listen.
+- **이오치 마리**: Pardon? Is it similar to counseling?
+- **이오치 마리**: I suppose it may be similar to that.
+- **이오치 마리**: Of course, unlike counselors who give advice... I merely listen.
+- **이오치 마리**: If I can be of any help, I am more than happy to give my time.
+- **이오치 마리**: Sort of like how I came out to meet you, Sensei.
+- **이오치 마리**: Now, then...
+- **이오치 마리**: If you don't mind, could I ask about your concerns, Sensei?
+- **이오치 마리**: Huh?
+- **이오치 마리**: You didn't come here for any specific concern? You just wanted to say hi...?
+- **이오치 마리**: O-Oh... F-Forgive me. I think I overstepped without realizing...
+- **이오치 마리**: You're okay with that?
+- **이오치 마리**: Just seeing how hard I work makes you feel at ease?
+- **이오치 마리**: Heehee.
+- **이오치 마리**: Thank you. Sensei.
+- **이오치 마리**: Just hearing your words is enough to melt the day's fatigue away.
+- **이오치 마리**: Hmm.
+- **이오치 마리**: Hmm.
+- **이오치 마리**: Thank you for saying that, but I don't think I can. I still have much to do.
+- **이오치 마리**: It may be nice to receive the affection of the believers who visit the cathedral, but...
+- **이오치 마리**: I too, wish to ascend through the Sisterhood and become a respectable Sister someday.
+- **이오치 마리**: Well...it's a little different from that.
+- **이오치 마리**: Well...it's a little different from that.
+- **이오치 마리**: It isn't quite accurate to say anyone wearing a Sister's garb is a Sister.
+- **이오치 마리**: There's still much I have to learn and know.
+- **이오치 마리**: It's still embarrassing for me to be called a Sister.
+- **이오치 마리**: It's my dream to someday hear someone call me Sister Mari without feeling embarrassed.
+- **이오치 마리**: That's why I want to give my best to everything I do.
+- **이오치 마리**: Huh?
+- **이오치 마리**: I...sound mature to you?
+- **이오치 마리**: I already have the heart of a Sister?
+- **이오치 마리**: D-Don't tease me like that! I know better than anyone that I still have a long way to go!
+- **이오치 마리**: I-I'm going to pretend I didn't hear that. Sensei, you're too much!
+- **이오치 마리**: S-Stop...! Please, stop!
+- **이오치 마리**: S-Stop...! Please, stop!
+- **이오치 마리**: S-Stop!
+- **이오치 마리**: ...?!
+- **이오치 마리**: S-Sensei?
+- **이오치 마리**: Are you okay?! Sensei?!
+
+3. **「이오치 마리 인연 스토리 3」**
+
+- **???**: You're here, Sensei. This way.
+- **이오치 마리**: ― Thank you for coming, Sensei.
+- **이오치 마리**: ― Yes. I was just saying a prayer for you, Sensei.
+- **이오치 마리**: ― A quiet place like this is great for praying.
+- **이오치 마리**: ― When I pray, it feels as though my heart is being cleansed.
+- **이오치 마리**: ― There are paths you've taken so far,
+- **이오치 마리**: ― and paths you must still take.
+- **이오치 마리**: ― May peace and happiness find you
+- **이오치 마리**: ― wherever you choose to go.
+- **이오치 마리**: ― Hm? Have I ever prayed for myself?
+- **이오치 마리**: ― That's... No, it's okay.
+- **이오치 마리**: ― I am happy if you are happy, Sensei.
+- **이오치 마리**: ― In other words, this can be a prayer for us.
+- **이오치 마리**: To be honest, I wanted to offer this prayer much sooner, but I've been kind of busy with my cathedral work lately...
+- **이오치 마리**: Hmm. I suppose that's just an excuse.
+- **이오치 마리**: A Sister mustn't develop a habit of making excuses.
+- **이오치 마리**: Please forgive me for only now attending to your needs, Sensei.
+- **이오치 마리**: Wh-What? I-Is that so?
+- **이오치 마리**: Wh-What? I-Is that so?
+- **이오치 마리**: Y-You're teasing me again, aren't you? Honestly, Sensei!
+- **이오치 마리**: It's not good to lie, Sensei. Last time, you almost got yourself in big trouble with that.
+- **이오치 마리**: I pray every day such a thing won't happen again, but...
+- **이오치 마리**: Huh?
+- **이오치 마리**: You don't think what happened last time was because you lied?
+- **이오치 마리**: I-Is that so? Then what was it?
+- **이오치 마리**: A-Anyway...
+- **이오치 마리**: Sensei. If it's all right, could you come a little closer?
+- **이오치 마리**: There are several different ways to pray.
+- **이오치 마리**: One of them...
+- **이오치 마리**: is where you hold your hands together and lift them in prayer like this.
+- **이오치 마리**: I personally believe this prayer is more easily heard.
+- **이오치 마리**: And for people like Sensei, who tend to put others first...
+- **이오치 마리**: Well, I think you would probably pray for the students before yourself.
+- **이오치 마리**: Which is why I think it's necessary for someone to stay and pray with you like this.
+- **이오치 마리**: I will take on that role because I want to be a great Sister one day.
+- **이오치 마리**: Now then, if you would please close your eyes, Sensei.
+- **이오치 마리**: Let's pray together for your happiness once more.
+- **이오치 마리**: ...And for me, who wishes for that prayer to come true.
+
+4. **「이오치 마리 인연 스토리 4」**
+
+- **이오치 마리**: Who is it?
+- **이오치 마리**: ...?!
+- **이오치 마리**: S-Sensei?! What brings you here?!
+- **이오치 마리**: W-Wait just a second! Please, give me a moment.
+- **이오치 마리**: P-Please come in, Sensei.
+- **이오치 마리**: I'm sorry. I haven't had a chance to clean my room...
+- **이오치 마리**: You don't mind?
+- **이오치 마리**: B-But...
+- **이오치 마리**: What? You want me to stay in bed and rest? B-But you're already here, Sensei. How could I?!
+- **이오치 마리**: Well...
+- **이오치 마리**: Well...
+- **이오치 마리**: I-I understand. You came all the way here, so I shouldn't make things harder for you.
+- **이오치 마리**: Then, just as you asked...
+- **이오치 마리**: I hope you didn't worry too much. It's only a small sickness.
+- **이오치 마리**: Ahaha... I made you worry after all. I'm sorry.
+- **이오치 마리**: Now that I've had some rest, I feel much better. I will be back to my duties tomorrow.
+- **이오치 마리**: It feels a little strange for a Sister like me to be receiving encouragement. I should be encouraging others.
+- **이오치 마리**: Aha...ha...
+- **이오치 마리**: ...
+- **이오치 마리**: Well... Um...
+- **이오치 마리**: Honestly...
+- **이오치 마리**: Lately, I've been feeling a little fatigued from work...so I thought it'd be nice to take a day off.
+- **이오치 마리**: I think the current state of my health...may be due to that desire.
+- **이오치 마리**: The other Sisters are all working hard as well, so maybe I'm just being a baby.
+- **이오치 마리**: Is it because I was harboring thoughts unbecoming of a Sister that my body is punishing me like this?
+- **이오치 마리**: Huh?
+- **이오치 마리**: You think it isn't punishment, but assistance? From my body?
+- **이오치 마리**: Um, I'm not sure I follow. How is this assistance?
+- **이오치 마리**: ...?
+- **이오치 마리**: ...
+- **이오치 마리**: Heehee. I understand what you meant. I suppose that's one possible perspective.
+- **이오치 마리**: Thank you, Sensei. I somehow feel refreshed thanks to you.
+- **이오치 마리**: Not just my body...but my spirit too.
+- **이오치 마리**: Even while resting, I couldn't relieve myself of my guilt, but you resolved it so easily.
+- **이오치 마리**: You're really very adept at putting me at ease, Sensei. I feel I must learn from you.
+- **이오치 마리**: If I ever get the chance and if it's all right with you, Sensei, then...
+- **이오치 마리**: Hm?
+- **이오치 마리**: Oh. I obviously didn't mean today.
+- **이오치 마리**: Like you said, I should only focus on resting today.
+- **이오치 마리**: But tomorrow, and from now on...
+- **이오치 마리**: I'll look forward to it.
+
+5. **「이오치 마리 인연 스토리 5」**
+
+- **이오치 마리**: You're here, Sensei.
+- **이오치 마리**: I've been waiting for you. I was worried I may have pressured you with my sudden call.
+- **이오치 마리**: And it wasn't even for anything important...
+- **이오치 마리**: Oh... I'm sorry. I suppose this was sudden after all.
+- **이오치 마리**: Oh... I'm sorry. I suppose this was sudden after all.
+- **이오치 마리**: I didn't come here because of the guns exactly. It's just quiet here. That's all.
+- **이오치 마리**: Since this place is full of silence and empty of people, I can focus on my prayers.
+- **이오치 마리**: At times like these the range can be quieter even than the cathedral or the confessional.
+- **이오치 마리**: So when I'm troubled or want to pray by myself, I visit here.
+- **이오치 마리**: Hmm. Am I weird after all? For a Sister to come to a shooting range like this...
+- **이오치 마리**: Thank you. I was worried you might misunderstand me.
+- **이오치 마리**: Thank you. I was worried you might misunderstand me.
+- **이오치 마리**: Honestly, I didn't even know this existed at first.
+- **이오치 마리**: I just heard it was a place that other Sisters occasionally go to... So I came here to emulate them.
+- **이오치 마리**: I found myself entranced by the solitude, the deep silence...
+- **이오치 마리**: When you want to clear your head of idle thoughts... Perhaps seeking self-reflection or encouragement...
+- **이오치 마리**: When you want to forget the things that trouble your mind... I find answers here.
+- **이오치 마리**: ...Forget.
+- **이오치 마리**: Well...
+- **이오치 마리**: To be honest, after I took that day off, I decided to seek some guidance.
+- **이오치 마리**: The other Sisters kindly told me it's a natural thing, but...
+- **이오치 마리**: I don't want it to happen again. I guess it's a matter of self-management in a way...
+- **이오치 마리**: Then they said, "It's good to always have a heart for service, but it's also important to take the time to do what you want every once in a while."
+- **이오치 마리**: So I thought about it. What it was that I wanted to do.
+- **이오치 마리**: So I came here, to pray and organize my thoughts. Then it came to me.
+- **이오치 마리**: But what came to mind was unexpected. I'm a little confused.
+- **이오치 마리**: Sen...
+- **이오치 마리**: ...Sensei.
+- **이오치 마리**: ...Sensei.
+- **이오치 마리**: Um. Once in a while... It doesn't have to be often...
+- **이오치 마리**: I-If it's not too much trouble...
+- **이오치 마리**: ...E...
+- **이오치 마리**: Could I...borrow some of your time again? You don't have to do anything in particular.
+- **이오치 마리**: I don't know how to say it but...when you helped me, it brought me so much joy... and, um...
+- **이오치 마리**: O-Of course I understand. Talk like this is unbecoming of a Sister...
+- **이오치 마리**: Asking others to take care of me or spend time with me...
+- **이오치 마리**: I know it goes against my duty of taking care of others.
+- **이오치 마리**: I know that, but still...
+- **이오치 마리**: Huh?
+- **이오치 마리**: Y-You don't mind?
+- **이오치 마리**: How could you say that so easily?!
+- **이오치 마리**: Are you really okay with that?
+- **이오치 마리**: ...!
+- **이오치 마리**: ...!
+- **이오치 마리**: ...Sensei.
+- **이오치 마리**: Heehee. Maybe I was thinking too seriously about this.
+- **이오치 마리**: I do want to become an excellent Sister, but at the same time, I'm also a student.
+- **이오치 마리**: Since I'm a student...
+- **이오치 마리**: ...and you're a teacher, maybe it's okay for me to be a little childish with you.
+- **이오치 마리**: Strange. I suddenly feel so refreshed.
+- **이오치 마리**: Thank you so much, Sensei.
+- **이오치 마리**: Then, going forward, I wish the best of luck...
+- **이오치 마리**: to the teacher...
+- **이오치 마리**: who will have to deal with a childish student like me.
+
+6. **「이오치 마리 인연 스토리 6」**
+
+- **이오치 마리**: Wow. This is quite the list.
+- **이오치 마리**: Bake sale, philanthropy, and outreach supplies...as well as this month's snacks.
+- **이오치 마리**: Absolutely. It would have been rather difficult without your assistance.
+- **이오치 마리**: As usual, you have my gratitude.
+- **이오치 마리**: Ah, no! Not at all. We have a rotating system.
+- **이오치 마리**: However, I volunteer quite often, as everyone has rather busy schedules.
+- **이오치 마리**: I'm not usually alone, but no one else was available today.
+- **이오치 마리**: Heehee. I'm always grateful whenever I can lend a hand, however small the task may be.
+- **이오치 마리**: Big malls like this one always have much to see, so it can actually be rather fun!
+- **이오치 마리**: Over there, for example. Look at those adorable dolls, Sensei!
+- **이오치 마리**: And that store has beautiful clothes.
+- **이오치 마리**: These accessories are quite cute as well.
+- **Merchant**: You two! You're having a great time together, aren't you?
+- **이오치 마리**: E-Eek? A-A-Are you speaking to us?
+- **Merchant**: Do you see anyone else around? Hohoho!
+- **Merchant**: Come take a look at our accessories! All the girls love them!
+- **이오치 마리**: A-Accessories...
+- **Merchant**: They're all the rage these days! C'mon! I'll even give you a discount!
+- **이오치 마리**: Eh?! M-Me? An accessory?!
+- **이오치 마리**: A-Ah....
+- **이오치 마리**: I-I can't.
+- **이오치 마리**: U-Um... I truly appreciate your thoughts and feelings, but...
+- **이오치 마리**: As a Sister, I cannot indulge in unnecessary extravagances and luxuries...
+- **이오치 마리**: O-Of course, the accessories here are very pretty, and I must admit that I would love to have one, but...
+- **이오치 마리**: Ah... Y-You mean, this...?
+- **이오치 마리**: This corsage...
+- **이오치 마리**: I purchased this as a reminder to never forget the vows of the Sisterhood.
+- **이오치 마리**: I wanted to encapsulate the feelings I had when I embarked on this journey, with this white flower that would never wither.
+- **이오치 마리**: ...Sensei... May I speak freely?
+- **이오치 마리**: This may not be a confession booth, but I still feel compelled to honesty.
+- **이오치 마리**: This corsage...
+- **이오치 마리**: I-I...did buy it thinking that it was pretty.
+- **이오치 마리**: Its primary purpose was a reminder to stay true to my heart!
+- **이오치 마리**: But I also liked the way it looked...
+- **이오치 마리**: As I mentioned earlier, the virtues of a Sister are frugality and selflessness...
+- **이오치 마리**: But I still have interest in accessories and the such. Sometimes, I even feel the desire to dress up, as other students do.
+- **이오치 마리**: Wh-Which is why I like wearing this corsage.
+- **이오치 마리**: *sigh* Not only am I giving into my worldly desires, but I'm also making excuses for them...
+- **이오치 마리**: I should be forced to denounce my vows.
+- **이오치 마리**: ...
+- **이오치 마리**: Although, I do...feel slightly more at ease, having told you my secret.
+- **이오치 마리**: Yes...
+- **이오치 마리**: P-Please tell me what you're thinking, Sensei. Are you...disappointed in me?
+- **이오치 마리**: E-Excuse me?!
+- **이오치 마리**: T-Truly? It's...okay?
+- **이오치 마리**: I...I see.
+- **이오치 마리**: I'm so relieved to hear you say that.
+- **이오치 마리**: What's acceptable and what's not...
+- **이오치 마리**: ...it appears I'm still figuring that out. Heehee.
+- **이오치 마리**: For now, I'll simply have to accept and appreciate your words.
+- **이오치 마리**: This one corsage will be enough.
+- **이오치 마리**: Truly... You never stop trying to give. Even after I've received so much from you.
+- **이오치 마리**: ...
+- **이오치 마리**: In that case, yes. Please.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/이오치 마리
+- https://bluearchive.wiki (원문 스토리 스크립트)

@@ -2,7 +2,7 @@ import React from 'react';
 import type { ChatNode } from '@world-player/schema';
 import type { WorldData } from '@world-player/engine/desktop';
 import { presentMessage, resolveMedia } from '@world-player/engine/desktop';
-import { LazyAssetImage, LazyAudio } from './lazy-asset';
+import { LazyAssetImage } from './lazy-asset';
 
 export interface ChatMessageView { speaker: string; nodes: ChatNode[] }
 
@@ -30,13 +30,12 @@ export function ChatView({ data, title, messages, input, streaming, onChangeInpu
     <div className="chat-body">
       {messages.map((message, index) => {
         const mine = message.speaker === '나';
-        // 말풍선 상단(사진·음성)은 캐릭터 발화에만 붙는다. 지시문 위치와 무관하게 항상 맨 위로 올린다.
+        // 말풍선 상단의 사진은 캐릭터 발화에만 붙인다.
         const presented = presentMessage({ data, speakerId: mine ? undefined : message.speaker, nodes: message.nodes });
         return <div className={`bubble${mine ? ' mine' : ''}`} key={`${message.speaker}-${index}`}>
           <div className="who">{message.speaker}</div>
-          {!mine && (presented.image || presented.audio.length > 0) && <div className="bubble-head">
+          {!mine && presented.image && <div className="bubble-head">
             {presented.image && <BubbleImage data={data} assetId={presented.image} state={stateId} situation={situation} />}
-            {presented.audio.map(assetId => <AudioButton key={assetId} data={data} assetId={assetId} />)}
           </div>}
           <div className="bubble-text">{presented.text.map((node, nodeIndex) => <React.Fragment key={nodeIndex}>
             {node.type === 'lineBreak' ? <br /> : node.type === 'emphasis' ? <em className="chat-narration">{node.text}</em> : node.type === 'strong' ? <strong>{node.text}</strong> : node.text}
@@ -63,14 +62,3 @@ function BubbleImage({ data, assetId, state, situation }: { data: WorldData; ass
   if (!asset) return null;
   return <LazyAssetImage data={data as never} assetId={asset} alt={data.media.get(asset)?.description ?? ''} className="bubble-image" />;
 }
-
-/** 말풍선 최상단 재생 버튼(선택). 누를 때만 음성을 읽는다. */
-function AudioButton({ data, assetId }: { data: WorldData; assetId: string }) {
-  const asset = data.media.get(assetId);
-  if (!asset) return null;
-  return <div className="bubble-voice">
-    <LazyAudio data={data as never} assetId={assetId} autoPlay />
-    <span className="voice-label" title={asset.description}>{asset.description}</span>
-  </div>;
-}
-

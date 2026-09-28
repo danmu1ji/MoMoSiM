@@ -1,0 +1,6 @@
+# Kisaki — official English introduction
+
+The president of Genryumon, the student council that oversees everything that happens in Shanhaijing Academy. She gives off an atmosphere that makes her difficult to approach with her elegant yet intimidating style of talking mixed in with her mysterious impression. However, it seems that she actually utilizes that impression of her to help with her duties. Her "disguised undercover travel," which rarely gets noticed by most people, can be quite a scene for those who are aware.
+
+Source: https://bluearchive.wiki/wiki/Kisaki
+Status: source-extracted-unreviewed

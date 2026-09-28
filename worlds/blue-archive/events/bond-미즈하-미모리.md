@@ -1,0 +1,299 @@
+# 미즈하 미모리 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 미즈하 미모리, 선생(샬레)
+
+1. **「미즈하 미모리 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「미즈하 미모리 인연 스토리 2」**
+
+- **???**: Good morning, Sensei. Rise and shine.
+- **???**: Sensei, you're being a child!
+- **???**: It's time to wake up.
+- **미즈하 미모리**: Good morning, sleepyhead!
+- **미즈하 미모리**: Did you fall asleep here?
+- **미즈하 미모리**: So you worked all night and passed out...
+- **미즈하 미모리**: So you worked all night and passed out...
+- **미즈하 미모리**: And you slept hunched over at the desk.
+- **미즈하 미모리**: It's bad for your back and not conducive to good health.
+- **미즈하 미모리**: If you continue on like this, your health will begin to decline.
+- **미즈하 미모리**: I understand now. Excellent.
+- **미즈하 미모리**: It is very fortunate I came to see you.
+- **미즈하 미모리**: Please, Sensei. There's no time.
+- **미즈하 미모리**: You need to be at work in 30 minutes.
+- **미즈하 미모리**: Why don't we start with brushing your teeth?
+- **미즈하 미모리**: Now your breath is minty fresh! Okay, please sit.
+- **미즈하 미모리**: Now your breath is minty fresh! Okay, please sit.
+- **미즈하 미모리**: Breakfast is the most important meal of the day.
+- **미즈하 미모리**: I've brought this from home. Please eat.
+- **미즈하 미모리**: Yes, made especially for you, Sensei!
+- **미즈하 미모리**: Indeed! I tried to make something light, since it's for breakfast.
+- **미즈하 미모리**: I avoided oily or strong tastes like bacon or eggs. Instead, it's made of lettuce and ham, and then bread with soy sauce spread on it!
+- **미즈하 미모리**: Or would you have preferred a more traditional soup and grilled fish breakfast...?
+- **미즈하 미모리**: Really? That's wonderful!
+- **미즈하 미모리**: And some tea as well! It should be nice and warm.
+- **미즈하 미모리**: Please enjoy to your heart's content.
+- **미즈하 미모리**: Aw, Sensei. There's sauce on your cheek...
+- **미즈하 미모리**: Allow me.
+- **미즈하 미모리**: Heehee.
+- **미즈하 미모리**: I'm happy to hear it.
+- **미즈하 미모리**: And next, please lie down for your massage.
+- **미즈하 미모리**: Your muscles must be sore from sleeping at a desk.
+- **미즈하 미모리**: How is that? Ah! The back of your neck is so stiff.
+- **미즈하 미모리**: This tends to happen when you sleep incorrectly.
+- **미즈하 미모리**: That's wonderful to hear.
+- **미즈하 미모리**: That's wonderful to hear.
+- **미즈하 미모리**: Your therapy is complete! Now, it's time to go.
+- **미즈하 미모리**: Your work at Schale begins in ten minutes.
+- **미즈하 미모리**: Don't worry, I've cleaned up everything.
+- **미즈하 미모리**: You just have to worry about making sure you have everything.
+- **미즈하 미모리**: Heehee. Then preparations are complete.
+- **미즈하 미모리**: And, finally.
+- **미즈하 미모리**: *opens arms*
+- **미즈하 미모리**: Please, give me a hug.
+- **미즈하 미모리**: Hugs help release oxytocin and re-energize you for your day.
+- **미즈하 미모리**: I saw it online. Proper ladies see their job through till the end.
+- **미즈하 미모리**: ...
+- **미즈하 미모리**: Hmm? W-Was I...
+- **미즈하 미모리**: ...out of line?
+- **미즈하 미모리**: Heehee. Off you go, Sensei. Have a good day!
+
+3. **「미즈하 미모리 인연 스토리 3」**
+
+- **미즈하 미모리**: I've rented the student dining hall for today!
+- **미즈하 미모리**: I wanted the opportunity to practice cooking—a must for a proper lady.
+- **미즈하 미모리**: Home cooking, to be precise.
+- **미즈하 미모리**: I'd like to begin with the most essential of home-cooked foods.
+- **미즈하 미모리**: Meat and potato stew!
+- **미즈하 미모리**: Exactly! I'd like to cook like a proper lady.
+- **미즈하 미모리**: Exactly! I'd like to cook like a proper lady.
+- **미즈하 미모리**: I believe a proper lady's cooking should be elegant and effortless.
+- **미즈하 미모리**: The ingredients are simple, and the process is straightforward.
+- **미즈하 미모리**: So after much deliberation, I thought it the best avenue for practice propriety.
+- **미즈하 미모리**: Sensei, do you like meat and potato stew?
+- **미즈하 미모리**: Heehee. Glad to hear that.
+- **미즈하 미모리**: I-Is that so?
+- **미즈하 미모리**: Do you really?
+- **미즈하 미모리**: Th-Thank you.
+- **미즈하 미모리**: You're always so encouraging...
+- **미즈하 미모리**: Okay!
+- **미즈하 미모리**: I'm fully motivated now!
+- **미즈하 미모리**: I'll put in all my effort!
+- **미즈하 미모리**: You can count on me!
+- **미즈하 미모리**: You can count on me!
+- **미즈하 미모리**: One moment please, Sensei. Just have to measure the weight with the scale...
+- **미즈하 미모리**: It needs to be precise. It should be exactly like the recipe.
+- **미즈하 미모리**: Sensei, please!
+- **미즈하 미모리**: I must meet your expectations. A proper lady would never disappoint.
+- **미즈하 미모리**: I'd like for you to see how far I've come in my training.
+- **미즈하 미모리**: I promise to be perfect!
+- **미즈하 미모리**: I'm ready, Sensei! I have soy sauce, cooking wine, sugar, and water...<br/>Everything the recipe calls for.
+- **미즈하 미모리**: I'll get started, then!
+- **미즈하 미모리**: I'll put all the seasonings I measured here...
+- **미즈하 미모리**: Place all the meat, onions, and carrots in a pot... And boil on low heat!
+- **미즈하 미모리**: When the broth boils like this, the onions should start becoming transparent.
+- **미즈하 미모리**: I must lower the heat...put the lid on, and simmer for 20 minutes.
+- **미즈하 미모리**: When the onions are completely transparent, add the potatoes and boil for another 20 minutes...
+- **미즈하 미모리**: It's finished, Sensei. I've put my whole heart into this meat and potato stew!
+- **미즈하 미모리**: Will you try it?
+- **미즈하 미모리**: *gulp*
+- **미즈하 미모리**: D-Do you like it?
+- **미즈하 미모리**: It couldn't possibly... B-But I followed the recipe exactly!
+- **미즈하 미모리**: *chew* *chew*
+- **미즈하 미모리**: H-How can this be? It really IS too salty!
+- **미즈하 미모리**: Oh!
+- **미즈하 미모리**: What an awful mistake! I-I'm so sorry, Sensei!
+- **미즈하 미모리**: I was careless! What... What do I do?!
+- **미즈하 미모리**: I told you I would make you a wonderful, home-cooked meal!
+- **미즈하 미모리**: I said I wouldn't let down your high expectations of me...
+- **미즈하 미모리**: I'm utterly disqualified from being a proper lady...
+- **미즈하 미모리**: But, Sensei...
+- **미즈하 미모리**: Y-You're right. Thank you for being so kind, Sensei.
+- **미즈하 미모리**: Y-You're right. Thank you for being so kind, Sensei.
+- **미즈하 미모리**: Okay. A proper lady would take her mistakes in stride.
+- **미즈하 미모리**: Being flustered won't solve anything.
+- **미즈하 미모리**: Like you said, there's something I can learn from this.
+- **미즈하 미모리**: Let me think...
+- **미즈하 미모리**: Oh, I think I have just the thing!
+- **미즈하 미모리**: Just one moment, Sensei!
+- **미즈하 미모리**: There was curry roux in the cupboard.
+- **미즈하 미모리**: Meat and potato stew isn't so different from curry.
+- **미즈하 미모리**: I thought that I could add in the curry, and offset the saltiness.
+- **미즈하 미모리**: O-Of course, I understand if you don't want to try it. Especially after the first disaster...
+
+4. **「미즈하 미모리 인연 스토리 4」**
+
+- **미즈하 미모리**: Cleaning is also an important component to my duties as a proper lady.
+- **미즈하 미모리**: Yes, the place is technically no longer in use.
+- **미즈하 미모리**: But that doesn't mean we should allow it to fall into disarray like this.
+- **미즈하 미모리**: I'll make this place shine like the rest of the building.
+- **미즈하 미모리**: Naturally.
+- **미즈하 미모리**: A proper lady...
+- **미즈하 미모리**: Or rather, a new bride and homemaker, must know everything about cleaning, cooking, laundry, sewing, homemaking, and more.
+- **미즈하 미모리**: There is truly no end to the required skills and knowledge!
+- **미즈하 미모리**: Yes, it certainly is! That's what makes it so rewarding.
+- **미즈하 미모리**: Then, shall we?
+- **미즈하 미모리**: We're nearly done, however...
+- **미즈하 미모리**: We're nearly done, however...
+- **미즈하 미모리**: We mustn't forget the most important part.
+- **미즈하 미모리**: The window frames!
+- **미즈하 미모리**: It's easy to just wipe the windows, and forget about all the dust that accumulates in the frames themselves.
+- **미즈하 미모리**: I've prepared everything we need.
+- **미즈하 미모리**: I've prepared everything we need.
+- **미즈하 미모리**: Spray bottles, cleaning sponges, and wooden chopsticks...
+- **미즈하 미모리**: All the supplies are here!
+- **미즈하 미모리**: Sensei, look!
+- **미즈하 미모리**: It's absolutely sparkling!
+- **미즈하 미모리**: I found this method on the internet.
+- **미즈하 미모리**: It's refreshing how clean it is...
+- **미즈하 미모리**: ...but we're not done yet.
+- **미즈하 미모리**: We've only just barely scratched the surface.
+- **미즈하 미모리**: The sponge doesn't reach the deep crevices of the window frame.
+- **미즈하 미모리**: In situations like this, we have our secret weapon!
+- **미즈하 미모리**: A paint brush!
+- **미즈하 미모리**: This is a thin brush used for detailed painting.
+- **미즈하 미모리**: This way, not even the deepest of crevices stands a chance.
+- **미즈하 미모리**: The internet has a lot of tips teaching you how to be a proper lady!
+- **미즈하 미모리**: Heehee. And we're done!
+- **미즈하 미모리**: D-Do I?
+- **미즈하 미모리**: I suppose cleaning the window frames so thoroughly...
+- **미즈하 미모리**: ...gave me a sense of accomplishment.
+- **미즈하 미모리**: Oh, yes! I've gotten rather good at housekeeping, I think.
+- **미즈하 미모리**: But, it's not as exciting when I'm alone...
+- **미즈하 미모리**: Well, it's a bit different because...
+- **미즈하 미모리**: Heehee. Just because.
+- **미즈하 미모리**: Okay, Sensei. On to the next room!
+
+5. **「미즈하 미모리 인연 스토리 5」**
+
+- **미즈하 미모리**: Wow, Sensei! It's the new model of my favorite vacuum.
+- **미즈하 미모리**: It can run for five hours with just a 30-minute charge!
+- **미즈하 미모리**: And the best part? It's cordless!
+- **미즈하 미모리**: Oh, Sensei. Look at this dress!
+- **미즈하 미모리**: It's machine washable!
+- **미즈하 미모리**: Heehee. It would be so easy to keep clean!
+- **미즈하 미모리**: Oh? That counter over there...
+- **미즈하 미모리**: They're giving away raffle tickets!
+- **미즈하 미모리**: Third place will receive a cordless vacuum cleaner!
+- **미즈하 미모리**: What a wonderful opportunity, Sensei.
+- **미즈하 미모리**: Let's line up right away!
+- **미즈하 미모리**: Oh...
+- **미즈하 미모리**: Oh...
+- **미즈하 미모리**: I got a little too excited.
+- **미즈하 미모리**: I needed to purchase a handkerchief.
+- **미즈하 미모리**: Yes, we'll be able to find it in general merchandise. I looked it up beforehand.
+- **미즈하 미모리**: B-But the lottery tickets...
+- **미즈하 미모리**: Heehee. Good thinking.
+- **미즈하 미모리**: What a large selection of handkerchiefs.
+- **미즈하 미모리**: I have a bit of a limited budget...
+- **미즈하 미모리**: ....but the quality and material is still very important.
+- **미즈하 미모리**: What a difficult decision...
+- **미즈하 미모리**: You'd like to pick for me?
+- **미즈하 미모리**: Hmm... I think it's important that I pick it out.
+- **미즈하 미모리**: I don't think that at all Sensei! I-It's just...
+- **미즈하 미모리**: N-Never mind!
+- **미즈하 미모리**: A-Anyway, back to the matter at hand.
+- **미즈하 미모리**: *sheen*
+- **미즈하 미모리**: Excuse me. Could you please wrap this one for me?
+- **미즈하 미모리**: Because...
+- **미즈하 미모리**: It's meant to be a gift!
+- **미즈하 미모리**: Thank you for your patience today, Sensei.
+- **미즈하 미모리**: Heehee. I'm glad you came too.
+- **미즈하 미모리**: But, there's just one problem...
+- **미즈하 미모리**: Heehee. That's all right. I'm glad you came
+- **미즈하 미모리**: But, there's just one problem...
+- **미즈하 미모리**: Admittedly, I've been worried about that.
+- **미즈하 미모리**: Admittedly, I've been worried about that.
+- **미즈하 미모리**: In other words, I don't know if you'll like your new handkerchief.
+- **미즈하 미모리**: That's why I invited you today, Sensei.
+- **미즈하 미모리**: I wanted to buy you a gift.
+- **미즈하 미모리**: You've encouraged me throughout my training time and time again.
+- **미즈하 미모리**: I felt a proper lady should repay her debts.
+- **미즈하 미모리**: I understand, but I still wanted to express my gratitude.
+- **미즈하 미모리**: Is...it too much?
+- **미즈하 미모리**: Heehee. Really?
+- **미즈하 미모리**: Heehee. Really?
+- **미즈하 미모리**: O-One moment, Sensei!
+- **미즈하 미모리**: I'm grateful I got to pick it out with you...
+- **미즈하 미모리**: ...and that memory makes it meaningful in and of itself.
+- **미즈하 미모리**: But can I ask one last favor?
+- **미즈하 미모리**: This is a bit selfish of me, but...
+- **미즈하 미모리**: ...I've been practicing my sewing every day with the Inner Discipline Club!
+- **미즈하 미모리**: So, well...
+- **미즈하 미모리**: I was hoping to show you the results of my training...
+- **미즈하 미모리**: Could I see the handkerchief, please?
+- **미즈하 미모리**: I-I'm not taking it back or anything, but...!
+- **미즈하 미모리**: I was hoping to embroider it for you, since I've improved quite a bit...
+- **미즈하 미모리**: Only if you don't mind!
+- **미즈하 미모리**: If it's too much, I'll just leave!
+
+6. **「미즈하 미모리 인연 스토리 6」**
+
+- **미즈하 미모리**: Welcome, Sensei!
+- **미즈하 미모리**: Thank you for coming! I wanted to show you the results of my recent training.
+- **미즈하 미모리**: If you please, would you mind accompanying me to the kitchen?
+- **미즈하 미모리**: This is the Inner Discipline Club's kitchen.
+- **미즈하 미모리**: It's used for cooking practice, meal prep, training of the mind and body and many...other...things?
+- **미즈하 미모리**: Why is the kitchen such a mess?!
+- **Kitchen Manager**: Ah! Um... H-Hey Mimori! Well... The Mouryo had a little celebration in the kitchen last night...
+- **Kitchen Manager**: So I'm afraid the kitchen is closed until we get it cleaned up. You'll have to come back tomorrow.
+- **미즈하 미모리**: ...
+- **미즈하 미모리**: I'm afraid I cannot do that.
+- **Hyakkiyako Inner Discipline Club Member**: Mimori?!
+- **미즈하 미모리**: All this calls for is some good, old-fashioned elbow grease!
+- **미즈하 미모리**: What?! You're going to clean, Sensei?!
+- **미즈하 미모리**: I absolutely cannot abide by that! Please allow me to take care of the cleaning! This kitchen is the responsibility of the Inner Discipline Club!
+- **미즈하 미모리**: A real, proper lady would have been able to predict the Mouryo's festivities and the state of the kitchen before Sensei arrived!
+- **미즈하 미모리**: And knowing that, a proper lady would have arrived at the scene of the crime in the early hours and made sure it was sparkling before your visit!
+- **미즈하 미모리**: But... but...
+- **미즈하 미모리**: It's due to my inaction that this mess occurred...
+- **미즈하 미모리**: I could hardly ask you, my guest, to help with my mistake...
+- **미즈하 미모리**: ...
+- **미즈하 미모리**: If you insist, Sensei, then... I will accept.
+- **미즈하 미모리**: Thank you for your help, Sensei.
+- **미즈하 미모리**: Th-Then! I must match Sensei's dedication!
+- **미즈하 미모리**: I, Mizuha Mimori, as the Vice President of the Inner Discipline Club...
+- **미즈하 미모리**: Will pour my heart and soul into this! Serious-Mode Mimori!
+- **미즈하 미모리**: You have yet to see me serious! I must embody the proper lady with everything I am!
+- **미즈하 미모리**: Which means, I must use "that."
+- **미즈하 미모리**: Ta-da! Let us begin!
+- **미즈하 미모리**: Whew... Thank you for your hard work, Sensei.
+- **미즈하 미모리**: ...What? I did all of the work? Haha...
+- **미즈하 미모리**: It was an even effort, Sensei! And you were just an assistant anyways!
+- **미즈하 미모리**: Since we're all done, allow me to take this off.
+- **미즈하 미모리**: ...I sh-shouldn't take it off? Wh-What do you mean you think it's "cute"?
+- **미즈하 미모리**: Such joking is not proper behavior, Sensei!
+- **미즈하 미모리**: Oh... It's not a joke...?
+- **미즈하 미모리**: ...
+- **미즈하 미모리**: I-I'm sure you're tired! Why don't we go relax?
+- **미즈하 미모리**: Please wait here. I'll bring out some tea.
+- **미즈하 미모리**: I hope you enjoy your drink, Sensei. I've brought some complementary wagashi as well.
+- **미즈하 미모리**: This wagashi was actually the reason I invited you over. I've been working very hard on the recipe.
+- **미즈하 미모리**: What do you think? Do you like the taste?
+- **미즈하 미모리**: What a relief! I'm happy to hear that.
+- **미즈하 미모리**: What? My...apron?
+- **미즈하 미모리**: ...
+- **미즈하 미모리**: It was the day I decided to become a proper lady, actually. I was inspired by a manga I was reading and went out and bought it.
+- **미즈하 미모리**: It's a bit old now, but it still does its job very well.
+- **미즈하 미모리**: Heehee. I'm glad it looks that way, but you can see all the patches and frayed edges I've fixed if you look a little closer.
+- **미즈하 미모리**: But to me...to me it's still perfect.
+- **미즈하 미모리**: I can't quite explain it, but I find it comforting when I have it on.
+- **미즈하 미모리**: Cleaning, cooking, laundry, tailoring, mind reading... Its uses are endless.
+- **미즈하 미모리**: Ah! D-Did I?
+- **미즈하 미모리**: You must have misheard! Or I misspoke!
+- **미즈하 미모리**: Ahem! Anyway, I bought this apron many years ago, and I actually had to fold it up because it was too big!
+- **미즈하 미모리**: I made a promise to myself, then. I promised myself I would be a proper lady by the time I could fit my apron properly.
+- **미즈하 미모리**: I'm a little embarrassed, saying that out loud.
+- **미즈하 미모리**: ...Do you truly think so?
+- **미즈하 미모리**: You see, at that time, I believed in my heart that I could achieve anything with the proper mindset and hard work.
+- **미즈하 미모리**: But here I am, big enough to fit this apron perfectly.
+- **미즈하 미모리**: Am I the proper lady I hoped to be by this time? Would the younger Mimori be proud of the current me?
+- **미즈하 미모리**: Now then, Sensei. You weren't going to tell me I'm giving it my all and that's what matters, were you?
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/미즈하 미모리
+- https://bluearchive.wiki (원문 스토리 스크립트)

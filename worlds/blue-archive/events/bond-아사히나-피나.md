@@ -1,0 +1,261 @@
+# 아사히나 피나 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 아사히나 피나, 선생(샬레)
+
+1. **「아사히나 피나 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「아사히나 피나 인연 스토리 2」**
+
+- **아사히나 피나**: Oh! Sensei—I mean, Boss!
+- **아사히나 피나**: Wait. What pose was I supposed to strike again? Hold on!
+- **아사히나 피나**: You stand up straight like this...
+- **아사히나 피나**: Hand on the knee, back slightly bent... Yes! Just like that.
+- **아사히나 피나**: Whew.
+- **아사히나 피나**: All done, Boss! What are your orders?
+- **아사히나 피나**: Why? Does it...look weird?
+- **아사히나 피나**: Why? Does it...look weird?
+- **아사히나 피나**: But I did it exactly like in Life of a Mafia Cat...
+- **아사히나 피나**: Huh? You wanna know what that is? I knew you'd ask.
+- **아사히나 피나**: Then what about this? Ta-da!
+- **아사히나 피나**: Have you seen it?! Isn't it a masterpiece?!
+- **아사히나 피나**: The way the main character talks is just so...
+- **아사히나 피나**: What? You haven't? Are you sure you didn't see some other movie, then?
+- **아사히나 피나**: I guess not...
+- **아사히나 피나**: No point in sweating the details! We have a lot of business to get to.
+- **아사히나 피나**: Anyway, welcome to the Festival Operations Gang, Boss!
+- **아사히나 피나**: Do you not want me to call you Boss? I should stick with Sensei?
+- **아사히나 피나**: And our club is a department and not a gang?
+- **아사히나 피나**: I get what's happening here...
+- **아사히나 피나**: Hmm. I shouldn't talk back to the boss...I mean, Sensei.
+- **아사히나 피나**: Whatever you say, Sensei! Your word is law!
+- **아사히나 피나**: Wow. That felt like the real thing. Heh.
+- **아사히나 피나**: Huh?
+- **아사히나 피나**: Am I...role-playing right now?
+- **아사히나 피나**: ...
+- **아사히나 피나**: N-No, it's not like that! I-I'm just trying to earn real cred as a mobster!
+- **아사히나 피나**: So...that's why...! I...uh...
+- **아사히나 피나**: *sigh*
+- **아사히나 피나**: Heh. Well, I guess you got me.
+- **아사히나 피나**: I admit I was just trying to imitate the movie. I still need a lot of practice.
+- **아사히나 피나**: Isn't it obvious why I'm doing this?
+- **아사히나 피나**: Because I wanna be a real life gangster! Mobs are the coolest!
+- **아사히나 피나**: Yes! I've been watching movies all day and night, and couldn't even get a wink of sleep!
+- **아사히나 피나**: Hyakkiyako has a real mobster movie vibe to it, don't you think?
+- **아사히나 피나**: Mobster movies have loyalty among organizations, fights against destiny, tragedy, and sacrifice!
+- **아사히나 피나**: They're so romantic and the absolute best. I live for that kind of stuff!
+- **아사히나 피나**: You understand, don't you? You would get it, Sensei.
+- **아사히나 피나**: What was that?
+- **아사히나 피나**: You think my perception of gangsters is a little off?
+- **아사히나 피나**: Is it? Do you mean there's a movie I haven't studied yet? I'm pretty sure I've seen them all...
+- **아사히나 피나**: I don't grasp what a mob is...?
+- **아사히나 피나**: It's a group of people who do the things that other people don't want to do.
+- **아사히나 피나**: And they're all about truth and loyalty...right?
+- **아사히나 피나**: I don't get it. That's what they say in all the movies...
+- **아사히나 피나**: I don't get it. That's what they say in all the movies...
+- **아사히나 피나**: Don't they help others in the name of righteousness...? Oh!
+- **아사히나 피나**: There's an old lady carrying something heavy all by herself!
+- **아사히나 피나**: Never fear, ma'am! Pina is on the way!
+- **아사히나 피나**: ...
+- **아사히나 피나**: I'm back! I couldn't just stand back and not help her.
+- **아사히나 피나**: Wait! Do you hear that crying baby? Someone needs to soothe them!
+- **아사히나 피나**: Phew. I'm back again...
+- **아사히나 피나**: *gasp* That student looks like she needs directions!
+- **아사히나 피나**: A starving dog...!
+- **아사히나 피나**: ...
+- **아사히나 피나**: Phew! I think that's everything.
+- **아사히나 피나**: S-Sorry, Sensei. I can't control myself when I see ways I can help people.
+- **아사히나 피나**: Anyway! What were we talking about? Um...
+- **아사히나 피나**: Oh, yes! Mobs! What is a mob...?
+
+3. **「아사히나 피나 인연 스토리 3」**
+
+- **아사히나 피나**: You got here just at the right time, Sensei! I could use your help.
+- **아사히나 피나**: Argh... This is bad! I can't handle this with just me!
+- **아사히나 피나**: A fight? No? What made you think I got into a fight?
+- **아사히나 피나**: I just need to buy some clothes, and I want you to come with me.
+- **아사히나 피나**: Of course. I watched Shiba of the Wind the other day, and the main character's outfit looked so cool!
+- **아사히나 피나**: So I was gonna go buy the same clothes...
+- **아사히나 피나**: Is that all right with you, Sensei? We can do a bit of window-shopping too. We're going to have so much fun.
+- **아사히나 피나**: Why didn't I ask my friends to go with me? Well, I asked them, but...
+- **아사히나 피나**: ...
+- **아사히나 피나**: Every time I ask them to go shopping with me, they get all quiet and run away...
+- **아사히나 피나**: It doesn't make any sense. I've asked them several times, but they just kept saying sorry...
+- **아사히나 피나**: They all mentioned something about bust size or choice in style.
+- **아사히나 피나**: What do you think, Sensei? Am I doing something wrong?
+- **아사히나 피나**: H-Huh? You can?!
+- **아사히나 피나**: What...does that mean? Is it under someone else's control?
+- **아사히나 피나**: Well, regardless.
+- **아사히나 피나**: This is why I need your advice, Sensei. Will you come with me?
+- **아사히나 피나**: Yay! You're the best, Sensei. Let's go!
+- **아사히나 피나**: Yay! You're the best, Sensei. Let's go!
+- **아사히나 피나**: Let's go!
+- **아사히나 피나**: Here's the store with the clothes I'm looking for!
+- **Store Manager**: You appreciate our clothing? Then, you clearly have excellent taste.
+- **아사히나 피나**: Heh. Naturally! A rising gangster can't slack in the fashion department.
+- **Store Manager**: Gang...ster? I haven't the foggiest of what you're referring to, but very well.
+- **아사히나 피나**: There! That's the look I want. I already found it!
+- **아사히나 피나**: This is the exact outfit worn by Shiba in Shiba of the Wind!
+- **아사히나 피나**: Is it all right if I try it on? Because I really want to!
+- **Store Manager**: H-Huh? Excuse me, ma'am! Those clothes are...!
+- **아사히나 피나**: Huh? Are they the wrong size?
+- **아사히나 피나**: Huh? W-Wait! Er...!
+- **아사히나 피나**: ...?
+- **아사히나 피나**: It...
+- **아사히나 피나**: ...ripped.
+- **아사히나 피나**: Wh-What happened?! All I wanted to do was try it on!
+- **Store Manager**: That's because it's Shiba's outfit...
+- **Store Manager**: …it was custom tailored to fit him.
+- **아사히나 피나**: I couldn't find anything that fits me...
+- **아사히나 피나**: The main characters in Shiba of the Wind and Life of a Mafia Cat...
+- **아사히나 피나**: ...are dogs and cats now that I think about it. Of course I couldn't fit in their clothes.
+- **아사히나 피나**: *sigh*
+- **아사히나 피나**: All I wanted to do was become a real gangster.
+- **아사히나 피나**: Maybe I don't have what it takes to be like Shiba or Mafia Cat...
+- **아사히나 피나**: ...
+- **아사히나 피나**: Huh? What's this?
+- **아사히나 피나**: The Sexy Kitten Gang...? Is this a mobster movie?
+- **아사히나 피나**: I've never seen this one before! Is the main character a mob boss? And she's a cat! How adorable!
+- **아사히나 피나**: Um...
+- **아사히나 피나**: But in the cover art...her shoulders are showing.
+- **아사히나 피나**: It kind of looks like...
+- **아사히나 피나**: ...what I'm wearing right now.
+- **아사히나 피나**: Huh?
+- **아사히나 피나**: Is that what the heroines of mobster movies usually wear? What I'm wearing right now?
+- **아사히나 피나**: It's not exactly the same, but it's close... That's amazing.
+- **아사히나 피나**: Huh?
+- **아사히나 피나**: It's not the clothes but what's on the inside that matters?
+- **아사히나 피나**: If I'm already a gangster, does that make my clothes gangster clothes...?
+- **아사히나 피나**: Me... A real gangster...
+- **아사히나 피나**: ...
+- **아사히나 피나**: Heehee.
+- **아사히나 피나**: I should treat you to tea one of these days, Sensei.
+
+4. **「아사히나 피나 인연 스토리 4」**
+
+- **아사히나 피나**: Oh, Sensei! Over here!
+- **아사히나 피나**: I'm so glad to see you!
+- **아사히나 피나**: Hmm...
+- **아사히나 피나**: I hope I'm not bothering you. I feel a little guilty that I get clingy sometimes...
+- **아사히나 피나**: Oh, thank goodness! You had me worried!
+- **아사히나 피나**: Sensei! Should someone in your position be saying that?!
+- **아사히나 피나**: Well, regardless.
+- **아사히나 피나**: Now that you're here, I want to make sure you have fun!
+- **아사히나 피나**: And to put your mind at ease: No, we're not going to see only one movie today.
+- **아사히나 피나**: We have 21 movies to marathon through! You're bound to enjoy at least one of them!
+- **아사히나 피나**: Heh. You look surprised. How can we watch 21 movies with only two tickets, you may ask?
+- **아사히나 피나**: These aren't just any movies tickets...
+- **아사히나 피나**: Drum roll, please... These are binge passes! Ta-da!
+- **아사히나 피나**: I knew you'd be surprised. They have events where they screen a bunch of movies one after the other.
+- **아사히나 피나**: It's a great way for people who love movies to see a bunch of films of the same genre!
+- **아사히나 피나**: And it goes without saying that the movies we'll be binging are all mobster and noir films!
+- **아사히나 피나**: Hurry! There's no time! We have to make it to the first movie! Let's go!
+- **아사히나 피나**: Wow. That was...
+- **아사히나 피나**: ...an amazing movie! Boss—I mean, Sensei! Er, I mean, Boss...
+- **아사히나 피나**: N-No, it's Sensei. Right? Sensei... Sorry.
+- **아사히나 피나**: What did you think? Did you like it?
+- **아사히나 피나**: ...!
+- **아사히나 피나**: R-Really?! You mean it, Boss?!
+- **아사히나 피나**: Okay! Whatever you say, Boss! Let's go straight to the next movie!
+- **아사히나 피나**: The second movie is called Loyal Cat's Fist!
+- **아사히나 피나**: Wow! That was amazing, Sens—I mean, Boss!
+- **아사히나 피나**: Then, let's watch the next movie!
+- **아사히나 피나**: *gasp* This is the one I've been waiting for! The next movie is...!
+- **아사히나 피나**: No way!
+- **아사히나 피나**: Simply.
+- **아사히나 피나**: Amazing.
+- **아사히나 피나**: Don't you agree?
+- **아사히나 피나**: ...
+- **아사히나 피나**: S-Sensei...? Are you okay?
+- **아사히나 피나**: O-Oh, no!
+- **아사히나 피나**: O-Oh, no!
+- **아사히나 피나**: Come on, Sensei! Stay with me! I'm so sorry!
+- **아사히나 피나**: *whimper* I'm so sorry... I was afraid of this happening.
+- **아사히나 피나**: I'm used to watching mobster movies for days on end... I didn't consider how hard it might be for you.
+- **아사히나 피나**: This is all my fault. Please forgive me.
+- **아사히나 피나**: I won't ask you to watch movies with me anymore...
+- **아사히나 피나**: *sniffle* *sob*
+- **아사히나 피나**: ...?
+- **아사히나 피나**: ...?
+- **아사히나 피나**: Huh? Are you sure?
+- **아사히나 피나**: Shouldn't I be worried about you?
+- **아사히나 피나**: You didn't faint... You just fell asleep?
+- **아사히나 피나**: That doesn't sound right... I could have sworn you were out cold.
+- **아사히나 피나**: Excuse me?
+- **아사히나 피나**: No...talking back? Of course not! I would never talk back to you, Boss!
+- **아사히나 피나**: Everything you say is right. You must have fallen asleep! I must have been mistaken!
+- **아사히나 피나**: Still, I-I...
+- **아사히나 피나**: ...
+- **아사히나 피나**: Heehee.
+- **아사히나 피나**: Wahahahaha! Ahhh!
+- **아사히나 피나**: Haha! I'm crying. I'm really crying! Hahahaha!
+- **아사히나 피나**: Haha...ha... My goodness!
+- **아사히나 피나**: ...
+- **아사히나 피나**: Thank you, Sensei. You're always so kind to me.
+- **아사히나 피나**: Even though I make you put up with so much... I don't know how to repay you.
+
+5. **「아사히나 피나 인연 스토리 5」**
+
+- **아사히나 피나**: ...There you are, Sensei. I've been waiting.
+- **아사히나 피나**: I'm sorry I didn't come to you myself...
+- **아사히나 피나**: I'm sorry I didn't come to you myself...
+- **아사히나 피나**: I really appreciate you coming all the way here.
+- **아사히나 피나**: Yes. It's natural for me to be more formal.
+- **아사히나 피나**: Yes. I mean, it's only natural.
+- **아사히나 피나**: I asked you to come so we could have a special ceremony.
+- **아사히나 피나**: ...With this.
+- **아사히나 피나**: Heehee.
+- **아사히나 피나**: Heehee.
+- **아사히나 피나**: Today is the day we celebrate our trusting relationship.
+- **아사히나 피나**: This is called "sharing a cup."
+- **아사히나 피나**: By sharing this cup, we'll form an inseparable bond...
+- **아사히나 피나**: ...?
+- **아사히나 피나**: ...Sharing is usually done with beer...but this is oolong tea...
+- **아사히나 피나**: ...Ehhh?
+- **아사히나 피나**: ...!!!
+- **아사히나 피나**: Uh... Umm... Th-That's... So... Um...
+- **아사히나 피나**: I-I asked the owner for some...but he said I can't drink because I'm underage...
+- **아사히나 피나**: So he suggested oolong tea instead.
+- **아사히나 피나**: I-Is it that weird? Is the oolong tea not good enough?!
+- **아사히나 피나**: I guess I've never seen anyone using oolong tea for this in movies... They all drank alcohol!
+- **아사히나 피나**: I ruined it!
+- **아사히나 피나**: Wh-What am I supposed to do now?!
+- **아사히나 피나**: ...?
+- **아사히나 피나**: You think it's okay to do it with tea? B-But you just said...
+- **아사히나 피나**: Ah!
+- **아사히나 피나**: Ah!
+- **아사히나 피나**: I-I see... Okay, that's good.
+- **아사히나 피나**: As long as you're okay with it, then I'm okay too!
+- **아사히나 피나**: Okay, okay! Sensei, please come and sit here!
+- **아사히나 피나**: Th-This is a promise between the two of us, a promise on our very lives!
+- **아사히나 피나**: I-I-I know I'm not p-perfect...! But...I...
+- **아사히나 피나**: ...
+- **아사히나 피나**: I'm looking forward to spending more time with you!
+- **아사히나 피나**: ― ...Phew. I feel like...
+- **아사히나 피나**: ― I was nervous for no reason...
+- **아사히나 피나**: ― Now that I've calmed down,
+- **아사히나 피나**: ― I feel kind of embarrassed...
+- **아사히나 피나**: ― ...Heehee. Actually...
+- **아사히나 피나**: ― I've been looking forward to this day for a long time.
+- **아사히나 피나**: ― I'm...so glad we got to
+- **아사히나 피나**: ― have this ceremony today.
+- **아사히나 피나**: ― ...You helped me
+- **아사히나 피나**: ― when I was in trouble.
+- **아사히나 피나**: ― Not just today, but you always do.
+- **아사히나 피나**: ― You've taught me what's important
+- **아사히나 피나**: ― and how to carry my own convictions...
+- **아사히나 피나**: ― If I hadn't met you, I'd never know those things,
+- **아사히나 피나**: ― and that's sad to think about.
+- **아사히나 피나**: ― ...So, I sincerely thank you.
+- **아사히나 피나**: ― Sensei, I need you to...
+- **아사히나 피나**: I mean...
+- **아사히나 피나**: I want you to...
+- **아사히나 피나**: I hope we can spend more and more time together.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/아사히나 피나
+- https://bluearchive.wiki (원문 스토리 스크립트)

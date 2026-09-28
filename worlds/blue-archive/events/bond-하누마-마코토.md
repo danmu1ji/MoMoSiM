@@ -1,0 +1,266 @@
+# 하누마 마코토 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 5편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 하누마 마코토, 선생(샬레)
+
+1. **「하누마 마코토 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「하누마 마코토 인연 스토리 2」**
+
+- **Pandemonium Society Senior Member**: Okay! We've almost reached the deadline set by the chairman! Pick up the pace! What's the latest on the chairman's sculpture?!
+- **Pandemonium Society Member A**: En route! The supply unit confirmed that it was shipped earlier!
+- **Pandemonium Society Senior Member**: Good! What's the status of the ceremonial guards to greet our prestigious guest?
+- **Pandemonium Society Member B**: They're gathering behind the Assembly Hall as soon as they pass their final inspection!
+- **Pandemonium Society Senior Member**: Okay... It looks like everything is on track. But plans are most likely to fail at the final hurdle!
+- **Pandemonium Society Senior Member**: Everyone, don't you dare forget what Chairman Makoto has told us countless times!
+- **Pandemonium Society Senior Member**: We must not permit a hint of neglect to impugn our renowned hospitality—the guest visiting the Pandemonium Society today is extremely prestigious!
+- **Pandemonium Society Senior Member**: Our work is a reflection of Chairman Makoto's authority and charisma! We'll show our devotion to her by greeting our guest with perfection!
+- **Pandemonium Society Senior Member**: Now! It's time to show the world what the Pandemonium Society is made of!
+- **Pandemonium Society Members**: Understood!!!
+- **Pandemonium Society Senior Member**: Ah, [USERNAME] Sensei. We haven't seen you here for some time.
+- **Pandemonium Society Senior Member**: I apologize that you arrived in the middle of this commotion after making the trip out here.
+- **Pandemonium Society Senior Member**: Ah, yes... We received word from the chairman that an extremely important guest will be visiting us at thirteen hundred this afternoon.
+- **Pandemonium Society Senior Member**: The identity of this guest?
+- **Pandemonium Society Senior Member**: Um, unfortunately I was unable to verify that information, as the chairman claimed their identity is top secret.
+- **Pandemonium Society Senior Member**: But she did say they're one of the "leading figures of this age" who can turn Kivotos upside down at a snap of their fingers.
+- **???**: Hm! Not this one either!
+- **하누마 마코토**: Hmm... No, not this... And that one's completely unsuitable...
+- **하누마 마코토**: How is this taking so much time?!
+- **하누마 마코토**: To think that the Great Makoto—of all people—would be out of ideas!
+- **하누마 마코토**: Huh?! Is the hour so late?
+- **하누마 마코토**: Gah! What should I do...? There must be a way forward...
+- **하누마 마코토**: I must find the ideal expression and pose to deliver the full force of the Great Hanuma Makoto's charisma...to the Sensei of Schale!
+- **하누마 마코토**: H-Huh?!
+- **하누마 마코토**: *cough cough cough*
+- **하누마 마코토**: *cough cough* *gasp* *gasp*
+- **하누마 마코토**: ... *sigh*
+- **하누마 마코토**: Phew...
+- **하누마 마코토**: Ah, Sensei. I was wondering who dared to interrupt me.
+- **하누마 마코토**: Excellent timing. I've been expecting your arrival.
+- **하누마 마코토**: Hm? Hold a moment. If Sensei is here...
+- **하누마 마코토**: What happened to the greeting ceremony I ordered my subordinates to prepare for you?
+- **하누마 마코토**: Kiheheheh, I can see the answer written on your face! So that's how it is.
+- **하누마 마코토**: Why bind yourself to the musty pretense of some meaningless ceremony, however rich its tradition...
+- **하누마 마코토**: Far better to decapitate the snake before it strikes—by heading directly for the Great Hanuma Makoto! So that's what you're saying, Sensei of Schale!!!
+- **하누마 마코토**: Kiheheheh! As expected of the person who lit a fire in my heart!
+- **하누마 마코토**: That's the kind of spirit an associate of Hanuma Makoto should possess!
+- **하누마 마코토**: I knew I had taken your measure well!
+- **하누마 마코토**: Very well! I've decided!
+- **하누마 마코토**: I shall instruct the Pandemonium Society to cease all preparations for the ceremony, Sensei.
+- **하누마 마코토**: Which means all that's left is our discussion, a tête-à-tête between the leaders of two mighty organizations, who forge an agreement by a contest of wills!
+- **하누마 마코토**: ...Would you mind waiting outside for a moment?
+- **하누마 마코토**: I'll be ready for our heart-to-heart shortly. We'll address the meat of the matter then.
+- **하누마 마코토**: I'll hide this wrapper in my desk drawer. And move this over here to cover that stain. And...
+- **하누마 마코토**: Hmph! Pspspspsps! His Majesty, Emperor Lionmaru Junior III! I demand an audience!
+- **하누마 마코토**: Tch! You! When did you become so fleet of foot?!
+- **하누마 마코토**: Cease your flight, you fiendish feline!
+- **하누마 마코토**: I have you!
+- **하누마 마코토**: *inhale* *exhale* I am prepared! You may enter.
+- **하누마 마코토**: ― Kiheheheh! Sensei...I've been keeping tabs on your achievements.
+- **하누마 마코토**: ― You've helped others, solved problems...
+- **하누마 마코토**: ― And raised the reputation of Schale to new heights!
+- **하누마 마코토**: ― Kiheheh, I'm sure
+- **하누마 마코토**: ― you can't help but acknowledge the truth──
+- **하누마 마코토**: ― Indeed, you are an elite with strength
+- **하누마 마코토**: ― equal to the Great Makoto!
+- **하누마 마코토**: ― In appreciation of such grand ability...
+- **하누마 마코토**: ― I am prepared to make you an equally grand offer.
+- **하누마 마코토**: ― Sensei of Schale! Join forces with the Pandemonium Society...
+- **하누마 마코토**: ― No... Join forces with me, Hanuma Makoto!
+
+3. **「하누마 마코토 인연 스토리 3」**
+
+- **Pandemonium Society Member A**: Chairman Hanuma Makoto has arrived!
+- **하누마 마코토**: Good. I have business to discuss with Sensei, so wait for us outside.
+- **Pandemonium Society Members**: Yes, Chairman!
+- **하누마 마코토**: ...I thought it only appropriate to repay the respect you showed me and give you the honor of visiting you myself.
+- **하누마 마코토**: Kiheheh! I'll gladly accept your hospitality, Sensei.
+- **하누마 마코토**: That said... Hmm...
+- **하누마 마코토**: Kiheheheh... So this is the so-called Executive Office from which the head of Schale operates.
+- **하누마 마코토**: It truly is...
+- **하누마 마코토**: Far more cramped and menial than I'd been informed!
+- **하누마 마코토**: Hah! I would never insult you! I merely spoke the truth!
+- **하누마 마코토**: Surely you understand that a leader must have an executive office befitting their station!
+- **하누마 마코토**: You cannot possibly conduct yourself properly in a constricted space like this!
+- **하누마 마코토**: This bureaucrat's den doesn't even have enough room for a statue that captures your charisma, Sensei!
+- **하누마 마코토**: *sigh* If only you had accepted my offer of alliance. Then you would have free reign of an audience chamber with space and luxury equal to your prestige.
+- **하누마 마코토**: Regardless, you should know that I've spent time considering your refusal of my magnanimous proposal!
+- **하누마 마코토**: And after much deliberation and consultation with myself, I was finally able to devise the source of your response!
+- **하누마 마코토**: Kiheheheh... It was quite simple to discern for one such as I.
+- **하누마 마코토**: It's because Sensei does not yet comprehend the full potential of the Pandemonium Society! In your ignorance, you made a mistake which would cause most people to quiver in fear!
+- **하누마 마코토**: Of course, Sensei can hardly be blamed.
+- **하누마 마코토**: I clearly failed to adequately convey our ambition, our might, and our sheer strength of will to you. The fault lies with me.
+- **하누마 마코토**: Why, the Great Makoto might have dismissed YOU as an upstart, had you come seeking partnership without making your great accomplishments and feats clear, as I failed to do.
+- **하누마 마코토**: A true leader must be capable of judging any situation with an objective eye and taking responsibility for their mistakes!
+- **하누마 마코토**: Which is why I have cast aside my habitual lofty mien and come to see you personally, Sensei. Our path forward is clear:
+- **하누마 마코토**: I'll show you exactly what Hanuma Makoto has achieved with the power of the Pandemonium Society, and open your eyes to what two leaders of our caliber can do if we join our strength together!
+- **하누마 마코토**: I shall bare everything to you, Sensei, down to the smallest aspect of my organization!
+- **하누마 마코토**: Once you understand exactly what we can offer you, you'll regret spurning my hand! Kiheheheheh!
+- **하누마 마코토**: Enough! We have no time to waste!
+- **하누마 마코토**: Bring Sensei to the limousine!
+- **하누마 마코토**: Our inspection of the Pandemonium Society's operational sites starts now!
+- **하누마 마코토**: Kiheheheh! Don't sweat small details in the face of a grand vision, Sensei!
+- **하누마 마코토**: I can't wait to see the shock and awe dawn across your face! You have no conception of the greatness you're about to witness!
+- **하누마 마코토**: Everyone—move out!
+- **하누마 마코토**: Kiheheheh... The first operation my soon-to-be partner would want to see...
+- **하누마 마코토**: Can only be this!
+- **하누마 마코토**: Precisely. You have a discerning eye.
+- **하누마 마코토**: But despite its looks...it's not just any printing office.
+- **하누마 마코토**: This is the largest printing office in Gehenna, operated exclusively by the Pandemonium Society!
+- **하누마 마코토**: Everything we print here, including flyers, books, newspapers, and promotional materials, spreads the philosophy of the Pandemonium Society...
+- **하누마 마코토**: Which is to say that it promotes the great name of Hanuma Makoto!
+- **하누마 마코토**: Kiheheheh! Now you see! The Great Makoto has the paper publishing and printing industry in an iron grip! And this is just the first step in my plan to control all legacy media!
+- **하누마 마코토**: It may be small scale right now... But I expect exponential growth.
+- **하누마 마코토**: It's only a matter of time before every talking head and investigative reporter in Gehenna is kneeling at my feet!
+- **하누마 마코토**: Think of what an ally with such power can do for you, Sensei! Who else in Kivotos can run an industry of this scale besides the Great Makoto?
+- **하누마 마코토**: Do you understand the breadth of my capabilities a bit more, now?
+- **하누마 마코토**: Huh?! How can you be so blasé after seeing all this?!
+- **하누마 마코토**: Wh-What? ...Sensei, what kind of mess have you been through?
+- **하누마 마코토**: But...if this isn't enough to sway you...
+- **하누마 마코토**: Excellent! A battle easily won is of little worth! We're just getting started!
+- **하누마 마코토**: Onwards!
+- **하누마 마코토**: Here's our next operation!
+- **하누마 마코토**: Kiheheh. Allow me to explain!
+- **Construction Site Manager**: Oh my, our financier! Are you here to check on our progress?
+- **하누마 마코토**: Ah, is our construction schedule on track?
+- **Construction Site Manager**: Haha! Needless to say, everything is going well!
+- **Construction Site Manager**: Please look forward to it! Soon you'll stand before a skyscraper proclaiming Hanuma Makoto's greatness to the heavens!
+- **Construction Site Manager**: Once Makoto Tower is complete, every student in Kivotos will look up to you!
+- **하누마 마코토**: Kiheheheh. Yes. As the name suggests, we're raising a skyscraper that bears my name...
+- **하누마 마코토**: In size and scale...it will even outmatch Schale's Sanctum Tower!
+- **Construction Site Manager**: Well said! We've taken your passion to heart and will do our best to build a skyscraper that reflects your zeal and generous investment!
+- **하누마 마코토**: Soon...the skyline will be dominated by a tower tall enough to be visible from Gehenna, Trinity, and Millennium! Even Hyakkiyako and Red Winter Federal Academy will fall beneath its shadow!
+
+4. **「하누마 마코토 인연 스토리 4」**
+
+- **하누마 마코토**: Hm... No. Not this. And not that, either.
+- **하누마 마코토**: ...*sniffle*
+- **하누마 마코토**: These are by the same maker, but should I get the deluxe version, the imperial premium, or the special limited time release...
+- **하누마 마코토**: Achoo!
+- **하누마 마코토**: Why make this so needlessly complicated...
+- **하누마 마코토**: A-A-Achoo!
+- **하누마 마코토**: Ugh! Don't they have anything easier to understand?! ...*sniffle*
+- **하누마 마코토**: Whuh?!
+- **하누마 마코토**: ...Achoo! *cough* A-Achoo! *cough cough*
+- **하누마 마코토**: *cough cough* *gasp*...I'm...fine. *sniffle*
+- **하누마 마코토**: Oh, Sensei. I wondered what fool possessed audacity enough to intrude upon someone who was shopping so leisurely.
+- **하누마 마코토**: Ah, what am I doing here? As I said... *sniff*
+- **하누마 마코토**: It's my day off, so I decided to do some shopping.
+- **하누마 마코토**: Wha-choo!
+- **하누마 마코토**: Ugh... *sniffle*
+- **하누마 마코토**: ...I need some...essentials.
+- **하누마 마코토**: Urgh... *sniff*
+- **하누마 마코토**: ...People are more willing to follow a leader who acts for themselves rather than pass their work on to others.
+- **하누마 마코토**: Kiheheheh... *sniff* And you're out shopping as well, Sensei?
+- **하누마 마코토**: ...You're here for the new Peroro merch? Peroro... Is that this hippo creature here?
+- **하누마 마코토**: Achoo!
+- **하누마 마코토**: Peroro isn't a hippo...? What nonsense...
+- **하누마 마코토**: Kiheheheh... Yes. I found a pack of mouse-shaped cat toys and a new flavor of Purr Purr cat treats.
+- **하누마 마코토**: They're all essential items for His Majesty, Emperor Lionmaru Junior III.
+- **하누마 마코토**: I suppose you did see His Majesty, Emperor Lionmaru before.
+- **하누마 마코토**: Kiheheheh... Emperor Lionmaru is demanding, as a monarch should be. He refuses any cat food outside of the Purr Purr brand. It can be hard to find, but this store usually has some in stock.
+- **하누마 마코토**: Are you implying that I cherish a mere cat?
+- **하누마 마코토**: No, don't misunderstand me, Sensei.
+- **하누마 마코토**: His Majesty, Emperor Lionmaru Junior III is a key part of my plans...
+- **하누마 마코토**: You might call him an investment. Emperor Lionmaru will be a symbol of everything I stand for.
+- **하누마 마코토**: The ferocity that rages in his heart... His regal air and royal demeanor... I knew at first sight that he was a great leader of cats as I am a great leader of students. Soon, he will eclipse every other feline alive.
+- **하누마 마코토**: I shall raise His Majesty, Emperor Lionmaru to be the perfect representative of the Pandemonium Society...
+- **하누마 마코토**: Achoo!
+- **하누마 마코토**: ...And the right hand of the Great Makoto!
+- **하누마 마코토**: Kiheheh... Yes... *sniffle* Emperor Lionmaru...
+- **하누마 마코토**: I'll keep feeding and nurturing His Majesty...and one day soon he will be a magnificent lion with charisma to match my own!
+- **하누마 마코토**: A-Achoo!
+- **하누마 마코토**: Kiheheh... That's only because they lack spirit.
+- **하누마 마코토**: I will encourage Emperor Lionmaru's ferocity! He'll have an exclusive streaming channel filled with promotional Lionmaru content! Then His Majesty and I will work to the bone to promote the Pandemonium Society together!
+- **하누마 마코토**: Kiheheheh! What do you think of my grand plan, Sensei?
+- **하누마 마코토**: Surely you realize that it's in your best interests to join forces with the Pandemonium Society before our influence outshines even yours!
+- **하누마 마코토**: In fact, if you join us now... I'll permit you to touch Emperor Lionmaru's soft paw pads, which thus far has been a privilege reserved only for me! Kiheheheh...
+- **하누마 마코토**: Wh-What? Soft paw pads aren't enough to convince you?
+- **하누마 마코토**: You won't say that after you see this picture I took of them, Sensei! Here, see how you're missing out!
+- **하누마 마코토**: A-As I said, I don't have any personal...
+- **하누마 마코토**: F-Feelings...
+- **하누마 마코토**: Fe...
+- **하누마 마코토**: A-A-A-Achoo!
+- **하누마 마코토**: *cough cough cough*
+- **Doctor**: You have a cat allergy.
+- **하누마 마코토**: What? An aller—
+- **하누마 마코토**: A-Achoo!
+- **하누마 마코토**: Achoo! Achoo!
+- **하누마 마코토**: AAAAAA—choooo!
+- **하누마 마코토**: No...there's no way...
+- **하누마 마코토**: Of course not... I mean, my skin would itch whenever I touched His Majesty, Emperor Lionmaru, and when he rubbed his head against my face it made my nose run...
+- **하누마 마코토**: And when he slept in my bed, my throat would tingle and I couldn't stop sneezing as I tried to fall asleep...
+- **하누마 마코토**: But I couldn't possibly be allergic to cats! This must be a misdiagnosis!
+- **Doctor**: We could manage a mild allergy with treatment, but given the strength of the symptoms...
+- **Doctor**: I don't think that's possible in your case.
+
+5. **「하누마 마코토 인연 스토리 5」**
+
+- **하누마 마코토**: Kiheheh. On our last tour, I showed you our financial operations, Sensei.
+- **하누마 마코토**: The Pandemonium Society's exclusive printing office... The monumental soon-to-be-built Makoto Tower... Great Makoto character merchandise, our resort operation...
+- **하누마 마코토**: Many roads to a single destination: the expansion of the Pandemonium Society's influence over Kivotos and increasing the renown of the Great Makoto!
+- **하누마 마코토**: Enough time has passed that the results of these projects should start making themselves clear.
+- **하누마 마코토**: Kiheheheh! The Great Hanuma Makoto's masterpiece will soon unfold before your very eyes!
+- **하누마 마코토**: I'm on tenterhooks waiting for the results! Aren't you excited, Sensei?
+- **하누마 마코토**: Kiheheheh! I knew you'd get into it, Sensei! Play aloof all you want—I'll win you over in the end!
+- **하누마 마코토**: It's inevitable!
+- **하누마 마코토**: It took admirable resolve to deny my magnanimous offer after I took you on a tour of our operations, Sensei! But even you won't be able to deny the results that are about to unfold...
+- **하누마 마코토**: You'll be overwhelmed by the urge to throw yourself at my feet and cry, "I should have joined forces with the Pandemonium Society long ago! I'm so sorry, Makoto—I've wasted so much time!"
+- **하누마 마코토**: Fear not, Sensei! The Great Makoto has a compassionate heart!
+- **하누마 마코토**: No matter how much you regret your mistake, I would never allow you to beg at my feet, Sensei! I'll always accept you!
+- **하누마 마코토**: There's no time to waste! Let us return to the operations and...
+- **Pandemonium Society Member A**: C-Chairman! We have a big problem!
+- **하누마 마코토**: Hm? What's the matter?
+- **Pandemonium Society Member A**: W-Well... The Pandemonium Printing Office just called... They won't be able to publish your biography today!
+- **하누마 마코토**: What sort of problem? I planned and approved every aspect of the production myself!
+- **Print Shop Employee**: W-Well, Chairman...
+- **하누마 마코토**: Spit it out!
+- **하누마 마코토**: I filled that book with the drama and struggle of the countless conflicts I've overcome, the comradery of fighting alongside my club, and the sage advice I know will touch the hearts of students across Kivotos─
+- **하누마 마코토**: My biography is guaranteed to become this year's best seller!
+- **Print Shop Employee**: Th-The problem is...
+- **Print Shop Employee**: They've done the math...and there's just no way to make your intended unit price work, Chairman!
+- **하누마 마코토**: ...Unit price?
+- **Print Shop Employee**: You commanded us to make your biography perfect in every respect, so we put a lot of time and effort into its design and publication...
+- **Print Shop Employee**: We commissioned a famous artist for the cover art and bound each book in the finest leather we could buy...
+- **Print Shop Employee**: The prototype alone depleted most of the budget...and printing costs will grow astronomically at this rate. The sad truth is that each book we sell will push us further and further into the red.
+- **Print Shop Employee**: Publishing the biography at all may be impossible at this point.
+- **하누마 마코토**: Wh-What?!
+- **하누마 마코토**: I just wanted to make the greatest book I could... This is the historic release of my first biography!
+- **Print Shop Employee**: I believe we need to overhaul this project from top to bottom.
+- **하누마 마코토**: Tsk...! Blast!
+- **하누마 마코토**: ...Well, finding massive success with every project might have overwhelmed our staff, so it's good our other endeavors have room to grow!
+- **하누마 마코토**: It's a shame... But problems like these are unforeseeable...
+- **Pandemonium Society Member B**: C-Chairman! It's an emergency!
+- **하누마 마코토**: Again?!
+- **하누마 마코토**: What is it this time?!
+- **Pandemonium Society Member B**: We received word that the construction of Makoto Tower was complete, but when we went to look...!
+- **하누마 마코토**: Wh-What?!
+- **하누마 마코토**: Wh-Wh-Wh—
+- **하누마 마코토**: What is this?!
+- **하누마 마코토**: This building...is Makoto Tower?!
+- **하누마 마코토**: What happened to my beautiful skyscraper...? What happened to the monument to my authority, my beacon to all Kivotos...?
+- **Pandemonium Society Member B**: Here... We have a letter from the site manager!
+- **하누마 마코토**: What? Why isn't the manager here to report in person?
+- **하누마 마코토**: No, more importantly, what does the letter say?!
+- **Pandemonium Society Member B**: Uh, well... The letter says...
+- **Construction Site Manager**: To Chairman Makoto, our great charismatic leader and holder of a peerless instinct for investment.
+- **Construction Site Manager**: Chairman. Thank you for trusting us with a project so close to your heart.
+- **Construction Site Manager**: As you requested, Makoto Tower stands at an impressive 400 inches—a perfect expression of our agreed-upon design.
+- **Construction Site Manager**: Although we deeply regret that we cannot celebrate the completion of our contract in person, unavoidable circumstances have called us away. Please forgive our absence, but know that we're rejoicing with you in spirit.
+- **Construction Site Manager**: We eagerly anticipate working with you again in the future.
+- **하누마 마코토**: B-Bring me the tower contract! As well as its blueprint!
+- **Pandemonium Society Member B**: Yes, Chairman!
+- **하누마 마코토**: *gasp*
+- **하누마 마코토**: Th-The contract and blueprint do have their units in inches...
+- **하누마 마코토**: Urgh... I saw the number 400...and thought I would finally achieve my great dream... I left the piddling details to the construction company and trusted them with the work!
+- **하누마 마코토**: ...How dare they betray my trust!
+- **하누마 마코토**: They won't get away with this!
+- **Pandemonium Society Member A**: C-Chairman! W-We have a problem!
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/하누마 마코토
+- https://bluearchive.wiki (원문 스토리 스크립트)

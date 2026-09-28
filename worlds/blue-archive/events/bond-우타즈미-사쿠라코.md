@@ -1,0 +1,282 @@
+# 우타즈미 사쿠라코 인연 스토리
+
+원문(bluearchive.wiki) 인연 스토리 6편. 선생과의 개인 기억이므로 시간창 없이 열람할 수 있다(개인 지식).
+
+- 등장: 우타즈미 사쿠라코, 선생(샬레)
+
+1. **「우타즈미 사쿠라코 인연 스토리 1」**
+
+본문 대사는 수록되어 있지 않다.
+
+2. **「우타즈미 사쿠라코 인연 스토리 2」**
+
+- **우타즈미 사쿠라코**: ...
+- **우타즈미 사쿠라코**: ...?
+- **우타즈미 사쿠라코**: Hmm...?
+- **우타즈미 사쿠라코**: H-Huh? Sensei?! When did you get here?
+- **우타즈미 사쿠라코**: N-No. That's fine. As a matter of fact, I just finished prayer.
+- **우타즈미 사쿠라코**: N-No. That's fine. As a matter of fact, I just finished prayer.
+- **우타즈미 사쿠라코**: But...what are you doing here?
+- **우타즈미 사쿠라코**: At this time, no one really...
+- **우타즈미 사쿠라코**: Huh?
+- **우타즈미 사쿠라코**: You came...because I called you?
+- **우타즈미 사쿠라코**: I'm afraid I don't know what you mean. I've never called...
+- **우타즈미 사쿠라코**: My... MomoTalk?
+- **우타즈미 사쿠라코**: Ah. It's possible that...
+- **우타즈미 사쿠라코**: Ah. What I said...
+- **우타즈미 사쿠라코**: Um. S-So. The truth is, the messages I sent...
+- **우타즈미 사쿠라코**: They really were just meant to be a hello. There wasn't a deeper meaning.
+- **우타즈미 사쿠라코**: ...Honestly.
+- **우타즈미 사쿠라코**: *sigh*
+- **우타즈미 사쿠라코**: I owe you an apology. It seems I've caused yet another misunderstanding.
+- **우타즈미 사쿠라코**: Um... The trouble is, I always seem to be misunderstood by others.
+- **우타즈미 사쿠라코**: My interactions with others always feel a bit...stilted. Perhaps I cause them to feel awkward? I'm not sure.
+- **우타즈미 사쿠라코**: Perhaps my position of leadership causes the other Sisters to feel a sense of distance.
+- **우타즈미 사쿠라코**: I consider the failing mine. I've been seeking advice from the other Sisters to improve myself, but so far, I have not been successful.
+- **우타즈미 사쿠라코**: Ah, but not for lack of trying on their part, of course! They are all good people and do their best to understand me. In fact, they sometimes even give me advice proactively.
+- **우타즈미 사쿠라코**: When I sent you the MomoTalk message today, I was attempting to put some advice from another Sister to use.
+- **우타즈미 사쿠라코**: She told me, if I added a laugh sound before or after a message, it would sound friendlier.
+- **우타즈미 사쿠라코**: To be frank, it worries me a bit. It wouldn't be so troubling if it only affected me personally, but I'm a member of Trinity Cathedral's Sisterhood.
+- **우타즈미 사쿠라코**: As a Sister, one hopes to be kindly and easy to talk to.
+- **우타즈미 사쿠라코**: When I mentioned I was hoping for a chance to speak with you... I wanted to ask your counsel regarding this very problem.
+- **우타즈미 사쿠라코**: Ah, I digress, though. I hope we can discuss this at some point in the future.
+- **우타즈미 사쿠라코**: Anyway. My apologies for disturbing your day over nothing, Sensei. Perhaps I could walk you out?
+- **우타즈미 사쿠라코**: This way...
+- **우타즈미 사쿠라코**: Well, this is as far as I go. Farewell, then.
+- **우타즈미 사쿠라코**: It was a pleasure to talk to you today, even if only for a short while.
+- **우타즈미 사쿠라코**: Heehee.
+- **우타즈미 사쿠라코**: Please have a blessed—
+- **Sisterhood Student A**: Oh, it's Sister Sakurako. Hey, Sister Sakurako!
+- **Sisterhood Student B**: Good morning. Is your day going well?
+- **우타즈미 사쿠라코**: Oh, Sisters!
+- **우타즈미 사쿠라코**: Heehee. Good morning.
+- **우타즈미 사쿠라코**: I wish you peace today, as all days, Sisters.
+- **우타즈미 사쿠라코**: Please know that I am always watching over you. In every moment, no matter how small...
+- **우타즈미 사쿠라코**: Heehee... Anyways, have a blessed day.
+- **Sisterhood Student A**: Eeek! Uh, um, yes!
+- **Sisterhood Student B**: W-Well, same to you! We have to be off!
+- **우타즈미 사쿠라코**: Oh... Be careful! You could hurt yourself, going that fast...
+- **우타즈미 사쿠라코**: ...Hmm? Sensei, I didn't catch that.
+- **우타즈미 사쿠라코**: Oh, nothing to worry about?
+- **우타즈미 사쿠라코**: I understand.
+- **우타즈미 사쿠라코**: In that case, I'll be going.
+
+3. **「우타즈미 사쿠라코 인연 스토리 3」**
+
+- **우타즈미 사쿠라코**: Um... Hmm...
+- **우타즈미 사쿠라코**: Hm. This is... Hmm. Or, is it...
+- **우타즈미 사쿠라코**: *sigh*
+- **우타즈미 사쿠라코**: ...!? H-Hm! Ah. Sensei!? H-How are you, um, how are you doing today?
+- **우타즈미 사쿠라코**: Huh? Me?
+- **우타즈미 사쿠라코**: Ah, well... I just happened to be passing through this neighborhood, to—
+- **우타즈미 사쿠라코**: Well, nevermind. I was passing through, and I noticed... I was looking at the items in this store, because...
+- **우타즈미 사쿠라코**: As a matter of fact, I was considering changing some of my accessories.
+- **우타즈미 사쿠라코**: It's not that I have much knowledge or interest about such things.
+- **우타즈미 사쿠라코**: But...
+- **우타즈미 사쿠라코**: Well, I'm not sure if you'll understand, but...
+- **우타즈미 사쿠라코**: If I see everyone else pursuing a hobby, or a style, and I don't at least look into it...
+- **우타즈미 사쿠라코**: I feel as if I must be falling behind. Does that...make sense?
+- **우타즈미 사쿠라코**: You may have noticed that I rarely leave the cathedral. If there are things to take care of outside, other Sisters usually handle them.
+- **우타즈미 사쿠라코**: It's not that I don't want to join them on occasion...
+- **우타즈미 사쿠라코**: But, someone has to stay behind and handle all the administrative work.
+- **우타즈미 사쿠라코**: So I suppose it's natural that I'm a bit behind when it comes to the state of the outside world.
+- **우타즈미 사쿠라코**: The other Sisters tell me things, of course, and I try to understand and imagine it based on their descriptions.
+- **우타즈미 사쿠라코**: But, of course, sometimes my imagination differs from the truth.
+- **우타즈미 사쿠라코**: Well...
+- **우타즈미 사쿠라코**: For example, like the MomoTalk I sent you this morning...
+- **우타즈미 사쿠라코**: Heh, you're always so considerate of me.
+- **우타즈미 사쿠라코**: Thank you, Sensei.
+- **우타즈미 사쿠라코**: Anyway, as long as I'm here, I thought I'd pick out an accessory.
+- **우타즈미 사쿠라코**: Do you, by any chance, know anything about which designs are in fashion?
+- **우타즈미 사쿠라코**: And, if so, would you mind sharing that knowledge with me?
+- **우타즈미 사쿠라코**: Ah. Well, that's a shame.
+- **우타즈미 사쿠라코**: I suppose you are quite busy as well.
+- **우타즈미 사쿠라코**: Excuse me.
+- **우타즈미 사쿠라코**: I've taken up enough of your valuable time. I'll take it upon myself to—
+- **Store Owner**: Ah, excuse me, valued customer! I've noticed you've been looking at the show window for a little while. Can I offer you assistance? Are you looking for something in particular?
+- **우타즈미 사쿠라코**: A-Ah. I'm very sorry. I hope I wasn't disturbing anyone.
+- **우타즈미 사쿠라코**: I'm just having, um, a bit of trouble picking something out...
+- **우타즈미 사쿠라코**: As you can see, I'm not very knowledgeable about fashion.
+- **Store Owner**: ...Aha!
+- **Store Owner**: I see, I see! Not to worry, valued customer!
+- **Store Owner**: I will find the perfect accessory for you!
+- **Store Owner**: Please, come in, come in! You'd look good in anything, of course, but I have a few suggestions to get you started!
+- **우타즈미 사쿠라코**: H-Huh? ...Uh, hold on! Um?!
+- **우타즈미 사쿠라코**: Wh... Wait!
+- **우타즈미 사쿠라코**: Phew. What a day.
+- **우타즈미 사쿠라코**: Thank you so much, Sensei.
+- **우타즈미 사쿠라코**: If you weren't here... *shudder* I don't even want to think about that.
+- **우타즈미 사쿠라코**: As I suspected. Catching up to the rest of the world will be quite difficult.
+- **우타즈미 사쿠라코**: ...Huh? You don't think there's a need to catch up?
+- **우타즈미 사쿠라코**: B-But... But I'm a Sister. I ought to study such things in order to understand others.
+- **우타즈미 사쿠라코**: Sensei...
+- **우타즈미 사쿠라코**: Heehee... Heeheehee.
+- **우타즈미 사쿠라코**: I must admit I feel quite relieved to hear you say that.
+- **우타즈미 사쿠라코**: Oh dear. I'm still getting help from you. As a Sister, it's a bit embarrassing to be on the receiving end like this.
+- **우타즈미 사쿠라코**: ...
+- **우타즈미 사쿠라코**: But... I can't say I truly dislike it, in this case.
+- **우타즈미 사쿠라코**: I wonder why? Despite the fact that my flaws and shortcomings have been on display...
+- **우타즈미 사쿠라코**: Perhaps...
+- **우타즈미 사쿠라코**: Well, to me, perhaps you are someone who stays the same.
+- **우타즈미 사쿠라코**: You are, as you put it, someone "stable and constant."
+
+4. **「우타즈미 사쿠라코 인연 스토리 4」**
+
+- **???**: Thank you for coming, Sensei.
+- **???**: I've been waiting.
+- **우타즈미 사쿠라코**: I feel I owe you thanks, and also an apology...
+- **우타즈미 사쿠라코**: Thanks for responding to my call, and an apology for the lateness of the hour.
+- **우타즈미 사쿠라코**: I needed a place and a time when no one would be around.
+- **우타즈미 사쿠라코**: The reason I asked you here today is...quite personal.
+- **우타즈미 사쿠라코**: I was hoping you would hear my confession.
+- **우타즈미 사쿠라코**: Hearing others' confessions and helping them to pray is usually my job.
+- **우타즈미 사쿠라코**: But for this moment, today...
+- **우타즈미 사쿠라코**: I wish for you to hear my secret, Sensei.
+- **우타즈미 사쿠라코**: Heehee. I suppose one could say that. Or, then again, maybe not.
+- **우타즈미 사쿠라코**: And, in your case... Perhaps you've been expecting this.
+- **우타즈미 사쿠라코**: But... I admit, I'm still hesitant.
+- **우타즈미 사쿠라코**: It's something that might become yet another burden for you to shoulder. The last thing I'd want is to be a source of worry for you.
+- **우타즈미 사쿠라코**: And, just the knowledge of it...
+- **우타즈미 사쿠라코**: You can turn around and go back to Schale right now, if you'd like. You don't need to hear anything more tonight.
+- **우타즈미 사쿠라코**: I swear to you, I won't be upset or disappointed, if that is your choice.
+- **우타즈미 사쿠라코**: Heehee. Is that so? I admit your response is not unexpected.
+- **우타즈미 사쿠라코**: I had a feeling you'd be amenable, which helped me gather my courage to try. So hearing you say that has heartened me.
+- **우타즈미 사쿠라코**: So, in that case...
+- **우타즈미 사쿠라코**: Shall we take a walk? I'd like to calm my nerves.
+- **우타즈미 사쿠라코**: The truth is that I, as a member of the Sisterhood...
+- **우타즈미 사쿠라코**: I know some things that I cannot speak of to the rest of the world. In some cases, there are measures in place against divulging the information.
+- **우타즈미 사쿠라코**: I think, to a certain extent...
+- **우타즈미 사쿠라코**: Any organization with the Sisterhood's size and longevity is bound to have secrets.
+- **우타즈미 사쿠라코**: One might call it inevitable.
+- **우타즈미 사쿠라코**: Of course, even within the Sisterhood, most do not know all the secrets we hold, or only know about them within the confines of scripture.
+- **우타즈미 사쿠라코**: There are so many considerations which make these things impossible to speak of with others.
+- **우타즈미 사쿠라코**: And, unfortunately...
+- **우타즈미 사쿠라코**: I can't reveal this information, even to you, Sensei. That's another reason why I'm struggling.
+- **우타즈미 사쿠라코**: Ah. Yes. Just as I feared...
+- **우타즈미 사쿠라코**: It seems insensitive to tell you that I have secrets and not reveal them to you.
+- **우타즈미 사쿠라코**: Sensei...
+- **우타즈미 사쿠라코**: Heehee.
+- **우타즈미 사쿠라코**: Now where have I heard something like that before?
+- **우타즈미 사쿠라코**: Well...
+- **우타즈미 사쿠라코**: To be honest, that was my goal in calling you today.
+- **우타즈미 사쿠라코**: ― I don't want to hide anything...
+- **우타즈미 사쿠라코**: ― Not from you, of all people.
+- **우타즈미 사쿠라코**: ― But, in my position,
+- **우타즈미 사쿠라코**: ― it's hard for me to reveal everything...
+- **우타즈미 사쿠라코**: ― Still,
+- **우타즈미 사쿠라코**: ― it is a relief just to be able to tell you
+- **우타즈미 사쿠라코**: ― that I have a secret to keep.
+- **우타즈미 사쿠라코**: ― I know
+- **우타즈미 사쿠라코**: ― you may not understand.
+- **우타즈미 사쿠라코**: ― I don't expect that...
+- **우타즈미 사쿠라코**: ― Nonetheless, I...
+- **우타즈미 사쿠라코**: ― I want you to accept me for who I am.
+- **우타즈미 사쿠라코**: ― Um...
+- **우타즈미 사쿠라코**: ― I was nervous.
+- **우타즈미 사쿠라코**: ― I thought you might not trust me once you knew...
+- **우타즈미 사쿠라코**: ― I never dreamed
+- **우타즈미 사쿠라코**: ― I would get that answer, and so soon.
+- **우타즈미 사쿠라코**: ― I sincerely thank you, Sensei.
+- **우타즈미 사쿠라코**: I'm happy that I will be able to pray for you with a heart that is even lighter and more sincere than before.
+- **우타즈미 사쿠라코**: May all your future endeavors be blessed with happiness and good fortune.
+- **우타즈미 사쿠라코**: I've said it before, perhaps. But I hope you can sense the strength of my emotion in the repetition.
+- **우타즈미 사쿠라코**: Every hour that I am awake, every moment...
+- **우타즈미 사쿠라코**: I will pray for you, Sensei.
+
+5. **「우타즈미 사쿠라코 인연 스토리 5」**
+
+- **우타즈미 사쿠라코**: Thank you for coming, Sensei.
+- **우타즈미 사쿠라코**: I appreciate you going out of your way for me, even though it's a personal matter.
+- **우타즈미 사쿠라코**: It would've been more proper for me to seek you out, not the other way around, but unfortunately, I am unable to do so at this moment.
+- **우타즈미 사쿠라코**: Ah, I see I don't need to explain. Thank you, Sensei.
+- **우타즈미 사쿠라코**: Then, let me get straight to the point. I don't wish to waste your time.
+- **우타즈미 사쿠라코**: Today, I wanted to ask you about hobbies.
+- **우타즈미 사쿠라코**: Yes. Not long ago, I was asked a question while listening to another Sister's confession.
+- **우타즈미 사쿠라코**: She was telling me that she was having a hard time because she'd had less time for her hobbies.
+- **우타즈미 사쿠라코**: She paused at one point, and asked me, "What are your hobbies, Sister Sakurako?"
+- **우타즈미 사쿠라코**: And... I was unable to answer.
+- **우타즈미 사쿠라코**: I wish I could, but I don't believe I have anything I could consider a hobby.
+- **우타즈미 사쿠라코**: To be frank, I'm not sure I know exactly what a hobby is.
+- **우타즈미 사쿠라코**: Of course I don't feel that just because everyone else has a hobby, I need to as well.
+- **우타즈미 사쿠라코**: However...
+- **우타즈미 사쿠라코**: That's correct. Now that I've told you, I suppose this story isn't strictly about me.
+- **우타즈미 사쿠라코**: Perhaps I struggle to understand hobbies because my day-to-day duties are set in stone, and I rarely have time left over.
+- **우타즈미 사쿠라코**: And when I do, I'm usually double-checking preparations for an upcoming event at the cathedral, or tending to the schedules of the other Sisters.
+- **우타즈미 사쿠라코**: Ah, don't get me wrong. I don't mean to complain. I don't feel stressed or hounded by deadlines, and I am not unhappy with my duties. But all the same...
+- **우타즈미 사쿠라코**: Sensei.
+- **우타즈미 사쿠라코**: How does it feel to have "free time"? What is a hobby?
+- **우타즈미 사쿠라코**: I've heard that you have hobbies that you occasionally spend your time and energy on.
+- **우타즈미 사쿠라코**: So I wanted to know how one obtains a hobby, and why...
+- **우타즈미 사쿠라코**: Huh?
+- **우타즈미 사쿠라코**: Oh, so there's not necessarily a meaning or a goal. I see. So... Is it more like a habit?
+- **우타즈미 사쿠라코**: Indeed. That makes some sense.
+- **우타즈미 사쿠라코**: I understand my mistake. I was thinking of a hobby as a conscious choice of activity, selected out of self-awareness or self care.
+- **우타즈미 사쿠라코**: But I understand now that developing a hobby is more subconscious than I thought. I think I understand a bit better now.
+- **우타즈미 사쿠라코**: Then, is it possible that I do have a hobby that I'm unaware of?
+- **우타즈미 사쿠라코**: Ah... I see.
+- **우타즈미 사쿠라코**: Recently, what have I done without intention... What did I do when I had a bit of time...
+- **우타즈미 사쿠라코**: Let me think. I often have some downtime between tasks, or when I'm traveling.
+- **우타즈미 사쿠라코**: So, in that time...
+- **우타즈미 사쿠라코**: I believe that's the time when I've sent you MomoTalks, Sensei.
+- **우타즈미 사쿠라코**: Or, when I remember something interesting, and talk to you about it...
+- **우타즈미 사쿠라코**: Or, when I ponder something troubling, and request a counseling session...
+- **우타즈미 사쿠라코**: Or...uh...something...
+- **우타즈미 사쿠라코**: Like...that...
+- **우타즈미 사쿠라코**: Hmm?
+- **우타즈미 사쿠라코**: Uh. Hm... Well.
+- **우타즈미 사쿠라코**: Sensei.
+- **우타즈미 사쿠라코**: My apologies, but could I request that we end our conversation here for today?
+- **우타즈미 사쿠라코**: As for a solution... I believe I found one. However, I find myself in need of a moment to compose myself.
+- **우타즈미 사쿠라코**: I know I'm being rather rude right now.
+- **우타즈미 사쿠라코**: But I hope you'll show your usual understanding.
+- **우타즈미 사쿠라코**: So, please. For today...
+- **우타즈미 사쿠라코**: Let's end it here.
+
+6. **「우타즈미 사쿠라코 인연 스토리 6」**
+
+- **우타즈미 사쿠라코**: Thank you so much for accepting my request, Sensei. Please come this way as I explain.
+- **우타즈미 사쿠라코**: I had hoped to solve the problem on my own, but...
+- **우타즈미 사쿠라코**: It seems the issue has only continued to grow, so I believe I need your help.
+- **우타즈미 사쿠라코**: Yes. Let me explain quickly.
+- **우타즈미 사쿠라코**: Recently...
+- **우타즈미 사쿠라코**: I've noticed some misunderstandings have reached a point where I can no longer ignore them.
+- **우타즈미 사쿠라코**: Hm. It seems you're not surprised at all. Were you expecting this, Sensei?
+- **우타즈미 사쿠라코**: We've spoken before about how some of the other Sisters are uncomfortable around me.
+- **우타즈미 사쿠라코**: I'd previously believed it was simply the nature of my position, which requires a certain level of authority, so I let it be.
+- **우타즈미 사쿠라코**: Well, with the exception of a few efforts to keep up with trends.
+- **우타즈미 사쿠라코**: But recently, I've come to a realization. It's not just that others are feeling awkward and struggling to interact with me...
+- **우타즈미 사쿠라코**: They may actually be afraid of me.
+- **우타즈미 사쿠라코**: Oh, you think that's a bit of a leap?
+- **우타즈미 사쿠라코**: Hm... I wish you were right, but I don't think so.
+- **우타즈미 사쿠라코**: I consider this a very large problem. I wish for all Sisters to feel at peace and at home in the cathedral.
+- **우타즈미 사쿠라코**: So of course, I had to investigate. I didn't want to act on a false impression.
+- **우타즈미 사쿠라코**: And I even took a Sister aside somewhere quiet a few times, so I could ask them one-on-one.
+- **우타즈미 사쿠라코**: Unfortunately... yes. As you may suspect, acting on my own, I only worsened the problem.
+- **우타즈미 사쿠라코**: For some reason, this particular issue appears to be out of my capabilities to resolve. That is why I am coming to you for help.
+- **우타즈미 사쿠라코**: As a Sister, I ought not do so. I should be taking responsibility for my own inadequacies, not foisting them onto a teacher.
+- **우타즈미 사쿠라코**: However... Sometimes it's necessary to prioritize finding a solution over one's own pride.
+- **우타즈미 사쿠라코**: And this is one of those situations. Or at least, that's what I believe.
+- **우타즈미 사쿠라코**: So, Sensei. I realize that this request is unreasonable, but...
+- **우타즈미 사쿠라코**: Still...
+- **우타즈미 사쿠라코**: Will you help me?
+- **우타즈미 사쿠라코**: Sensei...
+- **우타즈미 사쿠라코**: Thank you. I didn't expect to hear that from you.
+- **우타즈미 사쿠라코**: From you, of all people... It is truly a relief.
+- **우타즈미 사쿠라코**: I was prepared to do it myself, in case it turned out you were busy today, but this way will be better.
+- **우타즈미 사쿠라코**: Everyone is waiting, Sensei. Let's go right away.
+- **우타즈미 사쿠라코**: Please follow me. Coming from you, I know everyone will believe it wholeheartedly.
+- **우타즈미 사쿠라코**: Sisters, thank you all for making time in your busy schedules to gather here today. As you can see, I've brought Sensei with me.
+- **우타즈미 사쿠라코**: Sensei, please help me to reassure everyone...
+- **우타즈미 사쿠라코**: That I...
+- **우타즈미 사쿠라코**: Am not suspicious!
+- **우타즈미 사쿠라코**: Everyone, we're very lucky to have Sensei here to speak with us today.
+- **우타즈미 사쿠라코**: Sensei is here to offer us some words of reassurance!
+- **우타즈미 사쿠라코**: Please listen carefully and thoughtfully.
+- **우타즈미 사쿠라코**: Heehee...
+- **우타즈미 사쿠라코**: Now, Sensei!
+- **우타즈미 사쿠라코**: Please begin. Thank you.
+
+
+## 출처 (우선순위: namu.wiki → bluearchive.wiki)
+- https://namu.wiki/w/우타즈미 사쿠라코
+- https://bluearchive.wiki (원문 스토리 스크립트)
