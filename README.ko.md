@@ -65,7 +65,7 @@ Python 추가 라이브러리는 필요하지 않습니다. 설치 도구와 모
 
 `.😭` 또는 `.zip` 파일을 설치 폴더의 `worlds/` 안에 넣으세요. 앱을 열면 해당 패키지가 세계관 선택 화면에 표시됩니다. 같은 설치본을 사용하는 사람들도 `worlds/`에 패키지를 넣어 공유할 수 있습니다. 다른 위치의 패키지는 **패키지 열기**를 누르거나 창에 끌어다 놓으세요. 자세한 내용은 [worlds/README.txt](worlds/README.txt)를 참고하세요.
 
-[템플릿 압축 파일](worlds/import-samples/world-package-template.😭)에는 가상의 예시와 대체 삽화만 있습니다. [템플릿 폴더](worlds/import-samples/world-package-template/)를 복사해 직접 만든 세계를 구성할 수 있습니다. 게임 삽화와 오디오는 포함하지 않습니다. 자원봉사 삽화 제안은 [삽화 제출 안내](docs/volunteer-art-submission.md)를 참고하세요.
+[템플릿 압축 파일](worlds/import-samples/world-package-template.😭)에는 가상의 예시와 대체 삽화만 있습니다. [템플릿 폴더](worlds/import-samples/world-package-template/)를 복사해 직접 만든 세계를 구성할 수 있습니다. 게임 삽화와 오디오는 포함하지 않습니다. [자원봉사 삽화 제출](https://forms.gle/UnhotZ14Xp66HR4F7) 또는 [미디어 기여자](docs/media-contributors.md)에서 작가 표기를 확인하세요.
 
 ## 기여하기
 
@@ -77,7 +77,7 @@ Python 3.10 이상이 필요합니다. Windows에서는 `py run.py --prepare`, m
 
 ## 라이선스
 
-프로젝트 전체 라이선스는 아직 선언되지 않았습니다. 외부 구성 요소와 글꼴은 [NOTICE.md](NOTICE.md)를 확인하세요. 세계관 패키지 제작자는 콘텐츠의 사용 허가와 출처 표시를 확인해야 합니다. 블루 아카이브 게임 삽화, 녹음, 음성 참조 파일은 포함하지 않습니다.
+DanmuTalk의 원본 애플리케이션 코드와 보조 도구는 [MIT 라이선스](LICENSE)를 따릅니다. 세계관 패키지, 글꼴, 외부 구성 요소, 기여 미디어에는 각각 별도 조건이 적용됩니다. [NOTICE.md](NOTICE.md)와 [미디어 기여자](docs/media-contributors.md)를 확인하세요. 블루 아카이브 게임 삽화, 녹음, 음성 참조 파일은 포함하지 않습니다.
 
 ### 사용한 외부 프로젝트
 

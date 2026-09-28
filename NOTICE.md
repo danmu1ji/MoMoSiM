@@ -1,6 +1,6 @@
 # Third-party notices
 
-DanmuTalk has not declared a project-wide license. This file summarizes notable third-party components and is not a license for DanmuTalk itself. Exact release artifacts still need a complete transitive dependency inventory.
+DanmuTalk's original application code and supporting tools are licensed under the MIT License in [LICENSE](LICENSE). The MIT grant does not relicense separately licensed world-package content, fonts, third-party components, or contributed media. This notice summarizes third-party components. Exact release artifacts still need a complete transitive dependency inventory.
 
 ## Application libraries
 

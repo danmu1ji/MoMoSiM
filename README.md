@@ -21,8 +21,6 @@ DanmuTalk is a local-first character chat player. Load a `.😭` or `.zip` world
 
 ## Screenshots
 
-Screenshots use the fictional **Echo World** and placeholder artwork. Replies were produced by a local mock provider; no Blue Archive artwork or recordings are shown.
-
 | Character roster | Model settings and search |
 |---|---|
 | ![Fictional character roster](docs/images/01-roster.png) | ![Model settings, model search, and system instructions](docs/images/02-model-search.png) |
@@ -65,7 +63,7 @@ The local LLM helper also needs CMake and a native C/C++ compiler. CUDA and HIP 
 
 Copy `.😭` or `.zip` files into the installed `worlds/` folder. On the next app load they appear in the world selection screen for everyone using that installation. Choose **Open package** or drag a package into the window to open a package from elsewhere. See [worlds/README.txt](worlds/README.txt).
 
-The [template archive](worlds/import-samples/world-package-template.😭) contains fictional records and placeholder artwork only. Copy [the template folder](worlds/import-samples/world-package-template/) to build your own world. Game artwork and all audio are excluded. See the [volunteer artwork submission guide](docs/volunteer-art-submission.md) for the proposed contribution requirements.
+The [template archive](worlds/import-samples/world-package-template.😭) contains fictional records and placeholder artwork only. Copy [the template folder](worlds/import-samples/world-package-template/) to build your own world. Game artwork and all audio are excluded. [Submit volunteer artwork](https://forms.gle/UnhotZ14Xp66HR4F7) or see [media contributors](docs/media-contributors.md) for artist credits.
 
 ## Contributing
 
@@ -77,7 +75,7 @@ Requirements: Python 3.10+. `py run.py --prepare` on Windows or `python3 run.py 
 
 ## Licensing
 
-No project-wide license has been declared. Review [NOTICE.md](NOTICE.md) for third-party components and fonts. World creators are responsible for permissions and source attribution for content in their packages. DanmuTalk does not include Blue Archive game art, recordings, or voice-reference audio.
+DanmuTalk's original application code and supporting tools are licensed under [MIT](LICENSE). World packages, fonts, third-party components, and contributor media retain their own terms; see [NOTICE.md](NOTICE.md) and [media contributors](docs/media-contributors.md). DanmuTalk does not include Blue Archive game art, recordings, or voice-reference audio.
 
 ### External projects
 
