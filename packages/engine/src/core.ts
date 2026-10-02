@@ -3,6 +3,7 @@ import { unzipSync, strFromU8 } from 'fflate';
 import { parseMarkdown } from '@world-player/markdown';
 import { buildEntityGraph } from './graph.js';
 import { createLazyZipSource } from './zip-lazy.js';
+import { parseWorldMetadata } from './world-metadata.js';
 import type { Character, CharacterState, Entity, KnowledgeCondition, KnowledgeLevel, KnowledgeRule, MediaAsset, TimeSlice, ValidationIssue, World, WorldManifest } from '@world-player/schema';
 
 export interface WorldSource { read(path: string): Promise<string>; exists(path: string): Promise<boolean>; listPaths?: () => Promise<string[]>; readBytes?: (path: string) => Promise<Uint8Array>; clearCache?: () => void }
@@ -195,7 +196,7 @@ export async function loadWorld(source: WorldSource, options: LoadWorldOptions =
   const enWorld = options.language === 'en' ? parseYaml(await source.read('locales/en/world.yaml').catch(() => '{}')) as Record<string, unknown> : {};
   const world: World = { id: String(raw.id), name: String((options.language === 'en' ? enWorld.name : undefined) ?? raw.name), nameEn: raw.nameEn ? String(raw.nameEn) : undefined, version: String(raw.version ?? '0.0.0'), summary: String((options.language === 'en' ? enWorld.summary : undefined) ?? raw.summary ?? ''), summaryEn: raw.summaryEn ? String(raw.summaryEn) : undefined, theme: raw.theme as World['theme'], banner: raw.banner ? String(raw.banner) : undefined, entrypoints: arr(raw.entrypoints), tags: arr(raw.tags), knowledge: asRules(raw.knowledge) }
   const entities = new Map<string, Entity>();
-  const index = parseYaml(await source.read('index/entities.yaml').catch(() => 'entities: []')) as { entities?: Record<string, unknown>[] };
+  const index = parseWorldMetadata(await source.read('index/entities.yaml').catch(() => 'entities: []')) as { entities?: Record<string, unknown>[] };
   for (const item of index.entities ?? []) {
     const e = item as Record<string, unknown>;
     const entity = { id: String(e.id), type: (e.type ?? 'world') as Entity['type'], name: String(options.language === 'en' ? e.nameEn ?? e.name ?? e.id : e.name ?? e.id), nameEn: e.nameEn ? String(e.nameEn) : undefined, summary: String(options.language === 'en' ? e.summaryEn ?? e.summary ?? '' : e.summary ?? ''), summaryEn: e.summaryEn ? String(e.summaryEn) : undefined, markdown: e.markdown ? String(e.markdown) : undefined, markdownEn: e.markdownEn ? String(e.markdownEn) : undefined, banner: e.banner ? String(e.banner) : undefined, chatImage: e.chatImage ? String(e.chatImage) : undefined, parent: e.parent ? String(e.parent) : undefined, tags: arr(e.tags), categories: arr(e.categories), relations: Array.isArray(e.relations) ? e.relations as {type:string;target:string}[] : [], personality: ref(e.personality), speech: ref(e.speech), prompt: ref(e.prompt), personalityEn: ref(e.personalityEn), speechEn: ref(e.speechEn), promptEn: ref(e.promptEn), knowledge: asRules(e.knowledge), states: arr(e.states) } as Entity;
@@ -220,7 +221,7 @@ export async function loadWorld(source: WorldSource, options: LoadWorldOptions =
   const localePath = (path: string, language: 'ko' | 'en') => language === 'en' ? `locales/en/${path}` : path;
   const localizedMarkdown = (path: string | undefined) => path ? localePath(path, options.language ?? 'ko') : undefined;
   const enIdentityText = options.language === 'en' ? await source.read('locales/en/index/entities.yaml').catch(() => 'entities: []') : 'entities: []';
-  const enIdentities = (parseYaml(enIdentityText || 'entities: []') ?? { entities: [] }) as { entities?: Record<string, unknown>[] };
+  const enIdentities = (parseWorldMetadata(enIdentityText || 'entities: []') ?? { entities: [] }) as { entities?: Record<string, unknown>[] };
   const enById = new Map((enIdentities.entities ?? []).map(item => [String(item.id), item]));
   for (const e of entities.values()) {
     const en = enById.get(e.id);
@@ -241,9 +242,10 @@ export async function loadWorld(source: WorldSource, options: LoadWorldOptions =
     const extractedPersona = options.language === 'en' && e.type === 'character' ? `locales/en/characters/${slug}/personality.md` : undefined;
     for (const candidate of [localizedMarkdown(e.markdown), localizedMarkdown((e as Character).personality?.markdown), localizedMarkdown((e as Character).speech?.markdown), localizedMarkdown((e as Character).prompt?.markdown), localizedMarkdown((e as Character).personalityEn?.markdown), localizedMarkdown((e as Character).speechEn?.markdown), localizedMarkdown((e as Character).promptEn?.markdown), extractedPersona]) if (candidate) documentPaths.add(candidate);
   }
-  const statesSource = options.language === 'en' ? 'locales/en/timeline/states.yaml' : 'timeline/states.yaml';
-  const localizedStates = parseYaml(await source.read(statesSource).catch(() => 'states: []')) as { states?: CharacterState[] };
-  if (options.language === 'en') { states.states = localizedStates.states ?? []; }
+  if (options.language === 'en') {
+    const localizedStates = parseYaml(await source.read('locales/en/timeline/states.yaml').catch(() => 'states: []')) as { states?: CharacterState[] };
+    states.states = localizedStates.states ?? [];
+  }
   for (const state of states.states ?? []) for (const candidate of [localizedMarkdown(state.personality?.markdown), localizedMarkdown(state.speech?.markdown)]) if (candidate) documentPaths.add(candidate);
   // Ranged package sources otherwise turn this loop into hundreds of serial network round trips.
   const pendingDocumentPaths = [...documentPaths].filter(path => knownPaths ? knownPaths.has(path) : true);

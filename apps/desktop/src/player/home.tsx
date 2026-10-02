@@ -5,9 +5,10 @@ import { BannerImage } from './banner-image';
 import { ThemedSelect } from './themed-select';
 import { BrandMark } from './brand-mark';
 import type { ConversationSummary } from './conversation-store';
+import { participantsForConversationId } from './conversation-id';
 
 /** Workspace shell; existing profile, provider, package and group actions remain accessible. */
-export function HomeScreen({ notice, data, characters, conversations = [], onOpenChat, onOpenGroupChat, onOpenConversation, activeConversationId, language, onLanguage, onOpenSettings, onEditProfile, onConfig, onLoad, onFile, packageInput, activeChat, activeStudentId, onCloseChat, onResetChat, timeSlices, sliceId, onSliceChange }: {
+export function HomeScreen({ notice, data, characters, conversations = [], onOpenChat, onOpenGroupChat, onOpenConversation, activeConversationId, language, onLanguage, onOpenSettings, onEditProfile, onConfig, onLoad, onFile, packageInput, activeChat, activeStudentId, onCloseChat, onResetChat, timeSlices, sliceId, onSliceChange, onTutorial }: {
   notice?: string;
   data: WorldData;
   characters: Character[];
@@ -31,6 +32,7 @@ export function HomeScreen({ notice, data, characters, conversations = [], onOpe
   timeSlices: { id: string; label: string; labelEn?: string }[];
   sliceId: string;
   onSliceChange: (sliceId: string) => void;
+  onTutorial: () => void;
 }) {
   const english = language === 'en';
   const [query, setQuery] = React.useState('');
@@ -38,10 +40,14 @@ export function HomeScreen({ notice, data, characters, conversations = [], onOpe
   const [inboxVisible, setInboxVisible] = React.useState(true);
   const displayName = (character: Character) => english ? character.nameEn ?? character.id.replace(/^character:/, '').replace(/(^|-)([a-z])/g, (_m, p1, p2) => `${p1}${p2.toUpperCase()}`) : character.name;
   const displaySummary = (character: Character) => english ? character.summaryEn ?? '' : character.summary ?? '';
-  const directRecency = new Map(conversations.filter(item => item.id.startsWith('ba-') && !item.id.slice(3).includes('+')).map(item => [item.id.slice(3), Date.parse(item.updatedAt) || 0]));
+  const directRecency = new Map<string, number>();
+  for (const conversation of conversations) {
+    const ids = participantsForConversationId(conversation.id);
+    if (ids.length === 1) directRecency.set(ids[0], Math.max(directRecency.get(ids[0]) ?? 0, Date.parse(conversation.updatedAt) || 0));
+  }
   const filtered = characters.filter(character => [displayName(character), character.id, displaySummary(character), character.tags.join(' ')].join(' ').toLocaleLowerCase().includes(query.trim().toLocaleLowerCase()))
     .sort((a, b) => (directRecency.get(b.id) ?? 0) - (directRecency.get(a.id) ?? 0));
-  const groupConversations = conversations.filter(item => item.id.startsWith('ba-') && item.id.slice(3).includes('+'));
+  const groupConversations = conversations.filter(item => participantsForConversationId(item.id).length > 1);
   return <main className="dt-home" id="inbox">
     <header className="dt-header">
       <a className="dt-brand" href="#inbox" aria-label="DanmuTalk home"><BrandMark className="dt-brand-mark" /><span>DanmuTalk</span></a>
@@ -50,6 +56,7 @@ export function HomeScreen({ notice, data, characters, conversations = [], onOpe
         <div className="dt-tools">
           <button className="dt-tool" onClick={onEditProfile}><span className="dt-header-icon">♙</span>{english ? 'Profile' : '프로필'}</button>
           <button className="dt-tool" onClick={onLoad}><span className="dt-header-icon">＋</span>{english ? 'Open package' : '패키지 열기'}</button>
+          <button className="dt-tool" onClick={onTutorial}><span className="dt-header-icon">?</span>{english ? 'First-launch guide' : '처음 사용 안내'}</button>
         </div>
       </details>
       <div className="dt-header-controls">
@@ -74,7 +81,7 @@ export function HomeScreen({ notice, data, characters, conversations = [], onOpe
         <div className="dt-student-list">
           {groupConversations.length > 0 && <div className="dt-list-label dt-group-list-label">{english ? 'GROUP CONVERSATIONS' : '그룹 대화'}</div>}
           {groupConversations.map(({ id: conversationId }) => {
-            const ids = conversationId.slice(3).split('+');
+            const ids = participantsForConversationId(conversationId);
             const members = ids.map(id => characters.find(character => character.id === id)).filter((character): character is Character => Boolean(character));
             const title = members.map(displayName).join(', ') || ids.join(', ');
             return <button className={`dt-student-row dt-group-inbox-row${activeConversationId === conversationId ? ' active' : ''}`} key={conversationId} aria-current={activeConversationId === conversationId ? 'true' : undefined} onClick={() => onOpenConversation(conversationId, ids)}>

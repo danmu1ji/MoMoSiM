@@ -15,7 +15,7 @@ export type { EditableWorld } from './editor.js';
 export { toStoredTurn, fromStoredTurn, fromStoredTurns } from './history.js';
 export type { StoredTurn } from './history.js';
 export type { EntityGraph } from './graph.js';
-export { runConversationTurn, runConversationCycle, chooseSpeaker, directorPrompt, directorTranscript, planSpeakers, nextRoundPlan, providerMessages, parseMentions, samplingFor, nodeText, visibleText, parseNextDirective, turnProtocol, inferMessageStyle, DEFAULT_SAMPLING } from './dialogue.js';
+export { runConversationTurn, runConversationCycle, chooseSpeaker, directorPrompt, directorTranscript, planSpeakers, nextRoundPlan, providerMessages, parseMentions, samplingFor, nodeText, visibleText, parseNextDirective, turnProtocol, inferMessageStyle, estimatePromptTokens, DEFAULT_SAMPLING } from './dialogue.js';
 export { compactContext, type ContextStrategy } from './context.js';
 export type { ProviderMessage, SamplingOptions, StreamingProvider, TurnInput, TurnResult, CycleInput, CycleResult, NextDirective, DirectorInput, DirectorChoice, MessageStyle } from './dialogue.js';
 export { runSequentialConversation } from './orchestration.js';

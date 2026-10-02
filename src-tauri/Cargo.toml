@@ -3,14 +3,26 @@ name = "world-player"
 version = "0.1.0"
 edition = "2021"
 
+[lib]
+name = "world_player"
+crate-type = ["staticlib", "cdylib", "rlib"]
+path = "src/lib.rs"
+
+[[bin]]
+name = "world-player"
+path = "src/main.rs"
+
 [build-dependencies]
 tauri-build = { version = "2", features = [] }
 
 [dependencies]
 tauri = { version = "2", features = [] }
-reqwest = { version = "0.13", default-features = false, features = ["rustls"] }
+reqwest = { version = "0.13", default-features = false, features = ["rustls", "json"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
-rusqlite = { version = "0.32", features = ["bundled"] }
+tauri-plugin-opener = "2"
+
+[target.'cfg(not(target_os = "android"))'.dependencies]
 keyring = "3.6"
+rusqlite = { version = "0.32", features = ["bundled"] }
 world-boundary = { path = "../crates/world-boundary" }

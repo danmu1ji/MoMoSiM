@@ -18,6 +18,12 @@ DanmuTalk is a local-first character chat player. Load a `.😭` or `.zip` world
 - **English and Korean UI** — Switch the interface language independently of package content.
 - **Local LLM helper** — Scan hardware, review model suggestions, and build llama.cpp from source for your CPU architecture and available GPU backend. Its terminal menus use ↑/↓ plus Space or Enter. Run `python tools/local_llm_setup.py` on Windows or `python3 tools/local_llm_setup.py` on macOS/Linux.
 - **Local-first storage** — Conversation history and provider credentials are stored on your device.
+- **Conversation drafts** — Unsent text stays with its world and conversation, including after a restart. Drafts are local text; pending image attachments are not saved as drafts.
+- **Search and saved messages** — Search message text or speakers, bookmark messages, and filter to saved messages.
+- **Quoted replies** — Reply to a specific message by inserting its speaker and text into your draft.
+- **Continue conversation** — Let characters continue without submitting another user message.
+- **Transcript export** — Preview and copy the full visible transcript; desktop/browser builds can download a `.txt` file. Images are represented by descriptions.
+- **Multiline composer** — Enter sends on desktop, Shift+Enter adds a line, and mobile Enter adds a line. IME composition never sends prematurely.
 
 ## Screenshots
 
@@ -31,7 +37,15 @@ DanmuTalk is a local-first character chat player. Load a `.😭` or `.zip` world
 
 ## Install
 
-### Python installer
+### Windows desktop installer
+
+The easiest way to install DanmuTalk on Windows is the setup program from [GitHub Releases](https://github.com/danmu1ji/danmutalk/releases). Download the DanmuTalk Windows setup `.exe`, open it, choose an install location, and click **Install**. On the final screen, you can choose to create a desktop shortcut and launch DanmuTalk. The app is installed for your Windows account and is also available from the Start menu.
+
+The first Windows installer has not been published yet. Until it appears on the Releases page, use the Python installer below.
+
+On first launch, DanmuTalk opens a short guide. It links to Releases to download a world package, then explains how to open it, choose a character, connect a model in **Settings**, send a message, and start a group chat. To begin, download the `.😭` or `.zip` asset from a world package release and choose **Open a world package** in DanmuTalk.
+
+### Python installer (all platforms / Windows fallback)
 
 Install Python 3.10 or newer, then run:
 
@@ -58,6 +72,18 @@ The installer downloads the public source, installs a verified Node.js 22 runtim
 Python dependencies: none; installer and helper use the standard library. `requirements.txt` is provided for tooling compatibility.
 
 The local LLM helper also needs CMake and a native C/C++ compiler. CUDA and HIP acceleration require their matching toolkits; on macOS the build enables Metal.
+
+### Android APK
+
+APK releases are published with tagged releases. To build locally:
+
+```sh
+pnpm install
+pnpm android:init
+pnpm android:build
+```
+
+Prerequisites: Rust, JDK 17, Android SDK, and Android NDK. See [Tauri Android prerequisites](https://v2.tauri.app/start/prerequisites/).
 
 ## Add world packages
 

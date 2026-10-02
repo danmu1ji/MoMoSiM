@@ -1,1 +1,1 @@
-{}
+{"main-capability":{"identifier":"main-capability","description":"DanmuTalk app window permissions","local":true,"windows":["main"],"permissions":["core:default",{"identifier":"opener:allow-open-url","allow":[{"url":"https://github.com/danmu1ji/danmutalk/releases/latest"}]}]}}

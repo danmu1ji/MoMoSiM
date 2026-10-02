@@ -17,7 +17,11 @@ export async function fetchProviderModels(endpoint, apiKey = '') {
   }
   if (!Array.isArray(payload?.data)) throw new Error('Provider response did not contain a model list.');
   return payload.data.filter(model => model && typeof model.id === 'string')
-    .map(model => ({ id: model.id, name: typeof model.name === 'string' ? model.name : model.id }));
+    .map(model => {
+      const contextWindow = [model.context_window, model.contextWindow, model.context_length, model.max_context_length, model.max_model_len]
+        .find(value => Number.isSafeInteger(value) && value > 0);
+      return { id: model.id, name: typeof model.name === 'string' ? model.name : model.id, ...(contextWindow ? { contextWindow } : {}) };
+    });
 }
 
 /** Start an OpenAI-compatible streaming completion without buffering its response. */

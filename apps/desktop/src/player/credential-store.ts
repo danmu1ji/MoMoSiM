@@ -25,6 +25,8 @@ export interface ProviderSettings {
   systemInstructions?: string;
   temperature?: number;
   maxTokens?: number;
+  contextWindow?: number;
+  contextWindowOverride?: number;
   variation?: boolean;
   maxCycleSpeakers?: number;
   translationProvider?: 'm2m100' | 'hy-mt2' | 'azure-free' | 'deepl';
@@ -32,7 +34,7 @@ export interface ProviderSettings {
   deeplPlan?: 'free' | 'pro';
 }
 
-const SETTINGS_KEYS: (keyof ProviderSettings)[] = ['endpoint', 'model', 'systemInstructions', 'temperature', 'maxTokens', 'variation', 'maxCycleSpeakers', 'translationProvider', 'translationRegion', 'deeplPlan'];
+const SETTINGS_KEYS: (keyof ProviderSettings)[] = ['endpoint', 'model', 'systemInstructions', 'temperature', 'maxTokens', 'contextWindow', 'contextWindowOverride', 'variation', 'maxCycleSpeakers', 'translationProvider', 'translationRegion', 'deeplPlan'];
 
 /** 넘어온 값에서 저장할 설정만 추린다(모르는 키·undefined 제거). */
 export function pickSettings(value: Record<string, unknown> | undefined): ProviderSettings {
@@ -43,7 +45,7 @@ export function pickSettings(value: Record<string, unknown> | undefined): Provid
     if (key === 'endpoint' || key === 'model' || key === 'systemInstructions' || key === 'translationRegion') { if (typeof item === 'string') picked[key] = item; continue; }
     if (key === 'translationProvider' && ['m2m100', 'hy-mt2', 'azure-free', 'deepl'].includes(String(item))) { picked.translationProvider = item as ProviderSettings['translationProvider']; continue; }
     if (key === 'deeplPlan' && ['free', 'pro'].includes(String(item))) { picked.deeplPlan = item as ProviderSettings['deeplPlan']; continue; }
-    if (key === 'temperature' || key === 'maxTokens' || key === 'maxCycleSpeakers') { if (typeof item === 'number' && Number.isFinite(item)) picked[key] = item; continue; }
+    if (key === 'temperature' || key === 'maxTokens' || key === 'contextWindow' || key === 'contextWindowOverride' || key === 'maxCycleSpeakers') { if (typeof item === 'number' && Number.isFinite(item)) picked[key] = item; continue; }
     if (key === 'variation' && typeof item === 'boolean') picked.variation = item;
   }
   return picked;
@@ -55,6 +57,11 @@ let lastProviderSettingsSavedAt = 0;
 
 /** Tauri 데스크톱 런타임인지 판별. */
 export function isDesktopRuntime(): boolean {
+  return isTauriRuntime() && import.meta.env.VITE_APP_TARGET !== 'android';
+}
+
+/** Tauri runtime shared by desktop and Android builds. */
+export function isTauriRuntime(): boolean {
   return typeof window !== 'undefined' && '__TAURI_INTERNALS__' in window;
 }
 

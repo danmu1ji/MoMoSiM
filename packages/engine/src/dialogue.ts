@@ -27,6 +27,33 @@ export type ProviderContentPart = { type: 'text'; text: string } | { type: 'imag
 export type ProviderContent = string & { includes(search: string): boolean };
 export interface ProviderMessage { role: 'user' | 'assistant'; content: ProviderContent }
 
+function estimateTextTokens(text: string): number {
+  let ascii = 0;
+  let unicode = 0;
+  for (const character of text) {
+    if (character.codePointAt(0)! < 128) ascii += 1;
+    else unicode += 1;
+  }
+  return Math.ceil(ascii / 2.5) + unicode;
+}
+
+/** Conservative prompt-size estimate; providers rarely expose their tokenizer or usage in streamed replies. */
+export function estimatePromptTokens(system: string, messages: ProviderMessage[]): number {
+  let tokens = estimateTextTokens(system) + 8;
+  for (const message of messages) {
+    tokens += 4;
+    if (typeof message.content === 'string') tokens += estimateTextTokens(message.content);
+    else for (const part of message.content as unknown as ProviderContentPart[]) {
+      if (part.type === 'image_url') {
+        const encodedLength = part.image_url.url.length;
+        tokens += encodedLength > 1_400_000 ? 32_768 : encodedLength > 350_000 ? 16_384 : 8_192;
+      }
+      else tokens += estimateTextTokens(part.text);
+    }
+  }
+  return Math.ceil(tokens * 1.2);
+}
+
 
 export interface StreamingProvider {
   createStream(request: { model: string; system: string; messages: ProviderMessage[]; sampling?: SamplingOptions; signal?: AbortSignal }): AsyncIterable<{ type: string; text?: string; error?: Error }>;
@@ -261,6 +288,7 @@ export interface DirectorInput {
   directorInstructions?: string;
   situation?: string;
   language?: 'ko' | 'en';
+  onPromptUsage?: (estimatedInputTokens: number) => void;
 }
 
 export interface DirectorChoice { id?: string; end: boolean; raw: string }
@@ -297,12 +325,15 @@ export async function chooseSpeaker(input: DirectorInput): Promise<DirectorChoic
     const character = input.characters.find(item => item.id === message.speaker.id || `character:${item.id}` === message.speaker.id);
     return `${character ? displayName(character) : message.speaker.id}: ${nodeText(message.content)}`;
   }).join('\n');
+  const system = directorPrompt(input.characters, input.directorInstructions, input.language ?? 'ko');
+  const messages: ProviderMessage[] = [{ role: 'user', content: `${transcript}\n\n${input.language === 'en' ? 'Who speaks next?' : '다음에 누가 말할까요?'}` }];
+  input.onPromptUsage?.(estimatePromptTokens(system, messages));
   let raw = '';
   try {
     for await (const event of input.provider.createStream({
       model: input.model,
-      system: directorPrompt(input.characters, input.directorInstructions, input.language ?? 'ko'),
-      messages: [{ role: 'user', content: `${transcript}\n\n${input.language === 'en' ? 'Who speaks next?' : '다음에 누가 말할까요?'}` }],
+      system,
+      messages,
       sampling: { temperature: 0.2 },
       signal: input.signal,
     })) {
@@ -338,6 +369,7 @@ export interface CycleInput extends Omit<TurnInput, 'onText'> {
   onSpeaker?: (speaker: Character) => void;
   /** 중간에 중단 요청이 있었는지 확인한다(앱의 멈추기 버튼). */
   shouldStop?: () => boolean;
+  onPromptUsage?: (estimatedInputTokens: number) => void;
 }
 
 export interface MessageStyle { guidance: string; sentencesPerBubble: 1 | 2 | 3; fragmentRatio: number }
@@ -412,7 +444,7 @@ export async function runConversationCycle(input: CycleInput): Promise<CycleResu
       const choice = await chooseSpeaker({
         provider: input.provider, model: input.model, characters: directorContext.characters,
         playerName: input.player.name, history: directorContext.history, sampling: input.sampling, signal: input.signal,
-        directorInstructions: input.directorInstructions, situation: input.situation, language: input.language,
+        directorInstructions: input.directorInstructions, situation: input.situation, language: input.language, onPromptUsage: input.onPromptUsage,
       });
       if (!choice.id) return { history, turns, endedBy: input.characters.length > 1 ? 'empty' : 'silent' };
       queue = [choice.id];
@@ -470,13 +502,16 @@ export async function runConversationCycle(input: CycleInput): Promise<CycleResu
         : '언어 요구사항: 화면에 표시되는 모든 대사는 한국어로 작성해. 이전 메시지나 원문 자료가 다른 언어여도 그 언어를 따라 쓰지 마.',
     ].filter(Boolean).join('\n');
 
+    const messages = providerMessages(context.history, speaker, input.player.name, new Map([...input.data.entities.values()].map(entity => [entity.id, input.language === 'en' ? (entity.nameEn ?? entity.id.replace(/^character:/, '')) : entity.name])));
+    input.onPromptUsage?.(estimatePromptTokens(system, messages));
+
     let raw = '';
     let providerError: Error | undefined;
     try {
       for await (const event of input.provider.createStream({
         model: input.model,
         system,
-        messages: providerMessages(context.history, speaker, input.player.name, new Map([...input.data.entities.values()].map(entity => [entity.id, input.language === 'en' ? (entity.nameEn ?? entity.id.replace(/^character:/, '')) : entity.name]))),
+        messages,
         sampling: samplingFor(speaker.id, input.sampling ?? DEFAULT_SAMPLING, input.variation ?? true),
         signal: input.signal,
       })) {

@@ -1,6 +1,6 @@
 import React from 'react';
 import type { PlayerProfile } from '@world-player/schema';
-import type { ModelInfo } from '@world-player/provider';
+import { DEFAULT_CONTEXT_WINDOW_TOKENS, type ModelInfo } from '@world-player/provider';
 import { ThemedSelect } from './themed-select';
 
 export function OverlayShell({ title, children, onClose, language = 'ko' }: { title: string; children: React.ReactNode; onClose: () => void; language?: string }) {
@@ -39,6 +39,8 @@ export interface ProviderConfig {
   /** 생성 파라미터 — 캐릭터마다 자동으로 조금씩 다르게 준다(엔진 `samplingFor`). */
   temperature?: number;
   maxTokens?: number;
+  contextWindow?: number;
+  contextWindowOverride?: number;
   /** 캐릭터별로 temperature·반복 억제 값을 갈라 목소리를 벌린다. */
   variation?: boolean;
   /** 한 사이클에서 캐릭터가 말할 수 있는 최대 횟수(지시문이 계속 이어져도 여기서 멈춘다). */
@@ -63,21 +65,21 @@ export function TimelinePromptOverlay({ language = 'ko', title, value, options, 
 }
 
 /** LLM provider config: endpoint, model list, API key. */
-export function ConfigOverlay({ config, onChange, onLoadModels, onSaveProvider, onLoadProvider, onSaveKey, onLoadKey, onClose, language = 'ko', situation, directorNotes, onSituation, onDirectorNotes }:  { config: ProviderConfig; onChange: (config: ProviderConfig) => void; onLoadModels: () => void; onSaveProvider: () => void; onLoadProvider: () => void; onSaveKey: () => void; onLoadKey: () => void; onClose: () => void; language?: string; situation: string; directorNotes: string; onSituation: (value: string) => void; onDirectorNotes: (value: string) => void }) {
+export function ConfigOverlay({ config, onChange, onLoadModels, loadingModels = false, onSaveProvider, onLoadProvider, onSaveKey, onLoadKey, onClose, language = 'ko', situation, directorNotes, onSituation, onDirectorNotes }:  { config: ProviderConfig; onChange: (config: ProviderConfig) => void; onLoadModels: () => void; loadingModels?: boolean; onSaveProvider: () => void; onLoadProvider: () => void; onSaveKey: () => void; onLoadKey: () => void; onClose: () => void; language?: string; situation: string; directorNotes: string; onSituation: (value: string) => void; onDirectorNotes: (value: string) => void }) {
   const en = language === 'en';
   const modelOptions = [{ value: '', label: en ? 'Server default' : '기본값' }, ...config.models.map(model => ({ value: model.id, label: model.name || model.id }))];
   if (config.model && !config.models.some(model => model.id === config.model)) modelOptions.push({ value: config.model, label: config.model });
   return <OverlayShell title={en ? 'Chat settings' : '대화 설정'} onClose={onClose} language={language}>
     <p className="settings-intro">{en ? 'Choose how DanmuTalk conversations work.' : 'DanmuTalk의 연결과 대화 방식을 설정합니다.'}</p>
-    <label className="field"><span>Provider Endpoint</span>
-      <input className="theme-input" value={config.endpoint} onChange={event => onChange({ ...config, endpoint: event.target.value })} placeholder="https://api.example.com/v1" />
+    <label className="field"><span>{en ? 'Provider endpoint' : 'Provider 엔드포인트'}</span>
+      <input className="theme-input" aria-label={en ? 'Provider endpoint' : 'Provider 엔드포인트'} value={config.endpoint} onChange={event => onChange({ ...config, endpoint: event.target.value })} placeholder="https://api.example.com/v1" />
     </label>
     <div className="row">
-      <button className="ghost-button" onClick={onLoadModels}>{en ? 'Load models' : '모델 불러오기'}</button>
+      <button className="ghost-button" onClick={onLoadModels} disabled={loadingModels}>{loadingModels ? (en ? 'Checking connection…' : '연결 확인 중…') : (en ? 'Check connection & load models' : '연결 확인 및 모델 불러오기')}</button>
       {config.models.length > 0 && <span className="hint">{en ? `${config.models.length} models` : `${config.models.length}개 모델`}</span>}
     </div>
     <label className="field"><span>{en ? 'Model' : '모델'}</span>
-      <ThemedSelect className="settings-model-select" ariaLabel={en ? 'Model' : '모델'} searchable searchPlaceholder={en ? 'Search models' : '모델 검색'} noResultsLabel={en ? 'No models found' : '모델이 없습니다'} value={config.model} onChange={model => onChange({ ...config, model })} options={modelOptions} />
+      <ThemedSelect className="settings-model-select" ariaLabel={en ? 'Model' : '모델'} searchable searchPlaceholder={en ? 'Search models' : '모델 검색'} noResultsLabel={en ? 'No models found' : '모델이 없습니다'} value={config.model} onChange={model => onChange({ ...config, model, contextWindow: config.contextWindowOverride ?? config.models.find(item => item.id === model)?.contextWindow ?? DEFAULT_CONTEXT_WINDOW_TOKENS })} options={modelOptions} />
     </label>
     <label className="field"><span>API Key <small>{en ? '(stored in OS keychain)' : '(OS 키체인 저장)'}</small></span>
       <input className="theme-input" type="password" autoComplete="off" value={config.apiKey} onChange={event => onChange({ ...config, apiKey: event.target.value })} placeholder={en ? 'Leave blank to use your saved key' : '비우면 저장된 키를 사용합니다'} />
@@ -100,7 +102,11 @@ export function ConfigOverlay({ config, onChange, onLoadModels, onSaveProvider, 
       <label className="field settings-control"><span>{en ? 'Max response tokens' : '최대 응답 길이'}</span>
         <input className="theme-input" type="number" min={0} step={128} value={config.maxTokens ?? 32768} onChange={event => onChange({ ...config, maxTokens: Number(event.target.value) })} placeholder="32768" />
       </label>
+      <label className="field settings-control"><span>{en ? 'Model context window (tokens)' : '모델 문맥 창 (토큰)'}</span>
+        <input className="theme-input" type="number" min={1024} step={1024} value={config.contextWindow ?? DEFAULT_CONTEXT_WINDOW_TOKENS} onChange={event => { const contextWindowOverride = Math.max(1024, Number(event.target.value) || DEFAULT_CONTEXT_WINDOW_TOKENS); onChange({ ...config, contextWindow: contextWindowOverride, contextWindowOverride }); }} />
+      </label>
     </div>
+    <p className="hint">{en ? 'Uses the selected model’s metadata by default. Setting a value here creates an override that takes priority. Auto-compaction starts when the estimated prompt plus response allowance leaves less than 10%.' : '기본값은 선택한 모델의 메타데이터를 사용합니다. 여기서 직접 설정하면 해당 값이 우선하는 재정의가 됩니다. 응답 여유분을 포함한 추정 프롬프트가 10% 미만의 여유를 남기면 자동 압축합니다.'}</p>
     <label className="field settings-control"><span>{en ? 'Max student replies per turn' : '한 사이클 최대 발언 수'}</span>
       <input className="theme-input" type="number" min={1} max={20} value={config.maxCycleSpeakers ?? 8} onChange={event => onChange({ ...config, maxCycleSpeakers: Math.max(1, Math.min(20, Number(event.target.value) || 8)) })} />
     </label>
@@ -110,7 +116,7 @@ export function ConfigOverlay({ config, onChange, onLoadModels, onSaveProvider, 
       <input className="settings-checkbox" type="checkbox" checked={config.variation ?? true} onChange={event => onChange({ ...config, variation: event.target.checked })} />
     </label>
     <p className="hint">{en ? 'Provider settings are saved automatically.' : 'Provider 설정은 자동 저장됩니다.'}</p>
-    {config.status ? <p className="hint">{config.status}</p> : null}
+    {config.status ? <p className="hint" role="status" aria-live="polite">{config.status}</p> : null}
     <section className="chat-director-settings">
       <h3>{en ? 'Conversation' : '대화 설정'}</h3>
       <label className="field"><span>{en ? 'Scenario setting' : '상황 설정'}</span><textarea className="theme-input" value={situation} onChange={event => onSituation(event.target.value)} placeholder={en ? 'A late afternoon at Schale...' : '샬레의 늦은 오후…'} /></label>

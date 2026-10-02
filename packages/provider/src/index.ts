@@ -1,6 +1,12 @@
 import type { ChatMessage } from '@world-player/schema';
 
-export interface ModelInfo { id: string; name: string; }
+export interface ModelInfo { id: string; name: string; contextWindow?: number; }
+export const DEFAULT_CONTEXT_WINDOW_TOKENS = 128_000;
+
+/** Keep a model already advertised by the endpoint; otherwise choose its first available model. */
+export function preferredOrFirstModel(modelId: string, models: ModelInfo[]): ModelInfo | undefined {
+  return models.find(model => model.id === modelId) ?? models[0];
+}
 
 /** 모델에게 보내는 최종 메시지. 어떤 화자의 말인지는 엔진이 정해서 넘긴다. */
 export type ProviderContentPart = { type: 'text'; text: string } | { type: 'image_url'; image_url: { url: string; detail?: 'auto' | 'low' | 'high' } };
@@ -35,7 +41,7 @@ export function samplingBody(sampling?: SamplingOptions): Record<string, number>
 export class OpenAICompatibleProvider implements ChatProvider {
   readonly id = 'openai-compatible';
   constructor(private readonly endpoint: string, private readonly apiKey?: string, private readonly browserProxy?: string) {}
-  async listModels(): Promise<ModelInfo[]> { const response = await fetch(`${this.endpoint.replace(/\/$/, '')}/models`, { headers: this.headers() }); if (!response.ok) throw new Error(`Model listing failed: ${response.status}`); const json = await response.json() as { data?: { id: string }[] }; return (json.data ?? []).map(x => ({ id: x.id, name: x.id })); }
+  async listModels(): Promise<ModelInfo[]> { const response = await fetch(`${this.endpoint.replace(/\/$/, '')}/models`, { headers: this.headers() }); if (!response.ok) throw new Error(`Model listing failed: ${response.status}`); const json = await response.json() as { data?: { id: string; name?: string; context_length?: number; context_window?: number; contextWindow?: number; max_context_length?: number; max_model_len?: number }[] }; return (json.data ?? []).map(x => { const contextWindow = [x.contextWindow, x.context_length, x.context_window, x.max_context_length, x.max_model_len].find(value => Number.isSafeInteger(value) && value! > 0); return { id: x.id, name: x.name || x.id, ...(contextWindow ? { contextWindow } : {}) }; }); }
   async *createStream(request: ChatRequest): AsyncIterable<ChatEvent> {
     const chatRequest = {
       model: request.model,

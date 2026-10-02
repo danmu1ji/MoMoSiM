@@ -53,6 +53,7 @@ export function LazyAssetImage({ data, assetId, alt, className, style, placehold
 }): React.ReactElement | null {
   const holder = React.useRef<HTMLImageElement | null>(null);
   const [visible, setVisible] = React.useState(false);
+  const [failedAsset, setFailedAsset] = React.useState<{ data: EngineData | undefined; assetId: string }>();
   React.useEffect(() => {
     const node = holder.current;
     if (!node) return undefined;
@@ -71,16 +72,18 @@ export function LazyAssetImage({ data, assetId, alt, className, style, placehold
   }, [assetId]);
 
   const url = useAssetUrl(data, assetId, visible);
+  const imageFailed = Boolean(failedAsset && failedAsset.data === data && failedAsset.assetId === assetId);
   return (
     <img
       ref={holder}
       className={className}
       style={style}
-      src={url ?? placeholder}
+      src={url && !imageFailed ? url : placeholder}
       alt={alt}
       loading="lazy"
       decoding="async"
-      data-placeholder={url ? 'false' : 'true'}
+      data-placeholder={url && !imageFailed ? 'false' : 'true'}
+      onError={() => { if (url && assetId) setFailedAsset({ data, assetId }); }}
     />
   );
 }

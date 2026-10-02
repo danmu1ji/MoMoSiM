@@ -1,0 +1,32 @@
+html,
+body,
+#root {
+  min-height: 100%;
+  height: 100%;
+}
+
+body {
+  overscroll-behavior: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app.dt-app {
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.dt-header {
+  padding-left: max(12px, env(safe-area-inset-left));
+  padding-right: max(12px, env(safe-area-inset-right));
+}
+
+.dt-startup-card {
+  width: min(100% - 28px, 560px);
+}
+
+button,
+input,
+textarea,
+select {
+  touch-action: manipulation;
+}

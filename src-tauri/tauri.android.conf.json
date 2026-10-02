@@ -1,0 +1,15 @@
+{
+  "productName": "DanmuTalk",
+  "version": "0.1.0",
+  "identifier": "ai.worldplayer.danmutalk.android",
+  "build": {
+    "frontendDist": "../apps/android/dist",
+    "beforeBuildCommand": "pnpm --filter @world-player/android build"
+  },
+  "bundle": {
+    "active": true,
+    "android": {
+      "minSdkVersion": 24
+    }
+  }
+}

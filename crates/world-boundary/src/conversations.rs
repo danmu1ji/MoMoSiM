@@ -45,10 +45,24 @@ pub fn upsert_conversation(conn: &Connection, meta: &ConversationMeta) -> Result
 
 pub fn append_message(conn: &Connection, message: &StoredMessage) -> Result<()> {
     conn.execute(
-        "INSERT INTO messages (id, conversation_id, speaker_type, speaker_id, body, created_at) VALUES (?1,?2,?3,?4,?5,?6)",
+        "INSERT OR IGNORE INTO messages (id, conversation_id, speaker_type, speaker_id, body, created_at) VALUES (?1,?2,?3,?4,?5,?6)",
         (&message.id, &message.conversation_id, &message.speaker_type, &message.speaker_id, &message.body, &message.created_at),
     )
     .map(|_| ())
+}
+
+pub fn remove_message(conn: &mut Connection, conversation_id: &str, message_id: &str) -> Result<()> {
+    let transaction = conn.transaction()?;
+    transaction.execute("DELETE FROM messages WHERE conversation_id = ?1 AND id = ?2", (conversation_id, message_id))?;
+    transaction.execute(
+        "DELETE FROM conversations WHERE id = ?1 AND NOT EXISTS (SELECT 1 FROM messages WHERE conversation_id = ?1)",
+        [conversation_id],
+    )?;
+    transaction.execute(
+        "UPDATE conversations SET updated_at = (SELECT MAX(created_at) FROM messages WHERE conversation_id = ?1) WHERE id = ?1",
+        [conversation_id],
+    )?;
+    transaction.commit()
 }
 
 pub fn list_messages(conn: &Connection, conversation_id: &str) -> Result<Vec<StoredMessage>> {
@@ -100,6 +114,33 @@ mod tests {
         let stored = list_messages(&db, "c1").unwrap();
         assert_eq!(stored.iter().map(|m| m.id.as_str()).collect::<Vec<_>>(), vec!["m1", "m2"]);
         assert_eq!(stored[0].speaker_id, "character:aria");
+    }
+
+    #[test]
+    fn appending_the_same_message_is_idempotent() {
+        let db = Connection::open_in_memory().unwrap();
+        create_conversations(&db).unwrap();
+        upsert_conversation(&db, &meta("c1")).unwrap();
+        let original = message("m1", "c1", "2026-01-01T00:00:01Z");
+        append_message(&db, &original).unwrap();
+        let mut retry = original.clone();
+        retry.body = "retry body must not replace the first delivery".to_string();
+        append_message(&db, &retry).unwrap();
+        assert_eq!(list_messages(&db, "c1").unwrap(), vec![original]);
+    }
+
+    #[test]
+    fn removing_a_message_keeps_the_rest_of_the_conversation() {
+        let mut db = Connection::open_in_memory().unwrap();
+        create_conversations(&db).unwrap();
+        upsert_conversation(&db, &meta("c1")).unwrap();
+        append_message(&db, &message("m1", "c1", "2026-01-01T00:00:01Z")).unwrap();
+        append_message(&db, &message("m2", "c1", "2026-01-01T00:00:02Z")).unwrap();
+        remove_message(&mut db, "c1", "m1").unwrap();
+        assert_eq!(list_messages(&db, "c1").unwrap().iter().map(|item| item.id.as_str()).collect::<Vec<_>>(), vec!["m2"]);
+        assert_eq!(list_conversations(&db, "echo-world").unwrap()[0].updated_at, "2026-01-01T00:00:02Z");
+        remove_message(&mut db, "c1", "m2").unwrap();
+        assert!(list_conversations(&db, "echo-world").unwrap().is_empty());
     }
 
     #[test]

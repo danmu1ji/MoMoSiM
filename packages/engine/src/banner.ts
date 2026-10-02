@@ -12,11 +12,12 @@ function hash(value: string): number { let result = 0; for (const char of value)
 function escapeXml(value: string): string { return value.replace(/[<>&"']/g, char => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;', "'": '&apos;' })[char]!); }
 
 /**
- * Deterministic monochrome banner used when a package ships no banner for an entity.
- * Only #000000 / #808080 / #ffffff are used so the pre-world palette rule holds everywhere.
+ * Deterministic fallback art used when a package ships no banner for an entity.
+ * World/category art stays monochrome; characters get a name-specific illustrated palette portrait.
  */
 export function placeholderBanner(label: string, kind: BannerKind = 'category', width = 640, height = 213): string {
   const seed = hash(`${kind}:${label}`);
+  if (kind === 'character') return characterPortraitPlaceholder(label, width, Math.max(width, height), seed);
   const shapes = Array.from({ length: 5 }, (_, index) => {
     const x = (seed * (index + 3)) % width;
     const r = 18 + ((seed >> (index + 1)) % 52);
@@ -29,6 +30,36 @@ export function placeholderBanner(label: string, kind: BannerKind = 'category', 
     + shapes
     + `<text x="50%" y="54%" text-anchor="middle" font-family="Manrope, sans-serif" font-size="${Math.round(height / 5)}" fill="${WHITE}" opacity="0.92">${escapeXml(label || kind)}</text>`
     + `<text x="50%" y="76%" text-anchor="middle" font-family="monospace" font-size="${Math.round(height / 12)}" fill="${GREY}">${kind.toUpperCase()} · PLACEHOLDER</text>`
+    + '</svg>';
+  return `data:image/svg+xml;utf8,${encodeURIComponent(svg)}`;
+}
+
+/** A colorful, name-specific illustrated avatar for characters whose package has no portrait. */
+function characterPortraitPlaceholder(label: string, width: number, height: number, seed: number): string {
+  const backgrounds = ['#6a7fb5', '#4b938b', '#b66e78', '#9271ad', '#c18a54', '#557f9f', '#8e9860', '#ba6e50'];
+  const hairColors = ['#273149', '#49334f', '#254449', '#653d39', '#343a52', '#56412c'];
+  const skinColors = ['#f3c8a5', '#dfa982', '#f0d0ad', '#c98770'];
+  const background = backgrounds[seed % backgrounds.length]!;
+  const hair = hairColors[(seed >>> 3) % hairColors.length]!;
+  const skin = skinColors[(seed >>> 6) % skinColors.length]!;
+  const accent = backgrounds[(seed + 3) % backgrounds.length]!;
+  const side = Math.max(width, height);
+  const initial = [...label.trim()][0] ?? '?';
+  const safeLabel = escapeXml(label || 'Character');
+  const safeInitial = escapeXml(initial);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${side} ${side}" width="${side}" height="${side}" role="img" aria-label="${safeLabel}">`
+    + `<defs><linearGradient id="portrait-bg-${seed}" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${background}"/><stop offset="1" stop-color="${accent}"/></linearGradient></defs>`
+    + `<rect width="${side}" height="${side}" fill="url(#portrait-bg-${seed})"/>`
+    + `<circle cx="${side * 0.78}" cy="${side * 0.2}" r="${side * 0.28}" fill="#ffffff" opacity=".13"/>`
+    + `<circle cx="${side * 0.2}" cy="${side * 0.78}" r="${side * 0.34}" fill="#172238" opacity=".16"/>`
+    + `<path d="M ${side * 0.15} ${side} Q ${side * 0.18} ${side * 0.63} ${side * 0.5} ${side * 0.62} Q ${side * 0.82} ${side * 0.63} ${side * 0.85} ${side} Z" fill="${hair}"/>`
+    + `<path d="M ${side * 0.35} ${side * 0.55} Q ${side * 0.5} ${side * 0.67} ${side * 0.65} ${side * 0.55} L ${side * 0.68} ${side * 0.84} Q ${side * 0.5} ${side * 0.94} ${side * 0.32} ${side * 0.84} Z" fill="${skin}"/>`
+    + `<ellipse cx="${side * 0.5}" cy="${side * 0.39}" rx="${side * 0.19}" ry="${side * 0.24}" fill="${skin}"/>`
+    + `<path d="M ${side * 0.3} ${side * 0.4} Q ${side * 0.28} ${side * 0.13} ${side * 0.52} ${side * 0.15} Q ${side * 0.73} ${side * 0.16} ${side * 0.7} ${side * 0.45} L ${side * 0.64} ${side * 0.33} Q ${side * 0.49} ${side * 0.43} ${side * 0.34} ${side * 0.35} Z" fill="${hair}"/>`
+    + `<path d="M ${side * 0.43} ${side * 0.43} h ${side * 0.025} M ${side * 0.545} ${side * 0.43} h ${side * 0.025}" stroke="#493b3b" stroke-width="${side * 0.012}" stroke-linecap="round"/>`
+    + `<path d="M ${side * 0.46} ${side * 0.51} Q ${side * 0.5} ${side * 0.535} ${side * 0.54} ${side * 0.51}" fill="none" stroke="#a45e62" stroke-width="${side * 0.012}" stroke-linecap="round"/>`
+    + `<circle cx="${side * 0.82}" cy="${side * 0.81}" r="${side * 0.1}" fill="#f5e8c5" opacity=".92"/><text x="${side * 0.82}" y="${side * 0.845}" text-anchor="middle" font-family="sans-serif" font-size="${side * 0.09}" font-weight="700" fill="#30384b">${safeInitial}</text>`
+    + `<text x="${side * 0.5}" y="${side * 0.97}" text-anchor="middle" font-family="sans-serif" font-size="${side * 0.065}" font-weight="700" fill="#ffffff" stroke="#263047" stroke-width="1.4" paint-order="stroke">${safeLabel}</text>`
     + '</svg>';
   return `data:image/svg+xml;utf8,${encodeURIComponent(svg)}`;
 }

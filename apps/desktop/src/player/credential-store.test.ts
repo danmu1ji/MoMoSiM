@@ -28,8 +28,8 @@ describe('provider 설정 저장소', () => {
   });
 
   it('저장할 설정만 추린다(모르는 키·잘못된 타입 제거)', () => {
-    expect(pickSettings({ endpoint: 'http://x/v1', model: 'm', systemInstructions: 'Keep responses concise.', temperature: 1.2, variation: true, maxCycleSpeakers: 6, apiKey: '비밀', nope: 1 }))
-      .toEqual({ endpoint: 'http://x/v1', model: 'm', systemInstructions: 'Keep responses concise.', temperature: 1.2, variation: true, maxCycleSpeakers: 6 });
+    expect(pickSettings({ endpoint: 'http://x/v1', model: 'm', systemInstructions: 'Keep responses concise.', temperature: 1.2, contextWindow: 128_000, contextWindowOverride: 64_000, variation: true, maxCycleSpeakers: 6, apiKey: '비밀', nope: 1 }))
+      .toEqual({ endpoint: 'http://x/v1', model: 'm', systemInstructions: 'Keep responses concise.', temperature: 1.2, contextWindow: 128_000, contextWindowOverride: 64_000, variation: true, maxCycleSpeakers: 6 });
     expect(pickSettings({ temperature: Number.NaN, model: 42, variation: 'yes' })).toEqual({});
     expect(pickSettings({ systemInstructions: 42 })).toEqual({});
     expect(pickSettings(undefined)).toEqual({});

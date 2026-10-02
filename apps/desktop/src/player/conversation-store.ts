@@ -61,6 +61,20 @@ export async function saveConversationTurn(input: {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(database));
 }
 
+export async function removeConversationTurn(conversationId: string, turnId: string): Promise<void> {
+  if (isDesktopRuntime()) {
+    await invoke('conversation_remove_message', { conversationId, messageId: turnId });
+    return;
+  }
+  const database = readBrowserDatabase();
+  const conversation = database[conversationId];
+  if (!conversation) return;
+  conversation.turns = conversation.turns.filter(turn => turn.id !== turnId);
+  if (!conversation.turns.length) delete database[conversationId];
+  else conversation.updatedAt = conversation.turns.reduce((latest, turn) => turn.created_at > latest ? turn.created_at : latest, conversation.turns[0].created_at);
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(database));
+}
+
 export async function listConversations(world: string): Promise<ConversationSummary[]> {
   if (isDesktopRuntime()) {
     const rows = await invoke<{ id: string; updated_at: string; time_slice: string }[]>('conversation_list', { world });

@@ -1,0 +1,45 @@
+name: Windows installer
+
+on:
+  push:
+    tags:
+      - 'danmutalk-v*'
+
+permissions:
+  contents: write
+
+jobs:
+  windows-installer:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - name: Install frontend dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build installer and publish release
+        uses: tauri-apps/tauri-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          projectPath: src-tauri
+          tagName: ${{ github.ref_name }}
+          releaseName: DanmuTalk ${{ github.ref_name }}
+          releaseBody: |
+            Download the Windows setup file and open it to install DanmuTalk.
+            The installer creates Start menu and optional desktop shortcuts.
+          releaseDraft: true
+          prerelease: false
+          args: --bundles nsis
+          releaseAssetNamePattern: DanmuTalk-[version]-Windows-Setup.[ext]

@@ -1,6 +1,19 @@
 import { describe, expect, it, vi } from 'vitest';
-import { OpenAICompatibleProvider } from './index';
+import { OpenAICompatibleProvider, preferredOrFirstModel } from './index';
+describe('endpoint model choice',()=>{it('keeps a listed model and replaces one missing from the endpoint',()=>{const models=[{id:'gpt-6-luna',name:'gpt-6-luna'},{id:'gpt-6-sol',name:'gpt-6-sol'}];expect(preferredOrFirstModel('gpt-6-sol',models)?.id).toBe('gpt-6-sol');expect(preferredOrFirstModel('demo-local-model',models)?.id).toBe('gpt-6-luna');expect(preferredOrFirstModel('',[]) ).toBeUndefined();});});
 describe('openai compatible provider',()=>{it('preserves SSE frames split across chunks',async()=>{const encoder=new TextEncoder(); const chunks=['data: {"choices":[{"delta":{"content":"hel','lo"}}]}\n','data: [DONE]\n']; const body=new ReadableStream({start(c){c.enqueue(encoder.encode(chunks[0]));c.enqueue(encoder.encode(chunks[1]));c.close();}}); vi.stubGlobal('fetch',vi.fn(async()=>new Response(body,{status:200}))); const events=[]; for await (const e of new OpenAICompatibleProvider('http://localhost').createStream({model:'m',system:'s',messages:[]})) events.push(e); expect(events).toContainEqual({type:'text',text:'hello'}); expect(events.at(-1)).toEqual({type:'done'}); vi.unstubAllGlobals();});});
+
+describe('model context metadata', () => {
+  it('returns provider context window metadata when available', async () => {
+    vi.stubGlobal('fetch', vi.fn(async () => Response.json({ data: [
+      { id: 'large-model', name: 'Large', context_length: 262144 },
+      { id: 'plain-model' },
+    ] })));
+    const models = await new OpenAICompatibleProvider('http://localhost/v1').listModels();
+    expect(models).toEqual([{ id: 'large-model', name: 'Large', contextWindow: 262144 }, { id: 'plain-model', name: 'plain-model' }]);
+    vi.unstubAllGlobals();
+  });
+});
 
 describe('sampling options', () => {
   it('sends temperature and repetition penalties to the endpoint', async () => {

@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import type { Character, ChatMessage } from '@world-player/schema';
-import { chooseSpeaker, inferMessageStyle, nextRoundPlan, parseNextDirective, planSpeakers, providerMessages, samplingFor, visibleText, runConversationTurn, runConversationCycle } from './dialogue';
+import { chooseSpeaker, estimatePromptTokens, inferMessageStyle, nextRoundPlan, parseNextDirective, planSpeakers, providerMessages, samplingFor, visibleText, runConversationTurn, runConversationCycle } from './dialogue';
 import type { ProviderMessage, SamplingOptions } from './dialogue';
 import type { WorldData } from './core';
 
@@ -28,6 +28,26 @@ const turn = (id: string, speaker: Character, text: string): ChatMessage => ({
   id, speaker: { type: 'character', id: speaker.id }, content: [{ type: 'text', text }], timestamp: '2026-01-01T00:00:00.000Z',
 });
 const playerTurn: ChatMessage = { id: 'u1', speaker: { type: 'player', id: '방문자' }, content: [{ type: 'text', text: '다들 안녕' }], timestamp: '2026-01-01T00:00:00.000Z' };
+
+describe('prompt context estimation', () => {
+  it('counts system text, messages, and multimodal image cost conservatively', () => {
+    const textOnly = estimatePromptTokens('system prompt', [{ role: 'user', content: 'Hello world' }]);
+    const withImage = estimatePromptTokens('system prompt', [{ role: 'user', content: [
+      { type: 'text', text: 'Hello world' },
+      { type: 'image_url', image_url: { url: 'data:image/png;base64,AA', detail: 'auto' } },
+    ] as unknown as ProviderMessage['content'] }]);
+    expect(textOnly).toBeGreaterThan(0);
+    expect(withImage).toBeGreaterThan(textOnly);
+  });
+
+  it('scales image allowance with encoded image size', () => {
+    const estimateImage = (size: number) => estimatePromptTokens('', [{ role: 'user', content: [
+      { type: 'image_url', image_url: { url: `data:image/png;base64,${'a'.repeat(size)}`, detail: 'auto' } },
+    ] as unknown as ProviderMessage['content'] }]);
+    expect(estimateImage(349_900)).toBeLessThan(estimateImage(350_000));
+    expect(estimateImage(1_399_900)).toBeLessThan(estimateImage(1_400_000));
+  });
+});
 
 describe('대화 기록의 화자 표시', () => {
   it('플레이어 이미지 첨부를 OpenAI-compatible image_url parts로 전달한다', () => {
